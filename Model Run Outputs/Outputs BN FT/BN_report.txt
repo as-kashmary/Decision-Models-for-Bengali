@@ -1,0 +1,176 @@
+RUN: finetuned | DATASET: BN | file: /kaggle/input/datasets/anowersha/jev-version1/test_bn_2000.csv
+rows after filtering: 2000 (train-overlap removed: 0) | evaluated: 2000
+inference time: 24.3 min (0.73 s/utt) | label list: all 60 labels per query
+
+=== OVERALL ===
+Accuracy (= micro-F1)     : 0.7725  (95% Wilson CI 0.7536-0.7903; bootstrap 0.7527-0.7915)
+Top-3 / Top-5 accuracy    : 0.9075 / 0.9365
+Macro    P / R / F1       : 0.6858 / 0.7709 / 0.7041  (F1 bootstrap CI 0.6666-0.7252)
+Weighted P / R / F1       : 0.7910 / 0.7725 / 0.7749
+Cohen's kappa / MCC       : 0.7645 / 0.7649
+Domain-level accuracy     : 0.8325
+Invalid (non-label) preds : 0
+
+=== ERROR ANALYSIS ===
+Total errors: 455 | same-domain: 120 | cross-domain: 335
+Calibration: ECE=0.0252 | mean confidence correct=0.858, wrong=0.557
+
+Top confused pairs (gold -> pred : count):
+  general_quirky -> qa_factoid : 21
+  play_music -> play_audiobook : 10
+  datetime_query -> datetime_convert : 9
+  weather_query -> general_quirky : 8
+  calendar_query -> datetime_query : 7
+  general_quirky -> transport_query : 6
+  news_query -> general_quirky : 6
+  play_music -> music_likeness : 6
+  calendar_query -> recommendation_events : 6
+  general_quirky -> cooking_recipe : 6
+  play_music -> general_quirky : 5
+  calendar_query -> calendar_set : 5
+  qa_factoid -> email_querycontact : 4
+  play_radio -> play_music : 4
+  iot_coffee -> general_quirky : 4
+
+Accuracy per domain (worst first):
+                  mean  count
+dom                          
+general         0.3651    126
+takeaway        0.6842     38
+audio           0.7000     30
+music           0.7273     44
+datetime        0.7344     64
+play            0.7490    259
+iot             0.7528     89
+qa              0.7639    216
+news            0.7732     97
+recommendation  0.7794     68
+calendar        0.8042    332
+cooking         0.8250     40
+weather         0.8273    110
+social          0.8493     73
+lists           0.8539     89
+email           0.8636    176
+transport       0.9111     90
+alarm           0.9492     59
+
+10 weakest labels by F1:
+             label  precision  recall     f1  support
+audio_volume_other     0.0000   0.000 0.0000        1
+   iot_hue_lighton     0.0000   0.000 0.0000        1
+ music_dislikeness     0.0000   0.000 0.0000        1
+     general_greet     0.2000   1.000 0.3333        1
+    general_quirky     0.4651   0.339 0.3922      118
+       iot_wemo_on     0.2500   1.000 0.4000        2
+    music_settings     0.2500   1.000 0.4000        2
+ audio_volume_down     0.3333   0.500 0.4000        2
+email_querycontact     0.4500   0.500 0.4737       18
+  datetime_convert     0.3333   1.000 0.5000        5
+
+10 strongest labels by F1:
+            label  precision  recall     f1  support
+ email_addcontact     0.8000  1.0000 0.8889        4
+     lists_remove     0.9259  0.8621 0.8929       29
+  email_sendemail     0.9014  0.8889 0.8951       72
+     alarm_remove     0.8182  1.0000 0.9000        9
+     iot_cleaning     0.9091  0.9091 0.9091       11
+      email_query     0.9494  0.9146 0.9317       82
+transport_traffic     0.9333  0.9333 0.9333       15
+        alarm_set     0.8857  1.0000 0.9394       31
+      qa_currency     0.9231  0.9600 0.9412       25
+  calendar_remove     0.9623  0.9273 0.9444       55
+
+Sample errors (first 25):
+                                                                     utt             intent              pred  conf
+                                                              নতুন আপডেট       social_query        news_query 0.521
+                                       আমার ভাইয়ের জন্মদিনের কাউন্টডাউন     calendar_query          qa_maths 0.349
+                                           আমার গার্ল ফ্রেন্ড এখন কোথায়     general_quirky      social_query 0.500
+                                     দুইটা চল্লিশ p. m. থেকে আজ কি হচ্ছে     calendar_query    datetime_query 0.412
+                                                আমাকে বাংলাদেশ সময় বলুন     datetime_query  datetime_convert 0.541
+                                                              জমে যাওয়া     cooking_recipe    general_quirky 0.162
+                                        প্রথম আলোর চলমান চুইট গুলি কি কি       social_query        news_query 0.894
+                                         আমি খুব কমই আপনাকে শুনতে পাচ্ছি    audio_volume_up audio_volume_mute 0.350
+                                                       নিযুক্ত হওয়ার দিন       calendar_set    datetime_query 0.702
+এখান থেকে পঞ্চাশ মাইলের মধ্যে প্রবেশ করার জন্য সবচেয়ে সস্তা ম্যারাথন কি     general_quirky   transport_query 0.516
+              এই গানটি শেষ হওয়ার পরে আমি পরবর্তী উদ্দেশ্য নেই শুনতে চাই         play_music music_dislikeness 0.312
+                                         মিজানকে হোয়াটসঅ্যাপে হাই পাঠান email_querycontact   email_sendemail 0.743
+                                          আমাকে ক্রয় আদেশ বিস্তারিত দিন        lists_query    takeaway_query 0.449
+                                                          আমি ডিম চাই না       lists_remove    general_quirky 0.451
+                                     অর্থহীনের অদ্ভুত সেই ছেলেটি চালু কর         play_music    general_quirky 0.375
+                                          বিনিয়োগ বা সংরক্ষণ কোনটি ভালো         qa_factoid          qa_stock 0.413
+                                                   শীর্ষ হেডলাইনগুলি দিন         news_query    general_quirky 0.128
+                                                     আমি গানের বিষয় চাই        music_query        play_music 0.320
+                                  আর্টসেলের অলস অনুভুতির দেয়াল শুনতে চাই         play_music    play_audiobook 0.435
+                                আমার উপলব্ধ স্মৃতিতে আমাকে স্ট্যাটাস দিন     general_quirky       social_post 0.739
+                                                    প্লেলিস্টটি শোনা যাক         play_music    play_audiobook 0.466
+    আমি একাত্তরের দিনগুলি যেখানে বন্ধ করেছিলাম সেখান থেকে চালানো শুরু কর     play_audiobook    transport_taxi 0.516
+                                            সব বাকি থাকা অনুস্মারক দেখান     calendar_query       lists_query 0.451
+                         নুডলস্ গুলি এক প্যাক এটি নেওয়া হিসাবে তৈরি করুন     takeaway_order    cooking_recipe 0.492
+                                অনুগ্রহ করে আমাকে বলুন আমি কি তৈরি করেছি        lists_query    general_quirky 0.232
+
+=== FULL PER-CLASS REPORT ===
+                          precision    recall  f1-score   support
+
+             alarm_query     0.9412    0.8421    0.8889        19
+            alarm_remove     0.8182    1.0000    0.9000         9
+               alarm_set     0.8857    1.0000    0.9394        31
+       audio_volume_down     0.3333    0.5000    0.4000         2
+       audio_volume_mute     0.7857    0.7333    0.7586        15
+      audio_volume_other     0.0000    0.0000    0.0000         1
+         audio_volume_up     0.7500    0.7500    0.7500        12
+          calendar_query     0.8750    0.6875    0.7700       112
+         calendar_remove     0.9623    0.9273    0.9444        55
+            calendar_set     0.9267    0.8424    0.8825       165
+          cooking_recipe     0.6735    0.8250    0.7416        40
+        datetime_convert     0.3333    1.0000    0.5000         5
+          datetime_query     0.6885    0.7119    0.7000        59
+        email_addcontact     0.8000    1.0000    0.8889         4
+             email_query     0.9494    0.9146    0.9317        82
+      email_querycontact     0.4500    0.5000    0.4737        18
+         email_sendemail     0.9014    0.8889    0.8951        72
+           general_greet     0.2000    1.0000    0.3333         1
+            general_joke     1.0000    0.7143    0.8333         7
+          general_quirky     0.4651    0.3390    0.3922       118
+            iot_cleaning     0.9091    0.9091    0.9091        11
+              iot_coffee     0.8667    0.7222    0.7879        18
+     iot_hue_lightchange     1.0000    0.6842    0.8125        19
+        iot_hue_lightdim     0.8000    0.4444    0.5714         9
+        iot_hue_lightoff     0.7222    0.7647    0.7429        17
+         iot_hue_lighton     0.0000    0.0000    0.0000         1
+         iot_hue_lightup     0.6000    1.0000    0.7500         9
+            iot_wemo_off     0.7500    1.0000    0.8571         3
+             iot_wemo_on     0.2500    1.0000    0.4000         2
+       lists_createoradd     0.7742    0.9231    0.8421        26
+             lists_query     0.6585    0.7941    0.7200        34
+            lists_remove     0.9259    0.8621    0.8929        29
+       music_dislikeness     0.0000    0.0000    0.0000         1
+          music_likeness     0.5909    0.7647    0.6667        17
+             music_query     0.7727    0.7083    0.7391        24
+          music_settings     0.2500    1.0000    0.4000         2
+              news_query     0.8065    0.7732    0.7895        97
+          play_audiobook     0.4872    0.7308    0.5846        26
+               play_game     0.6957    0.8889    0.7805        18
+              play_music     0.9109    0.7077    0.7965       130
+           play_podcasts     0.9643    0.7714    0.8571        35
+              play_radio     0.8696    0.8000    0.8333        50
+             qa_currency     0.9231    0.9600    0.9412        25
+           qa_definition     0.8113    0.8600    0.8350        50
+              qa_factoid     0.6545    0.6729    0.6636       107
+                qa_maths     0.4444    0.8000    0.5714        10
+                qa_stock     0.8182    0.7500    0.7826        24
+   recommendation_events     0.6486    0.7742    0.7059        31
+recommendation_locations     0.6364    0.7241    0.6774        29
+   recommendation_movies     0.5000    1.0000    0.6667         8
+             social_post     0.8772    0.8772    0.8772        57
+            social_query     0.5217    0.7500    0.6154        16
+          takeaway_order     0.7000    0.7368    0.7179        19
+          takeaway_query     0.5714    0.6316    0.6000        19
+         transport_query     0.7292    0.8750    0.7955        40
+          transport_taxi     0.7368    0.9333    0.8235        15
+        transport_ticket     0.7308    0.9500    0.8261        20
+       transport_traffic     0.9333    0.9333    0.9333        15
+           weather_query     0.8835    0.8273    0.8545       110
+
+                accuracy                         0.7725      2000
+               macro avg     0.6858    0.7709    0.7041      2000
+            weighted avg     0.7910    0.7725    0.7749      2000

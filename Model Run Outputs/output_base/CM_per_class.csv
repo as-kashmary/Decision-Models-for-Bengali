@@ -1,0 +1,14 @@
+label,precision,recall,f1,support
+alarm_set,0.0,0.0,0.0,117
+calendar_set,0.0,0.0,0.0,83
+datetime_convert,0.0,0.0,0.0,70
+datetime_query,0.0,0.0,0.0,130
+email_querycontact,0.0,0.0,0.0,200
+email_sendemail,0.0,0.0,0.0,200
+news_query,0.0,0.0,0.0,200
+qa_currency,0.0,0.0,0.0,13
+weather_query,0.0,0.0,0.0,200
+qa_definition,0.0,0.0,0.0,279
+qa_factoid,0.0,0.0,0.0,121
+qa_maths,0.0,0.0,0.0,187
+play_music,0.13135313531353135,0.995,0.23206997084548106,200

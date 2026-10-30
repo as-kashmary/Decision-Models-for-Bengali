@@ -1,0 +1,120 @@
+RUN: finetuned | DATASET: CM | file: /kaggle/input/datasets/anowersha/jev-version1/test_set_codemixed_massive60_fixed.csv
+rows after filtering: 2000 (train-overlap removed: 0) | evaluated: 2000
+inference time: 24.5 min (0.74 s/utt) | label list: all 60 labels per query
+
+=== OVERALL ===
+Accuracy (= micro-F1)     : 0.6945  (95% Wilson CI 0.6740-0.7143; bootstrap 0.6760-0.7163)
+Top-3 / Top-5 accuracy    : 0.8730 / 0.9310
+Macro    P / R / F1       : 0.7805 / 0.6812 / 0.7031  (F1 bootstrap CI 0.6778-0.7257)
+Weighted P / R / F1       : 0.8664 / 0.6945 / 0.7587
+Cohen's kappa / MCC       : 0.6705 / 0.6745
+Domain-level accuracy     : 0.7765
+Invalid (non-label) preds : 0
+
+=== ERROR ANALYSIS ===
+Total errors: 611 | same-domain: 164 | cross-domain: 447
+Calibration: ECE=0.0421 | mean confidence correct=0.757, wrong=0.450
+
+Top confused pairs (gold -> pred : count):
+  datetime_query -> datetime_convert : 38
+  email_sendemail -> email_query : 32
+  play_music -> music_settings : 27
+  qa_factoid -> general_quirky : 27
+  qa_definition -> general_quirky : 26
+  qa_definition -> general_greet : 24
+  email_sendemail -> email_addcontact : 21
+  play_music -> music_query : 19
+  calendar_set -> alarm_set : 19
+  email_sendemail -> email_querycontact : 18
+  datetime_convert -> qa_factoid : 17
+  calendar_set -> transport_ticket : 17
+  play_music -> play_audiobook : 14
+  qa_definition -> transport_query : 11
+  play_music -> music_likeness : 11
+
+Accuracy per domain (worst first):
+            mean  count
+dom                    
+calendar  0.1928     83
+play      0.5500    200
+datetime  0.5600    200
+qa        0.6900    600
+alarm     0.7778    117
+weather   0.7950    200
+email     0.8075    400
+news      0.8200    200
+
+10 weakest labels by F1:
+           label  precision  recall     f1  support
+    calendar_set     0.4324  0.1928 0.2667       83
+      qa_factoid     0.4750  0.3140 0.3781      121
+datetime_convert     0.5055  0.6571 0.5714       70
+     qa_currency     0.4333  1.0000 0.6047       13
+  datetime_query     0.7765  0.5077 0.6140      130
+      play_music     0.9821  0.5500 0.7051      200
+   qa_definition     0.9421  0.6416 0.7633      279
+ email_sendemail     1.0000  0.6200 0.7654      200
+       alarm_set     0.8273  0.7778 0.8018      117
+   weather_query     0.9353  0.7950 0.8595      200
+
+10 strongest labels by F1:
+             label  precision  recall     f1  support
+       qa_currency     0.4333  1.0000 0.6047       13
+    datetime_query     0.7765  0.5077 0.6140      130
+        play_music     0.9821  0.5500 0.7051      200
+     qa_definition     0.9421  0.6416 0.7633      279
+   email_sendemail     1.0000  0.6200 0.7654      200
+         alarm_set     0.8273  0.7778 0.8018      117
+     weather_query     0.9353  0.7950 0.8595      200
+        news_query     0.9480  0.8200 0.8794      200
+email_querycontact     0.8884  0.9950 0.9387      200
+          qa_maths     1.0000  0.9840 0.9919      187
+
+Sample errors (first 25):
+                                                   utt           intent               pred  conf
+                             VR headset এর অসুবিধা কী?       qa_factoid  audio_volume_mute 0.219
+      বাংলাদেশতে দুপুর ১২টা বাজলে Athens এ কয়টা বাজে? datetime_convert         qa_factoid 0.198
+           please পড়ার সময় শোনার মতো গান বাজিয়ে দাও       play_music     music_settings 0.399
+                  Bayern Munich এর last match এর ফলাফল       news_query         qa_factoid 0.301
+                      সকালে শোনার মতো গান বাজাও please       play_music     music_settings 0.329
+                                 এখন বাইরে যাওয়া safe    weather_query  transport_traffic 0.298
+   "How far is the station" এই বাক্যটা বলতে কী বোঝায়?    qa_definition    transport_query 0.659
+                             পোল্যান্ড এর currency কী?       qa_factoid        qa_currency 0.957
+                              প্লিজ Nusrat কে মেইল করো  email_sendemail email_querycontact 0.621
+             please Nancy এর ভক্তিমূলক গান বাজাও প্লিজ       play_music     music_likeness 0.398
+                   police কে লোকেশন email এ লিখে পাঠাও  email_sendemail email_querycontact 0.488
+                        একটু Retro Mix প্লেলিস্ট চালাও       play_music     music_settings 0.531
+please "আমার একটা ঘর দরকার" এই বাক্যটা বলতে কী বোঝায়?    qa_definition     general_quirky 0.375
+                             Adnan Sami এর music বাজাও       play_music        music_query 0.323
+           hall এর গ্রুপে লোকেশন পাঠালাম বলে email করো  email_sendemail   email_addcontact 0.464
+                      একটু monsoon সম্পর্কে ইতিহাস বলো       qa_factoid         news_query 0.660
+         please "Please take me to the hotel" মানে কী?    qa_definition     transport_taxi 0.569
+                         Makkah এ এখন কয়টা বাজে জানাও   datetime_query         qa_factoid 0.617
+                           "এটা অনেক দামি" meaning কী?    qa_definition     general_quirky 0.268
+                            রোমান্টিক গান বাজাও please       play_music     music_likeness 0.374
+                             Perfect গানটা চালাও প্লিজ       play_music     music_settings 0.313
+                     একটু "Could you help me" মানে কী?    qa_definition     general_quirky 0.491
+                 একটু রাজশাহী এর football সারাংশ দেখাও       news_query         qa_factoid 0.342
+                                 ১২ min এর timer লাগাও        alarm_set   datetime_convert 0.123
+                           একটু freelancing কি নিরাপদ?       qa_factoid     general_quirky 0.438
+
+=== FULL PER-CLASS REPORT ===
+                    precision    recall  f1-score   support
+
+         alarm_set     0.8273    0.7778    0.8018       117
+      calendar_set     0.4324    0.1928    0.2667        83
+  datetime_convert     0.5055    0.6571    0.5714        70
+    datetime_query     0.7765    0.5077    0.6140       130
+email_querycontact     0.8884    0.9950    0.9387       200
+   email_sendemail     1.0000    0.6200    0.7654       200
+        news_query     0.9480    0.8200    0.8794       200
+        play_music     0.9821    0.5500    0.7051       200
+       qa_currency     0.4333    1.0000    0.6047        13
+     qa_definition     0.9421    0.6416    0.7633       279
+        qa_factoid     0.4750    0.3140    0.3781       121
+          qa_maths     1.0000    0.9840    0.9919       187
+     weather_query     0.9353    0.7950    0.8595       200
+
+         micro avg     0.8627    0.6945    0.7695      2000
+         macro avg     0.7805    0.6812    0.7031      2000
+      weighted avg     0.8664    0.6945    0.7587      2000

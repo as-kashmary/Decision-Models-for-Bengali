@@ -1,0 +1,13 @@
+form,coverage,accuracy
+English,0.5,0.986
+English,0.8,0.93625
+English,1.0,0.8525
+Bengali,0.5,0.971
+Bengali,0.8,0.886875
+Bengali,1.0,0.7925
+Romanized,0.5,0.927
+Romanized,0.8,0.7823639774859287
+Romanized,1.0,0.6688344172086043
+Code-mixed (13),0.5,1.0
+Code-mixed (13),0.8,0.99375
+Code-mixed (13),1.0,0.966

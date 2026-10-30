@@ -1,0 +1,120 @@
+RUN: finetuned | DATASET: CM | file: /kaggle/input/datasets/anowersha/jev-version1/test_set_codemixed_massive60_fixed.csv
+rows after filtering: 2000 (train-overlap removed: 0) | evaluated: 2000
+inference time: 24.0 min (0.72 s/utt) | label list: all 60 labels per query
+
+=== OVERALL ===
+Accuracy (= micro-F1)     : 0.8090  (95% Wilson CI 0.7912-0.8256; bootstrap 0.7932-0.8275)
+Top-3 / Top-5 accuracy    : 0.9440 / 0.9745
+Macro    P / R / F1       : 0.8617 / 0.7858 / 0.8037  (F1 bootstrap CI 0.7790-0.8274)
+Weighted P / R / F1       : 0.9207 / 0.8090 / 0.8489
+Cohen's kappa / MCC       : 0.7922 / 0.7946
+Domain-level accuracy     : 0.8650
+Invalid (non-label) preds : 0
+
+=== ERROR ANALYSIS ===
+Total errors: 382 | same-domain: 112 | cross-domain: 270
+Calibration: ECE=0.0463 | mean confidence correct=0.903, wrong=0.653
+
+Top confused pairs (gold -> pred : count):
+  datetime_query -> datetime_convert : 38
+  calendar_set -> alarm_set : 33
+  qa_factoid -> general_quirky : 29
+  qa_definition -> general_quirky : 29
+  email_sendemail -> email_querycontact : 22
+  datetime_query -> qa_factoid : 21
+  play_music -> music_dislikeness : 18
+  qa_definition -> qa_factoid : 13
+  play_music -> play_audiobook : 12
+  email_sendemail -> email_query : 11
+  news_query -> recommendation_events : 10
+  calendar_set -> transport_ticket : 10
+  news_query -> qa_factoid : 7
+  news_query -> qa_stock : 6
+  weather_query -> takeaway_query : 5
+
+Accuracy per domain (worst first):
+            mean  count
+dom                    
+calendar  0.4578     83
+datetime  0.6400    200
+qa        0.8000    600
+play      0.8000    200
+news      0.8250    200
+email     0.8900    400
+weather   0.9100    200
+alarm     0.9316    117
+
+10 weakest labels by F1:
+           label  precision  recall     f1  support
+     qa_currency     0.5294  0.6923 0.6000       13
+    calendar_set     0.8837  0.4578 0.6032       83
+  datetime_query     0.9355  0.4462 0.6042      130
+      qa_factoid     0.6230  0.6281 0.6255      121
+datetime_convert     0.6481  1.0000 0.7865       70
+       alarm_set     0.7676  0.9316 0.8417      117
+   qa_definition     0.9952  0.7491 0.8548      279
+ email_sendemail     1.0000  0.8000 0.8889      200
+      play_music     1.0000  0.8000 0.8889      200
+      news_query     0.9940  0.8250 0.9016      200
+
+10 strongest labels by F1:
+             label  precision  recall     f1  support
+        qa_factoid     0.6230  0.6281 0.6255      121
+  datetime_convert     0.6481  1.0000 0.7865       70
+         alarm_set     0.7676  0.9316 0.8417      117
+     qa_definition     0.9952  0.7491 0.8548      279
+   email_sendemail     1.0000  0.8000 0.8889      200
+        play_music     1.0000  0.8000 0.8889      200
+        news_query     0.9940  0.8250 0.9016      200
+     weather_query     0.9529  0.9100 0.9309      200
+email_querycontact     0.8991  0.9800 0.9378      200
+          qa_maths     0.9738  0.9947 0.9841      187
+
+Sample errors (first 25):
+                                                           utt             intent               pred  conf
+                                     VR headset এর অসুবিধা কী?         qa_factoid     general_quirky 0.915
+                          Bayern Munich এর last match এর ফলাফল         news_query           qa_stock 0.573
+                         James এর Ami Banglay Gan Gai play দাও         play_music     play_audiobook 0.633
+                                     পোল্যান্ড এর currency কী?         qa_factoid        qa_currency 0.989
+                                      প্লিজ Nusrat কে মেইল করো    email_sendemail email_querycontact 0.970
+                       Nancy এর Chaiyya Chaiyya play দাও প্লিজ         play_music     play_audiobook 0.434
+                           police কে লোকেশন email এ লিখে পাঠাও    email_sendemail email_querycontact 0.587
+                                          Lamia এর নাম্বার কী? email_querycontact         qa_factoid 0.834
+                 please "Please take me to the hotel" মানে কী?      qa_definition     transport_taxi 0.582
+                                 Makkah এ এখন কয়টা বাজে জানাও     datetime_query         qa_factoid 0.988
+                   Google Maps আর ChatGPT এর মধ্যে পার্থক্য কী      qa_definition         qa_factoid 0.562
+                                   "এটা অনেক দামি" meaning কী?      qa_definition           qa_stock 0.349
+                             ভারতীয় দল এর last match এর ফলাফল         news_query         qa_factoid 0.482
+                                   একটু freelancing কি নিরাপদ?         qa_factoid     general_quirky 0.912
+                   আমাকে 90 minute পরে দুধ গরম এর কথা মনে করাও       calendar_set          alarm_set 0.508
+                                     Lose Yourself গানটি ছাড়ো         play_music  music_dislikeness 0.953
+             please Imran কে টাকা পাঠিয়েছি email এ লিখে জানাও    email_sendemail        email_query 0.784
+                                  Dinajpur এ আজ ফসল কাটা যাবে?      weather_query     takeaway_query 0.540
+                  প্লিজ ঘুমানোর আগে শোনার মতো song চালিয়ে দাও         play_music     music_settings 0.409
+                              "আমাকে সাহায্য করুন" meaning কী?      qa_definition     general_quirky 0.315
+                         রাশেদ কে লোকেশন পাঠালাম email করে দাও    email_sendemail email_querycontact 0.814
+                           please মাস্কাট এ এখন কয়টা বাজে বলো     datetime_query           qa_maths 0.588
+প্লিজ "আমাকে একটু সাহায্য করুন" এই sentence টা বলতে কী বোঝায়?      qa_definition     general_quirky 0.607
+                               ৭ মিনিট পর reminder সেট করে দাও       calendar_set          alarm_set 0.496
+     please quantum computing সম্পর্কে দুটো বাক্যে বুঝিয়ে দাও      qa_definition         qa_factoid 0.464
+
+=== FULL PER-CLASS REPORT ===
+                    precision    recall  f1-score   support
+
+         alarm_set     0.7676    0.9316    0.8417       117
+      calendar_set     0.8837    0.4578    0.6032        83
+  datetime_convert     0.6481    1.0000    0.7865        70
+    datetime_query     0.9355    0.4462    0.6042       130
+email_querycontact     0.8991    0.9800    0.9378       200
+   email_sendemail     1.0000    0.8000    0.8889       200
+        news_query     0.9940    0.8250    0.9016       200
+        play_music     1.0000    0.8000    0.8889       200
+       qa_currency     0.5294    0.6923    0.6000        13
+     qa_definition     0.9952    0.7491    0.8548       279
+        qa_factoid     0.6230    0.6281    0.6255       121
+          qa_maths     0.9738    0.9947    0.9841       187
+     weather_query     0.9529    0.9100    0.9309       200
+
+         micro avg     0.9039    0.8090    0.8538      2000
+         macro avg     0.8617    0.7858    0.8037      2000
+      weighted avg     0.9207    0.8090    0.8489      2000

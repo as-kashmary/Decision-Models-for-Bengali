@@ -1,0 +1,176 @@
+RUN: finetuned | DATASET: EN | file: /kaggle/input/datasets/anowersha/jev-version1/test_en_2000.csv
+rows after filtering: 2000 (train-overlap removed: 0) | evaluated: 2000
+inference time: 21.8 min (0.66 s/utt) | label list: all 60 labels per query
+
+=== OVERALL ===
+Accuracy (= micro-F1)     : 0.8525  (95% Wilson CI 0.8363-0.8674; bootstrap 0.8362-0.8670)
+Top-3 / Top-5 accuracy    : 0.9570 / 0.9790
+Macro    P / R / F1       : 0.7709 / 0.8591 / 0.7963  (F1 bootstrap CI 0.7516-0.8115)
+Weighted P / R / F1       : 0.8634 / 0.8525 / 0.8510
+Cohen's kappa / MCC       : 0.8472 / 0.8477
+Domain-level accuracy     : 0.8940
+Invalid (non-label) preds : 0
+
+=== ERROR ANALYSIS ===
+Total errors: 295 | same-domain: 83 | cross-domain: 212
+Calibration: ECE=0.0602 | mean confidence correct=0.949, wrong=0.705
+
+Top confused pairs (gold -> pred : count):
+  general_quirky -> qa_factoid : 16
+  calendar_query -> recommendation_events : 9
+  calendar_set -> calendar_query : 8
+  play_radio -> play_music : 5
+  qa_factoid -> email_querycontact : 5
+  general_quirky -> general_greet : 5
+  play_music -> music_query : 5
+  play_music -> music_likeness : 5
+  qa_factoid -> qa_definition : 5
+  general_quirky -> recommendation_events : 4
+  general_quirky -> lists_query : 4
+  play_music -> play_audiobook : 4
+  transport_query -> transport_ticket : 4
+  calendar_query -> general_quirky : 4
+  general_quirky -> qa_definition : 4
+
+Accuracy per domain (worst first):
+                  mean  count
+dom                          
+general         0.4365    126
+audio           0.7667     30
+music           0.7955     44
+qa              0.8194    216
+play            0.8224    259
+takeaway        0.8421     38
+calendar        0.8705    332
+recommendation  0.8824     68
+iot             0.8876     89
+lists           0.8989     89
+cooking         0.9000     40
+transport       0.9000     90
+social          0.9041     73
+news            0.9072     97
+email           0.9261    176
+datetime        0.9375     64
+alarm           0.9831     59
+weather         1.0000    110
+
+10 weakest labels by F1:
+                label  precision  recall     f1  support
+   audio_volume_other     0.0000  0.0000 0.0000        1
+    music_dislikeness     0.0000  0.0000 0.0000        1
+        general_greet     0.1667  1.0000 0.2857        1
+    audio_volume_down     0.2500  0.5000 0.3333        2
+       music_settings     0.2857  1.0000 0.4444        2
+          iot_wemo_on     0.3333  1.0000 0.5000        2
+       general_quirky     0.7705  0.3983 0.5251      118
+   email_querycontact     0.5652  0.7222 0.6341       18
+          music_query     0.6429  0.7500 0.6923       24
+recommendation_movies     0.5333  1.0000 0.6957        8
+
+10 strongest labels by F1:
+           label  precision  recall     f1  support
+  transport_taxi     0.8824  1.0000 0.9375       15
+     qa_currency     0.9231  0.9600 0.9412       25
+ email_sendemail     0.9444  0.9444 0.9444       72
+ calendar_remove     0.9630  0.9455 0.9541       55
+     email_query     0.9750  0.9512 0.9630       82
+iot_hue_lightoff     1.0000  0.9412 0.9697       17
+     alarm_query     1.0000  0.9474 0.9730       19
+   weather_query     0.9649  1.0000 0.9821      110
+email_addcontact     1.0000  1.0000 1.0000        4
+ iot_hue_lighton     1.0000  1.0000 1.0000        1
+
+Sample errors (first 25):
+                                                             utt             intent                  pred  conf
+                                                     new updates       social_query            news_query 0.888
+                                               start play spider          play_game            play_music 0.341
+                        countdown for the birthday of my brother     calendar_query          calendar_set 0.678
+                               where is my girl friend right now     general_quirky    email_querycontact 0.488
+                      what is going on today from two four p. m.     calendar_query recommendation_events 0.444
+                                                        freezing     cooking_recipe         weather_query 0.938
+              what are the latest tweets from the new york times       social_query            news_query 0.886
+                                           i can barely hear you    audio_volume_up     audio_volume_down 0.691
+                                                 date of joining       calendar_set    email_querycontact 0.763
+what's the cheapest marathon to enter within fifty miles of here     general_quirky recommendation_events 0.764
+                                     send hi in watsapp to vikki email_querycontact           social_post 0.535
+                           give me the details on purchase order        lists_query        takeaway_query 0.538
+                                   put on be warned by tech nine         play_music             alarm_set 0.891
+                                  is it better to invest or save         qa_factoid        general_quirky 0.817
+                                          i want topics on music        music_query            play_music 0.733
+                         turn on the oldies playlist on my radio         play_radio            play_music 0.626
+                start playing american gods where i last stopped     play_audiobook            play_music 0.532
+                                       what to do next on events     calendar_query recommendation_events 0.884
+                      show me events that are going on right now     calendar_query recommendation_events 0.714
+                             recent advice concerning google seo     general_quirky            news_query 0.629
+                       play my country favorites playlist for me      play_podcasts            play_music 0.996
+                                  put on the god of small things     play_audiobook        general_quirky 0.362
+                                 please play some songs for kids         play_radio            play_music 0.994
+                        is there a groomer in town for cats only     general_quirky recommendation_events 0.295
+                                      keanu reeves date of birth         qa_factoid    email_querycontact 0.551
+
+=== FULL PER-CLASS REPORT ===
+                          precision    recall  f1-score   support
+
+             alarm_query     1.0000    0.9474    0.9730        19
+            alarm_remove     0.8182    1.0000    0.9000         9
+               alarm_set     0.8378    1.0000    0.9118        31
+       audio_volume_down     0.2500    0.5000    0.3333         2
+       audio_volume_mute     0.8125    0.8667    0.8387        15
+      audio_volume_other     0.0000    0.0000    0.0000         1
+         audio_volume_up     0.7500    0.7500    0.7500        12
+          calendar_query     0.8713    0.7857    0.8263       112
+         calendar_remove     0.9630    0.9455    0.9541        55
+            calendar_set     0.9490    0.9030    0.9255       165
+          cooking_recipe     0.8182    0.9000    0.8571        40
+        datetime_convert     0.7143    1.0000    0.8333         5
+          datetime_query     0.8594    0.9322    0.8943        59
+        email_addcontact     1.0000    1.0000    1.0000         4
+             email_query     0.9750    0.9512    0.9630        82
+      email_querycontact     0.5652    0.7222    0.6341        18
+         email_sendemail     0.9444    0.9444    0.9444        72
+           general_greet     0.1667    1.0000    0.2857         1
+            general_joke     0.5833    1.0000    0.7368         7
+          general_quirky     0.7705    0.3983    0.5251       118
+            iot_cleaning     0.9091    0.9091    0.9091        11
+              iot_coffee     0.9333    0.7778    0.8485        18
+     iot_hue_lightchange     1.0000    0.7895    0.8824        19
+        iot_hue_lightdim     0.8182    1.0000    0.9000         9
+        iot_hue_lightoff     1.0000    0.9412    0.9697        17
+         iot_hue_lighton     1.0000    1.0000    1.0000         1
+         iot_hue_lightup     0.8182    1.0000    0.9000         9
+            iot_wemo_off     0.7500    1.0000    0.8571         3
+             iot_wemo_on     0.3333    1.0000    0.5000         2
+       lists_createoradd     0.8000    0.9231    0.8571        26
+             lists_query     0.7838    0.8529    0.8169        34
+            lists_remove     0.9310    0.9310    0.9310        29
+       music_dislikeness     0.0000    0.0000    0.0000         1
+          music_likeness     0.7143    0.8824    0.7895        17
+             music_query     0.6429    0.7500    0.6923        24
+          music_settings     0.2857    1.0000    0.4444         2
+              news_query     0.8889    0.9072    0.8980        97
+          play_audiobook     0.7143    0.7692    0.7407        26
+               play_game     0.7273    0.8889    0.8000        18
+              play_music     0.8699    0.8231    0.8458       130
+           play_podcasts     0.9688    0.8857    0.9254        35
+              play_radio     1.0000    0.7800    0.8764        50
+             qa_currency     0.9231    0.9600    0.9412        25
+           qa_definition     0.8214    0.9200    0.8679        50
+              qa_factoid     0.7333    0.7196    0.7264       107
+                qa_maths     0.8182    0.9000    0.8571        10
+                qa_stock     0.9130    0.8750    0.8936        24
+   recommendation_events     0.6136    0.8710    0.7200        31
+recommendation_locations     0.8333    0.8621    0.8475        29
+   recommendation_movies     0.5333    1.0000    0.6957         8
+             social_post     0.9455    0.9123    0.9286        57
+            social_query     0.8750    0.8750    0.8750        16
+          takeaway_order     0.7143    0.7895    0.7500        19
+          takeaway_query     0.8095    0.8947    0.8500        19
+         transport_query     0.9412    0.8000    0.8649        40
+          transport_taxi     0.8824    1.0000    0.9375        15
+        transport_ticket     0.7917    0.9500    0.8636        20
+       transport_traffic     0.8333    1.0000    0.9091        15
+           weather_query     0.9649    1.0000    0.9821       110
+
+                accuracy                         0.8525      2000
+               macro avg     0.7709    0.8591    0.7963      2000
+            weighted avg     0.8634    0.8525    0.8510      2000

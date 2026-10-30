@@ -1,0 +1,120 @@
+RUN: base_model | DATASET: CM | file: /kaggle/input/datasets/anowersha/jev-version1/test_set_codemixed_massive60_fixed.csv
+rows after filtering: 2000 (train-overlap removed: 0) | evaluated: 2000
+inference time: 25.6 min (0.77 s/utt) | label list: all 60 labels per query
+
+=== OVERALL ===
+Accuracy (= micro-F1)     : 0.0995  (95% Wilson CI 0.0871-0.1134; bootstrap 0.0870-0.1138)
+Top-3 / Top-5 accuracy    : 0.1000 / 0.1000
+Macro    P / R / F1       : 0.0101 / 0.0765 / 0.0179  (F1 bootstrap CI 0.0158-0.0200)
+Weighted P / R / F1       : 0.0131 / 0.0995 / 0.0232
+Cohen's kappa / MCC       : 0.0257 / 0.0411
+Domain-level accuracy     : 0.0995
+Invalid (non-label) preds : 0
+
+=== ERROR ANALYSIS ===
+Total errors: 1801 | same-domain: 0 | cross-domain: 1801
+Calibration: ECE=0.0808 | mean confidence correct=0.019, wrong=0.019
+
+Top confused pairs (gold -> pred : count):
+  qa_definition -> play_music : 249
+  email_querycontact -> play_music : 188
+  news_query -> play_music : 181
+  qa_maths -> play_music : 173
+  email_sendemail -> play_music : 162
+  weather_query -> iot_wemo_on : 136
+  alarm_set -> iot_wemo_on : 94
+  qa_factoid -> play_music : 79
+  datetime_query -> play_music : 72
+  weather_query -> play_music : 64
+  calendar_set -> play_music : 59
+  datetime_query -> iot_wemo_on : 58
+  datetime_convert -> play_music : 56
+  qa_factoid -> iot_wemo_on : 42
+  email_sendemail -> iot_wemo_on : 38
+
+Accuracy per domain (worst first):
+           mean  count
+dom                   
+alarm     0.000    117
+calendar  0.000     83
+datetime  0.000    200
+email     0.000    400
+news      0.000    200
+qa        0.000    600
+weather   0.000    200
+play      0.995    200
+
+10 weakest labels by F1:
+             label  precision  recall  f1  support
+         alarm_set        0.0     0.0 0.0      117
+      calendar_set        0.0     0.0 0.0       83
+  datetime_convert        0.0     0.0 0.0       70
+    datetime_query        0.0     0.0 0.0      130
+email_querycontact        0.0     0.0 0.0      200
+   email_sendemail        0.0     0.0 0.0      200
+        news_query        0.0     0.0 0.0      200
+       qa_currency        0.0     0.0 0.0       13
+     weather_query        0.0     0.0 0.0      200
+     qa_definition        0.0     0.0 0.0      279
+
+10 strongest labels by F1:
+             label  precision  recall     f1  support
+    datetime_query     0.0000   0.000 0.0000      130
+email_querycontact     0.0000   0.000 0.0000      200
+   email_sendemail     0.0000   0.000 0.0000      200
+        news_query     0.0000   0.000 0.0000      200
+       qa_currency     0.0000   0.000 0.0000       13
+     weather_query     0.0000   0.000 0.0000      200
+     qa_definition     0.0000   0.000 0.0000      279
+        qa_factoid     0.0000   0.000 0.0000      121
+          qa_maths     0.0000   0.000 0.0000      187
+        play_music     0.1314   0.995 0.2321      200
+
+Sample errors (first 25):
+                                                                    utt             intent        pred  conf
+                                                    ৩০ আর ৪০ এর LCM বলো           qa_maths  play_music 0.019
+please Mehedi এর কাছে এই কথাটা মেইল এ লিখে পাঠাও assignment জমা দিয়েছি    email_sendemail  play_music 0.019
+                                               চাচি এর phone number কত? email_querycontact  play_music 0.019
+                                              VR headset এর অসুবিধা কী?         qa_factoid  play_music 0.019
+                           প্লিজ ৫২৪ কে ১৫ দিয়ে divide করলে ভাগশেষ কত?           qa_maths  play_music 0.019
+                       বাংলাদেশতে দুপুর ১২টা বাজলে Athens এ কয়টা বাজে?   datetime_convert  play_music 0.019
+                                   Bayern Munich এর last match এর ফলাফল         news_query  play_music 0.019
+                                      প্লিজ "Excuse me" বলতে কী বোঝায়?      qa_definition  play_music 0.019
+                  প্লিজ Dhaka আর Amsterdam এর মধ্যে time difference কত?   datetime_convert  play_music 0.019
+                         আমার contact list এ প্লাম্বার এর নাম্বারটা কী? email_querycontact  play_music 0.019
+                      প্লিজ Jamuna TV এর last 1 hour এর headlines শোনাও         news_query  play_music 0.019
+                                                    VPN এর পূর্ণরূপ কী?      qa_definition  play_music 0.018
+                            একটু 4151 টাকার bill এ 15% tip দিলে মোট কত?           qa_maths  play_music 0.019
+                                                  এখন বাইরে যাওয়া safe      weather_query iot_wemo_on 0.019
+                    "How far is the station" এই বাক্যটা বলতে কী বোঝায়?      qa_definition iot_wemo_on 0.019
+                                              পোল্যান্ড এর currency কী?         qa_factoid  play_music 0.018
+                                                       ৬০১ minus ৮৬ কত?           qa_maths  play_music 0.019
+                                               প্লিজ Nusrat কে মেইল করো    email_sendemail  play_music 0.019
+                                       Reuters এর গতকালের শিরোনাম শোনাও         news_query  play_music 0.019
+                                   "How far is the station" এর মানে কী?      qa_definition iot_wemo_on 0.018
+                                    police কে লোকেশন email এ লিখে পাঠাও    email_sendemail iot_wemo_on 0.019
+                             please "I am allergic to peanuts" মানে কী?      qa_definition  play_music 0.019
+                         প্লিজ ৪৬, ৫৮, ৭০, ৯৯, ৮, ৬৯ এর average বের করো           qa_maths  play_music 0.019
+                                                    ৩৩ আর ১৩ এর HCF বলো           qa_maths  play_music 0.019
+                 please "আমার একটা ঘর দরকার" এই বাক্যটা বলতে কী বোঝায়?      qa_definition  play_music 0.019
+
+=== FULL PER-CLASS REPORT ===
+                    precision    recall  f1-score   support
+
+         alarm_set     0.0000    0.0000    0.0000       117
+      calendar_set     0.0000    0.0000    0.0000        83
+  datetime_convert     0.0000    0.0000    0.0000        70
+    datetime_query     0.0000    0.0000    0.0000       130
+email_querycontact     0.0000    0.0000    0.0000       200
+   email_sendemail     0.0000    0.0000    0.0000       200
+        news_query     0.0000    0.0000    0.0000       200
+        play_music     0.1314    0.9950    0.2321       200
+       qa_currency     0.0000    0.0000    0.0000        13
+     qa_definition     0.0000    0.0000    0.0000       279
+        qa_factoid     0.0000    0.0000    0.0000       121
+          qa_maths     0.0000    0.0000    0.0000       187
+     weather_query     0.0000    0.0000    0.0000       200
+
+         micro avg     0.1314    0.0995    0.1132      2000
+         macro avg     0.0101    0.0765    0.0179      2000
+      weighted avg     0.0131    0.0995    0.0232      2000

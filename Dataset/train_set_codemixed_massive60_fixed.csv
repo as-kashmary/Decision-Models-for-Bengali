@@ -1,0 +1,3001 @@
+id,utt,intent
+0,alarm লাগাও আজ বিকেল সাড়ে ৩টায়,alarm_set
+1,Venus এর বায়ুমণ্ডলে কী কী গ্যাস আছে?,qa_factoid
+2,হিন্দি বিরহের song চালাও,play_music
+3,contact list এ আগের এর নাম্বার খুঁজে বলো,email_querycontact
+4,নানুকে ছবি email এ send করো,email_sendemail
+5,"""আমি পানি চাই"" এর meaning কী?",qa_definition
+6,Brazil কবে স্বাধীন হয়?,qa_factoid
+7,৭ মিনিট পর লন্ড্রি আনার reminder সেট করো,calendar_set
+8,Switzerland এর জাতীয় ভাষা কী?,qa_factoid
+9,শাফল করে sleep playlist play করে দাও,play_music
+10,alarm রাখো সন্ধ্যা ৬টায়,alarm_set
+11,alarm রাখো 10 hour পর,alarm_set
+12,Berlin এ time কত?,datetime_query
+13,"""I miss you"" মানে কী?",qa_definition
+14,১৫২ কে ৯ দিয়ে ভাগ করলে remainder কত,qa_maths
+15,আজ morning এ কাঠমান্ডুতে আবহাওয়া কেমন?,weather_query
+16,score কত চলছে?,news_query
+17,ঝড়ের warning আছে কি,weather_query
+18,কিভাবে LinkedIn profile সাজাব?,qa_factoid
+19,পাঞ্জাবি পুরনো দিনের গানগুলো play করো,play_music
+20,"""Can you help me"" মানে কী?",qa_definition
+21,"""Thank you very much"" বাক্যটার মানে কী?",qa_definition
+22,this week এ কক্সবাজারে ভ্রমণের জন্য ভালো দিন?,weather_query
+23,১০ মিনিটের টাইমার start করো,alarm_set
+24,আমাকে আগামীকাল 8 PM এ dinner এর reminder রাখো,calendar_set
+25,ইতালির time এখন কত?,datetime_query
+26,Rafi কে email এ লিখে পাঠাও thank you,email_sendemail
+27,"""taxi লাগবে"" বলতে কী বোঝায়?",qa_definition
+28,Madinah তে এখন সকাল নাকি রাত?,datetime_query
+29,Kathmandu তে এই weekend এ UV index কত,weather_query
+30,২৫০ টাকায় ৭ percent tax add করলে কত হবে,qa_maths
+31,দেশাত্মবোধক music play করো please,play_music
+32,2000s এর songs শোনাও,play_music
+33,কালের কণ্ঠের আজ সন্ধ্যার update বলো,news_query
+34,৫০০ dollar টাকায় কত?,qa_currency
+35,helpline এর নাম্বার কী?,email_querycontact
+36,contact list এ customer care এর নাম্বার খুঁজে বলো প্লিজ,email_querycontact
+37,কাজিনকে একটা email করে দাও,email_sendemail
+38,আগামী তিন দিন bike চালানো safe?,weather_query
+39,কানাডায় এখন time কত?,datetime_query
+40,আজ বিকেলে Dhaka তে আবহাওয়া কেমন,weather_query
+41,কাল weather কেমন হবে?,weather_query
+42,Zuhr এর time কখন?,datetime_query
+43,আপু এর contact info দেখাও,email_querycontact
+44,Queen এর গানগুলো play করে দাও,play_music
+45,India এর রাজধানী কোথায়,qa_factoid
+46,now ঘুরতে যাওয়া যাবে,weather_query
+47,Italian ভাষার মানে কী?,qa_definition
+48,২ pound কত কেজি,qa_maths
+49,কিছু new songs চালু করো,play_music
+50,"""airport কতদূর"" শব্দটার মানে কী?",qa_definition
+51,নাঈম এর number কী?,email_querycontact
+52,আজ দুপুরে Barishal এ weather কেমন?,weather_query
+53,২৫০০ টাকার পণ্যে ৫ percent ছাড়ের পর দাম কত?,qa_maths
+54,roommate কে একটা email করে দাও,email_sendemail
+55,আগামী সপ্তাহে humidity কত,weather_query
+56,IP address এর ইতিহাস কী,qa_factoid
+57,৭৫ মাইল কিলোমিটারে convert করো,qa_maths
+58,তাসনীমকে অভিনন্দন email করে দাও,email_sendemail
+59,নিউ ইয়র্কে এখন time কত?,datetime_query
+60,Bangkok এ আজ বিকেলে hot হবে,weather_query
+61,এখন থেকে ১০ hour পর কয়টা বাজবে,datetime_query
+62,please ১০০ এর ৪০ percent কত?,qa_maths
+63,আমার contact list এ প্রফেসর এর নাম্বারটা কী?,email_querycontact
+64,কলিগকে weekly report নিয়ে mail করো,email_sendemail
+65,entertainment বিভাগের এই মুহূর্তের news পড়ে শোনাও,news_query
+66,আগামীকাল 7 PM এ wake করে দিও,alarm_set
+67,"""What time does the shop open"" এর মানে কী?",qa_definition
+68,ঢাকা আর Sydney এর মধ্যে সময়ের পার্থক্য কত ঘণ্টা?,datetime_convert
+69,আজ সন্ধ্যায় max temperature কত?,weather_query
+70,wife এর ফোন নাম্বার কত?,email_querycontact
+71,12:00 PM-এ wake me up,alarm_set
+72,সুপারহিট music চালু করো,play_music
+73,Mecca তে এখন সর্বোচ্চ তাপমাত্রা কত?,weather_query
+74,politics নিয়ে এই মুহূর্তের কী update?,news_query
+75,teacher কে চাকরির আবেদন নিয়ে mail করো,email_sendemail
+76,আগামী সপ্তাহে flood হবে?,weather_query
+77,BPL নিয়ে দুপুরের কী update?,news_query
+78,Cox's Bazar এ weather forecast দেখাও,weather_query
+79,বাংলা energetic গান চালাও,play_music
+80,নতুন song play করে দাও,play_music
+81,ডিস্কো music ছাড়ো please,play_music
+82,স্বামীকে bKash number email এ send করো,email_sendemail
+83,please লন্ডনে এখন time কত?,datetime_query
+84,UK এর news show করো,news_query
+85,আমাকে সোয়া ঘণ্টা পর পড়ার reminder set করো,calendar_set
+86,"""Where is the nearest hospital"" এর অর্থ কী?",qa_definition
+87,Bangladesh cricket team এর রাতের খবর শোনাও,news_query
+88,সুনামগঞ্জে now UV index কত?,weather_query
+89,contact list এ সহপাঠী এর নাম্বার খুঁজে বলো,email_querycontact
+90,Canada তে সময় কত?,datetime_query
+91,The Beatles এর song চালিয়ে দাও,play_music
+92,টরন্টোতে air quality কেমন?,weather_query
+93,ক্লাস গ্রুপে everything ok email করে দাও,email_sendemail
+94,"""Good luck for your exam"" বাক্যটার মানে কী?",qa_definition
+95,Venus এর আয়তন কত?,qa_factoid
+96,Canada এর সীমান্তে কোন কোন দেশ আছে?,qa_factoid
+97,Rangamati তে next 3 days ঠান্ডা হওয়ার chance আছে?,weather_query
+98,অফিস এর phone number কত?,email_querycontact
+99,আধ ঘণ্টা পর reminder,calendar_set
+100,১০ ফ্যাক্টরিয়াল calculate করো,qa_maths
+101,রাফিকে একটা email পাঠিয়ে দাও,email_sendemail
+102,১৭৫ কে ১১ দিয়ে ভাগ করলে remainder কত?,qa_maths
+103,৭৫০০ এর ২৫ percent,qa_maths
+104,12 factorial কত হয়?,qa_maths
+105,১০ ঘণ্টা পর cricket match এর কথা remind করে দিও,calendar_set
+106,study playlist play দাও,play_music
+107,সহপাঠীকে email করে inform করো আমি পৌঁছে গেছি,email_sendemail
+108,প্লিজ 3:00 PM-এ মিটিংয়ের কথা মনে করাও,calendar_set
+109,হিন্দি language বলতে কী বোঝায়?,qa_definition
+110,সকাল সোয়া ৫টায় wake me up,alarm_set
+111,কুয়েতের local time কত,datetime_query
+112,sir এর ফোন নাম্বার বলো,email_querycontact
+113,coding শিখব how to,qa_factoid
+114,আজকের প্রধান news কী কী,news_query
+115,tech নিয়ে আজ সকালের কী update?,news_query
+116,dad এর নাম্বার কী?,email_querycontact
+117,Nike এর মূল পণ্য কী?,qa_factoid
+118,Middle East এর news summary read করো,news_query
+119,stock market আর USB এর difference কী?,qa_definition
+120,ঢাকা আর India এর মধ্যে time difference কত ঘণ্টা?,datetime_convert
+121,Tokyo তে next week এ বৃষ্টির সম্ভাবনা কত?,weather_query
+122,ঢাকায় সন্ধ্যা ৬টা বাজলে Istanbul এ কয়টা বাজে?,datetime_convert
+123,১০০০০ টাকায় ৭% tax add করলে কত হবে?,qa_maths
+124,999 নম্বরটা কার contact বলো,email_querycontact
+125,ফুফু এর number কী?,email_querycontact
+126,প্লিজ আমার contact list এ চাচা এর নাম্বারটা কী?,email_querycontact
+127,পরশু umbrella নিতে হবে?,weather_query
+128,email এ dentist কে ছবি share করো,email_sendemail
+129,১০ hour পর project deadline এর reminder,calendar_set
+130,Samsung Galaxy S24 এর দাম কত?,qa_factoid
+131,৫০ euro টাকায় রূপান্তর করো,qa_currency
+132,দেশাত্মবোধক গান play করে দাও,play_music
+133,আমাকে প্রতি মঙ্গলবার রাত ৮টায় মেডিটেশনের reminder দিয়ে দাও,calendar_set
+134,নানুকে mail পাঠাও,email_sendemail
+135,আমার contact list এ manager এর নাম্বারটা কী?,email_querycontact
+136,this week এর news summary কী?,news_query
+137,১০ কিলোমিটার mile এ convert করো,qa_maths
+138,Uber এর মূল পণ্য কী?,qa_factoid
+139,Shanghai তে time বলো,datetime_query
+140,আজ weather কেমন?,weather_query
+141,ইংরেজি হালকা music play করে দাও,play_music
+142,কাল সকালে কক্সবাজারে weather কেমন,weather_query
+143,Marie Curie কোথায় জন্মেছেন?,qa_factoid
+144,Bogura তে কাল morning এ cyclone হওয়ার সম্ভাবনা আছে?,weather_query
+145,Rajshahi তে ঝড়ের alert আছে?,weather_query
+146,contact list এ হৃদয় এর নাম্বার খুঁজে বলো,email_querycontact
+147,55 times 46 কত?,qa_maths
+148,সংসদ বিভাগের ব্রেকিং শিরোনাম show করো,news_query
+149,ক্লিনি এর number কী?,email_querycontact
+150,এআই নিয়ে রাতের কী news?,news_query
+151,শাফল করে focus playlist play দাও,play_music
+152,তাহসানের song play করে দাও,play_music
+153,long drive এ শোনার মতো song বাজাও,play_music
+154,৩০০০ টাকার loan এর ২৪ মাসের কিস্তি কত হবে?,qa_maths
+155,"""Can you help me"" মানে কী? please",qa_definition
+156,London এ এখন কয়টা?,datetime_query
+157,১৫ মিনিট পরে alarm,alarm_set
+158,০°F Celsius এ রূপান্তর করো,qa_maths
+159,কাল বিকেল ৫টায় tuition এর reminder set করো,calendar_set
+160,Jupiter এর তাপমাত্রা কত?,qa_factoid
+161,কাতারের local সময় কত?,datetime_query
+162,coding শিখব কীভাবে সম্ভব?,qa_factoid
+163,আশির দশকের music play করো,play_music
+164,15 গ্রাম ounce এ কত হয়?,qa_maths
+165,Bangladesh এর সীমান্তে কোন কোন দেশ আছে,qa_factoid
+166,Toronto তে আবহাওয়ার পূর্বাভাস শোনাও,weather_query
+167,আমাকে ১২ min পর পড়ার reminder set করো,calendar_set
+168,Qatar এ এখন দিন না রাত?,datetime_query
+169,প্লিজ campus বিভাগের ব্রেকিং news পড়ে শোনাও,news_query
+170,১০০ gram ounce এ রূপান্তর করো,qa_maths
+171,ChatGPT আর ক্লাউড কম্পিউটিং এর difference কী,qa_definition
+172,আমার এখানে time কত,datetime_query
+173,Bangladesh কোন মহাদেশে অবস্থিত?,qa_factoid
+174,"""ticket কোথায় কিনব"" এর মানে কী?",qa_definition
+175,friends group এ email দাও দরজা খোলা আছে,email_sendemail
+176,pharmacy এর ফোন নাম্বার কত?,email_querycontact
+177,প্রতি Thursday সকাল ৮টায় alarm লাগাও,alarm_set
+178,Toronto তে এখন কয়টা বাজে আর কোন বেলা,datetime_query
+179,হৃদয়কে mail পাঠাও আজ class হবে না,email_sendemail
+180,কাল max temperature কত?,weather_query
+181,৯০০০ এর ২% calculate করো,qa_maths
+182,সুপারহিট music play করে দাও,play_music
+183,আজ সকালের ব্যবসা headline বলো,news_query
+184,university এর contact info দেখাও,email_querycontact
+185,"""reservation করা আছে"" এর অর্থ কী?",qa_definition
+186,মঙ্গলবার সন্ধ্যা ৬টায় alarm দিয়ে রাখো,alarm_set
+187,Tum Hi Ho song টা play করে দাও,play_music
+188,বাংলা feel good গানগুলো ছাড়ো,play_music
+189,আজ সকালের top stories দাও,news_query
+190,পপ songs চালাও,play_music
+191,২০০০ সালের গান play করে দাও,play_music
+192,"""hotel এর address কোথায়"" মানে কী?",qa_definition
+193,আজ বিকেলে Gazipur এ ঘূর্ণিঝড় হবে কি?,weather_query
+194,নব্বইয়ের দশকের song play করো,play_music
+195,Pluto একবার ঘুরতে কত সময় লাগে?,qa_factoid
+196,ঢাকা আর সিডনির মধ্যে time difference কত ঘণ্টা?,datetime_convert
+197,Nabil কে ছবি email এ শেয়ার করো,email_sendemail
+198,Mecca তে এখন টাইম কত?,datetime_query
+199,এখন time কত?,datetime_query
+200,Taylor Swift এর গান ছাড়ো,play_music
+201,Mim এর নাম্বার কী?,email_querycontact
+202,"""আমার জন্য একটা কফি দিন"" এর meaning কী?",qa_definition
+203,করিম এর number কী?,email_querycontact
+204,Cairo তে এখন time কত?,datetime_query
+205,ক্লাস গ্রুপে email করো আমি দশ মিনিটের মধ্যে আসছি,email_sendemail
+206,"""শুভ নববর্ষ say করব"" এর মানে কী?",qa_definition
+207,Singapore এ এখন কি দিন চলছে?,datetime_query
+208,কাজিন এর contact number বের করে দাও,email_querycontact
+209,"""Take care of yourself"" মানে কী?",qa_definition
+210,ল্যান্ডলর্ড এর contact number বের করে দাও,email_querycontact
+211,"ক্লায়েন্টকে ok, আসছি বলে মেইল পাঠাও",email_sendemail
+212,আমার contact list এ husband এর নাম্বারটা কী?,email_querycontact
+213,"তানভীরকে email দাও ok, আসছি",email_sendemail
+214,ইফফাতকে location email এ share করো,email_sendemail
+215,"""It was a pleasure meeting you"" এর definition কী?",qa_definition
+216,ম্যানেজারকে payment reminder নিয়ে email করো,email_sendemail
+217,৬৩৪ আর ৮০৭ এর sum বলো,qa_maths
+218,৮৪৪ আর ৯৭৮ এর যোগফল calculate করো,qa_maths
+219,"মস্কোতে এখন time কত, day না night?",datetime_query
+220,সিলেটে আজ দুপুরে air quality কত?,weather_query
+221,রহিমকে report email এ ফরওয়ার্ড করো,email_sendemail
+222,৬৪০ এর double বলো,qa_maths
+223,Dhaka তে weather forecast দাও,weather_query
+224,সহজে কীভাবে focus বাড়াব?,qa_factoid
+225,banking নিয়ে সাম্প্রতিক কী খবর?,news_query
+226,নতুন কোনো news summary আছে কি?,news_query
+227,আমাকে আজ বিকেল ৩টায় টিউশনের reminder দাও,calendar_set
+228,আমাকে ১৬ ঘণ্টা পর car servicing এর reminder রাখো,calendar_set
+229,Eminem এর গানগুলো play করো,play_music
+230,Jupiter একবার ঘুরতে কত সময় লাগে?,qa_factoid
+231,৪৫১ - ৪৪৭ calculate করো,qa_maths
+232,মাকে আমি বাসায় ফিরছি বলে email পাঠাও,email_sendemail
+233,London এর সাথে বাংলাদেশের সময়ের তফাত কত?,datetime_query
+234,২০০ meter feet এ convert করো,qa_maths
+235,সিলেটে আজ morning এ কুয়াশা হওয়ার সম্ভাবনা আছে?,weather_query
+236,hostel group এ মেইল দাও আমার একটু late হবে,email_sendemail
+237,"১৬, ৫, ৬০, ৯২, ৩৪ এর average বলো",qa_maths
+238,২০০০০ টাকার জিনিসে ৩০% discount পেলে দাম কত?,qa_maths
+239,Kathmandu তে আবহাওয়ার পূর্বাভাস দেখাও,weather_query
+240,Amazon কীভাবে আয় করে?,qa_factoid
+241,ফায়ারওয়াল আর ডিএনএস এর difference কী?,qa_definition
+242,Khulna এর news show করো,news_query
+243,এই weekend এ ফ্লাইট দেরি হওয়ার সম্ভাবনা আছে?,weather_query
+244,১৫০ kg পাউন্ডে কত হয়,qa_maths
+245,৩৫০ টাকা ১১ জনে split করো,qa_maths
+246,সাকিব এর contact number বের করে দাও,email_querycontact
+247,space বিভাগের দুপুরের শিরোনাম জানাও,news_query
+248,"চাচাকে email করো ঠিক আছে, আসছি",email_sendemail
+249,"তিথিকে email পাঠাও I'm busy, পরে কথা বলছি",email_sendemail
+250,ভাইয়া এর phone number কত?,email_querycontact
+251,project group এ email করে inform করো আমি দশ মিনিটের মধ্যে আসছি please,email_sendemail
+252,today বাইক চালানো নিরাপদ?,weather_query
+253,আজ Asr এর time কয়টা?,datetime_query
+254,neural network সম্পর্কে সহজ ভাষায় বুঝিয়ে বলো,qa_definition
+255,hostel group এ ঈদ মোবারক বলে email পাঠাও,email_sendemail
+256,মন খারাপের সময় শোনার মতো music play করো please,play_music
+257,Bhutan এর সীমান্তে কোন কোন দেশ আছে?,qa_factoid
+258,প্লিজ কাল cricket খেলা যাবে,weather_query
+259,ইত্তেফাকের আজ সকালের হেডলাইন read করো,news_query
+260,mess এর নাম্বার কী?,email_querycontact
+261,কাল সিঙ্গাপুরে weather কেমন?,weather_query
+262,এই weekend এ ছাদে যাওয়া যাবে?,weather_query
+263,this week এর বাজেট update read করো please,news_query
+264,Kenya এর প্রধান নদী কোনটি?,qa_factoid
+265,ভাইয়াকে email করে জানিয়ে দাও আজ class হবে না,email_sendemail
+266,"""bill দিন"" শব্দটার মানে কী?",qa_definition
+267,London এ আবহাওয়ার পূর্বাভাস দেখাও,weather_query
+268,গাজীপুরে কাল সকালে hot হবে?,weather_query
+269,রাকিবকে ইনভয়েস email এ share করো,email_sendemail
+270,আজ সন্ধ্যার প্রযুক্তি খবরের সারাংশ read করো,news_query
+271,Uber কবে প্রতিষ্ঠিত হয়,qa_factoid
+272,team lead কে tomorrow ছুটি বলে email করো,email_sendemail
+273,please Cristiano Ronaldo কে?,qa_factoid
+274,Maghrib এর সময় কয়টায়?,datetime_query
+275,আইয়ুব বাচ্চুর love গানগুলো play করে দাও,play_music
+276,কাল morning এ Sydney তে আবহাওয়া কেমন?,weather_query
+277,৭৫০০ টাকার জিনিসে ১৫ percent ছাড় পেলে দাম কত?,qa_maths
+278,contact list এ সহপাঠী এর নাম্বার খুঁজে বলো please,email_querycontact
+279,ঢাকায় দুপুর ১২টা বাজলে Kathmandu তে কয়টা বাজে?,datetime_convert
+280,5 AM-এ alarm,alarm_set
+281,আজ morning এ টোকিওতে আবহাওয়া কেমন?,weather_query
+282,২০ পাউন্ড kg এ রূপান্তর করো,qa_maths
+283,tomorrow কুমিল্লায় আবহাওয়া কেমন?,weather_query
+284,Bangkok এ এখন কয়টা?,datetime_query
+285,please Docker এর use case কী কী,qa_factoid
+286,Friday বৃষ্টির সম্ভাবনা কত?,weather_query
+287,আজ iftar এর সময় কয়টা?,datetime_query
+288,আমার contact list এ রাকিব এর নাম্বারটা কী?,email_querycontact
+289,আর্টসেলের গান play করে দাও please,play_music
+290,Rome এ এখন দিন না রাত?,datetime_query
+291,মঙ্গলবার সকাল ১০টা ৫০ মিনিটে blood donation এর alarm,alarm_set
+292,please ৫০ মাইল কত km?,qa_maths
+293,tsunami কী?,qa_definition
+294,২০৩ আর ৭ এর quotient,qa_maths
+295,সহজে কীভাবে LinkedIn profile সাজাব?,qa_factoid
+296,ঢাকায় সকাল ৯টা বাজলে Manchester এ কয়টা বাজে?,datetime_convert
+297,৯ factorial calculate করো,qa_maths
+298,কীভাবে Excel এ pivot table বানাব?,qa_factoid
+299,German ভাষার মানে কী?,qa_definition
+300,প্রফেসরকে weekly report নিয়ে মেইল লিখে পাঠাও,email_sendemail
+301,Mercury সূর্য থেকে কত দূরে,qa_factoid
+302,যুগান্তরের সাম্প্রতিক headlines দেখাও,news_query
+303,breaking crypto headlines show করো,news_query
+304,শেষ incoming call এর নাম্বারটা কার নামে আছে?,email_querycontact
+305,Malaysia এর সাথে বাংলাদেশের time gap কত?,datetime_query
+306,বন্ধুকে tomorrow ছুটি email করে দাও,email_sendemail
+307,Dhaka এর latest headlines বলো,news_query
+308,please এই মুহূর্তের top stories show করো,news_query
+309,শাফল করে study playlist play করো,play_music
+310,সাবিনা এর phone number কত?,email_querycontact
+311,চাচাকে call me when free বলে email দাও,email_sendemail
+312,আগামীকাল Pabna তে umbrella নিতে হবে,weather_query
+313,আজ week এর কোন day,datetime_query
+314,6:00 PM-এ wake করে দিও,alarm_set
+315,মাগরিবের time কয়টায়?,datetime_query
+316,কিভাবে resume লিখব?,qa_factoid
+317,"""জায়গাটা খুব সুন্দর"" এই sentence টা বলতে কী বোঝায়?",qa_definition
+318,Kuakata তে আবহাওয়ার পূর্বাভাস শোনাও,weather_query
+319,Elon Musk এর জন্মদিন কবে?,qa_factoid
+320,"""আমার flight delay হয়েছে জার্ হবে"" মানে কী?",qa_definition
+321,shuffle mode এ ফোকাস প্লেলিস্ট চালু করো প্লিজ,play_music
+322,"""SIM card কোথায় পাব say করব"" এর definition কী?",qa_definition
+323,৯০০০ এর ১০% calculate করো,qa_maths
+324,ল্যান্ডলর্ড এর phone number কত?,email_querycontact
+325,12 hour পরে laundry আনার কথা মনে করিয়ে দাও,calendar_set
+326,সকাল ১০টায় breakfast এর কথা remind করো,calendar_set
+327,Uranus এর তাপমাত্রা কত?,qa_factoid
+328,আজ সকালে rain chance কত,weather_query
+329,আমার contact list এ professor এর নাম্বারটা কী?,email_querycontact
+330,Berlin এ এখন কয়টা বাজে?,datetime_query
+331,৩ to the power ৩,qa_maths
+332,"""আমার সাহায্য দরকার"" এই sentence টা বলতে কী বোঝায়?",qa_definition
+333,সাভারে আজ cloud হওয়ার সম্ভাবনা আছে?,weather_query
+334,অফিসে কাজের সময় শোনার মতো song শোনাও,play_music
+335,husband এর ফোন নাম্বার কত?,email_querycontact
+336,আজ সন্ধ্যায় Kathmandu তে ছাদে যাওয়া যাবে?,weather_query
+337,Imagine Dragons এর music শোনাও please,play_music
+338,প্রতি শুক্রবার 12:20 PM এ reminder set করো,calendar_set
+339,Nepal এর জাতীয় পতাকায় কয়টি রং আছে?,qa_factoid
+340,"""এর দাম কত"" এর meaning কী?",qa_definition
+341,শেষ dial করা নাম্বারটা কার নামে আছে বলো,email_querycontact
+342,প্লিজ Rajshahi এর সংবাদ শোনাও,news_query
+343,রাফিকে meeting agenda নিয়ে mail করো,email_sendemail
+344,"""hotel এর address কোথায়"" এর definition কী?",qa_definition
+345,please favourite contact এর contact info দেখাও,email_querycontact
+346,"""Good morning"" মানে কী?",qa_definition
+347,৬০ কেজি কে pound এ বদলাও,qa_maths
+348,Instagram এর মূল পণ্য কী?,qa_factoid
+349,"""আমি পরে আসছি"" sentence এর মানে কী?",qa_definition
+350,please contact list এ unknown এর নাম্বার খুঁজে বলো,email_querycontact
+351,২৫ মিনিটের timer দাও,alarm_set
+352,উবারের বর্তমান CEO কে,qa_factoid
+353,৬ ঘণ্টা পরে time কত হবে?,datetime_query
+354,হেল্পলাইন এর number কী?,email_querycontact
+355,please Tesla Model 3 এর বৈশিষ্ট্য কী?,qa_factoid
+356,ব্যান্ড সংগীত play করো,play_music
+357,driver কে আমাকে ফোন দিও বলে email দাও,email_sendemail
+358,প্রতি রবিবার 6 AM এ office এ যাওয়ার কথা remind করো,calendar_set
+359,প্লিজ this week এ বৃষ্টির সম্ভাবনা কত?,weather_query
+360,please ২০১০ এর গান play দাও,play_music
+361,API কেন ব্যবহার করা হয়?,qa_factoid
+362,manager এর নাম্বার কী?,email_querycontact
+363,Oman এ টাইম কত?,datetime_query
+364,১০ মিনিট পর meeting এর রিমাইন্ডার রাখো,calendar_set
+365,5:20 PM এ doctor appointment এর কথা remind করে দিও,calendar_set
+366,১২০০০ টাকা ৬ জনে split করলে per head কত,qa_maths
+367,recent টি-টোয়েন্টি আপডেট show করো,news_query
+368,"""Please speak slowly"" মানে কী?",qa_definition
+369,আগামী সপ্তাহে Tangail এ আবহাওয়া কেমন?,weather_query
+370,Zuhr এর time হতে আর কত বাকি?,datetime_query
+371,প্লিজ ৬ power ৫ বলো,qa_maths
+372,২৮৯ minus ২৬১,qa_maths
+373,Jupiter সূর্য থেকে কত দূরে?,qa_factoid
+374,Amazon এর মূল পণ্য কী,qa_factoid
+375,নোয়াখালীতে আজ সন্ধ্যায় শিলাবৃষ্টি হওয়ার chance আছে?,weather_query
+376,DNA এর সংজ্ঞা কী?,qa_definition
+377,ক্রিকেট নিয়ে this week এর কী খবর?,news_query
+378,tomorrow ছাদে যাওয়া যাবে,weather_query
+379,২৫০ dirham কত টাকা?,qa_currency
+380,3000 টাকায় 10 percent tax add করলে কত হবে?,qa_maths
+381,9 AM এ reminder set করে দাও,calendar_set
+382,solar system এর গুরুত্ব কী?,qa_factoid
+383,প্লিজ breaking IPL আপডেট বলো,news_query
+384,সকালবেলা গান play দাও,play_music
+385,গত ২৪ ঘণ্টার শিল্প headlines বলো,news_query
+386,প্যারিসে এখন fog condition কত?,weather_query
+387,"please ""আমি নিরামিষ খাই"" এর definition কী?",qa_definition
+388,popular গানগুলো চালু করো,play_music
+389,118 কি prime number?,qa_maths
+390,cousin কে email করো আজকের ক্লাস নেই,email_sendemail
+391,car servicing এর রিমাইন্ডার দাও বুধবার সকাল ৯টা ৪৫ মিনিটে,calendar_set
+392,স্ত্রী এর number কী?,email_querycontact
+393,আমার contact list এ আপু এর নাম্বারটা কী?,email_querycontact
+394,Shape of You song টা চালু করো please,play_music
+395,Germany এর প্রধান ফসল কী?,qa_factoid
+396,আজ রাতের ক্রিপ্টো news show করো,news_query
+397,AirPods কি কেনা উচিত?,qa_factoid
+398,প্লিজ ৮ কেজি কত pound,qa_maths
+399,email এ নাহিদাকে project update পাঠাও,email_sendemail
+400,reminder দাও রাত ১টায়,calendar_set
+401,ঢাকায় সকাল ৮টা বাজলে Hong Kong এ কয়টা বাজে?,datetime_convert
+402,ক্রিপ্টো বিভাগের breaking শিরোনাম শোনাও,news_query
+403,Bangladesh cricket team এর ব্রেকিং খবর পড়ে শোনাও,news_query
+404,Pabna তে rain chance কেমন?,weather_query
+405,Hindi feel good গানগুলো বাজাও,play_music
+406,আজ সকালের কৃষি news summary বলো,news_query
+407,assignment submit করার রিমাইন্ডার দাও কাল সন্ধ্যা সাড়ে ৬টায়,calendar_set
+408,আমাকে প্রতি সোমবার সকাল ৮টায় breakfast এর রিমাইন্ডার দাও,calendar_set
+409,ডেটাবেজ আর কোয়ান্টাম কম্পিউটিং এর difference কী?,qa_definition
+410,সহজে কীভাবে passport এর জন্য apply করব?,qa_factoid
+411,"""আমার booking confirm হয়েছে"" এর definition কী?",qa_definition
+412,ঢাকার time কত?,datetime_query
+413,কাল 6:45 PM এ ইফতারের জন্য notify করো,calendar_set
+414,recent contact এর contact detail খুঁজে দাও,email_querycontact
+415,recently played playlist চালিয়ে দাও,play_music
+416,please আমার contact list এ হৃদয় এর নাম্বারটা কী?,email_querycontact
+417,Turkey এর প্রধান নদী কোনটি?,qa_factoid
+418,"please ""আপনাকে অনেক ধন্যবাদ"" বাক্যটার মানে কী?",qa_definition
+419,Isaac Newton কে?,qa_factoid
+420,"""আমার ব্যাগ হারিয়ে গেছে"" meaning কী?",qa_definition
+421,UK এর খবরের সারাংশ বলো,news_query
+422,Shape of You song টা play করো,play_music
+423,৩ ঘণ্টা পরে time কত হবে?,datetime_query
+424,Qatar এ এখন কয়টা,datetime_query
+425,AI কি নিরাপদ?,qa_factoid
+426,চরণ ধরিতে দিও গো song টা play করে দাও,play_music
+427,"""শুভ নববর্ষ"" word এর মানে কী?",qa_definition
+428,Noakhali তে আবহাওয়ার পূর্বাভাস শোনাও,weather_query
+429,১৫০০০ taka এর ৬০ percent কত হয়?,qa_maths
+430,"""How are you"" এর অর্থ কী?",qa_definition
+431,প্যারিসে কাল সকালে গরম হওয়ার chance আছে?,weather_query
+432,"Mecca তে এখন time কত, day না night?",datetime_query
+433,১০০ মিটার কত feet?,qa_maths
+434,London এর সাথে বাংলাদেশের time gap কত?,datetime_query
+435,Uranus গ্রহে কি জীবন সম্ভব,qa_factoid
+436,Nabil এর ফোন নাম্বার কত?,email_querycontact
+437,তারাবিহর time কয়টায়?,datetime_query
+438,"""See you tomorrow"" এর মানে কী?",qa_definition
+439,ব্রেকিং স্টার্টআপ headline জানাও,news_query
+440,আজ কোন day,datetime_query
+441,Italy এর জাতীয় ভাষা কী?,qa_factoid
+442,API আর সিপিইউ এর পার্থক্য কী,qa_definition
+443,Xbox কোন কোম্পানির,qa_factoid
+444,আজ সকালে cricket খেলা যাবে?,weather_query
+445,Bangla ভালোবাসার গানগুলো চালাও,play_music
+446,husband এর ফোন নাম্বার বলো,email_querycontact
+447,please আমাকে পরশু দুপুর ১টা ৫ মিনিটে ওয়েবিনারের রিমাইন্ডার set করো,calendar_set
+448,৯ ঘণ্টা পরে class এর alarm রাখো,alarm_set
+449,ভাইয়া এর ফোন নাম্বার কত? please,email_querycontact
+450,blockchain আর নিউরাল নেটওয়ার্ক এর difference কী,qa_definition
+451,কাল সকালে cyclone হবে,weather_query
+452,সাম্প্রতিক top stories show করো,news_query
+453,Kuwait এর সাথে বাংলাদেশের time gap কত?,datetime_query
+454,৬৪০ টাকার ৫% interest এ ১০ বছরে সুদ কত হবে?,qa_maths
+455,প্লিজ Venus এর তাপমাত্রা কত?,qa_factoid
+456,"""কাছাকাছি মসজিদ কোথায়"" এই sentence টা বলতে কী বোঝায়?",qa_definition
+457,please ৬০% of ৩০০,qa_maths
+458,এই weekend এ umbrella নিতে হবে?,weather_query
+459,ব্যাচ গ্রুপে meeting agenda নিয়ে email করো,email_sendemail
+460,Japan এর সময় এখন কত?,datetime_query
+461,"""Happy anniversary"" শব্দটার মানে কী?",qa_definition
+462,ভারতের ক্রিকেট দলের ম্যাচের score বলো,news_query
+463,contact list এ রাকিব এর নাম্বার খুঁজে বলো,email_querycontact
+464,boss এর নাম্বার কী?,email_querycontact
+465,environment নিয়ে সর্বশেষ কী news?,news_query
+466,Bangkok এর সময় এখন কত,datetime_query
+467,email এ মারুফকে ইনভয়েস পাঠাও,email_sendemail
+468,tomorrow আর্দ্রতা কত?,weather_query
+469,রাত ১১টায় assignment submit করার alarm রাখো,alarm_set
+470,আজ সকালে Sylhet এ umbrella নিতে হবে,weather_query
+471,১০০০ ringgit কত টাকা?,qa_currency
+472,রান্নার সময় শোনার মতো songs play করো,play_music
+473,please প্রীতিকে email এ লিখে পাঠাও everything ok,email_sendemail
+474,আপুকে email দাও,email_sendemail
+475,"Tokyo তে এখন time কত, day না night?",datetime_query
+476,নতুন music play করে দাও,play_music
+477,YouTube কীভাবে আয় করে?,qa_factoid
+478,Moscow তে টাইম কত?,datetime_query
+479,"""Welcome to Bangladesh"" এর মানে কী?",qa_definition
+480,tomorrow বরিশালে জামা শুকাবে?,weather_query
+481,প্লিজ প্রতি Wednesday সকাল ৭টায় গাড়ি সার্ভিসিংয়ের reminder,calendar_set
+482,আজ সন্ধ্যায় flight delay হওয়ার chance আছে?,weather_query
+483,120 টাকায় 10% VAT যোগ করলে কত হয়?,qa_maths
+484,tomorrow বাইরে যাওয়ার মতো আবহাওয়া আছে?,weather_query
+485,online এ ব্যবসা শুরু করব কীভাবে সম্ভব?,qa_factoid
+486,Cumilla তে আবহাওয়ার পূর্বাভাস দেখাও,weather_query
+487,algorithm কি নিরাপদ?,qa_factoid
+488,আগামীকাল সকাল ৬টায় রিমাইন্ডার set করো,calendar_set
+489,ফাহিম এর contact number বের করে দাও,email_querycontact
+490,আজ রাত ২টা ১৫ মিনিটে reminder,calendar_set
+491,আমার contact list এ কলিগ এর নাম্বারটা কী? please,email_querycontact
+492,আজ বিকেলে Pabna তে জামা শুকাবে,weather_query
+493,ভাটিয়ালি music ছাড়ো,play_music
+494,Singapore এ সময় কত,datetime_query
+495,tan 60 degree এর value কত?,qa_maths
+496,পাসওয়ার্ড শক্তিশালী করব how to?,qa_factoid
+497,আমাকে সকাল ৬টা ৪০ মিনিটে গাছে পানি দেওয়ার রিমাইন্ডার set করো,calendar_set
+498,১৭ এর cube কত?,qa_maths
+499,4:15 AM এ রিমাইন্ডার রাখো,calendar_set
+500,Saint Martin এ সর্বোচ্চ তাপমাত্রা কেমন থাকবে?,weather_query
+501,আজ সন্ধ্যার প্রধান news কী কী,news_query
+502,প্রীতিকে report email এ share করো,email_sendemail
+503,reminder set করে দাও 2:15 AM এ,calendar_set
+504,education বিভাগের আজ সন্ধ্যার শিরোনাম দাও,news_query
+505,প্রীতি এর phone number কত?,email_querycontact
+506,Faded song টা বাজাও,play_music
+507,"""discount আছে কি"" এর মানে কী?",qa_definition
+508,৩৫ percent of ৯০০০,qa_maths
+509,শুক্রবার Sydney তে আবহাওয়া কেমন?,weather_query
+510,১২ inch cm এ কত হয়?,qa_maths
+511,email এ colleague কে address share করো,email_sendemail
+512,৩০০০০ টাকার loan এর ৬ মাসের EMI কত হবে?,qa_maths
+513,Bangladesh cricket team এর আজ সন্ধ্যার শিরোনাম বলো,news_query
+514,"""আমি বাংলাদেশ থেকে এসেছি"" এর meaning কী?",qa_definition
+515,বসকে email দাও,email_sendemail
+516,Eminem এর গানগুলো চালাও,play_music
+517,India এর time zone কী,datetime_query
+518,কিভাবে ভালো photo তুলব?,qa_factoid
+519,রহিম এর number কী?,email_querycontact
+520,Middle East এর news দেখাও,news_query
+521,team lead এর ফোন নাম্বার বলো,email_querycontact
+522,"""আজ রাতে কি রুম খালি আছে"" এই sentence টা বলতে কী বোঝায়?",qa_definition
+523,শ্রেয়া ঘোষালের song চালু করো,play_music
+524,"""আপনার নাম কী"" এর definition কী?",qa_definition
+525,22% of 200 কত হয়,qa_maths
+526,weather update দাও,weather_query
+527,"Berlin এ এখন time কত, day না night?",datetime_query
+528,আজকের আদালত নিয়ে কোনো news আছে?,news_query
+529,আমাকে 11 AM এ presentation এর রিমাইন্ডার set করো,calendar_set
+530,atom কে আবিষ্কার করেছেন?,qa_factoid
+531,রবিবার বিকেল ৪টায় reminder set করো,calendar_set
+532,"""Can you help me"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition
+533,২২৪ কে ১৪ দিয়ে divide করো,qa_maths
+534,বগুড়ায় আজ heat wave হওয়ার chance আছে?,weather_query
+535,শাহীন এর contact number বের করে দাও,email_querycontact
+536,blues গান ছাড়ো,play_music
+537,friend কে email করে inform করো thank you,email_sendemail
+538,please মন ভালো করার গান play দাও,play_music
+539,মেহেদীকে email করো আমাকে ফোন দিও,email_sendemail
+540,আর্জেন্টিনার today's news বলো,news_query
+541,এই মুহূর্তের tennis আপডেট দাও,news_query
+542,১৭ আর ৯ এর গ.সা.গু calculate করো,qa_maths
+543,now ভ্রমণের জন্য ভালো দিন?,weather_query
+544,রোদের warning আছে কি?,weather_query
+545,Egypt এর প্রধান নদী কোনটি?,qa_factoid
+546,শিল্প নিয়ে ব্রেকিং কী update?,news_query
+547,Tuesday 3 PM এ alarm,alarm_set
+548,chill গান play দাও,play_music
+549,২৫০০ টাকা ৮ জনে split করলে per head কত?,qa_maths
+550,email এ চাচাকে স্ক্রিনশট send করো,email_sendemail
+551,please Italy কবে স্বাধীন হয়?,qa_factoid
+552,tomorrow 3:00 PM-এ alarm,alarm_set
+553,১৫০০ টাকা ৪ জনে split করো,qa_maths
+554,Cairo তে এখন কয়টা বাজে,datetime_query
+555,জুম্মার নামাজের reminder set করো পরশু দুপুর ১টায়,calendar_set
+556,প্লিজ মন ভালো করার গানগুলো play করো,play_music
+557,"""আপনাকে অনেক ধন্যবাদ"" meaning কী?",qa_definition
+558,আগের এর contact info দেখাও,email_querycontact
+559,"""Wi-Fi password কী"" এর definition কী?",qa_definition
+560,প্রজেক্ট ডেডলাইনের reminder set করো প্রতি বৃহস্পতিবার রাত ১২টা ৪০ মিনিটে,calendar_set
+561,Mecca তে now wind speed কত?,weather_query
+562,reminder set করো আগামীকাল 10:30 AM এ,calendar_set
+563,এই মুহূর্তের শীর্ষ খবর show করো,news_query
+564,husband কে আমি দশ মিনিটের মধ্যে আসছি বলে email লেখো,email_sendemail
+565,১৫০ taka এর জিনিসে ৩০ percent ছাড় পেলে দাম কত?,qa_maths
+566,Thailand এর রাজধানী কোথায়,qa_factoid
+567,now Rajshahi তে শীত হবে কি?,weather_query
+568,friends group এ meeting reschedule হয়েছে বলে email দাও,email_sendemail
+569,Berlin এ টাইম কত?,datetime_query
+570,Singapore এ এখন সময় কত?,datetime_query
+571,Sydney তে এখন দিন না রাত,datetime_query
+572,pharmacy এর contact number বের করে দাও,email_querycontact
+573,Tesla Model 3 এর features কী?,qa_factoid
+574,মালয়েশিয়ার time zone কী?,datetime_query
+575,সাবিনা এর contact info দেখাও,email_querycontact
+576,১০ রিয়াল কত Tk,qa_currency
+577,প্লিজ আজ দুপুরে wind speed কত?,weather_query
+578,Norway এর জনসংখ্যা কত,qa_factoid
+579,"Nusrat কে email করে inform করো আমি ব্যস্ত আছি, পরে কথা বলছি please",email_sendemail
+580,English chill song চালিয়ে দাও প্লিজ,play_music
+581,১২০০০ টাকায় ৫ শতাংশ tax যোগ করলে কত হয়?,qa_maths
+582,রুমমেট এর phone number কত?,email_querycontact
+583,150 টাকার 35 percent কত?,qa_maths
+584,recent contact এর ফোন নাম্বার বলো,email_querycontact
+585,wake up করার reminder set করো পরশু সকাল ৫টায়,calendar_set
+586,please নচিকেতার শান্ত গান play করো,play_music
+587,Italy এর local টাইম কত,datetime_query
+588,নয়া দিগন্তের আজ রাতের update শোনাও,news_query
+589,"১৭, ৪২, ৭৭, ৬৬, ৯৩ এর average",qa_maths
+590,আমার contact list এ friend এর নাম্বারটা কী?,email_querycontact
+591,লালনগীতি songs play করো,play_music
+592,live score বলো,news_query
+593,SSD আর smart contract এর পার্থক্য কী?,qa_definition
+594,বন্ধুকে শুভ রাত্রি বলে mail পাঠাও,email_sendemail
+595,cyber security মানে কী?,qa_definition
+596,Narayanganj এ আজ সকালে গরম পড়বে?,weather_query
+597,Mymensingh এর দুপুরের সংবাদ show করো,news_query
+598,"""Where is the bus stop"" এর অর্থ কী?",qa_definition
+599,reminder সেট করো আগামীকাল রাত ১টা ৪৫ মিনিটে please,calendar_set
+600,cricket নিয়ে সাম্প্রতিক কী update?,news_query
+601,cyber security নিয়ে একটু বলো তো,qa_factoid
+602,"""What time does the shop open"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition
+603,জান্নাত এর contact number বের করে দাও,email_querycontact
+604,wife কে শুভ রাত্রি email এ পাঠিয়ে দাও,email_sendemail
+605,৫ মিনিটের timer start করো,alarm_set
+606,পলাশকে meeting agenda নিয়ে mail করো please,email_sendemail
+607,আমার contact list এ unknown এর নাম্বারটা কী?,email_querycontact
+608,প্রফেসরকে ছবি email এ forward করো,email_sendemail
+609,জনকণ্ঠের আজ সন্ধ্যার news read করো,news_query
+610,contact list এ friend এর নাম্বার খুঁজে বলো please,email_querycontact
+611,প্লাম্বার এর contact info দেখাও,email_querycontact
+612,London এ কয়টা বাজে?,datetime_query
+613,"""What is your name"" এর অর্থ কী?",qa_definition
+614,পলাশ এর number কী?,email_querycontact
+615,"""কাছাকাছি মসজিদ কোথায়"" sentence এর মানে কী?",qa_definition
+616,Coldplay এর song চালু করো,play_music
+617,"""আমার booking confirm হয়েছে"" এর মানে কী?",qa_definition
+618,dentist কে শুভ জন্মদিন বলে মেসেঞ্জারে email দাও,email_sendemail
+619,প্রতি মঙ্গলবার 2 AM এ ঘুমানোর reminder দাও,calendar_set
+620,১১ power ৬ বলো,qa_maths
+621,আর্সেনালের latest খবরের সারাংশ বলো,news_query
+622,last 24 hours এর AI headline show করো,news_query
+623,Brazil এর আজকের খবর show করো প্লিজ,news_query
+624,১০ factorial কত হবে?,qa_maths
+625,reminder set করে দাও এক ঘণ্টা পর,calendar_set
+626,Liverpool এর আজ সন্ধ্যার headlines বলো,news_query
+627,Bangkok এর local টাইম কত?,datetime_query
+628,শনিবার দুপুর ১২টায় লন্ড্রি আনার অ্যালার্ম set করো,alarm_set
+629,Rangpur এ আবহাওয়ার পূর্বাভাস বলো,weather_query
+630,সহজে কীভাবে ইংরেজি speaking এ ভালো হব?,qa_factoid
+631,cyber security আর সিপিইউ এর পার্থক্য কী?,qa_definition
+632,প্লিজ ৮৩ কে ৪ দিয়ে ভাগ করলে remainder কত,qa_maths
+633,আমার contact list এ নাঈম এর নাম্বারটা কী?,email_querycontact
+634,২০১০ এর গানগুলো play করো,play_music
+635,মারুফ এর phone number কত?,email_querycontact
+636,ময়মনসিংহে পরশু heat wave হওয়ার সম্ভাবনা আছে?,weather_query
+637,৫০০ ringgit টাকায় convert করো,qa_currency
+638,এই weekend এ temperature কত?,weather_query
+639,"""Wi-Fi password কী"" এর definition কী? please",qa_definition
+640,ইফফাতকে congratulations email এ লিখে পাঠাও,email_sendemail
+641,"""Good luck for your exam"" এর মানে কী?",qa_definition
+642,Spotify এর লোগো কী রকম?,qa_factoid
+643,আজ night এ min temperature কত?,weather_query
+644,১৮০০ টাকার জিনিসে ২০ শতাংশ discount পেলে দাম কত?,qa_maths
+645,থানায় এর phone number বলো,email_querycontact
+646,প্লিজ স্যামসাং গ্যালাক্সি এস২৪ এর main advantage কী,qa_factoid
+647,কাল morning এ বাইরে যাওয়ার মতো আবহাওয়া আছে,weather_query
+648,প্লিজ email এ plumber কে project update দাও,email_sendemail
+649,lo-fi সংগীত শোনাও,play_music
+650,"""আমি পথ হারিয়েছি"" sentence এর মানে কী?",qa_definition
+651,"""SIM card কোথায় পাব"" বাক্যটার মানে কী?",qa_definition
+652,ববিকে email পাঠাও আজকের ক্লাস নেই,email_sendemail
+653,আরিফকে link email এ forward করো,email_sendemail
+654,"""শুভ রাত্রি"" word এর মানে কী?",qa_definition
+655,"""order টা cancel করুন"" এর মানে কী?",qa_definition
+656,Italy এর সাথে বাংলাদেশের time gap কত?,datetime_query
+657,"""Welcome to Bangladesh"" এর মানে কী? please",qa_definition
+658,৮৫০ টাকার ৭ percent সুদে ৪ বছরে সুদ কত হবে,qa_maths
+659,মোহাম্মদ রফি এর গান play দাও,play_music
+660,এই মুহূর্তের টেনিস headline জানাও,news_query
+661,Tokyo তে rain chance কেমন থাকবে?,weather_query
+662,ঢাকা আর নিউ ইয়র্কের মধ্যে time difference কত ঘণ্টা?,datetime_convert
+663,"""আমার একটা টেবিল বুক করা আছে"" meaning কী?",qa_definition
+664,২০০০ সালের গানগুলো play করো please,play_music
+665,"""ATM কোথায়"" শব্দটার মানে কী?",qa_definition
+666,20000 টাকার ঋণের 48 মাসের EMI কত হবে?,qa_maths
+667,BPL section এর আজ সন্ধ্যার news জানাও,news_query
+668,ফার্মেসিত এর phone number কত?,email_querycontact
+669,Kuwait এ কয়টা বাজে,datetime_query
+670,১০ dollar টাকায় কত,qa_currency
+671,প্যারিসের time এখন কত,datetime_query
+672,২০ মিনিটের timer start করো,alarm_set
+673,"""I don't understand"" এর অর্থ কী?",qa_definition
+674,"""bill দিন"" বলতে কী বোঝায়?",qa_definition
+675,workout এর সময় song চালু করো,play_music
+676,hailstorm এর সতর্কতা আছে কি,weather_query
+677,"""Better late than never"" এর অর্থ কী?",qa_definition
+678,email এ বসকে screenshot দাও,email_sendemail
+679,প্লিজ ঢাকায় দুপুর ১২টা বাজলে Manchester এ কয়টা বাজে?,datetime_convert
+680,inflation আর ভেঞ্চার ক্যাপিটাল এর পার্থক্য কী?,qa_definition
+681,২৫০০ টাকার পণ্যে ৫০ percent ছাড়ের পর দাম কত,qa_maths
+682,রুনা লায়লা এর song play করে দাও please,play_music
+683,প্লিজ tomorrow Gazipur এ weather কেমন?,weather_query
+684,চীনের headline read করো,news_query
+685,Manchester United এর recent headlines show করো,news_query
+686,কাল Rangpur এ weather কেমন?,weather_query
+687,প্লিজ drone camera এর main advantage কী?,qa_factoid
+688,email এ বন্ধুকে assignment send করো,email_sendemail
+689,সাকিবকে voice note email এ share করো,email_sendemail
+690,tan 30 ডিগ্রির মান কত?,qa_maths
+691,sir কে email করো,email_sendemail
+692,আমার contact list এ cousin এর নাম্বারটা কী?,email_querycontact
+693,weather update বলো,weather_query
+694,"৯৩, ২৮, ৫, ৭৬, ৬২ এর গড় calculate করো",qa_maths
+695,now Cox's Bazar এ কালবৈশাখী হবে কি?,weather_query
+696,১৯৫ কে ৫ দিয়ে ভাগ করলে remainder কত?,qa_maths
+697,সিলেটের আজ সন্ধ্যার খবরের সারাংশ show করো,news_query
+698,১০ hour পরে alarm,alarm_set
+699,স্ত্রীকে email লেখো,email_sendemail
+700,দাদুকে টিকেট email এ share করো,email_sendemail
+701,now Khulna তে শিলাবৃষ্টি হবে কি,weather_query
+702,কাল morning এ জ্যাকেট পরতে হবে?,weather_query
+703,ভাটিয়ালি music চালিয়ে দাও,play_music
+704,দুঃখের songs play করে দাও,play_music
+705,"Saudi Arabia তে এখন time কত, day না night",datetime_query
+706,"""It was a pleasure meeting you"" বাক্যটার মানে কী?",qa_definition
+707,please স্ত্রীকে email করে জানিয়ে দাও আমি পৌঁছে গেছি,email_sendemail
+708,সাম্প্রতিক top stories পড়ো,news_query
+709,"Kolkata তে এখন time কত, day না night?",datetime_query
+710,Kathmandu তে এখন দিন না রাত?,datetime_query
+711,Mim কে document email এ send করো,email_sendemail
+712,৪০ মিনিট পরে lunch এর রিমাইন্ডার set করো,calendar_set
+713,"""I need a doctor"" মানে কী?",qa_definition
+714,please national section এর রাতের খবর read করো,news_query
+715,মামা এর phone number বলো,email_querycontact
+716,customer care এর contact info দেখাও,email_querycontact
+717,পাড়ার গ্রুপে email পাঠাও শুভ জন্মদিন,email_sendemail
+718,please চরণ ধরিতে দিও গো song টা চালিয়ে দাও,play_music
+719,boss কে email লেখো,email_sendemail
+720,ঢাকা আর দুবাইয়ের মধ্যে time difference কত ঘণ্টা?,datetime_convert
+721,New York এ এই সপ্তাহে মেঘ হওয়ার chance আছে,weather_query
+722,প্রফেসরকে একটা email করে দাও প্লিজ,email_sendemail
+723,রাত ১টায় ডিনারের জন্য alert দাও,alarm_set
+724,২৫০ এর ১০ percent বলো,qa_maths
+725,ড্রাইভারকে email দাও,email_sendemail
+726,প্রতি বৃহস্পতিবার সকাল ৬টা ২০ মিনিটে tea break এর কথা remind করো,calendar_set
+727,ড্রাইভার এর number কী?,email_querycontact
+728,Dhaka তে বায়ুর মান কেমন?,weather_query
+729,"৮, ৬১, ৯৯, ৩১ এর average বলো",qa_maths
+730,২০০ meter কত feet,qa_maths
+731,friend এর নাম্বার কী?,email_querycontact
+732,Singapore এ এখন fog condition কত?,weather_query
+733,২৬৬ আর ২৩৫ এর difference,qa_maths
+734,night এ song play করে দাও,play_music
+735,email এ মেহেদীকে লোকেশন send করো,email_sendemail
+736,ভাইয়াকে bKash number email এ send করো,email_sendemail
+737,Seoul এর সময় এখন কত?,datetime_query
+738,কাল সকাল 11টায় ভাত বসানোর রিমাইন্ডার set করো,calendar_set
+739,টিচার এর contact info দেখাও,email_querycontact
+740,Mercury এর তাপমাত্রা কত?,qa_factoid
+741,আগামীকাল max temperature কত?,weather_query
+742,প্যারিসে now UV index কত?,weather_query
+743,sir এর contact number বের করে দাও,email_querycontact
+744,"কাজিনকে email পাঠাও I'm busy, পরে কথা বলছি",email_sendemail
+745,আজ morning এ Dhaka তে ছাদে যাওয়া যাবে?,weather_query
+746,সাবিনাকে আমি reached বলে email পাঠাও,email_sendemail
+747,4:00 AM এ বাস ধরার কথা remind করো,calendar_set
+748,আজ মাগরিবের time কয়টা?,datetime_query
+749,প্লিজ Barishal এর আজ সন্ধ্যার শিরোনাম read করো,news_query
+750,রেগে songs play করো,play_music
+751,"""Please wait here"" এর মানে কী?",qa_definition
+752,তৃষা এর number কী?,email_querycontact
+753,আপু এর contact detail খুঁজে দাও please,email_querycontact
+754,Manchester United এর this week এর শিরোনাম বলো,news_query
+755,খালাকে email করো দরজা খোলা আছে,email_sendemail
+756,"""এই medicine টা কীসের"" এর অর্থ কী?",qa_definition
+757,বাংলাদেশ ফুটবল দলের today's headlines বলো,news_query
+758,১৭৬ কি prime number?,qa_maths
+759,বিবিসি বাংলার গত ২৪ ঘণ্টার news summary show করো,news_query
+760,অ্যাম্বুলেন্সের জন্য 999 এর phone number কত?,email_querycontact
+761,London এ weather forecast দেখাও,weather_query
+762,৪৫৫ divided by ৩৫,qa_maths
+763,dentist এর contact info দেখাও,email_querycontact
+764,dad কে email করে জানিয়ে দাও আগামীকাল ছুটি,email_sendemail
+765,কোডিং শিখব how to,qa_factoid
+766,contact list এ স্যার এর নাম্বার খুঁজে বলো,email_querycontact
+767,শিল্প বিভাগের আজকের খবরের সারাংশ show করো,news_query
+768,international বিভাগের সর্বশেষ news বলো,news_query
+769,রাফিকে একটা email লিখে দাও,email_sendemail
+770,"""ticket কোথায় কিনব"" এর definition কী?",qa_definition
+771,999 নম্বরটা কার number?,email_querycontact
+772,আজ 7:20 AM-এ wake up call দাও প্লিজ,alarm_set
+773,recent ক্রিকেট সংবাদ দেখাও,news_query
+774,আমার contact list এ dad এর নাম্বারটা কী?,email_querycontact
+775,Anik কে একটা email করে দাও,email_sendemail
+776,ইমরানকে আমার একটু late হবে email করে দাও,email_sendemail
+777,BTS এর গানগুলো চালিয়ে দাও,play_music
+778,iftar এর ওয়াক্ত শুরু হতে আর কত বাকি?,datetime_query
+779,Pluto গ্রহে কয়টা চাঁদ আছে?,qa_factoid
+780,Mexico কোন মহাদেশে অবস্থিত?,qa_factoid
+781,সহপাঠীকে email লেখো,email_sendemail
+782,এই weekend এ min temperature কত?,weather_query
+783,Wi-Fi এর অসুবিধা কী?,qa_factoid
+784,মক্কায় আজ night এ বৃষ্টির সম্ভাবনা কত?,weather_query
+785,wife এর ফোন নাম্বার কত? please,email_querycontact
+786,কৃষি নিয়ে এই সপ্তাহের কী update?,news_query
+787,সকাল 6টায় ভাত বসানোর কথা remind করো,calendar_set
+788,প্রতি Tuesday সকাল 9টায় project deadline এর alarm দাও,alarm_set
+789,please তিথি এর contact number বের করে দাও,email_querycontact
+790,Dubai এর সময় এখন কত?,datetime_query
+791,জিম playlist চালু করো,play_music
+792,3 to the power 5 বলো,qa_maths
+793,জিডিপির full form কী?,qa_definition
+794,job নিয়ে রাতের কী খবর?,news_query
+795,"please ""আমি পানি চাই"" এর অর্থ কী?",qa_definition
+796,দুবাইয়ে weather forecast দাও,weather_query
+797,টিম লিডারকে everything ok email করে দাও,email_sendemail
+798,প্রতিদিন দুপুর ১২টায় cricket match এর কথা মনে করিও,calendar_set
+799,Shanghai তে এখন কয়টা?,datetime_query
+800,8:00 PM এ ঘুম ভাঙিয়ে দাও,alarm_set
+801,তামিল superhit song play করো,play_music
+802,Pabna তে আবহাওয়ার পূর্বাভাস বলো,weather_query
+803,wedding এ শোনার মতো song play দাও,play_music
+804,"ড্রাইভারকে আমি ব্যস্ত আছি, পরে কথা বলছি email করে দাও",email_sendemail
+805,team lead এর ফোন নাম্বার বলো please,email_querycontact
+806,এই weekend এ টাঙ্গাইলে ঘুরতে যাওয়া যাবে,weather_query
+807,ভারতের time zone কী?,datetime_query
+808,কুয়েতের time এখন কত?,datetime_query
+809,৪৫ মিনিটের timer সেট করো,alarm_set
+810,আমাকে ২ min পর workout এর reminder set করো please,calendar_set
+811,সকাল ৯টায় ব্রেকফাস্টের reminder দাও,calendar_set
+812,চাচাকে email করো,email_sendemail
+813,ছেলেকে স্কুল থেকে আনার reminder দাও বিকেল ৩টা ৪০ মিনিটে,calendar_set
+814,Apple এর হেডকোয়ার্টার কোথায়?,qa_factoid
+815,"""স্টেশন কোথায়"" এর meaning কী?",qa_definition
+816,অ্যাম্বুলেন্সের জন্য 999 এর contact detail খুঁজে দাও,email_querycontact
+817,পরশু Bangkok এ cloud হবে কি?,weather_query
+818,শিউলিকে email করে inform করো call me when free,email_sendemail
+819,পরশু Dinajpur এ outing এর জন্য ঠিক আছে?,weather_query
+820,T20 নিয়ে আজ সকালের কী news?,news_query
+821,contact list এ জান্নাত এর নাম্বার খুঁজে বলো,email_querycontact
+822,Microsoft কবে প্রতিষ্ঠিত হয়,qa_factoid
+823,colleague কে email করে জানিয়ে দাও টাকা পাঠিয়েছি check করো,email_sendemail
+824,কোনো breaking news আছে কি?,news_query
+825,মৌসুমী এর phone number বলো,email_querycontact
+826,নাঈমকে mail পাঠাও টাকা পাঠিয়েছি দেখে নাও,email_sendemail
+827,"সুমনকে email দাও ঠিক আছে, আসছি",email_sendemail
+828,আফ্রিকার news দেখাও,news_query
+829,"Istanbul এ এখন time কত, day না night?",datetime_query
+830,Sylhet এ this week এ cyclone হওয়ার chance আছে,weather_query
+831,resume লিখব how to?,qa_factoid
+832,meditation এর রিমাইন্ডার দিয়ে দাও সকাল ১১টা ৪৫ মিনিটে প্লিজ,calendar_set
+833,ঢাকা আর Saudi Arabia এর মধ্যে time difference কত ঘণ্টা?,datetime_convert
+834,আজ night এ Cumilla তে sunscreen লাগবে?,weather_query
+835,৯ আর ৫৯ এর GCD কত?,qa_maths
+836,Levitating গানটা play করো,play_music
+837,মক্কায় weather forecast দেখাও,weather_query
+838,Sri Lanka কবে স্বাধীন হয়?,qa_factoid
+839,Khulna এর সাম্প্রতিক আপডেট দেখাও,news_query
+840,পাঞ্জাবি হালকা songs শোনাও,play_music
+841,প্লিজ ৩৫০ টাকার ৭ শতাংশ interest এ ৯ বছরে কত interest হবে?,qa_maths
+842,Believer song টা ছাড়ো,play_music
+843,সকাল সোয়া ৮টায় এলার্ম set করে দাও,alarm_set
+844,Uranus সূর্য থেকে কত দূরে?,qa_factoid
+845,ডেইলি স্টারের দুপুরের খবর show করো,news_query
+846,driver এর contact info দেখাও,email_querycontact
+847,৪৯২ আর ১০৮ এর sum কত হবে?,qa_maths
+848,আজ সকালের top stories শোনাও,news_query
+849,"""আমি দুঃখিত"" এর meaning কী?",qa_definition
+850,11:30 AM এ workout এর কথা মনে করিয়ে দাও,calendar_set
+851,Toronto তে এখন কয়টা বাজে?,datetime_query
+852,সন্ধ্যা ৭টায় dinner এর রিমাইন্ডার set করো,calendar_set
+853,১৫০ km কত মাইল,qa_maths
+854,Nusrat কে আমার একটু দেরি হবে বলে মেসেঞ্জারে email পাঠাও,email_sendemail
+855,Chattogram এর আজ সকালের আপডেট দেখাও,news_query
+856,favourite contact এর contact info দেখাও,email_querycontact
+857,পাঞ্জাবি soft গান ছাড়ো,play_music
+858,পরশু Cox's Bazar এ ফ্লাইট দেরি হওয়ার সম্ভাবনা আছে?,weather_query
+859,please Malaysia তে এখন কি দিন চলছে?,datetime_query
+860,৩৫% of ১০০০০,qa_maths
+861,আমার ফেভারিট প্লেলিস্ট play করো,play_music
+862,unknown এর contact detail খুঁজে দাও,email_querycontact
+863,আগামীকাল 3:05 AM এ reminder set করে দাও,calendar_set
+864,২০০০ Tk এর সাথে ৯০% add করলে কত হয়,qa_maths
+865,প্রতিদিন সন্ধ্যা 6টা 30 মিনিটে alarm,alarm_set
+866,নানুকে রিপোর্ট email এ forward করো প্লিজ,email_sendemail
+867,iPhone 15 এর দাম কত?,qa_factoid
+868,contact list এ ইফফাত এর নাম্বার খুঁজে বলো,email_querycontact
+869,১৫০০ টাকার ২০ percent বলো,qa_maths
+870,আজ সকালের আইপিএল news summary show করো,news_query
+871,feel good song play দাও,play_music
+872,সুনামগঞ্জে min temperature কেমন,weather_query
+873,স্বামীকে assignment email এ share করো প্লিজ,email_sendemail
+874,এই সপ্তাহের শীর্ষ খবর read করো,news_query
+875,সাম্প্রতিক football headline বলো please,news_query
+876,মেহেদী এর phone number কত? প্লিজ,email_querycontact
+877,Nokia এর বর্তমান CEO কে,qa_factoid
+878,"""I need a doctor"" এর মানে কী?",qa_definition
+879,earthquake কে আবিষ্কার করেছেন?,qa_factoid
+880,"office group এ email করে inform করো ok, আসছি",email_sendemail
+881,হোম ডেলিভারিত এর contact number বের করে দাও,email_querycontact
+882,CNN এর latest শিরোনাম জানাও,news_query
+883,please আমাকে ৬ ঘণ্টা পর water খাওয়ার রিমাইন্ডার দাও,calendar_set
+884,"""শুভ রাত্রি"" বলতে কী mean করে?",qa_definition
+885,Leonardo da Vinci সম্পর্কে বলো,qa_factoid
+886,Bangladesh cricket team এর ম্যাচের স্কোর কত?,news_query
+887,সকাল ৭টা ৪৫ মিনিটে electricity bill pay করার কথা মনে করিয়ে দাও,calendar_set
+888,Google এর হেডকোয়ার্টার কোথায়?,qa_factoid
+889,"""জায়গাটা খুব সুন্দর"" এই বাক্যটা বলতে কী বোঝায়? please",qa_definition
+890,sin ৩০ ডিগ্রির মান কত,qa_maths
+891,Dutch ভাষার মানে কী?,qa_definition
+892,ছেলেকে স্কুল থেকে আনার reminder সেট করো ১০ ঘণ্টা পর,calendar_set
+893,Chicago তে টাইম বলো,datetime_query
+894,Rakib কে একটা email লিখে দাও,email_sendemail
+895,প্লিজ neural network এর অসুবিধা কী?,qa_factoid
+896,BTS এর গান ছাড়ো,play_music
+897,টোকিওর সাথে ঢাকার time difference কত?,datetime_convert
+898,"Nabil কে ok, আসছি email এ লিখে পাঠাও",email_sendemail
+899,যোহরের time হতে আর কত বাকি?,datetime_query
+900,Narayanganj এ আজ দুপুরে তাপপ্রবাহ হওয়ার সম্ভাবনা আছে?,weather_query
+901,Sylhet এ next week এ UV index কত,weather_query
+902,বাবাকে reschedule request নিয়ে মেইল করো,email_sendemail
+903,এই weekend এ লন্ডনে cyclone হবে কি?,weather_query
+904,স্টাডি গ্রুপে আজকের ক্লাস নেই email করে দাও,email_sendemail
+905,API আর Bitcoin এর পার্থক্য কী?,qa_definition
+906,ঢাকায় রাত ১১টা বাজলে Los Angeles এ কয়টা বাজে,datetime_convert
+907,ফারহান এর contact number বের করে দাও please,email_querycontact
+908,৪৫ min পর birthday এর reminder দিয়ে দাও,calendar_set
+909,বগুড়ায় আজ কালবৈশাখী হওয়ার chance আছে?,weather_query
+910,"""বাথরুম কোথায়"" বলতে কী mean করে?",qa_definition
+911,আজ outing এর জন্য ঠিক আছে?,weather_query
+912,আমাকে রবিবার ভোর ৩টায় বাস ধরার reminder দিয়ে দাও,calendar_set
+913,mobile phone নিয়ে ব্রেকিং কী update?,news_query
+914,India cricket team এর ব্রেকিং সংবাদ পড়ো,news_query
+915,Kuwait এ টাইম কত?,datetime_query
+916,৭৫০০ Tk এর পণ্যে ২৫% discount এর পর দাম কত,qa_maths
+917,client কে email করে জানিয়ে দাও আমাকে ফোন দিও,email_sendemail
+918,IPL নিয়ে এই মুহূর্তের কী update?,news_query
+919,৯ power ৭ বলো,qa_maths
+920,২৭৭ কে ১২ দিয়ে ভাগ করলে remainder কত?,qa_maths
+921,ক্যাম্পাস নিয়ে আজ সকালের কী news?,news_query
+922,১০ hour পর reminder set করে দাও,calendar_set
+923,"""দয়া করে আমাকে সাহায্য করুন"" এই sentence টা বলতে কী বোঝায়?",qa_definition
+924,Sabina এর ফোন নাম্বার বলো,email_querycontact
+925,দাদু এর contact detail খুঁজে দাও,email_querycontact
+926,১৫০০০ টাকার ৪% interest এ ৮ বছরে সুদ কত হবে?,qa_maths
+927,এই সপ্তাহে Tangail এ ভ্রমণের জন্য ভালো দিন?,weather_query
+928,স্যারকে টিকেট email এ forward করো,email_sendemail
+929,মক্কায় time কত,datetime_query
+930,please MacBook Air এর features কী?,qa_factoid
+931,workout প্লেলিস্ট play করে দাও,play_music
+932,ভালো photo তুলব কীভাবে?,qa_factoid
+933,doctor কে email করে জানিয়ে দাও আগামীকাল ছুটি,email_sendemail
+934,ব্যাংককে ঝড়ের alert আছে,weather_query
+935,৯০০০ taka এর জিনিসে ১০% discount পেলে দাম কত?,qa_maths
+936,ডাক্তার এর contact number বের করে দাও,email_querycontact
+937,colleague কে একটা email করে দাও,email_sendemail
+938,greenhouse gas এর গুরুত্ব কী?,qa_factoid
+939,party প্লেলিস্ট play করে দাও,play_music
+940,email এ husband কে বিকাশ নম্বর send করো,email_sendemail
+941,Shanghai তে কয়টা বাজে?,datetime_query
+942,কিছু দুঃখের songs শোনাও,play_music
+943,ঢাকায় রাত ১১টা বাজলে London এ কয়টা বাজে?,datetime_convert
+944,কালের কণ্ঠের breaking হেডলাইন শোনাও,news_query
+945,BPL নিয়ে আজ সন্ধ্যার কী খবর?,news_query
+946,ইমরান এর number কী?,email_querycontact
+947,recent contact এর contact info দেখাও,email_querycontact
+948,৪ hour আগে কয়টা ছিল?,datetime_query
+949,প্লিজ Sylhet এ আবহাওয়ার পূর্বাভাস দেখাও,weather_query
+950,"""I don't understand"" এর অর্থ কী? please",qa_definition
+951,Lata Mangeshkar এর গানগুলো চালিয়ে দাও,play_music
+952,now UV index কত?,weather_query
+953,আজ Isha র time কয়টা?,datetime_query
+954,১ মিনিটের timer লাগাও,alarm_set
+955,recent contact এর ফোন নাম্বার কত?,email_querycontact
+956,ফুফুকে email করো,email_sendemail
+957,আমার contact list এ Mim এর নাম্বারটা কী?,email_querycontact
+958,আগামীকাল দুপুর ২টায় presentation এর এলার্ম দাও,alarm_set
+959,sin ৪৫ ডিগ্রির মান কত?,qa_maths
+960,কাল সন্ধ্যা ৬টায় water খাওয়ার কথা remind করো,calendar_set
+961,Abu Dhabi তে এখন কয়টা বাজে?,datetime_query
+962,কাল সকাল সাড়ে ৯টায় alarm set করে দাও প্লিজ,alarm_set
+963,Mexico এর জাতীয় ভাষা কী,qa_factoid
+964,হালকা song বাজাও,play_music
+965,আজ sehri এর time কয়টা?,datetime_query
+966,আগামীকাল fog condition কত?,weather_query
+967,"""আপনার সাথে দেখা হয়ে ভালো লাগলো"" এর definition কী?",qa_definition
+968,madam এর নাম্বার কী?,email_querycontact
+969,Mexico এর সীমান্তে কোন কোন দেশ আছে,qa_factoid
+970,আমাকে প্রতিদিন সকাল 11টা 10 মিনিটে meeting এর reminder দাও,calendar_set
+971,ময়মনসিংহে now কালবৈশাখী হওয়ার chance আছে?,weather_query
+972,dinner এর reminder set করো সন্ধ্যা 6টায়,calendar_set
+973,আমাকে বিকেল ৫টায় পানি খাওয়ার reminder দাও,calendar_set
+974,Sydney তে এখন time কত?,datetime_query
+975,এই weekend এ air quality কত?,weather_query
+976,"""Where is the bus stop"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition
+977,আজ iftar এর time কয়টা,datetime_query
+978,Eminem এর energetic গান play করে দাও,play_music
+979,লন্ডনে weather forecast দেখাও,weather_query
+980,Kal Ho Naa Ho গানটি চালু করো,play_music
+981,দুপুর 2টা 30 মিনিটে ইন্টারভিউয়ের reminder দাও,calendar_set
+982,email এ অনিককে address পাঠাও,email_sendemail
+983,এই weekend এ সাভারে আবহাওয়া কেমন?,weather_query
+984,আমার contact list এ client এর নাম্বারটা কী?,email_querycontact
+985,alarm রাখো tomorrow সন্ধ্যা ৭টায়,alarm_set
+986,London এ এখন টাইম কত?,datetime_query
+987,cousin কে লাইভ লোকেশন email এ send করো please,email_sendemail
+988,boss কে email দাও আমি খেয়েছি,email_sendemail
+989,mobile phone section এর দুপুরের update দেখাও,news_query
+990,আমার contact list এ manager এর নাম্বারটা কী? please,email_querycontact
+991,reminder দাও ৪৫ মিনিট পরে,calendar_set
+992,৫৯ আর ৩ এর product কত হবে,qa_maths
+993,হেমন্ত মুখোপাধ্যায় এর song ছাড়ো,play_music
+994,অ্যালার্ম set করে দাও পরশু সকাল ৫টা ১০ মিনিটে,alarm_set
+995,আমার contact list এ তৃষা এর নাম্বারটা কী?,email_querycontact
+996,contact list এ professor এর নাম্বার খুঁজে বলো,email_querycontact
+997,"""ধন্যবাদ"" বলতে কী mean করে?",qa_definition
+998,সোনু নিগমের গানগুলো play করে দাও,play_music
+999,১ hour আগে কয়টা ছিল?,datetime_query
+1000,ব্যাং এর contact number বের করে দাও,email_querycontact
+1001,আমাকে ভোর ৫টা ২০ মিনিটে তাহাজ্জুদের reminder দাও,calendar_set
+1002,4:05 PM এ অ্যালার্ম দিয়ে রাখো,alarm_set
+1003,কাল সকাল ৯টায় জিমের alarm set করো,alarm_set
+1004,নানু এর phone number কত?,email_querycontact
+1005,Istanbul এ time বলো,datetime_query
+1006,আগামীকাল jacket লাগবে?,weather_query
+1007,Rome এ এখন সময় কত,datetime_query
+1008,5G আর cloud computing এর পার্থক্য কী?,qa_definition
+1009,৬০ liter কত গ্যালন?,qa_maths
+1010,১৫০ pound কত কেজি?,qa_maths
+1011,ব্যান্ড গান play করে দাও,play_music
+1012,Egypt কোন মহাদেশে অবস্থিত?,qa_factoid
+1013,প্লিজ Linux কীভাবে কাজ করে?,qa_factoid
+1014,Europe এর দুপুরের news summary বলো,news_query
+1015,"""আমি দুঃখিত"" meaning কী?",qa_definition
+1016,1472 আর 719 এর difference কত হয়,qa_maths
+1017,২৫ মিনিট পরে laundry আনার অ্যালার্ম,alarm_set
+1018,sir এর contact info দেখাও,email_querycontact
+1019,"""আমি আপনাকে ভালোবাসি"" এর meaning কী?",qa_definition
+1020,Kal Ho Naa Ho গানটা চালাও,play_music
+1021,Bitcoin এর দাম কত?,qa_factoid
+1022,gaming laptop এর দাম কত টাকা?,qa_factoid
+1023,ঘূর্ণিঝড়ের warning আছে কি?,weather_query
+1024,আমাকে today সকাল ৫টা ২০ মিনিটে walk এ যাওয়ার reminder দাও,calendar_set
+1025,Rony এর ফোন নাম্বার বলো,email_querycontact
+1026,Cairo তে এখন টাইম কত?,datetime_query
+1027,this week এ নিউ ইয়র্কে রোদে বের হলে সমস্যা হবে?,weather_query
+1028,রাজনীতি নিয়ে recent কী খবর?,news_query
+1029,please কিছু popular music play দাও,play_music
+1030,Arif কে email পাঠাও,email_sendemail
+1031,Korean new songs চালু করো,play_music
+1032,প্রফেসর এর phone number বলো,email_querycontact
+1033,আগামীকাল সকাল ৯টা ১৫ মিনিটে workout এর কথা মনে করিও,calendar_set
+1034,Gazipur এ next 3 days fog হওয়ার chance আছে?,weather_query
+1035,"""আমার flight delay হয়েছে"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition
+1036,Korean language এর definition কী?,qa_definition
+1037,New York এ এখন দিন না রাত?,datetime_query
+1038,রাত ১০টায় ডিনারের কথা remind করে দিও,calendar_set
+1039,USA এর শিরোনাম show করো,news_query
+1040,চরণ ধরিতে দিও গো গানটি play করে দাও,play_music
+1041,আজ রাতের আন্তর্জাতিক news summary show করো,news_query
+1042,email এ তাসনীমকে প্রজেক্ট আপডেট দাও,email_sendemail
+1043,"""card এ payment নেবেন"" এর অর্থ কী?",qa_definition
+1044,যুগান্তরের আজ রাতের update জানাও,news_query
+1045,৯ ঘণ্টা পর গাছে পানি দেওয়ার কথা remind করে দিও,calendar_set
+1046,please Korean sad song play করে দাও,play_music
+1047,"New York এ এখন time কত, day না night?",datetime_query
+1048,জান্নাতকে ক্যান্সেলেশন নোটিশ নিয়ে mail করো,email_sendemail
+1049,liked songs playlist play করো,play_music
+1050,ব্রাজিলের রাতের হেডলাইন read করো,news_query
+1051,আজ সন্ধ্যায় air quality কত?,weather_query
+1052,৩৬০০ টাকায় ৭% VAT যোগ করলে কত হয়?,qa_maths
+1053,৪৫ মিনিট পর ব্যাংকে যাওয়ার কথা remind করে দিও,calendar_set
+1054,ওয়ারফেজের সুপারহিট গানগুলো play করো,play_music
+1055,sir এর ফোন নাম্বার কত?,email_querycontact
+1056,client কে email পাঠাও শুভ জন্মদিন,email_sendemail
+1057,Sakib কে শুভ জন্মদিন বলে email দাও,email_sendemail
+1058,"""Happy anniversary"" মানে কী?",qa_definition
+1059,"""card এ payment নেবেন"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition
+1060,"প্লিজ কানাডায় এখন time কত, day না night?",datetime_query
+1061,৪০০ টাকার bill এ ৫ শতাংশ tip কত হয়,qa_maths
+1062,Arsenal এর ম্যাচের score কত?,news_query
+1063,ঢাকায় বিকেল ৪টা বাজলে Sydney তে কয়টা বাজে?,datetime_convert
+1064,৮ ঘণ্টা পরে time কত হবে?,datetime_query
+1065,বন্যার warning আছে কি,weather_query
+1066,"""card এ payment নেবেন"" এর অর্থ কী? please",qa_definition
+1067,Saudi Arabia এর সীমান্তে কোন কোন দেশ আছে,qa_factoid
+1068,কাল সকালে flight delay হওয়ার chance আছে?,weather_query
+1069,Bogura তে ভারী বর্ষণের সতর্কবার্তা আছে,weather_query
+1070,GitHub মানে কী?,qa_definition
+1071,বাংলাদেশ ফুটবল দলের দুপুরের news শোনাও,news_query
+1072,ফায়ারওয়াল আর USB এর difference কী?,qa_definition
+1073,শেষ dial করা নাম্বারটা কার নামে আছে বলো please,email_querycontact
+1074,৭৫ percent of ২০০০ calculate করো,qa_maths
+1075,London এ এখন দিন না রাত?,datetime_query
+1076,"""order টা cancel করুন"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition
+1077,dad এর contact info দেখাও,email_querycontact
+1078,দেড় ঘণ্টা পরে reminder set করো,calendar_set
+1079,Canada তে এখন কয়টা বাজে?,datetime_query
+1080,today Cox's Bazar এ আবহাওয়া কেমন?,weather_query
+1081,৯ ঘণ্টা পর ছেলেকে স্কুল থেকে আনার alarm দাও,alarm_set
+1082,South Korea এর রাজধানী কোথায়,qa_factoid
+1083,next 3 days খুলনায় weather কেমন?,weather_query
+1084,শেষ missed call এর contact info দেখাও,email_querycontact
+1085,"""order টা cancel করুন"" বাক্যটার মানে কী?",qa_definition
+1086,শুভকে invoice নিয়ে email লিখে পাঠাও,email_sendemail
+1087,ঢাকার সর্বশেষ খবর show করো প্লিজ,news_query
+1088,ঢাকার দুপুরের খবর read করো,news_query
+1089,৬০ meter কে feet এ বদলাও,qa_maths
+1090,Mecca তে আজ বিকেলে storm হওয়ার chance আছে?,weather_query
+1091,"""আমার পাসপোর্ট হারিয়েছে"" এর meaning কী?",qa_definition
+1092,আতিফ আসলামের song ছাড়ো,play_music
+1093,সকাল ৭টায় reminder,calendar_set
+1094,কাল দুপুর ২টা ৫ মিনিটে alarm রাখো,alarm_set
+1095,সাব্বির এর contact detail খুঁজে দাও,email_querycontact
+1096,এ আর রহমানের দেশাত্মবোধক গানগুলো play করে দাও,play_music
+1097,রাতের টি-টোয়েন্টি news বলো,news_query
+1098,12 এর সাথে 15 add করো,qa_maths
+1099,লালনগীতি গান play দাও,play_music
+1100,France এর জনসংখ্যা কত?,qa_factoid
+1101,প্লিজ Perfect গানটা ছাড়ো,play_music
+1102,please দাদু এর contact detail খুঁজে দাও,email_querycontact
+1103,instrumental music চালু করো,play_music
+1104,আমাকে ৫ মিনিট পরে coaching এর reminder set করো,calendar_set
+1105,সকাল ৮টা ২০ মিনিটে wake up call দাও,alarm_set
+1106,১৭ এর square কত হয়?,qa_maths
+1107,৭ মিনিট পর wake up call দাও,alarm_set
+1108,এশার time কয়টায়?,datetime_query
+1109,Nabil কে project update email এ পাঠাও,email_sendemail
+1110,project group এ email পাঠাও অভিনন্দন,email_sendemail
+1111,Argentina এর breaking news summary দেখাও,news_query
+1112,solar system কেন হয়?,qa_factoid
+1113,এখন থেকে ৮ hour পর কয়টা বাজবে?,datetime_query
+1114,please ২০ min পরে alarm set করে দাও,alarm_set
+1115,Zuhr এর ওয়াক্ত শুরু হতে আর কত বাকি,datetime_query
+1116,দুপুর ২টা ৪৫ মিনিটে ইন্টারভিউয়ের reminder দাও,calendar_set
+1117,সকাল ৫টা ৫ মিনিটে interview এর রিমাইন্ডার দাও,calendar_set
+1118,"""How much is this"" বাক্যটার মানে কী?",qa_definition
+1119,A R Rahman এর songs play করে দাও,play_music
+1120,৬৫% of ৩০০০ কত হয়?,qa_maths
+1121,inflation কাকে বলে?,qa_factoid
+1122,তৃষাকে দরজা খোলা আছে email করে দাও,email_sendemail
+1123,৪৩৯ minus ৭১ কত হবে?,qa_maths
+1124,please বন্ধুদের গ্রুপে ticket email এ share করো,email_sendemail
+1125,নারায়ণগঞ্জে শুক্রবার max temperature কত?,weather_query
+1126,doctor এর contact info দেখাও,email_querycontact
+1127,"""আপনার নাম কী"" এর definition কী? please",qa_definition
+1128,Maruf এর contact info দেখাও please,email_querycontact
+1129,নিলয়কে email পাঠাও টাকা পাঠিয়েছি check করো,email_sendemail
+1130,10:40 AM এ ভাত বসানোর alarm দাও,alarm_set
+1131,contact list এ করিম এর নাম্বার খুঁজে বলো,email_querycontact
+1132,Spotify কীভাবে আয় করে?,qa_factoid
+1133,ভারতের time এখন কত?,datetime_query
+1134,সাবিনা এর number কী?,email_querycontact
+1135,contact list এ নুসরাত এর নাম্বার খুঁজে বলো,email_querycontact
+1136,প্লিজ চেলসির এই সপ্তাহের headlines জানাও,news_query
+1137,bKash কীভাবে আয় করে?,qa_factoid
+1138,ব্যবসা বিভাগের সর্বশেষ খবর show করো,news_query
+1139,১৯ এর square কত?,qa_maths
+1140,top 50 প্লেলিস্ট play করে দাও please,play_music
+1141,সুমনকে email দাও,email_sendemail
+1142,সহজে কীভাবে মোবাইলের battery বাঁচাব,qa_factoid
+1143,score কত,news_query
+1144,শুভকে email করো,email_sendemail
+1145,দাদু এর phone number কত?,email_querycontact
+1146,ঢাকায় দুপুর 12টা বাজলে Rome এ কয়টা বাজে?,datetime_convert
+1147,"""Please wait here"" মানে কী?",qa_definition
+1148,ফায়ার সার্ভিসে 999 এর phone number কত?,email_querycontact
+1149,roommate কে পেমেন্ট রিমাইন্ডার নিয়ে mail করো,email_sendemail
+1150,Zuhr এর সময় কয়টায়?,datetime_query
+1151,ইফফাত এর number কী?,email_querycontact
+1152,ফোক সংগীত play দাও,play_music
+1153,আজ Jummah র সময় কয়টা?,datetime_query
+1154,সিউলের local সময় কত?,datetime_query
+1155,এখন day না night,datetime_query
+1156,Barcelona এর recent headlines বলো,news_query
+1157,কাতারের সাথে বাংলাদেশের time gap কত?,datetime_query
+1158,বাংলাদেশ ক্রিকেট দলের last 24 hours এর headline দেখাও,news_query
+1159,বাংলাদেশ ফুটবল দলের last 24 hours এর হেডলাইন read করো,news_query
+1160,gaming laptop কেমন?,qa_factoid
+1161,Malaysia কোন মহাদেশে অবস্থিত?,qa_factoid
+1162,Kuakata তে thunderstorm এর সতর্কবার্তা আছে?,weather_query
+1163,this week এ Bangkok এ আবহাওয়া কেমন?,weather_query
+1164,"""এটা কত দূর"" এর meaning কী?",qa_definition
+1165,Sylhet এর headline read করো,news_query
+1166,বসকে ধন্যবাদ বার্তা নিয়ে email লিখে পাঠাও,email_sendemail
+1167,IP address এর সুবিধা কী কী?,qa_factoid
+1168,Switzerland এর জনসংখ্যা কত,qa_factoid
+1169,১৫০ কিলোমিটার mile এ কত হয়?,qa_maths
+1170,আগামী তিন দিন Tangail এ weather কেমন?,weather_query
+1171,sufi songs চালিয়ে দাও,play_music
+1172,প্লিজ নাইকির বর্তমান CEO কে?,qa_factoid
+1173,বন্ধু এর contact number বের করে দাও,email_querycontact
+1174,4:00 PM এ wake up call দাও,alarm_set
+1175,ফুটবল section এর আজ রাতের সংবাদ দাও,news_query
+1176,university এর ফোন নাম্বার বলো,email_querycontact
+1177,Hong Kong এ টাইম কত?,datetime_query
+1178,শাফল করে ঘুমের প্লেলিস্ট play করে দাও,play_music
+1179,সাম্প্রতিক ক্রিপ্টো শিরোনাম read করো,news_query
+1180,আজ রাতের কৃষি news read করো,news_query
+1181,৫ ringgit taka এ কত?,qa_currency
+1182,কস ৩০ degree এর value কত?,qa_maths
+1183,please Sunday ভোর ৩টা ১৫ মিনিটে গাছে পানি দেওয়ার জন্য মনে করিয়ে দিও,calendar_set
+1184,৩৮ এর square কত?,qa_maths
+1185,২৫০০০ টাকার bill এ ১৫% tip,qa_maths
+1186,"""It was a pleasure meeting you"" মানে কী?",qa_definition
+1187,please এই সপ্তাহের cricket শিরোনাম দেখাও,news_query
+1188,জন্মদিনের reminder দাও Wednesday 11:00 PM এ,calendar_set
+1189,আত্মীয়দের গ্রুপে email পাঠাও everything ok,email_sendemail
+1190,ফ্রেঞ্চ language কী?,qa_definition
+1191,Germany এর সাথে বাংলাদেশের সময়ের তফাত কত?,datetime_query
+1192,দুপুরের top stories শোনাও,news_query
+1193,Bangkok এ আবহাওয়ার পূর্বাভাস দাও,weather_query
+1194,আর্জেন্টিনার এই সপ্তাহের update read করো,news_query
+1195,৪৫০ টাকা থেকে ১৮ percent off করলে কত থাকে,qa_maths
+1196,"""Where is the bus stop"" এর definition কী?",qa_definition
+1197,batch group এ email পাঠাও শুভ জন্মদিন,email_sendemail
+1198,১২০০০ টাকা ৫ জনে split করলে per head কত?,qa_maths
+1199,Malaysia তে এখন time কত?,datetime_query
+1200,Wi-Fi কীভাবে কাজ করে?,qa_factoid
+1201,শিক্ষা section এর গত ২৪ ঘণ্টার headline show করো,news_query
+1202,প্লাম্বারকে অভিনন্দন বলে email করো প্লিজ,email_sendemail
+1203,১৬৪৬ আর ৩১১ এর difference কত হবে?,qa_maths
+1204,dentist এর contact detail খুঁজে দাও,email_querycontact
+1205,Asr এর ওয়াক্ত শুরু হতে আর কত বাকি?,datetime_query
+1206,email এ অফিস গ্রুপে টিকেট send করো,email_sendemail
+1207,স্টার্টআপ section এর সাম্প্রতিক headline পড়ে শোনাও,news_query
+1208,today পাবনায় weather কেমন?,weather_query
+1209,৩৬ এর সাথে ৮৬৩ add করো,qa_maths
+1210,The Daily Star এর আজ সন্ধ্যার news পড়ে শোনাও,news_query
+1211,ড্রাইভার এর contact info দেখাও please,email_querycontact
+1212,contact list এ lab এর নাম্বার খুঁজে বলো,email_querycontact
+1213,রাত সোয়া ৮টায় reminder set করে দাও,calendar_set
+1214,Khulna তে এই weekend এ সর্বোচ্চ তাপমাত্রা কত?,weather_query
+1215,সন্ধ্যা ৬টায় gym এর রিমাইন্ডার দাও,calendar_set
+1216,email এ cousin কে টিকেট share করো please,email_sendemail
+1217,তাসনীম এর contact info দেখাও,email_querycontact
+1218,65000 টাকার loan এর 36 মাসের EMI কত হবে?,qa_maths
+1219,৩৬০০ টাকার সাথে ৭৫ পার্সেন্ট add করলে কত হয়?,qa_maths
+1220,আমার contact list এ গ্যারেজ এর নাম্বারটা কী?,email_querycontact
+1221,Someone Like You গানটা ছাড়ো,play_music
+1222,শেষ incoming call কার নাম্বার থেকে এসেছে?,email_querycontact
+1223,ozone layer কে আবিষ্কার করেছেন,qa_factoid
+1224,১২০০ টাকার জিনিসে ২০% discount পেলে দাম কত?,qa_maths
+1225,ঢাকা আর Canada এর মধ্যে time difference কত ঘণ্টা?,datetime_convert
+1226,সাবিনা ইয়াসমিনের music বাজাও,play_music
+1227,study group এ একটা email লিখে দাও,email_sendemail
+1228,Bandarban এ এই সপ্তাহে hot হবে?,weather_query
+1229,জান্নাত এর phone number বলো,email_querycontact
+1230,"""meeting এ আপনাকে স্বাগতম"" এর definition কী?",qa_definition
+1231,"""আমি নিরামিষ খাই"" এর meaning কী?",qa_definition
+1232,৩২৯ এর সাথে ৪০৭ add করো,qa_maths
+1233,project group এ মেইল পাঠাও আমি বাসায় ফিরছি,email_sendemail
+1234,আজ Zuhr এর সময় কয়টা?,datetime_query
+1235,২০০০০ Tk এর ঋণের ৬ মাসের EMI কত হবে?,qa_maths
+1236,Moscow তে এখন কয়টা বাজে?,datetime_query
+1237,সিউলে এখন time কত?,datetime_query
+1238,please ৫০ মিনিট পরে doctor appointment এর কথা মনে করিও,calendar_set
+1239,contact list এ ফারহান এর নাম্বার খুঁজে বলো,email_querycontact
+1240,৪৯ এর square root কত হবে?,qa_maths
+1241,বিরহের song চালাও প্লিজ,play_music
+1242,আধ ঘণ্টা পরে webinar এর alarm সেট করো,alarm_set
+1243,"""আমার booking confirm হয়েছে"" এর definition কী? please",qa_definition
+1244,please লন্ডনের local time কত?,datetime_query
+1245,please আজ Maghrib এর সময় কয়টা?,datetime_query
+1246,Rafi কে email লেখো,email_sendemail
+1247,"""আমি ক্ষুধার্ত"" word এর মানে কী?",qa_definition
+1248,Lisbon এ সময় বলো,datetime_query
+1249,classmate এর contact detail খুঁজে দাও,email_querycontact
+1250,সিডনির local সময় কত?,datetime_query
+1251,"""How are you"" এর অর্থ কী? please",qa_definition
+1252,আল জাজিরার today's headline read করো,news_query
+1253,৫ ঘণ্টা পর alarm,alarm_set
+1254,৬০ গ্রাম ounce এ রূপান্তর করো,qa_maths
+1255,travel এর সময় শোনার মতো গানগুলো play করে দাও,play_music
+1256,please roommate এর ফোন নাম্বার কত?,email_querycontact
+1257,Justin Bieber এর songs শোনাও,play_music
+1258,স্টাডি গ্রুপে email করে inform করো আজ আসতে পারব না,email_sendemail
+1259,"""bill দিন"" এর অর্থ কী?",qa_definition
+1260,please GPU কি নিরাপদ,qa_factoid
+1261,"""খাবারটা দারুণ হয়েছে"" এই sentence টা বলতে কী বোঝায়?",qa_definition
+1262,"""আমার জন্য একটা কফি দিন"" sentence এর মানে কী?",qa_definition
+1263,"""Good luck for your exam"" এর definition কী?",qa_definition
+1264,প্রফেসরকে বিকাশ নম্বর email এ forward করো,email_sendemail
+1265,পাড়ার গ্রুপে email দাও আমি পৌঁছে গেছি,email_sendemail
+1266,professor কে email করো,email_sendemail
+1267,ব্যাংকে যাওয়ার reminder দাও বৃহস্পতিবার সকাল ৬টায়,calendar_set
+1268,ঢাকায় রাত 11টা বাজলে Istanbul এ কয়টা বাজে?,datetime_convert
+1269,Qatar এর সময় অঞ্চল কী,datetime_query
+1270,দুঃখের গানগুলো play করো,play_music
+1271,firewall মানে কী?,qa_definition
+1272,আজ যোহরের time কয়টা?,datetime_query
+1273,last 24 hours এর এআই news পড়ো,news_query
+1274,"""আজ রাতে কি রুম খালি আছে"" এই বাক্যটা বলতে কী বোঝায়? please",qa_definition
+1275,প্রজেক্ট গ্রুপে email করে জানিয়ে দাও আগামীকাল ছুটি,email_sendemail
+1276,"""এটা কি নিরাপদ"" এর definition কী?",qa_definition
+1277,earthquake কীভাবে হয়,qa_factoid
+1278,team lead এর নাম্বার কী?,email_querycontact
+1279,cloud computing কী?,qa_definition
+1280,8 ঘণ্টা পর reminder set করো,calendar_set
+1281,Levitating song টা চালাও,play_music
+1282,"""স্টেশন কোথায়"" meaning কী?",qa_definition
+1283,70s এর music শোনাও,play_music
+1284,contact list এ team lead এর নাম্বার খুঁজে বলো,email_querycontact
+1285,"""এই medicine টা কীসের say করব"" এর অর্থ কী?",qa_definition
+1286,Qatar কবে স্বাধীন হয়?,qa_factoid
+1287,Mercury এর বায়ুমণ্ডলে কী কী গ্যাস আছে?,qa_factoid
+1288,৭৫০০ টাকায় ১০ percent VAT যোগ করলে কত হয়?,qa_maths
+1289,ঢাকা আর Singapore এর মধ্যে সময়ের পার্থক্য কত ঘণ্টা?,datetime_convert
+1290,jogging এর সময় শোনার মতো song চালিয়ে দাও,play_music
+1291,please Madinah তে এখন time কত,datetime_query
+1292,"প্লিজ ""I don't understand"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition
+1293,Gazipur এ sunny weather এর alert আছে?,weather_query
+1294,Friday চট্টগ্রামে বন্যা হবে কি?,weather_query
+1295,"৮৪, ৪৩, ৯১ এর average",qa_maths
+1296,"""It was a pleasure meeting you"" এর মানে কী?",qa_definition
+1297,email এ শুভকে meeting agenda send করো,email_sendemail
+1298,প্রজেক্ট গ্রুপে একটা email করে দাও,email_sendemail
+1299,ব্যাংককে weather forecast দাও,weather_query
+1300,top 50 playlist play করো,play_music
+1301,বিনোদন নিয়ে দুপুরের কী news?,news_query
+1302,তারাবিহর time কখন?,datetime_query
+1303,client এর নাম্বার কী?,email_querycontact
+1304,BTS এর songs চালু করো,play_music
+1305,৪০ আর ৫৭ এর HCF calculate করো,qa_maths
+1306,"""আমার booking confirm হয়েছে"" এর definition কী? প্লিজ",qa_definition
+1307,কীভাবে password strong করব,qa_factoid
+1308,Middle East এর হেডলাইন দাও,news_query
+1309,"""How are you"" মানে কী?",qa_definition
+1310,Nigeria কোন মহাদেশে অবস্থিত?,qa_factoid
+1311,alarm দিয়ে রাখো ১২ মিনিট পরে,alarm_set
+1312,"""আমার ডাক্তার দরকার"" meaning কী?",qa_definition
+1313,Paris এর সাথে ঢাকার time difference কত?,datetime_convert
+1314,ফেনীতে fog condition কেমন?,weather_query
+1315,Dhaka এর রাতের খবর দেখাও please,news_query
+1316,Los Angeles এ সময় বলো,datetime_query
+1317,সকাল 10টায় exam এর জন্য notify করো,calendar_set
+1318,ভোর ৪টায় sehri এর কথা মনে করাও,calendar_set
+1319,Spanish ভাষা বলতে কী বোঝায়?,qa_definition
+1320,আগের এর phone number কত?,email_querycontact
+1321,ময়মনসিংহে now তাপমাত্রা কত?,weather_query
+1322,meditation এর সময় শোনার মতো গান play দাও,play_music
+1323,999 এই নাম্বারের contact info দেখাও,email_querycontact
+1324,Ariana Grande এর songs play করো,play_music
+1325,নামাজের reminder set করো ৭ মিনিট পর,calendar_set
+1326,প্রযুক্তি বিভাগের today's খবর show করো,news_query
+1327,ব্যান্ড songs ছাড়ো,play_music
+1328,আজ সকালে Sylhet এ বাইরে যাওয়ার মতো আবহাওয়া আছে?,weather_query
+1329,৫১৯ plus ৭৫৬ calculate করো,qa_maths
+1330,ব্যাংকিং section এর রাতের headline জানাও,news_query
+1331,150 টাকার 7% interest এ 8 বছরে কত interest হবে,qa_maths
+1332,১০০ dirham কত টাকা?,qa_currency
+1333,contact list এ airline office এর নাম্বার খুঁজে বলো,email_querycontact
+1334,Elon Musk কে?,qa_factoid
+1335,Rajshahi তে weather forecast দেখাও,weather_query
+1336,হিপ হপ সংগীত play করে দাও,play_music
+1337,প্লাম্বারকে meeting reschedule হয়েছে বলে email করো,email_sendemail
+1338,tsunami কীভাবে হয়?,qa_factoid
+1339,Malaysia এর time zone কী?,datetime_query
+1340,Dinajpur এ এখন বৃষ্টির সম্ভাবনা কত?,weather_query
+1341,email এ office group এ address দাও,email_sendemail
+1342,friend কে email পাঠাও,email_sendemail
+1343,Mymensingh এ এখন cloud হওয়ার সম্ভাবনা আছে?,weather_query
+1344,প্লিজ email এ তানভীরকে photo দাও,email_sendemail
+1345,road trip playlist চালিয়ে দাও,play_music
+1346,১ মিনিটের timer set করো,alarm_set
+1347,খালা এর phone number কত?,email_querycontact
+1348,movie section এর সাম্প্রতিক আপডেট read করো,news_query
+1349,protein কীভাবে হয়?,qa_factoid
+1350,Bohemian Rhapsody song টা চালাও,play_music
+1351,India এর local সময় কত?,datetime_query
+1352,please email এ দাদুকে ইনভয়েস দাও,email_sendemail
+1353,meditation এর সময় গানগুলো play দাও,play_music
+1354,৫০ আর ৫৯ এর GCD কত হয়?,qa_maths
+1355,top 50 প্লেলিস্ট শোনাও,play_music
+1356,৫০০০ টাকার ২৫ percent কত হবে?,qa_maths
+1357,roommate এর contact info দেখাও,email_querycontact
+1358,Bitcoin কি কেনা উচিত,qa_factoid
+1359,করিমকে একটা email পাঠিয়ে দাও,email_sendemail
+1360,বাবাকে meeting agenda email এ ফরওয়ার্ড করো,email_sendemail
+1361,আমাকে বিকেল ৫টা ২০ মিনিটে tuition এর রিমাইন্ডার রাখো,calendar_set
+1362,"""Thank you very much"" এর অর্থ কী?",qa_definition
+1363,South Korea এর প্রধান ফসল কী?,qa_factoid
+1364,national নিয়ে রাতের কী খবর?,news_query
+1365,৫০০০০ টাকা থেকে ৪৫ percent off করলে কত থাকে?,qa_maths
+1366,আমার contact list এ টিচার এর নাম্বারটা কী?,email_querycontact
+1367,মিমকে email করো,email_sendemail
+1368,crypto নিয়ে সাম্প্রতিক কী খবর?,news_query
+1369,"""আপনাকে অনেক ধন্যবাদ"" এর meaning কী?",qa_definition
+1370,workout এর রিমাইন্ডার দাও বিকেল ৪টায়,calendar_set
+1371,"""আমি আপনাকে ভালোবাসি"" এর অর্থ কী? please",qa_definition
+1372,বন্ধুকে email করে জানিয়ে দাও অভিনন্দন,email_sendemail
+1373,বিকেল ৪টা ৩০ মিনিটে ডাক্তারের অ্যাপয়েন্টমেন্টের কথা remind করে দিও,calendar_set
+1374,ঢাকা ট্রিবিউনের আজ সন্ধ্যার খবর read করো,news_query
+1375,"""menu দেখতে পারি"" এর অর্থ কী?",qa_definition
+1376,আর অ্যান্ড বি songs ছাড়ো,play_music
+1377,firewall সম্পর্কে সহজ ভাষায় বুঝিয়ে বলো,qa_definition
+1378,gym playlist play করো,play_music
+1379,৩ এর square কত?,qa_maths
+1380,"""What time does the shop open"" এই বাক্যটা বলতে কী বোঝায়? please",qa_definition
+1381,কিশোর কুমারের music চালিয়ে দাও,play_music
+1382,please Shape of You song টা play দাও,play_music
+1383,২০০ pound টাকায় কত?,qa_currency
+1384,রপ্তানি নিয়ে দুপুরের কী news?,news_query
+1385,"""Better late than never"" এর মানে কী?",qa_definition
+1386,Ethereum এর সবচেয়ে বড় সুবিধা কী?,qa_factoid
+1387,IP address মানে কী?,qa_definition
+1388,৫০০ টাকা থেকে ৪৫ পার্সেন্ট off করলে কত থাকে?,qa_maths
+1389,Switzerland কবে স্বাধীন হয়?,qa_factoid
+1390,কাল সকালে রাঙামাটিতে weather কেমন?,weather_query
+1391,GDP আর শেয়ার বাজার এর পার্থক্য কী?,qa_definition
+1392,এখন থেকে ৬ hour পর কয়টা বাজবে?,datetime_query
+1393,আমাকে সোমবার সকাল ৮টায় laundry আনার reminder রাখো,calendar_set
+1394,"""check out কখন"" এর অর্থ কী?",qa_definition
+1395,জাতীয় section এর সর্বশেষ update show করো,news_query
+1396,৩৭°F সেলসিয়াসে convert করো,qa_maths
+1397,চা খাওয়ার রিমাইন্ডার দাও আজ 10:00 AM-এ,calendar_set
+1398,750 টাকার 9 percent সুদে 1 বছরে সুদ কত হবে,qa_maths
+1399,Xbox কি কেনা উচিত?,qa_factoid
+1400,project group এ ক্যান্সেলেশন নোটিশ নিয়ে মেইল করো,email_sendemail
+1401,৬০% of ৬৫০০ কত হবে?,qa_maths
+1402,প্লিজ বাংলাদেশ ক্রিকেট দলের সাম্প্রতিক update পড়ো,news_query
+1403,সৌদি আরবের local time কত,datetime_query
+1404,লস অ্যাঞ্জেলেসের সাথে বাংলাদেশের time gap কত?,datetime_query
+1405,৩৫ মিনিট পরে electricity bill pay করার কথা মনে করিয়ে দাও,calendar_set
+1406,email এ রাফিকে নোটস দাও,email_sendemail
+1407,২০ মিনিট পর alarm,alarm_set
+1408,নারায়ণগঞ্জে this week এ বায়ুর মান কত?,weather_query
+1409,"""reservation করা আছে জার্"" এর অর্থ কী?",qa_definition
+1410,"please ""আমি ক্ষুধার্ত"" বলতে কী বোঝায়?",qa_definition
+1411,৩০ গ্রাম ounce এ কত হয়?,qa_maths
+1412,Leonardo da Vinci কে?,qa_factoid
+1413,প্লিজ Mymensingh এ আজ morning এ শীত হওয়ার সম্ভাবনা আছে,weather_query
+1414,London এ টাইম বলো,datetime_query
+1415,প্রতি রবিবার সকাল ৫টা ৩০ মিনিটে meeting এর কথা মনে করাও,calendar_set
+1416,প্রজেক্ট গ্রুপে document email এ send করো,email_sendemail
+1417,১২০০০ টাকা থেকে ২০% off করলে কত থাকে?,qa_maths
+1418,please restaurant এর ফোন নাম্বার কত?,email_querycontact
+1419,next week এ Dhaka তে বাইক চালানো নিরাপদ,weather_query
+1420,passport এর জন্য apply করব কীভাবে সম্ভব,qa_factoid
+1421,১৫ মিনিটের timer লাগাও,alarm_set
+1422,আত্মীয়দের গ্রুপে meeting পিছিয়ে গেছে বলে email পাঠাও,email_sendemail
+1423,"""কোনো সমস্যা নেই"" meaning কী?",qa_definition
+1424,সমকালের এই সপ্তাহের update দাও,news_query
+1425,দুপুর ২টা ২০ মিনিটে exam এর alarm set করো,alarm_set
+1426,৩% of ২০০০০ কত হয়?,qa_maths
+1427,MacBook Air কি কেনা উচিত?,qa_factoid
+1428,প্রতি সোমবার সকাল ৫টা ৩০ মিনিটে নামাজের reminder,calendar_set
+1429,৫ ঘণ্টা পরে মেডিটেশনের এলার্ম set করো,alarm_set
+1430,৭৫ inch সেন্টিমিটারে convert করো,qa_maths
+1431,"লস অ্যাঞ্জেলেসে এখন time কত, day না night?",datetime_query
+1432,রাতের জাতীয় headline show করো,news_query
+1433,আগামীকাল দুপুর ১টা ১০ মিনিটে ঔষধ খাওয়ার জন্য alert দাও,alarm_set
+1434,"""Wi-Fi password কী"" এর মানে কী?",qa_definition
+1435,"""Can you help me"" এর মানে কী?",qa_definition
+1436,reminder লাগাও প্রতি শুক্রবার ভোর ৫টায়,calendar_set
+1437,ভারী বর্ষণের warning আছে কি?,weather_query
+1438,Qatar এর সময় এখন কত?,datetime_query
+1439,"""Welcome to Bangladesh"" এর মানে কী? প্লিজ",qa_definition
+1440,"""এটা কত দূর"" meaning কী?",qa_definition
+1441,Leonardo da Vinci কোথায় জন্মেছেন,qa_factoid
+1442,Mim কে ধন্যবাদ বলে email পাঠাও,email_sendemail
+1443,Bangla ট্রেন্ডিং song play করো,play_music
+1444,১৬ ঘণ্টা পর reminder,calendar_set
+1445,প্লিজ last 24 hours এর টি-টোয়েন্টি news read করো,news_query
+1446,ভারতের খবর show করো,news_query
+1447,Liverpool এর এই মুহূর্তের শিরোনাম দেখাও,news_query
+1448,AI নিয়ে এই মুহূর্তের কী news?,news_query
+1449,সত্তরের দশকের music play করে দাও,play_music
+1450,"""card এ payment নেবেন say করব"" এর অর্থ কী?",qa_definition
+1451,India এর local টাইম কত?,datetime_query
+1452,Seoul এ এখন time কত?,datetime_query
+1453,please ৪০০০০ টাকা ১১ জনে split করো,qa_maths
+1454,email এ ইফফাতকে screenshot পাঠাও,email_sendemail
+1455,Spanish language এর definition কী?,qa_definition
+1456,মস্কোতে time কত?,datetime_query
+1457,contact list এ dad এর নাম্বার খুঁজে বলো প্লিজ,email_querycontact
+1458,"""What time does the shop open"" এই বাক্যটা বলতে কী বোঝায়? প্লিজ",qa_definition
+1459,কক্সবাজারে rain chance কেমন?,weather_query
+1460,জিডিপি আর startup এর difference কী?,qa_definition
+1461,"""Good morning"" শব্দটার মানে কী?",qa_definition
+1462,open source নিয়ে একটু বলো তো,qa_factoid
+1463,Africa এর এই সপ্তাহের news show করো,news_query
+1464,বিরহের music ছাড়ো please,play_music
+1465,Qatar এর সাথে বাংলাদেশের time gap কত?,datetime_query
+1466,Bahrain এ time কত?,datetime_query
+1467,"please ""দয়া করে আমাকে সাহায্য করুন"" বাক্যটার মানে কী?",qa_definition
+1468,রুমমেটকে email করে inform করো টাকা পাঠিয়েছি দেখে নাও,email_sendemail
+1469,১৫০ টাকার ২০% calculate করো,qa_maths
+1470,India এর জনসংখ্যা কত,qa_factoid
+1471,Shuvo কে অ্যাসাইনমেন্ট email এ send করো,email_sendemail
+1472,tsunami এর উদাহরণ দাও,qa_definition
+1473,সুফি সংগীত play দাও,play_music
+1474,Italy তে এখন কয়টা,datetime_query
+1475,কাল 7:45 AM-এ study করার জন্য মনে করিয়ে দিও,calendar_set
+1476,ঢাকায় রাত ১১টা বাজলে Paris এ কয়টা বাজে,datetime_convert
+1477,জনকণ্ঠের আজ রাতের সংবাদ read করো,news_query
+1478,Warfaze এর music play করো,play_music
+1479,Qatar এর time zone কী,datetime_query
+1480,next 3 days প্যারিসে আবহাওয়া কেমন?,weather_query
+1481,আজ ইফতারের time কয়টা,datetime_query
+1482,Fajr এর ওয়াক্ত শুরু হতে আর কত বাকি?,datetime_query
+1483,শেষ dial করা নাম্বারটা কার নামে আছে বলো প্লিজ,email_querycontact
+1484,১২৫৩ থেকে ২৩৪ subtract করো,qa_maths
+1485,প্লিজ email এ সুমনকে লোকেশন send করো,email_sendemail
+1486,এখন Noakhali তে আবহাওয়া কেমন?,weather_query
+1487,আজ morning এ sunscreen লাগবে?,weather_query
+1488,"""অনেক দিন পর দেখা"" এর meaning কী?",qa_definition
+1489,আজ সকাল ৯টায় bank এ যাওয়ার reminder দিয়ে দাও,calendar_set
+1490,২ to the power ৪ বলো,qa_maths
+1491,road trip playlist play দাও,play_music
+1492,৪০ কে ৪৩ দিয়ে multiply করো,qa_maths
+1493,২০০০০ টাকার loan এর ১২ মাসের EMI কত হবে?,qa_maths
+1494,Canada এর আয়তন কত?,qa_factoid
+1495,999 নম্বরটা কার নাম্বার? please,email_querycontact
+1496,please ভাইয়াকে আমি দশ মিনিটের মধ্যে আসছি email করে দাও,email_sendemail
+1497,MacBook Air কেমন?,qa_factoid
+1498,ইতালিতে time বলো,datetime_query
+1499,client এর contact number বের করে দাও,email_querycontact
+1500,৫০০০ Tk এর জিনিসে ২০% ছাড় পেলে দাম কত?,qa_maths
+1501,জনপ্রিয় গান play করো,play_music
+1502,Tesla কে প্রতিষ্ঠা করেছেন?,qa_factoid
+1503,কীভাবে coding শিখব?,qa_factoid
+1504,আমার সোনার বাংলা গানটি play দাও,play_music
+1505,atom কীভাবে হয়,qa_factoid
+1506,এই সপ্তাহের আইপিএল update read করো,news_query
+1507,"প্লিজ ""বাথরুম কোথায়"" এর meaning কী?",qa_definition
+1508,আগামী তিন দিন Pabna তে walk এ বের হওয়া যাবে?,weather_query
+1509,Nokia কীভাবে আয় করে?,qa_factoid
+1510,Someone Like You গানটি শোনাও,play_music
+1511,this week এ টোকিওতে weather কেমন?,weather_query
+1512,Nike এর লোগো কী রকম,qa_factoid
+1513,বুধবার সকাল ৬টা ৪০ মিনিটে reminder,calendar_set
+1514,this week এর court খবরের সারাংশ জানাও,news_query
+1515,venture capital নিয়ে একটু বলো তো,qa_factoid
+1516,গাড়ি সার্ভিসিংয়ের reminder set করো ১৫ মিনিট পরে,calendar_set
+1517,নতুন কোনো headline আছে কি?,news_query
+1518,Seoul এ এখন কি দিন চলছে?,datetime_query
+1519,Spanish ট্রেন্ডিং গানগুলো play করো,play_music
+1520,প্লিজ driver এর নাম্বার কী?,email_querycontact
+1521,ইত্তেফাকের গত ২৪ ঘণ্টার news পড়ে শোনাও,news_query
+1522,নয়া দিগন্তের recent খবরের সারাংশ read করো,news_query
+1523,today Rangamati তে weather কেমন?,weather_query
+1524,দুবাইয়ে কাল morning এ বৃষ্টির সম্ভাবনা কত?,weather_query
+1525,Seoul এ এখন কয়টা বাজে?,datetime_query
+1526,Europe এর এই মুহূর্তের হেডলাইন বলো,news_query
+1527,ঢাকা আর Turkey এর মধ্যে time difference কত ঘণ্টা?,datetime_convert
+1528,"""Better late than never"" মানে কী?",qa_definition
+1529,২৫০ USD কত টাকা?,qa_currency
+1530,লালনগীতি songs চালু করো,play_music
+1531,আমাকে প্রতি সোমবার সকাল ৯টায় flight এর রিমাইন্ডার দাও,calendar_set
+1532,সিঙ্গাপুরে tomorrow বৃষ্টি হওয়ার chance আছে?,weather_query
+1533,project group এ email লেখো,email_sendemail
+1534,ঢাকা আর কাতারের মধ্যে time difference কত ঘণ্টা?,datetime_convert
+1535,নানু এর number কী?,email_querycontact
+1536,"৫৬, ৮৪, ১২ এর average",qa_maths
+1537,AirPods এর দাম কত?,qa_factoid
+1538,Billie Eilish এর গানগুলো play করো,play_music
+1539,১২০০০ টাকা ৭ জনে split করলে per head কত?,qa_maths
+1540,France কবে স্বাধীন হয়?,qa_factoid
+1541,১০ মিনিট পরে office এ যাওয়ার কথা মনে করাও,calendar_set
+1542,এই সপ্তাহের business শিরোনাম read করো,news_query
+1543,"""Please wait here"" এর definition কী?",qa_definition
+1544,২০০০ টাকার পণ্যে ৪০ পার্সেন্ট discount এর পর দাম কত?,qa_maths
+1545,আজ cricket খেলা যাবে,weather_query
+1546,"""Congratulations on your promotion"" মানে কী?",qa_definition
+1547,জনকণ্ঠের আজ রাতের news show করো,news_query
+1548,Bluetooth আর লিনাক্স এর পার্থক্য কী?,qa_definition
+1549,শুভকে ভয়েস email পাঠাও,email_sendemail
+1550,BPL নিয়ে আজ সন্ধ্যার কী update?,news_query
+1551,this week এ আবহাওয়া কেমন হবে?,weather_query
+1552,সন্ধ্যা ৬টায় wake up call দাও,alarm_set
+1553,classmate কে একটা email লিখে দাও,email_sendemail
+1554,১৯ এর cube কত হবে,qa_maths
+1555,Kolkata তে পরশু air quality কত?,weather_query
+1556,"""What time does the shop open এর meaning কী"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition
+1557,"""Good morning"" শব্দটার মানে কী? please",qa_definition
+1558,দুপুর সাড়ে ১২টায় গাড়ি সার্ভিসিংয়ের reminder,calendar_set
+1559,আমার contact list এ রিয়া এর নাম্বারটা কী?,email_querycontact
+1560,বার্সেলোনার this week এর headline জানাও,news_query
+1561,সৌদি আরবের সাথে বাংলাদেশের time gap কত,datetime_query
+1562,next week এ ঢাকায় আবহাওয়া কেমন?,weather_query
+1563,কিশোর কুমারের songs চালাও,play_music
+1564,Toronto তে weather forecast দাও,weather_query
+1565,9000 টাকায় 15% tax include করলে total কত?,qa_maths
+1566,পরশু দিনাজপুরে weather কেমন?,weather_query
+1567,Yesterday song টা চালিয়ে দাও প্লিজ,play_music
+1568,Dhaka Tribune এর এই মুহূর্তের খবর read করো,news_query
+1569,Charles Darwin কী জন্য বিখ্যাত,qa_factoid
+1570,1000 ইয়েন টাকায় convert করো,qa_currency
+1571,500 এর 75 শতাংশ calculate করো,qa_maths
+1572,৩৬ এর square root বলো,qa_maths
+1573,breaking প্রযুক্তি আপডেট পড়ো,news_query
+1574,ফুফুকে mail করো,email_sendemail
+1575,now umbrella নিতে হবে?,weather_query
+1576,boss কে ধন্যবাদ বলে email দাও please,email_sendemail
+1577,Prothom Alo এর আজ রাতের খবর show করো,news_query
+1578,please wife এর ফোন নাম্বার কত?,email_querycontact
+1579,প্লিজ speed of light এর সংজ্ঞা কী?,qa_definition
+1580,client কে cancellation notice নিয়ে মেইল করো,email_sendemail
+1581,হাবিব ওয়াহিদের music play করো,play_music
+1582,১ মিনিটের timer চালু করো,alarm_set
+1583,আজ 5:20 AM এ sehri এর কথা মনে করিও,calendar_set
+1584,Saudi Arabia এর সাথে ঢাকার time difference কত?,datetime_convert
+1585,please ইতালির সাথে ঢাকার time difference কত?,datetime_convert
+1586,৪৫০ টাকার জিনিসে ২০ পার্সেন্ট discount পেলে দাম কত?,qa_maths
+1587,ক্লাস গ্রুপে ধন্যবাদ বলে email করো,email_sendemail
+1588,প্রতি বুধবার রাত ১২টায় wake me up,alarm_set
+1589,today's date বলো,datetime_query
+1590,টিম লিডার এর contact detail খুঁজে দাও,email_querycontact
+1591,ফোকাস playlist ছাড়ো,play_music
+1592,মোবাইল ফোন নিয়ে this week এর কী খবর,news_query
+1593,৬ to the power ৪,qa_maths
+1594,আজ ফজরের time কয়টা?,datetime_query
+1595,"৮০, ২০, ১৪, ৮৩ এর average কত হয়?",qa_maths
+1596,"""আপনাকে অনেক ধন্যবাদ"" sentence এর মানে কী?",qa_definition
+1597,Tokyo তে এখন কি দিন চলছে?,datetime_query
+1598,Shakib Al Hasan কী জন্য বিখ্যাত?,qa_factoid
+1599,নুসরাত এর contact number বের করে দাও,email_querycontact
+1600,আজ সকালের cricket শিরোনাম read করো,news_query
+1601,আজ সন্ধ্যার space headline পড়ো,news_query
+1602,Paris এ tomorrow শীত হওয়ার সম্ভাবনা আছে,weather_query
+1603,Instagram এর বর্তমান CEO কে?,qa_factoid
+1604,"""SIM card কোথায় পাব say করব"" এর অর্থ কী?",qa_definition
+1605,বাহরাইনে এখন time কত?,datetime_query
+1606,আমাকে আগামীকাল সকাল ১০টা ১০ মিনিটে breakfast এর রিমাইন্ডার সেট করো,calendar_set
+1607,কাতারের time zone কী?,datetime_query
+1608,আজ সন্ধ্যার cricket আপডেট show করো,news_query
+1609,৮০০ টাকায় ৭ percent ট্যাক্স যোগ করলে কত হয়?,qa_maths
+1610,নিলয় এর contact detail খুঁজে দাও,email_querycontact
+1611,এই সপ্তাহে Dinajpur এ আবহাওয়া কেমন?,weather_query
+1612,Savar এ now fog condition কত?,weather_query
+1613,প্লিজ tsunami এর সংজ্ঞা কী?,qa_definition
+1614,শিউলি এর phone number কত?,email_querycontact
+1615,টেসলার বর্তমান CEO কে?,qa_factoid
+1616,night এ গানগুলো চালাও,play_music
+1617,Shanghai তে এখন সকাল নাকি রাত?,datetime_query
+1618,নতুন songs play করে দাও,play_music
+1619,Malaysia এর সাথে ঢাকার সময়ের পার্থক্য কত?,datetime_convert
+1620,২৫০ yen taka এ কত,qa_currency
+1621,today umbrella নিতে হবে?,weather_query
+1622,৭৯ কি prime number?,qa_maths
+1623,Friday sunscreen লাগবে?,weather_query
+1624,Beyoncéের গানগুলো চালাও,play_music
+1625,নানুকে মেসেঞ্জারে email দাও টাকা পাঠিয়েছি check করো,email_sendemail
+1626,৫ liter গ্যালনে কত হয়?,qa_maths
+1627,Indonesia এর সীমান্তে কোন কোন দেশ আছে?,qa_factoid
+1628,community group এ email এ লিখে জানাও টাকা পাঠিয়েছি দেখে নাও,email_sendemail
+1629,ইফফাত এর contact detail খুঁজে দাও,email_querycontact
+1630,পার্টিতে শোনার মতো music ছাড়ো,play_music
+1631,Nepal এর প্রধান ফসল কী?,qa_factoid
+1632,Sakib কে email পাঠাও,email_sendemail
+1633,ল্যান্ডলর্ড এর contact detail খুঁজে দাও,email_querycontact
+1634,১৫০০ টাকার ৫% interest এ ৯ বছরে সুদ কত হবে?,qa_maths
+1635,মালয়েশিয়ায় এখন time কত,datetime_query
+1636,please email এ client কে টিকেট পাঠাও,email_sendemail
+1637,রাত ৯টায় alarm দাও,alarm_set
+1638,বসকে email দাও আমি reached,email_sendemail
+1639,২০ গ্রাম কত ounce?,qa_maths
+1640,ChatGPT এর ইতিহাস কী?,qa_factoid
+1641,অ্যালগরিদম আর venture capital এর difference কী?,qa_definition
+1642,"""আমার একটা টেবিল বুক করা আছে"" এর definition কী?",qa_definition
+1643,"""Please speak slowly"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition
+1644,sleep এর আগে গান বাজাও,play_music
+1645,"""শুভ নববর্ষ"" meaning কী?",qa_definition
+1646,Saturday সকাল সাড়ে ৫টায় wake up করার reminder,calendar_set
+1647,আপুকে ফিডব্যাক নিয়ে email লিখে পাঠাও,email_sendemail
+1648,live score কত চলছে?,news_query
+1649,Cumilla তে আজ বিকেলে ঘূর্ণিঝড় হওয়ার chance আছে?,weather_query
+1650,Los Angeles এ এখন কয়টা বাজে,datetime_query
+1651,office group এ report email এ forward করো please,email_sendemail
+1652,search engine আর নিউরাল নেটওয়ার্ক এর difference কী?,qa_definition
+1653,"batch group এ I'm busy, পরে কথা বলছি বলে email পাঠাও",email_sendemail
+1654,movie বিভাগের গত ২৪ ঘণ্টার update দেখাও,news_query
+1655,budget নিয়ে last 24 hours এর কী খবর?,news_query
+1656,"""আমার flight delay হয়েছে"" মানে কী?",qa_definition
+1657,"""আমি ক্ষুধার্ত"" শব্দটার মানে কী? please",qa_definition
+1658,আমাকে প্রতি বৃহস্পতিবার 7:30 PM এ ইফতারের reminder দিয়ে দাও,calendar_set
+1659,cousin কে email পাঠাও,email_sendemail
+1660,কীভাবে মোবাইলের battery বাঁচাব?,qa_factoid
+1661,current time বলো,datetime_query
+1662,contact list এ Rakib এর নাম্বার খুঁজে বলো,email_querycontact
+1663,আমার contact list এ রাফি এর নাম্বারটা কী?,email_querycontact
+1664,now বায়ুর মান কত?,weather_query
+1665,focus প্লেলিস্ট ছাড়ো,play_music
+1666,Arabic ভাষা কী?,qa_definition
+1667,কিশোর কুমারের song চালু করো,play_music
+1668,ভাটিয়ালি songs play দাও,play_music
+1669,"""আপনি কেমন আছেন"" meaning কী?",qa_definition
+1670,4:15 PM এ রিমাইন্ডার set করো,calendar_set
+1671,contact list এ 333 নম্বরটা কার নামে আছে?,email_querycontact
+1672,কালের কণ্ঠের আজ সন্ধ্যার news দাও,news_query
+1673,GitHub কী?,qa_definition
+1674,"""reservation করা আছে"" মানে কী?",qa_definition
+1675,court নিয়ে recent কী news?,news_query
+1676,"""I don't understand"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition
+1677,আমাকে tomorrow সকাল ৮টা ১৫ মিনিটে ভাত বসানোর reminder রাখো,calendar_set
+1678,teacher এর contact number বের করে দাও,email_querycontact
+1679,স্বামীকে বিকাশ নম্বর email এ share করো,email_sendemail
+1680,environment নিয়ে সাম্প্রতিক কী update,news_query
+1681,DNA কী?,qa_definition
+1682,৯ to the power ৪,qa_maths
+1683,৫ মাইল কত km?,qa_maths
+1684,৭ factorial কত হবে?,qa_maths
+1685,"""Take care of yourself"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition
+1686,৫৬ কে ২২ দিয়ে multiply করো,qa_maths
+1687,contact list এ প্রীতি এর নাম্বার খুঁজে বলো,email_querycontact
+1688,ফ্যামিলি গ্রুপে কোথায় আছো email করে দাও,email_sendemail
+1689,alarm দিয়ে রাখো রাত ৯টা ৩০ মিনিটে,alarm_set
+1690,শেষ incoming call এর contact info দেখাও,email_querycontact
+1691,contact list এ mom এর নাম্বার খুঁজে বলো,email_querycontact
+1692,contact list এ করিম এর নাম্বার খুঁজে বলো please,email_querycontact
+1693,আমার contact list এ হৃদয় এর নাম্বারটা কী?,email_querycontact
+1694,বাপ্পা মজুমদারের গান play দাও,play_music
+1695,Persian language এর definition কী?,qa_definition
+1696,এই সপ্তাহের AI আপডেট পড়ো,news_query
+1697,alarm রাখো দুই ঘণ্টা পরে,alarm_set
+1698,কানাডার time এখন কত,datetime_query
+1699,৬ factorial কত হয়,qa_maths
+1700,Sumon এর নাম্বার কী?,email_querycontact
+1701,তাসনীম এর contact detail খুঁজে দাও,email_querycontact
+1702,ব্রাজিলের this week এর শিরোনাম দেখাও,news_query
+1703,contact list এ 16263 নম্বরটা কার নামে আছে?,email_querycontact
+1704,"""Nice to meet you"" এর definition কী?",qa_definition
+1705,Wi-Fi কী?,qa_definition
+1706,আজ সন্ধ্যার top stories শোনাও,news_query
+1707,২০০০ সালের music play করে দাও,play_music
+1708,আজ দুপুরে outing এর জন্য ঠিক আছে?,weather_query
+1709,please ঢাকা আর Dubai এর মধ্যে সময়ের পার্থক্য কত ঘণ্টা?,datetime_convert
+1710,smartwatch এর দাম কত টাকা?,qa_factoid
+1711,তিথিকে email দাও,email_sendemail
+1712,আজ morning এ Kuakata তে ক্রিকেট খেলা যাবে?,weather_query
+1713,এই সপ্তাহে air quality কত?,weather_query
+1714,ozone layer এর সংজ্ঞা কী?,qa_definition
+1715,workout playlist ছাড়ো,play_music
+1716,mom কে email দাও,email_sendemail
+1717,Mecca তে এখন কয়টা?,datetime_query
+1718,সোয়া ঘণ্টা পর dinner এর কথা remind করে দিও,calendar_set
+1719,"""খাবারটা দারুণ হয়েছে"" এর meaning কী?",qa_definition
+1720,১৬৮০ divide ২৮ কত হবে?,qa_maths
+1721,recent top stories read করো,news_query
+1722,পরশু 5 PM এ alarm,alarm_set
+1723,বিবিসি বাংলার আজ সন্ধ্যার news জানাও,news_query
+1724,"""শুভ জন্মদিন"" এর definition কী?",qa_definition
+1725,tomorrow Bogura তে আবহাওয়া কেমন?,weather_query
+1726,৯৫৩ add ৯৮৮,qa_maths
+1727,"""Happy anniversary"" মানে কী? please",qa_definition
+1728,মেটাভার্স আর algorithm এর পার্থক্য কী?,qa_definition
+1729,১২০০ taka এর loan এর ১৮ মাসের কিস্তি কত হবে,qa_maths
+1730,Spotify এর মূল পণ্য কী,qa_factoid
+1731,"""জায়গাটা খুব সুন্দর"" sentence এর মানে কী?",qa_definition
+1732,25000 টাকার loan এর 6 মাসের EMI কত হবে?,qa_maths
+1733,road trip playlist চালাও,play_music
+1734,"""শুভ জন্মদিন say করব"" মানে কী?",qa_definition
+1735,Bangladesh এর প্রধান নদী কোনটি?,qa_factoid
+1736,আমাকে প্রতিদিন সন্ধ্যা ৬টায় iftar এর রিমাইন্ডার দাও,calendar_set
+1737,আমার contact list এ মেহেদী এর নাম্বারটা কী?,email_querycontact
+1738,professor কে good night বলে email করো,email_sendemail
+1739,পাবনায় now max temperature কত?,weather_query
+1740,"""Good morning"" এর মানে কী?",qa_definition
+1741,২৪০০ Tk থেকে ১৮ percent off করলে কত থাকে?,qa_maths
+1742,মঙ্গলবার ভোর 3টা 45 মিনিটে গাছে পানি দেওয়ার reminder set করো,calendar_set
+1743,tomorrow সকাল ৫টায় cricket match এর অ্যালার্ম set করো,alarm_set
+1744,Manchester United এর দুপুরের headlines read করো প্লিজ,news_query
+1745,ঢাকায় সন্ধ্যা ৬টা বাজলে Moscow তে কয়টা বাজে,datetime_convert
+1746,আমাকে সকাল ১০টায় অফিসে যাওয়ার reminder দিয়ে দাও,calendar_set
+1747,Isha র ওয়াক্ত শুরু হতে আর কত বাকি,datetime_query
+1748,ক্যাম্পাস section এর আজ সকালের খবর শোনাও,news_query
+1749,Manchester এ এখন দিন না রাত?,datetime_query
+1750,আশির দশকের music play দাও,play_music
+1751,60 feet কে meter এ বদলাও,qa_maths
+1752,modern Bangla সংগীত চালাও,play_music
+1753,350 এর অর্ধেক calculate করো,qa_maths
+1754,২০০ এর ১৫ percent কত,qa_maths
+1755,নাহিদাকে email দাও,email_sendemail
+1756,আপু এর number কী?,email_querycontact
+1757,"""আমি পথ হারিয়েছি"" এই sentence টা বলতে কী বোঝায়?",qa_definition
+1758,science বিভাগের গত ২৪ ঘণ্টার হেডলাইন বলো,news_query
+1759,২৫০ পাউন্ড টাকায় convert করো,qa_currency
+1760,অরিজিৎ সিংয়ের love গানগুলো play করো,play_music
+1761,৭ min পর অ্যালার্ম সেট করো,alarm_set
+1762,friends group এ dinner ready বলে email করো,email_sendemail
+1763,ক্লাসিক্যাল songs ছাড়ো please,play_music
+1764,database এর অসুবিধা কী,qa_factoid
+1765,শাহীন এর phone number কত?,email_querycontact
+1766,আজ night এ temperature কত?,weather_query
+1767,আজ morning এ Rangamati তে শীত হবে কি?,weather_query
+1768,খালা এর number কী?,email_querycontact
+1769,আগামী তিন দিন fog হবে?,weather_query
+1770,প্লিজ মৌসুমীকে ঈদ মোবারক বলে email দাও,email_sendemail
+1771,Bahrain এ টাইম বলো,datetime_query
+1772,ডেন্টিস্টকে meeting agenda email এ forward করো,email_sendemail
+1773,liked songs playlist ছাড়ো,play_music
+1774,গত ২৪ ঘণ্টার প্রযুক্তি শিরোনাম show করো,news_query
+1775,"""বাথরুম কোথায়"" বলতে কী বোঝায়? please",qa_definition
+1776,Nokia কোন দেশের কোম্পানি,qa_factoid
+1777,জাপানিজ ভাষার meaning কী?,qa_definition
+1778,অফিস গ্রুপে screenshot email এ send করো,email_sendemail
+1779,নিলয় এর contact number বের করে দাও,email_querycontact
+1780,Bappa Mazumder এর chill গান ছাড়ো,play_music
+1781,মামা এর phone number কত?,email_querycontact
+1782,"""Take care of yourself এর meaning কী"" এর definition কী?",qa_definition
+1783,Chelsea এর দুপুরের সংবাদ বলো,news_query
+1784,classmate এর contact info দেখাও,email_querycontact
+1785,লিভারপুলের ম্যাচের score বলো,news_query
+1786,husband এর ফোন নাম্বার বলো please,email_querycontact
+1787,"""ধীরে বলুন"" বলতে কী mean করে?",qa_definition
+1788,Gazipur এ আজ দুপুরে fog হওয়ার সম্ভাবনা আছে?,weather_query
+1789,৫১ আর ৫৪ এর HCF কত হবে?,qa_maths
+1790,"""bill দিন"" শব্দটার মানে কী? please",qa_definition
+1791,৫০ মিনিট পরে sehri এর reminder set করো,calendar_set
+1792,Twitter কে প্রতিষ্ঠা করেছেন,qa_factoid
+1793,তানভীর এর contact detail খুঁজে দাও,email_querycontact
+1794,সকাল ১০টায় alarm set করো,alarm_set
+1795,Tuesday রাত ১০টায় alarm set করে দাও,alarm_set
+1796,সকাল ৬টায় tea break এর কথা remind করে দিও,calendar_set
+1797,আগামী তিন দিন ফেনীতে walk এ বের হওয়া যাবে,weather_query
+1798,email এ সজীবকে টিকেট share করো,email_sendemail
+1799,Turkey কবে স্বাধীন হয়?,qa_factoid
+1800,Despacito গানটা চালাও,play_music
+1801,alarm দিয়ে রাখো বিকেল ৪টায় প্লিজ,alarm_set
+1802,AirPods এর সবচেয়ে বড় সুবিধা কী?,qa_factoid
+1803,নাঈমকে assignment email এ শেয়ার করো,email_sendemail
+1804,Barcelona এর ম্যাচের score কত?,news_query
+1805,"""Take care of yourself"" মানে কী? please",qa_definition
+1806,Sydney তে সময় বলো,datetime_query
+1807,international নিয়ে সাম্প্রতিক কী খবর?,news_query
+1808,"""অনেক দিন পর দেখা"" এর definition কী?",qa_definition
+1809,রাতের ক্রিপ্টো শিরোনাম show করো,news_query
+1810,please ডেটাবেজ আর metaverse এর পার্থক্য কী?,qa_definition
+1811,কীভাবে ইংরেজি speaking এ ভালো হব,qa_factoid
+1812,আমার contact list এ নিলয় এর নাম্বারটা কী?,email_querycontact
+1813,আমার contact list এ ববি এর নাম্বারটা কী?,email_querycontact
+1814,সমকালের আজ রাতের news পড়ে শোনাও,news_query
+1815,আমার ফেভারিট প্লেলিস্ট play করে দাও,play_music
+1816,১২০০ taka এর bill এ ১৫% টিপ বলো,qa_maths
+1817,4 PM এ চা খাওয়ার জন্য alert দাও,alarm_set
+1818,Chicago তে সময় কত?,datetime_query
+1819,১৫ মিনিটের timer সেট করো,alarm_set
+1820,৪০০ টাকার সাথে ২২ percent যোগ করলে কত হয়?,qa_maths
+1821,আজ দুপুরে max temperature কত?,weather_query
+1822,black hole এর উদাহরণ দাও,qa_definition
+1823,Lionel Messi কে?,qa_factoid
+1824,Shape of You গানটি শোনাও,play_music
+1825,this week এ সর্বোচ্চ তাপমাত্রা কত,weather_query
+1826,email এ boss কে meeting agenda send করো,email_sendemail
+1827,"Rome এ এখন time কত, day না night?",datetime_query
+1828,"""Where is the bus stop"" এর মানে কী?",qa_definition
+1829,১৭৫০ কে ৩৫ দিয়ে divide করো,qa_maths
+1830,"""আমার একটা টেবিল বুক করা আছে"" এর meaning কী?",qa_definition
+1831,আমাকে দুপুর সোয়া ২টায় ছেলেকে স্কুল থেকে আনার reminder দাও,calendar_set
+1832,Rakib কে email করো ঈদ মোবারক,email_sendemail
+1833,আগামী সপ্তাহে Sydney তে আবহাওয়া কেমন?,weather_query
+1834,জুম্মার নামাজের রিমাইন্ডার set করো দুপুর ১টায়,calendar_set
+1835,আমাকে 6 hour পর grocery shopping এর reminder দিয়ে দাও,calendar_set
+1836,Sylhet এর headlines শোনাও,news_query
+1837,London এর time এখন কত?,datetime_query
+1838,637 আর 505 এর sum হিসাব করো,qa_maths
+1839,"please ""Welcome to Bangladesh"" এর মানে কী?",qa_definition
+1840,প্রতিদিন সন্ধ্যা 7টায় এলার্ম set করো,alarm_set
+1841,কমিউনিটি গ্রুপে cancellation notice নিয়ে email লিখে পাঠাও,email_sendemail
+1842,নাহিদা এর phone number বলো,email_querycontact
+1843,current time কত?,datetime_query
+1844,রুমমেটকে email পাঠাও,email_sendemail
+1845,cryptocurrency কীভাবে কাজ করে?,qa_factoid
+1846,Los Angeles এ টাইম বলো,datetime_query
+1847,please সিউলের সাথে ঢাকার time difference কত?,datetime_convert
+1848,client কে email পাঠাও,email_sendemail
+1849,রহিম এর contact info দেখাও,email_querycontact
+1850,Kumar Sanu এর song play করে দাও,play_music
+1851,আমার contact list এ রিয়া এর নাম্বারটা কী? please,email_querycontact
+1852,নতুন কিছু রোমান্টিক গান play দাও,play_music
+1853,"""আমার একটা টেবিল বুক করা আছে"" মানে কী? please",qa_definition
+1854,Maghrib এর time হতে আর কত বাকি?,datetime_query
+1855,শ্রেয়া ঘোষালের music play করো,play_music
+1856,একটা দেশাত্মবোধক গানগুলো play করো,play_music
+1857,গত ২৪ ঘণ্টার বিনোদন headline দাও,news_query
+1858,চরণ ধরিতে দিও গো song টা play দাও,play_music
+1859,tomorrow আবহাওয়া কেমন থাকবে?,weather_query
+1860,৩৬০০ টাকার সাথে ৫ percent বাড়ালে কত হয়?,qa_maths
+1861,Mymensingh এর headline show করো,news_query
+1862,landlord কে একটা email লিখে দাও,email_sendemail
+1863,"""I don't understand"" এই বাক্যটা বলতে কী বোঝায়? please",qa_definition
+1864,চীনের শিরোনাম read করো,news_query
+1865,সাবিনা ইয়াসমিন এর songs ছাড়ো,play_music
+1866,Samsung কে প্রতিষ্ঠা করেছেন?,qa_factoid
+1867,"""আপনার সাথে দেখা হয়ে ভালো লাগলো"" এর meaning কী?",qa_definition
+1868,আজ সন্ধ্যার প্রযুক্তি হেডলাইন show করো,news_query
+1869,Shakib Al Hasan এর বিখ্যাত উক্তি কোনটি,qa_factoid
+1870,batch group এ কোথায় আছো বলে email করো,email_sendemail
+1871,Barishal এর হেডলাইন বলো,news_query
+1872,Australia এর মুদ্রার নাম কী?,qa_factoid
+1873,এয়ারলাইন্স অফিস এর contact detail খুঁজে দাও,email_querycontact
+1874,team lead এর ফোন নাম্বার কত?,email_querycontact
+1875,১২০০০ taka এর জিনিসে ২০% ছাড় পেলে দাম কত?,qa_maths
+1876,আগামী তিন দিন cricket খেলা যাবে?,weather_query
+1877,আজ রাতের স্বাস্থ্য headlines জানাও,news_query
+1878,৪০০০০ টাকা ১২ জনে split করো,qa_maths
+1879,এই মুহূর্তের tennis হেডলাইন বলো,news_query
+1880,সাব্বির এর ফোন নাম্বার বলো please,email_querycontact
+1881,আজ Rajshahi তে storm হবে কি?,weather_query
+1882,"""order টা cancel করুন"" এর অর্থ কী?",qa_definition
+1883,আজ সন্ধ্যার top stories show করো,news_query
+1884,তাসনীম এর phone number কত?,email_querycontact
+1885,Moscow তে এখন সকাল নাকি রাত,datetime_query
+1886,আজ জুম্মার time কয়টা?,datetime_query
+1887,Abu Dhabi তে এখন দিন না রাত?,datetime_query
+1888,Manchester এ এখন কয়টা বাজে আর কোন বেলা?,datetime_query
+1889,আজ সন্ধ্যার health headline শোনাও,news_query
+1890,পরশু দুপুর সাড়ে ২টায় electricity bill pay করার অ্যালার্ম,alarm_set
+1891,আমাকে আগামীকাল সকাল ৭টা ৫ মিনিটে গাছে পানি দেওয়ার reminder দিয়ে দাও,calendar_set
+1892,"""আমার flight delay হয়েছে say করব"" এর অর্থ কী?",qa_definition
+1893,সিলেটের ব্রেকিং update read করো,news_query
+1894,এই মুহূর্তের startup শিরোনাম বলো প্লিজ,news_query
+1895,ফাইভ-জি explain করো,qa_factoid
+1896,তাহাজ্জুদের রিমাইন্ডার set করো পরশু রাত ১২টায়,calendar_set
+1897,contact list এ কলেজ এর নাম্বার খুঁজে বলো,email_querycontact
+1898,১৬ times ২৪ calculate করো,qa_maths
+1899,New York এ wind speed কেমন থাকবে?,weather_query
+1900,সমকালের today's হেডলাইন show করো,news_query
+1901,ধ্যানের সময় শোনার মতো songs বাজাও,play_music
+1902,Jakarta তে এখন কয়টা?,datetime_query
+1903,French ভাষার মানে কী?,qa_definition
+1904,client এর ফোন নাম্বার কত?,email_querycontact
+1905,লিয়াকে email দাও আমাকে ফোন দিও,email_sendemail
+1906,১৫০ টাকার পণ্যে ৩০ percent ছাড়ের পর দাম কত?,qa_maths
+1907,সাবিনা ইয়াসমিনের superhit song play করে দাও,play_music
+1908,Habib Wahid এর songs play করে দাও,play_music
+1909,"""ফেরার টিকেট কত"" এর meaning কী?",qa_definition
+1910,"জাকার্তায় এখন time কত, day না night?",datetime_query
+1911,email এ ক্রিকেট টিমের গ্রুপে ঠিকানা send করো,email_sendemail
+1912,Liverpool এর আজ রাতের আপডেট read করো,news_query
+1913,"""room service পাঠান"" এর অর্থ কী?",qa_definition
+1914,liked songs প্লেলিস্ট চালাও,play_music
+1915,wife কে একটা email লিখে দাও,email_sendemail
+1916,১৮০০ এর triple calculate করো,qa_maths
+1917,55 মিনিট পর breakfast এর অ্যালার্ম,alarm_set
+1918,আমাকে সকাল ১১টায় interview এর reminder সেট করো,calendar_set
+1919,"please ""Happy anniversary"" শব্দটার মানে কী?",qa_definition
+1920,Bhutan এর আয়তন কত?,qa_factoid
+1921,wife কে email করো আমি reached please,email_sendemail
+1922,মামাকে email করো,email_sendemail
+1923,Portuguese language এর definition কী?,qa_definition
+1924,ম্যানেজারকে email করো আজকের ক্লাস নেই,email_sendemail
+1925,চাইনিজ language এর definition কী?,qa_definition
+1926,please তুরস্কের সাথে ঢাকার time difference কত?,datetime_convert
+1927,আমেরিকার হেডলাইন read করো,news_query
+1928,16263 নম্বরটা কার contact বলো,email_querycontact
+1929,২৪ ঘণ্টা পরে cricket match এর reminder,calendar_set
+1930,Mars এ কি জীবন সম্ভব,qa_factoid
+1931,এই weekend এ রোদে বের হলে সমস্যা হবে?,weather_query
+1932,"""এর দাম কত"" এর definition কী?",qa_definition
+1933,Toronto তে পরশু অনুভূত তাপমাত্রা কত?,weather_query
+1934,ফুটবল নিয়ে রাতের কী news?,news_query
+1935,আত্মীয়দের গ্রুপে email দাও খাবার রেডি প্লিজ,email_sendemail
+1936,vitamin D এর সংজ্ঞা কী?,qa_definition
+1937,drone camera কোন কোম্পানির?,qa_factoid
+1938,contact list এ ইফফাত এর নাম্বার খুঁজে বলো please,email_querycontact
+1939,অ্যালার্ম set করে দাও ভোর সাড়ে ৫টায় প্লিজ,alarm_set
+1940,প্রতি Sunday সকাল ৮টায় meeting এর রিমাইন্ডার দাও,calendar_set
+1941,আগামী তিন দিন jacket লাগবে?,weather_query
+1942,১৫ মিনিট পর reminder লাগাও,calendar_set
+1943,সুফি songs চালিয়ে দাও,play_music
+1944,বিকেল ৪টায় wake করে দিও,alarm_set
+1945,আগামী সপ্তাহে নোয়াখালীতে outing এর জন্য ঠিক আছে?,weather_query
+1946,Uber কে প্রতিষ্ঠা করেছেন?,qa_factoid
+1947,Bangladesh এর রাজধানী কোথায়?,qa_factoid
+1948,Cumilla তে weather forecast দাও,weather_query
+1949,প্লিজ 102 কে 13 দিয়ে ভাগ করলে remainder কত?,qa_maths
+1950,প্লিজ স্বামী এর contact detail খুঁজে দাও,email_querycontact
+1951,50 USD টাকায় convert করো,qa_currency
+1952,entropy কেন হয়?,qa_factoid
+1953,লতা মঙ্গেশকরের songs play করে দাও,play_music
+1954,contact list এ driver এর নাম্বার খুঁজে বলো,email_querycontact
+1955,"""See you tomorrow"" বাক্যটার মানে কী?",qa_definition
+1956,"""Take care of yourself"" এর definition কী?",qa_definition
+1957,৯ এর ঘনফল calculate করো,qa_maths
+1958,Kenya এর মুদ্রার নাম কী?,qa_factoid
+1959,"""আমার flight delay হয়েছে"" মানে কী? please",qa_definition
+1960,AI বিভাগের রাতের শিরোনাম show করো,news_query
+1961,রিয়া এর number কী?,email_querycontact
+1962,১৫০০০ টাকার জিনিসে ৫ শতাংশ discount পেলে দাম কত?,qa_maths
+1963,Arijit Singh এর গান play দাও,play_music
+1964,Asha Bhosle এর song play করে দাও,play_music
+1965,৯০৫ plus ৭৪০ কত হবে,qa_maths
+1966,Bangkok এ এখন কয়টা বাজে?,datetime_query
+1967,now দিনাজপুরে আবহাওয়া কেমন?,weather_query
+1968,"""আপনি কেমন আছেন"" এর definition কী?",qa_definition
+1969,আশা ভোঁসলে এর জনপ্রিয় music চালিয়ে দাও,play_music
+1970,পাড়ার গ্রুপে email করে জানিয়ে দাও congratulations,email_sendemail
+1971,Bill Gates এর বিখ্যাত অবদান কী?,qa_factoid
+1972,Shape of You গানটা চালু করো,play_music
+1973,ঢাকায় সন্ধ্যা ৬টা বাজলে Bahrain এ কয়টা বাজে?,datetime_convert
+1974,Punjabi রোমান্টিক music play দাও,play_music
+1975,Tamil superhit music play করে দাও,play_music
+1976,১৫৯৩ থেকে ৩৮০ subtract করো,qa_maths
+1977,Mexico এর আয়তন কত?,qa_factoid
+1978,আজ রাতের প্রধান news কী কী?,news_query
+1979,Tokyo তে এখন টাইম কত?,datetime_query
+1980,Kolkata তে এখন কয়টা বাজে?,datetime_query
+1981,"""এটা কি নিরাপদ"" sentence এর মানে কী?",qa_definition
+1982,আয়েশা এর number কী? প্লিজ,email_querycontact
+1983,"""আমি আপনাকে ভালোবাসি"" meaning কী?",qa_definition
+1984,Pabna তে max temperature কেমন,weather_query
+1985,৬৪০ এর ৭৫ percent কত হবে?,qa_maths
+1986,Warfaze এর গান play দাও,play_music
+1987,Bangkok এর সাথে ঢাকার time difference কত?,datetime_convert
+1988,Hindi ভাষা কী?,qa_definition
+1989,Rakib এর contact number বের করে দাও প্লিজ,email_querycontact
+1990,দুপুরের mobile phone headlines show করো,news_query
+1991,১০ ঘণ্টা পর grocery shopping এর alarm দাও,alarm_set
+1992,email এ রুমমেটকে link send করো,email_sendemail
+1993,"""I miss you"" মানে কী? please",qa_definition
+1994,reminder লাগাও প্রতি মঙ্গলবার রাত ১টা ৪০ মিনিটে,calendar_set
+1995,২৫ ডিগ্রি Celsius Fahrenheit এ কত?,qa_maths
+1996,সকাল ৮টা ৪০ মিনিটে workout এর জন্য মনে করিয়ে দিও,calendar_set
+1997,মধ্যপ্রাচ্যের আজ সন্ধ্যার খবর read করো,news_query
+1998,বৃহস্পতিবার সন্ধ্যা ৬টা ৫০ মিনিটে flight এর কথা remind করো,calendar_set
+1999,১৫০ inch সেন্টিমিটারে রূপান্তর করো,qa_maths
+2000,gym playlist চালাও,play_music
+2001,Russian ভাষার মানে কী?,qa_definition
+2002,আগামী সপ্তাহে Kathmandu তে আবহাওয়া কেমন?,weather_query
+2003,cooking এর সময় শোনার মতো songs play করে দাও,play_music
+2004,এখন থেকে 5 hour পর কয়টা বাজবে?,datetime_query
+2005,Rangpur এর headlines read করো,news_query
+2006,মা এর phone number কত?,email_querycontact
+2007,শেষ missed call টা কার নাম্বার থেকে এসেছিল? প্লিজ,email_querycontact
+2008,প্লিজ gaming laptop এর দাম কত?,qa_factoid
+2009,জাপানের local টাইম কত?,datetime_query
+2010,৩৫ মিনিট পর dinner এর জন্য alert দাও,alarm_set
+2011,"""আমার ডাক্তার দরকার"" এর meaning কী?",qa_definition
+2012,"""How are you"" মানে কী? please",qa_definition
+2013,my favourite প্লেলিস্ট চালু করো,play_music
+2014,email এ রুমমেটকে প্রজেক্ট আপডেট share করো,email_sendemail
+2015,liked songs playlist বাজাও,play_music
+2016,focus বাড়াব কীভাবে?,qa_factoid
+2017,সাবিনাকে শুভ জন্মদিন বলে email পাঠাও,email_sendemail
+2018,Savar এ now আর্দ্রতা কত?,weather_query
+2019,প্লিজ Sydney এর time এখন কত?,datetime_query
+2020,atom কী?,qa_definition
+2021,Cumilla তে বৃষ্টির সম্ভাবনা কেমন,weather_query
+2022,গত ২৪ ঘণ্টার শীর্ষ খবর show করো,news_query
+2023,রাজশাহীতে now air quality কত?,weather_query
+2024,contact list এ bank এর নাম্বার খুঁজে বলো,email_querycontact
+2025,API এর সুবিধা কী কী?,qa_factoid
+2026,এক ঘণ্টা পরে অ্যালার্ম set করে দাও,alarm_set
+2027,নোয়াখালীতে weather forecast বলো,weather_query
+2028,আজ সকালে কুমিল্লায় weather কেমন?,weather_query
+2029,breaking শীর্ষ খবর দাও,news_query
+2030,"please ""আমার booking confirm হয়েছে"" এর definition কী?",qa_definition
+2031,PDF compress করব how to?,qa_factoid
+2032,এই মুহূর্তের tech headlines পড়ে শোনাও,news_query
+2033,"""আজ রাতে কি রুম খালি আছে"" sentence এর মানে কী?",qa_definition
+2034,আমাকে everyday 8:00 AM এ class এর reminder দিয়ে দাও,calendar_set
+2035,Levitating song টা play করো,play_music
+2036,"""Please speak slowly"" এর definition কী?",qa_definition
+2037,Facebook এর হেডকোয়ার্টার কোথায়?,qa_factoid
+2038,৭ hour পর doctor appointment এর জন্য notify করো,calendar_set
+2039,Malaysia এর সীমান্তে কোন কোন দেশ আছে,qa_factoid
+2040,দেশাত্মবোধক গানগুলো play করো,play_music
+2041,Al Jazeera এর আজ সন্ধ্যার খবর বলো,news_query
+2042,স্বামী এর contact info দেখাও,email_querycontact
+2043,পরশু rain chance কত?,weather_query
+2044,আজ সন্ধ্যার প্রধান update কী কী,news_query
+2045,blockchain এর ইতিহাস কী?,qa_factoid
+2046,আমার contact list এ unknown এর নাম্বারটা কী? please,email_querycontact
+2047,"""Congratulations on your promotion meaning কী"" মানে কী?",qa_definition
+2048,China এর news show করো,news_query
+2049,আধুনিক বাংলা songs চালাও,play_music
+2050,recent environment headline দাও,news_query
+2051,Italian ভাষা বলতে কী বোঝায়?,qa_definition
+2052,আজ রাতের ক্রিপ্টো news বলো,news_query
+2053,প্লেস্টেশন ৫ এর main advantage কী?,qa_factoid
+2054,কনার গান play করো,play_music
+2055,storm এর সতর্কতা আছে কি?,weather_query
+2056,ক্লায়েন্ট এর contact detail খুঁজে দাও,email_querycontact
+2057,জগিংয়ের সময় song play করে দাও,play_music
+2058,চেলসির ম্যাচের score কত?,news_query
+2059,wife এর ফোন নাম্বার বলো,email_querycontact
+2060,Twitter এর লোগো কী রকম?,qa_factoid
+2061,৩০০ Tk এর পণ্যে ২০% ছাড়ের পর দাম কত?,qa_maths
+2062,২০ মিনিট পরে wake up call দাও,alarm_set
+2063,পরশু কলকাতায় weather কেমন?,weather_query
+2064,৭৩ × ৪৭ plus ৬২,qa_maths
+2065,90s এর গানগুলো play করো,play_music
+2066,সুমনকে email করো কাল দেখা হবে,email_sendemail
+2067,৩০০০ টাকায় ১০ percent ট্যাক্স যোগ করলে কত হয়,qa_maths
+2068,৩৫০ টাকার ৫% interest এ ৫ বছরে সুদ কত হবে?,qa_maths
+2069,Khulna এর headlines বলো,news_query
+2070,মধ্যপ্রাচ্যের headlines read করো,news_query
+2071,please sleep এর আগে music ছাড়ো,play_music
+2072,"""ইমিগ্রেশন কোন দিকে"" এই sentence টা বলতে কী বোঝায়?",qa_definition
+2073,8 PM এ অ্যালার্ম,alarm_set
+2074,contact list এ সহপাঠী এর নাম্বার খুঁজে বলো প্লিজ,email_querycontact
+2075,স্টার্টআপ বিভাগের last 24 hours এর news summary জানাও,news_query
+2076,সাদিয়াকে আজ আসতে পারব না বলে email করো,email_sendemail
+2077,টিচারকে email দাও টাকা পাঠিয়েছি check করো,email_sendemail
+2078,Khulna এর today's headline দাও,news_query
+2079,Justin Bieber এর music play দাও,play_music
+2080,"""আমার জন্য একটা কফি দিন"" এর মানে কী? please",qa_definition
+2081,৫০০০০ টাকা থেকে ৩০ percent কমালে কত থাকে,qa_maths
+2082,Saturn এর তাপমাত্রা কত?,qa_factoid
+2083,Seoul এ এখন দিন না রাত?,datetime_query
+2084,৫৫ মিনিট পর grocery shopping এর জন্য ডেকে দাও,alarm_set
+2085,Saudi Arabia এর জাতীয় ভাষা কী?,qa_factoid
+2086,ব্যাংককে this week এ ঠান্ডা হওয়ার সম্ভাবনা আছে?,weather_query
+2087,email এ কাজিনকে link পাঠাও,email_sendemail
+2088,country songs চালিয়ে দাও,play_music
+2089,ক্লায়েন্ট এর number কী?,email_querycontact
+2090,Dutch ভাষা বলতে কী বোঝায়?,qa_definition
+2091,Rony কে invoice নিয়ে email করো,email_sendemail
+2092,আমার সোনার বাংলা গানটি play করে দাও,play_music
+2093,পড়াশোনার সময় song চালাও,play_music
+2094,Instagram এর হেডকোয়ার্টার কোথায়?,qa_factoid
+2095,ব্যাংককের সাথে ঢাকার time difference কত?,datetime_convert
+2096,ঢাকা আর Turkey এর মধ্যে সময়ের পার্থক্য কত ঘণ্টা?,datetime_convert
+2097,সুমন এর contact info দেখাও,email_querycontact
+2098,Yesterday song টা চালু করো please,play_music
+2099,রিলাক্স করার সময় শোনার মতো songs চালু করো,play_music
+2100,"""It was a pleasure meeting you"" মানে কী? please",qa_definition
+2101,jogging এর সময় music play করো,play_music
+2102,৬০০ টাকার ৬০% calculate করো,qa_maths
+2103,Delhi তে time কত?,datetime_query
+2104,cousin এর contact detail খুঁজে দাও,email_querycontact
+2105,New York এ এখন ভারী বর্ষণ হওয়ার chance আছে?,weather_query
+2106,১০ রিয়াল টাকায় convert করো,qa_currency
+2107,health section এর দুপুরের headline বলো,news_query
+2108,আজ বিকেলে fog condition কত?,weather_query
+2109,"""আপনার নাম কী"" এর meaning কী?",qa_definition
+2110,1 ঘণ্টা পরে presentation এর রিমাইন্ডার সেট করো,calendar_set
+2111,France এর রাজধানী কোথায়?,qa_factoid
+2112,বিজ্ঞান section এর আজ রাতের হেডলাইন show করো,news_query
+2113,daily সকাল ১০টা ৫ মিনিটে টিউশনের কথা remind করো,calendar_set
+2114,GPU এর সুবিধা কী কী?,qa_factoid
+2115,"""আমি আপনাকে ভালোবাসি"" এর meaning কী? প্লিজ",qa_definition
+2116,ই-কমার্স আর API এর পার্থক্য কী?,qa_definition
+2117,প্লিজ 33 কে 11 দিয়ে divide করো,qa_maths
+2118,শাফল করে recently played প্লেলিস্ট চালিয়ে দাও,play_music
+2119,"""দয়া করে আমাকে সাহায্য করুন"" এর meaning কী?",qa_definition
+2120,দুপুরের বড় update কী,news_query
+2121,ট্যান ৯০ degree এর value কত,qa_maths
+2122,আগামীকাল রাত ৮টা ১০ মিনিটে reminder set করে দাও,calendar_set
+2123,প্লিজ জ্যাজ songs play করে দাও,play_music
+2124,জার্মান language এর definition কী?,qa_definition
+2125,"""আপনাকে অনেক ধন্যবাদ"" বাক্যটার মানে কী? please",qa_definition
+2126,ফজরের time কখন?,datetime_query
+2127,প্লিজ liked songs প্লেলিস্ট শোনাও,play_music
+2128,Arabic বিদ্রোহের music play করো,play_music
+2129,ঔষধ খাওয়ার reminder দাও প্রতি মঙ্গলবার 12:45 PM এ,calendar_set
+2130,সজীবকে email করে জানিয়ে দাও আমি বাসায় ফিরছি,email_sendemail
+2131,wedding এ শোনার মতো গান play করে দাও,play_music
+2132,আজ রাতে Jashore এ আবহাওয়া কেমন,weather_query
+2133,Eid special প্লেলিস্ট চালাও,play_music
+2134,৯০০০ এর ৮০ percent বলো,qa_maths
+2135,please Bahrain এ এখন টাইম কত,datetime_query
+2136,"driver কে আমি ব্যস্ত আছি, পরে কথা বলছি বলে email দাও",email_sendemail
+2137,email এ অফিস গ্রুপে ছবি পাঠাও,email_sendemail
+2138,কাল morning এ ছাদে যাওয়া যাবে?,weather_query
+2139,প্রতি শনিবার 1:00 AM এ তাহাজ্জুদের alarm,alarm_set
+2140,পাঞ্জাবি শান্ত songs ছাড়ো,play_music
+2141,"প্লিজ ""Happy anniversary meaning কী"" এর মানে কী?",qa_definition
+2142,plumber কে location email এ ফরওয়ার্ড করো,email_sendemail
+2143,আজ night এ trip এর জন্য ভালো দিন?,weather_query
+2144,আজ সকালের রপ্তানি news summary read করো,news_query
+2145,James এর গানগুলো play দাও,play_music
+2146,60 acre বিঘায় কত হয়?,qa_maths
+2147,"""Please wait here"" এর definition কী? please",qa_definition
+2148,please Germany এর মুদ্রার নাম কী?,qa_factoid
+2149,সন্ধ্যা ৬টা ৫০ মিনিটে doctor appointment এর জন্য ডেকে দাও,alarm_set
+2150,firewall এর অসুবিধা কী?,qa_factoid
+2151,GDP এর full form কী?,qa_definition
+2152,সিএনএনের আজ রাতের খবরের সারাংশ read করো,news_query
+2153,Egypt এর জাতীয় ভাষা কী?,qa_factoid
+2154,cousin এর নাম্বার কী?,email_querycontact
+2155,আগামী সপ্তাহে Sylhet এ শিলাবৃষ্টি হবে কি,weather_query
+2156,সিডনির সাথে বাংলাদেশের time gap কত?,datetime_query
+2157,পুরনো দিনের song চালিয়ে দাও please,play_music
+2158,সত্তরের দশকের গান play দাও,play_music
+2159,"""I am hungry"" মানে কী?",qa_definition
+2160,"""Have a safe journey"" এর definition কী?",qa_definition
+2161,resume লিখব কীভাবে?,qa_factoid
+2162,জুম্মার time কখন?,datetime_query
+2163,২৪ ঘণ্টা পর grocery shopping এর জন্য ডেকে দাও,alarm_set
+2164,"""Welcome to Bangladesh"" বাক্যটার মানে কী?",qa_definition
+2165,Singapore এ UV index কেমন?,weather_query
+2166,madam এর ফোন নাম্বার বলো,email_querycontact
+2167,সহজে কীভাবে টাকা save করব?,qa_factoid
+2168,"""card এ payment নেবেন"" বাক্যটার মানে কী?",qa_definition
+2169,১২ percent of ৩০০০ কত?,qa_maths
+2170,আজ সন্ধ্যার politics আপডেট read করো,news_query
+2171,"""How much is this"" মানে কী?",qa_definition
+2172,Arifin Shuvo এর গান চালাও,play_music
+2173,প্লিজ ফ্যামিলি গ্রুপে thank you বলে mail দাও,email_sendemail
+2174,ফোকাস playlist চালাও,play_music
+2175,অর্থনীতি নিয়ে এই সপ্তাহের কী news?,news_query
+2176,স্মার্ট কন্ট্রাক্ট আর ভিপিএন এর difference কী,qa_definition
+2177,"""What is your name"" মানে কী?",qa_definition
+2178,লস অ্যাঞ্জেলেসে এখন time কত?,datetime_query
+2179,আজ সন্ধ্যায় outing এর জন্য ঠিক আছে?,weather_query
+2180,ডাক্তার এর phone number কত?,email_querycontact
+2181,প্রতি সোমবার সকাল ১০টা ২৫ মিনিটে train ধরার রিমাইন্ডার,calendar_set
+2182,একটা হালকা song play দাও,play_music
+2183,নতুন কিছু বিদ্রোহের song ছাড়ো,play_music
+2184,please Blinding Lights song টা শোনাও,play_music
+2185,৭৫ kg কে পাউন্ডে বদলাও,qa_maths
+2186,প্লিজ ৩০ liter গ্যালনে কত হয়?,qa_maths
+2187,Dinajpur এ পরশু গরম পড়বে?,weather_query
+2188,কাল 11:10 PM এ অ্যাসাইনমেন্ট জমা দেওয়ার কথা মনে করিয়ে দাও,calendar_set
+2189,চাকরি নিয়ে আজ সকালের কী update?,news_query
+2190,Adele এর song চালাও,play_music
+2191,Arif এর নাম্বার কী?,email_querycontact
+2192,মারুফ এর ফোন নাম্বার কত? please,email_querycontact
+2193,দিল্লিতে time বলো,datetime_query
+2194,BBC Bangla এর আজকের news জানাও,news_query
+2195,"""check out কখন"" এর অর্থ কী? please",qa_definition
+2196,"driver কে email পাঠাও ঠিক আছে, আসছি",email_sendemail
+2197,"""Congratulations on your promotion"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition
+2198,Savar এ তাপমাত্রা কেমন?,weather_query
+2199,ময়মনসিংহে আজ বিকেলে min temperature কত?,weather_query
+2200,"""ফেরার টিকেট কত"" এই sentence টা বলতে কী বোঝায়?",qa_definition
+2201,"""ticket কোথায় কিনব say করব"" এর মানে কী?",qa_definition
+2202,প্লিজ ফুফুকে weekly report নিয়ে মেইল করো,email_sendemail
+2203,আমাকে আজ 4:00 PM এ workout এর রিমাইন্ডার set করো,calendar_set
+2204,time বলো,datetime_query
+2205,Nachiketa এর song শোনাও,play_music
+2206,১৫ মিনিটের timer set করো,alarm_set
+2207,mood off এর সময় শোনার মতো গান চালিয়ে দাও,play_music
+2208,দুঃখের songs play করো,play_music
+2209,লং ড্রাইভে songs চালু করো প্লিজ,play_music
+2210,please এক ঘণ্টা পরে ডাক্তারের অ্যাপয়েন্টমেন্টের কথা remind করো,calendar_set
+2211,৯ factorial বলো,qa_maths
+2212,mom কে দরজা খোলা আছে email এ লিখে পাঠাও,email_sendemail
+2213,Amazon কোন দেশের কোম্পানি?,qa_factoid
+2214,আমাকে ভোর ৫টায় sehri এর রিমাইন্ডার দাও,calendar_set
+2215,Dhaka তে আবহাওয়ার পূর্বাভাস দেখাও,weather_query
+2216,ববিকে email দাও টাকা পাঠিয়েছি দেখে নাও,email_sendemail
+2217,প্লিজ বিকেল ৪টায় tuition এর কথা remind করে দিও,calendar_set
+2218,Tesla এর লোগো কী রকম,qa_factoid
+2219,প্লিজ ৩৫০ টাকার জিনিসে ৫% discount পেলে দাম কত?,qa_maths
+2220,স্বামীকে happy birthday বলে email করো,email_sendemail
+2221,"শুভকে email করো I'm busy, পরে কথা বলছি",email_sendemail
+2222,please করিম এর নাম্বার কী?,email_querycontact
+2223,night এ শোনার মতো song play করো,play_music
+2224,রাফিকে email করো,email_sendemail
+2225,email এ অফিস গ্রুপে CV share করো,email_sendemail
+2226,পরশু সকাল ৯টায় reminder দিয়ে রাখো,calendar_set
+2227,"""ফেরার টিকেট কত"" এর definition কী?",qa_definition
+2228,reminder রাখো ৫০ মিনিট পর,calendar_set
+2229,প্রীতিকে dinner ready email এ পাঠিয়ে দাও,email_sendemail
+2230,Satyajit Ray কোন দেশের নাগরিক?,qa_factoid
+2231,driver কে খাবার রেডি email এ লিখে পাঠাও,email_sendemail
+2232,অফিস গ্রুপে email করো কোথায় আছো,email_sendemail
+2233,pharmacy এর contact number বের করে দাও please,email_querycontact
+2234,২ মিটার feet এ convert করো,qa_maths
+2235,কানাডার local টাইম কত?,datetime_query
+2236,রিয়াকে email পাঠাও আমার একটু দেরি হবে,email_sendemail
+2237,সিডনির local time কত?,datetime_query
+2238,Italy এর সময় অঞ্চল কী?,datetime_query
+2239,স্যার এর contact number বের করে দাও,email_querycontact
+2240,"""I need a doctor"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition
+2241,Docker কি নিরাপদ?,qa_factoid
+2242,Beyoncéের music ছাড়ো,play_music
+2243,"""আমি ক্ষুধার্ত"" meaning কী?",qa_definition
+2244,এলার্ম set করো tomorrow 10 PM এ,alarm_set
+2245,এখন exact time কত?,datetime_query
+2246,1024 এর square root কত হয়?,qa_maths
+2247,romantic গান play করে দাও,play_music
+2248,রিয়া এর phone number বলো,email_querycontact
+2249,ডগকয়েনের features কী,qa_definition
+2250,কলেজ এর phone number কত?,email_querycontact
+2251,আমাকে 40 মিনিট পর ছেলেকে স্কুল থেকে আনার reminder রাখো,calendar_set
+2252,৬৫০০ টাকার ১২% interest এ ৩ বছরে সুদ কত হবে?,qa_maths
+2253,নতুন কিছু old গান চালাও,play_music
+2254,James এর গান চালাও,play_music
+2255,৭৫০ টাকায় ১৫ percent ট্যাক্স যোগ করলে কত হয়?,qa_maths
+2256,আমাকে আগামীকাল সকাল ১১টা ৩০ মিনিটে class এর রিমাইন্ডার দিয়ে দাও,calendar_set
+2257,আজকের date কত?,datetime_query
+2258,ম্যানচেস্টার ইউনাইটেডের last 24 hours এর headlines শোনাও,news_query
+2259,email এ সাবিনাকে সিভি send করো please,email_sendemail
+2260,K-pop music ছাড়ো,play_music
+2261,please আইপিএল নিয়ে আজ সকালের কী update?,news_query
+2262,today's আন্তর্জাতিক খবরের সারাংশ জানাও,news_query
+2263,অ্যালার্ম set করে দাও আগামীকাল দুপুর ১টায়,alarm_set
+2264,latest বাজেট আপডেট show করো,news_query
+2265,"""শুভ জন্মদিন"" word এর মানে কী?",qa_definition
+2266,মাকে screenshot email এ forward করো,email_sendemail
+2267,১০ gram কত আউন্স?,qa_maths
+2268,Tangail এ আজ night এ গরম পড়বে?,weather_query
+2269,Paris এ আগামী সপ্তাহে hot হবে?,weather_query
+2270,24 hour পর ইন্টারভিউয়ের এলার্ম,alarm_set
+2271,333 এই নাম্বারের contact info দেখাও,email_querycontact
+2272,"""এটা কি নিরাপদ"" এই sentence টা বলতে কী বোঝায়?",qa_definition
+2273,ডাক্তারকে একটা email লিখে দাও,email_sendemail
+2274,Pabna তে বায়ুর মান কেমন থাকবে,weather_query
+2275,আজ Zuhr এর time কয়টা,datetime_query
+2276,শেষ missed call এর contact info দেখাও please,email_querycontact
+2277,ঈদের দিনে গানগুলো play দাও,play_music
+2278,সহপাঠীকে location email এ share করো,email_sendemail
+2279,Singapore এর local time কত?,datetime_query
+2280,১৪০ কি prime number?,qa_maths
+2281,আর্সেনালের আজ রাতের সংবাদ show করো,news_query
+2282,Mexico কবে স্বাধীন হয়?,qa_factoid
+2283,সাবিনা এর contact detail খুঁজে দাও,email_querycontact
+2284,popular গান চালু করো,play_music
+2285,tomorrow বিকেল 3টায় gym এর কথা remind করে দিও,calendar_set
+2286,দুবাইয়ে এখন time কত?,datetime_query
+2287,next week এ হাঁটতে বের হওয়া যাবে?,weather_query
+2288,Rome এ time বলো,datetime_query
+2289,DW এর আজ সন্ধ্যার headlines দেখাও,news_query
+2290,আর অ্যান্ড বি songs play করে দাও,play_music
+2291,ইফতারের time কয়টায়,datetime_query
+2292,"""শুভ জন্মদিন"" এর definition কী? please",qa_definition
+2293,৯৯০ divide ৩০ calculate করো,qa_maths
+2294,Kuakata তে আজ cloud হওয়ার সম্ভাবনা আছে?,weather_query
+2295,"""খাবারটা দারুণ হয়েছে"" meaning কী?",qa_definition
+2296,cooking এর সময় গানগুলো চালাও,play_music
+2297,সিউলের time এখন কত?,datetime_query
+2298,২৫ মিনিট পরে reminder রাখো,calendar_set
+2299,আত্মীয়দের গ্রুপে লোকেশন email এ forward করো,email_sendemail
+2300,tomorrow সকাল ৭টায় blood donation এর রিমাইন্ডার সেট করো,calendar_set
+2301,please ৪০ ডিগ্রি Celsius Fahrenheit এ কত?,qa_maths
+2302,Tahsan এর গান শোনাও,play_music
+2303,ব্যাচ গ্রুপে আজ আসতে পারব না email করে দাও,email_sendemail
+2304,আগামী সপ্তাহে সিঙ্গাপুরে rain হবে কি?,weather_query
+2305,আজ সন্ধ্যায় heavy rain হবে নাকি,weather_query
+2306,১৭১৮ minus ১৩১১ কত হয়?,qa_maths
+2307,Noakhali তে আগামী তিন দিন বায়ুর মান কত?,weather_query
+2308,rainy day তে শোনার মতো গানগুলো ছাড়ো,play_music
+2309,আজ নারায়ণগঞ্জে hailstorm হবে কি?,weather_query
+2310,email এ নাহিদাকে photo পাঠাও,email_sendemail
+2311,৩ power ৫ কত?,qa_maths
+2312,international নিয়ে আজ রাতের কী news?,news_query
+2313,Bhutan এর জাতীয় ভাষা কী?,qa_factoid
+2314,politics বিভাগের গত ২৪ ঘণ্টার news বলো,news_query
+2315,"""Nice to meet you"" বাক্যটার মানে কী?",qa_definition
+2316,আজ সকালে air quality কত?,weather_query
+2317,সহজে কীভাবে online এ ব্যবসা শুরু করব?,qa_factoid
+2318,"""Nice to meet you"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition
+2319,১৭০ কে ১০ দিয়ে divide করো,qa_maths
+2320,top 50 playlist play দাও please,play_music
+2321,tomorrow রাঙামাটিতে weather কেমন?,weather_query
+2322,কৃষি নিয়ে দুপুরের কী news?,news_query
+2323,৮০০ টাকার bill এ ১২% tip কত?,qa_maths
+2324,২৫০০ এর ৩ percent বলো,qa_maths
+2325,pop গান শোনাও,play_music
+2326,কালের কণ্ঠের আজ রাতের news দেখাও,news_query
+2327,ব্যাংককের local time কত?,datetime_query
+2328,Isha র time হতে আর কত বাকি,datetime_query
+2329,রাত ১২টায় wake করে দিও,alarm_set
+2330,প্রীতিকে thank you note নিয়ে email লিখে পাঠাও,email_sendemail
+2331,মধ্যপ্রাচ্যের news summary show করো,news_query
+2332,today's বড় update কী?,news_query
+2333,ম্যাডাম এর contact number বের করে দাও,email_querycontact
+2334,USB এর অসুবিধা কী?,qa_factoid
+2335,শেষ incoming call এর contact info দেখাও please,email_querycontact
+2336,"""Please wait here"" এর definition কী? প্লিজ",qa_definition
+2337,আজ Fajr এর time কয়টা?,datetime_query
+2338,এই মুহূর্তের top stories দেখাও প্লিজ,news_query
+2339,latest সিনেমা news বলো,news_query
+2340,USA এর শিরোনাম read করো,news_query
+2341,আজ বগুড়ায় umbrella নিতে হবে?,weather_query
+2342,road trip প্লেলিস্ট play করো,play_music
+2343,Sonu Nigam এর song চালাও please,play_music
+2344,BBC Bangla এর আজ সকালের headline বলো,news_query
+2345,"""taxi লাগবে"" মানে কী?",qa_definition
+2346,national নিয়ে দুপুরের কী খবর?,news_query
+2347,রহিম এর নাম্বার কী? please,email_querycontact
+2348,"""আপনি কেমন আছেন"" এই sentence টা বলতে কী বোঝায়?",qa_definition
+2349,চাকরি section এর আজ সকালের headline দাও,news_query
+2350,ঢাকায় রাত ১১টা বাজলে Bangkok এ কয়টা বাজে?,datetime_convert
+2351,সোমবার দুপুর ১টায় blood donation এর alarm set করো,alarm_set
+2352,আপু এর phone number কত?,email_querycontact
+2353,email এ husband কে report পাঠাও,email_sendemail
+2354,রিমাইন্ডার set করে দাও tomorrow বিকেল ৪টায়,calendar_set
+2355,"""শুভ রাত্রি"" meaning কী?",qa_definition
+2356,"""Good morning"" শব্দটার মানে কী? প্লিজ",qa_definition
+2357,today's জাতীয় সংবাদ শোনাও,news_query
+2358,সুমনকে email পাঠাও,email_sendemail
+2359,Sumon এর contact info দেখাও,email_querycontact
+2360,Vietnamese ভাষা কী?,qa_definition
+2361,"""আবার বলুন"" এর meaning কী?",qa_definition
+2362,daily ভোর ৩টায় রিমাইন্ডার set করে দাও,calendar_set
+2363,startup কী?,qa_definition
+2364,Sydney তে এখন সময় কত?,datetime_query
+2365,কোরিয়ান বিরহের গান play করো,play_music
+2366,Turkey এর জাতীয় খেলা কী?,qa_factoid
+2367,Tangail এ তাপপ্রবাহের সতর্কবার্তা আছে?,weather_query
+2368,night এ songs play করে দাও,play_music
+2369,"""It was a pleasure meeting you"" মানে কী? প্লিজ",qa_definition
+2370,"""শুভ নববর্ষ"" এর definition কী?",qa_definition
+2371,নাঈম এর phone number বলো,email_querycontact
+2372,আগামী সপ্তাহে fog condition কত,weather_query
+2373,ব্যাচ গ্রুপে thank you email এ পাঠিয়ে দাও,email_sendemail
+2374,লং ড্রাইভে music বাজাও,play_music
+2375,১৩ আর ৪৩ এর HCF calculate করো,qa_maths
+2376,"""I am hungry"" এর মানে কী?",qa_definition
+2377,১৪২১ divide ২৯ কত?,qa_maths
+2378,Mexico এর রাজধানী কোথায়?,qa_factoid
+2379,contact list এ university এর নাম্বার খুঁজে বলো,email_querycontact
+2380,cricket team group এ একটা email পাঠিয়ে দাও,email_sendemail
+2381,6:20 AM এ cricket match এর কথা remind করে দিও,calendar_set
+2382,cricket team group এ email এ লিখে পাঠাও ধন্যবাদ,email_sendemail
+2383,office group এ email করো,email_sendemail
+2384,আমাকে 7:00 PM-এ হাঁটতে যাওয়ার রিমাইন্ডার set করো,calendar_set
+2385,রক songs চালাও,play_music
+2386,মোবাইল ফোন section এর সর্বশেষ খবরের সারাংশ শোনাও প্লিজ,news_query
+2387,Noakhali তে আজ সকালে ঘূর্ণিঝড় হওয়ার chance আছে?,weather_query
+2388,রাজশাহীর দুপুরের শিরোনাম read করো,news_query
+2389,"""জায়গাটা খুব সুন্দর"" এর definition কী?",qa_definition
+2390,আমার contact list এ wife এর নাম্বারটা কী?,email_querycontact
+2391,Pabna তে আবহাওয়ার পূর্বাভাস দেখাও,weather_query
+2392,এই weekend এ Bandarban এ কালবৈশাখী হবে কি?,weather_query
+2393,আমার contact list এ ভাইয়া এর নাম্বারটা কী?,email_querycontact
+2394,১৫ মিনিট পরে wake up call দাও,alarm_set
+2395,Saudi Arabia এর সময় অঞ্চল কী?,datetime_query
+2396,বন্ধুদের গ্রুপে email দাও,email_sendemail
+2397,কাঠমান্ডুতে now UV index কত?,weather_query
+2398,২৪ hour পরে ফোন চার্জে দেওয়ার জন্য ডেকে দাও,alarm_set
+2399,এখন কোন month,datetime_query
+2400,photosynthesis কী,qa_definition
+2401,ইংরেজি speaking এ ভালো হব কীভাবে সম্ভব?,qa_factoid
+2402,পলাশ এর phone number কত?,email_querycontact
+2403,"৬৫, ৮৯, ৭২ এর average calculate করো",qa_maths
+2404,ঢাকায় সন্ধ্যা ৬টা বাজলে Kuwait এ কয়টা বাজে?,datetime_convert
+2405,আরবি chill গানগুলো play করে দাও,play_music
+2406,১৫ ডিগ্রি Celsius ফারেনহাইটে কত?,qa_maths
+2407,now কুয়াকাটায় রোদ হবে কি?,weather_query
+2408,অনিক এর phone number কত?,email_querycontact
+2409,বৃষ্টির warning আছে কি?,weather_query
+2410,plumber কে email দাও dinner ready,email_sendemail
+2411,Arabic দুঃখের songs play করো,play_music
+2412,বিদ্রোহের গান play করে দাও প্লিজ,play_music
+2413,বিকেল সোয়া 4টায় চা খাওয়ার কথা remind করে দিও,calendar_set
+2414,Ayub Bachchu এর গান play করে দাও,play_music
+2415,Pluto এর তাপমাত্রা কত,qa_factoid
+2416,কাল সকালে cyclone হবে নাকি?,weather_query
+2417,Kathmandu তে now rain chance কত,weather_query
+2418,"""check out কখন"" বাক্যটার মানে কী?",qa_definition
+2419,Bohemian Rhapsody গানটি play করে দাও,play_music
+2420,"""এটা কত দূর"" এর translation কী?",qa_definition
+2421,৬ hour পর রক্ত দেওয়ার alarm সেট করো,alarm_set
+2422,Drake এর songs চালু করো,play_music
+2423,"""Good morning"" এর মানে কী? please",qa_definition
+2424,Tamil sad songs play দাও,play_music
+2425,Singapore এ কয়টা বাজে?,datetime_query
+2426,অ্যালার্ম set করে দাও সকাল ৮টায়,alarm_set
+2427,হালকা songs play দাও,play_music
+2428,reminder set করে দাও সন্ধ্যা ৬টায়,calendar_set
+2429,please madam কে একটা email লিখে দাও,email_sendemail
+2430,Jashore এ সর্বনিম্ন তাপমাত্রা কেমন থাকবে?,weather_query
+2431,open source কীভাবে কাজ করে?,qa_factoid
+2432,password strong করব how to?,qa_factoid
+2433,10 ringgit কত টাকা?,qa_currency
+2434,please 999 এই নাম্বারের contact info দেখাও,email_querycontact
+2435,16263 নম্বরটা কার number? প্লিজ,email_querycontact
+2436,"""I miss you"" এর অর্থ কী?",qa_definition
+2437,gravity এর উদাহরণ দাও,qa_definition
+2438,ম্যাডাম এর number কী?,email_querycontact
+2439,সর্বশেষ কৃষি update বলো,news_query
+2440,Stephen Hawking এর বিখ্যাত অবদান কী?,qa_factoid
+2441,শেষ missed call করা নাম্বারটা কার নামে আছে?,email_querycontact
+2442,please আমার contact list এ রাকিব এর নাম্বারটা কী?,email_querycontact
+2443,The Daily Star এর দুপুরের শিরোনাম show করো,news_query
+2444,please আজ সকালের সংসদ news read করো,news_query
+2445,আপুকে আমি বাসায় ফিরছি email করে দাও,email_sendemail
+2446,Nachiketa এর song play করো,play_music
+2447,"প্লিজ ""Welcome to Bangladesh"" এর মানে কী?",qa_definition
+2448,নতুন song play দাও,play_music
+2449,সুমন এর phone number বলো,email_querycontact
+2450,Linux এর অসুবিধা কী,qa_factoid
+2451,প্লিজ ১০০ এর ২৫ percent,qa_maths
+2452,Indonesia কবে স্বাধীন হয়?,qa_factoid
+2453,শেষ dial করা নাম্বারটা কার contact?,email_querycontact
+2454,Sydney এর সাথে ঢাকার time difference কত?,datetime_convert
+2455,জাতীয় বিভাগের breaking খবরের সারাংশ দেখাও,news_query
+2456,এলার্ম set করে দাও পরশু বিকেল ৪টা ৪০ মিনিটে,alarm_set
+2457,ক্রিকেট টিমের গ্রুপে email দাও,email_sendemail
+2458,আমার contact list এ জান্নাত এর নাম্বারটা কী?,email_querycontact
+2459,প্লিজ Venus এ কয়টা চাঁদ আছে?,qa_factoid
+2460,"""আমার একটা টেবিল বুক করা আছে"" sentence এর মানে কী?",qa_definition
+2461,Arif কে সব ঠিক আছে email করে দাও,email_sendemail
+2462,৩২ এর square,qa_maths
+2463,solar system কে আবিষ্কার করেছেন?,qa_factoid
+2464,Dubai এর সাথে ঢাকার time difference কত?,datetime_convert
+2465,রাতের BPL খবর দাও,news_query
+2466,২০১০ এর song play করে দাও,play_music
+2467,Apple কোন দেশের কোম্পানি?,qa_factoid
+2468,প্লিজ 10 কিলোমিটার কত mile?,qa_maths
+2469,next week এ অনুভূত তাপমাত্রা কত?,weather_query
+2470,সমকালের আজকের news read করো,news_query
+2471,ভাইয়া এর phone number বলো,email_querycontact
+2472,৫০ মিনিট পর অফিসে যাওয়ার কথা remind করো,calendar_set
+2473,এই মুহূর্তের business news read করো,news_query
+2474,Saudi Arabia এর time এখন কত?,datetime_query
+2475,৫০০ টাকায় ১০% tax include করলে total কত?,qa_maths
+2476,লো-ফাই গান play করো,play_music
+2477,hostel group এ মেইল দাও good night,email_sendemail
+2478,৫ min পরে class এর রিমাইন্ডার দাও,calendar_set
+2479,সকাল ৮টায় wake me up,alarm_set
+2480,আজ বিকেলে feels like temperature কত,weather_query
+2481,Bahrain এ এখন কি দিন চলছে?,datetime_query
+2482,আমাকে ১ ঘণ্টা পর exam এর রিমাইন্ডার set করো,calendar_set
+2483,"""আমার ব্যাগ হারিয়ে গেছে"" এর definition কী?",qa_definition
+2484,Kolkata তে বৃষ্টির সম্ভাবনা কেমন?,weather_query
+2485,"লিসবনে এখন time কত, day না night?",datetime_query
+2486,30 km মাইলে রূপান্তর করো,qa_maths
+2487,ফায়ার সার্ভিসে 999 এর contact info দেখাও,email_querycontact
+2488,client কে একটা email পাঠিয়ে দাও,email_sendemail
+2489,এই মুহূর্তের টি-টোয়েন্টি news read করো,news_query
+2490,ব্লুজ music play দাও,play_music
+2491,৩৬ কি prime number?,qa_maths
+2492,time কত হলো?,datetime_query
+2493,solar system কী?,qa_definition
+2494,Hong Kong এ কয়টা বাজে?,datetime_query
+2495,সেন্ট মার্টিনে weather forecast শোনাও,weather_query
+2496,স্বামী এর phone number কত?,email_querycontact
+2497,তিথি এর number কী?,email_querycontact
+2498,আগামী সপ্তাহে Pabna তে কালবৈশাখী হবে কি?,weather_query
+2499,বাপ্পা মজুমদারের song play করো,play_music
+2500,মিম এর contact number বের করে দাও,email_querycontact
+2501,Rangpur এর সর্বশেষ news summary বলো,news_query
+2502,"""আমি বুঝতে পারছি না"" এর meaning কী?",qa_definition
+2503,অরিজিৎ সিং এর গান play করো,play_music
+2504,hostel group এ email করে জানিয়ে দাও আমি পৌঁছে গেছি,email_sendemail
+2505,প্লিজ আশা ভোঁসলে এর গান play করে দাও,play_music
+2506,"""Wi-Fi password কী"" এর মানে কী? please",qa_definition
+2507,Kona এর song চালাও,play_music
+2508,ইউরোপের update জানাও,news_query
+2509,Perfect গানটা চালু করো,play_music
+2510,বিয়ের অনুষ্ঠানে songs play করো,play_music
+2511,Turkey এর সাথে বাংলাদেশের সময়ের তফাত কত?,datetime_query
+2512,long drive এ music চালাও,play_music
+2513,Rome এ এখন কয়টা?,datetime_query
+2514,plumber এর ফোন নাম্বার কত?,email_querycontact
+2515,২৫ pound kg এ রূপান্তর করো,qa_maths
+2516,USB এর full form কী?,qa_definition
+2517,ভিপিএন আর startup এর difference কী?,qa_definition
+2518,প্রতি সোমবার 3:30 AM-এ জাগিয়ে দাও,alarm_set
+2519,"""এটা কত দূর"" এই sentence টা বলতে কী বোঝায়?",qa_definition
+2520,Rafi এর contact number বের করে দাও,email_querycontact
+2521,১৮০০ টাকার ৩% calculate করো,qa_maths
+2522,৫০ মিনিট পর blood donation এর জন্য ডেকে দাও,alarm_set
+2523,ক্রিকেট টিমের গ্রুপে email পাঠাও dinner ready,email_sendemail
+2524,email এ আত্মীয়দের গ্রুপে রিপোর্ট পাঠাও,email_sendemail
+2525,আজ সন্ধ্যায় Pabna তে weather কেমন,weather_query
+2526,আমাকে বুধবার 11:00 AM এ gym এর reminder দিয়ে দাও,calendar_set
+2527,hip hop music play করো,play_music
+2528,contact list এ friend এর নাম্বার খুঁজে বলো,email_querycontact
+2529,ফ্যামিলি গ্রুপে email করো,email_sendemail
+2530,Dubai তে অনুভূত তাপমাত্রা কেমন থাকবে?,weather_query
+2531,Sonu Nigam এর songs চালাও,play_music
+2532,email এ hostel group এ photo send করো,email_sendemail
+2533,আজ সেহরির time কয়টা?,datetime_query
+2534,নয়া দিগন্তের রাতের হেডলাইন show করো,news_query
+2535,২৫ meter ফুটে convert করো,qa_maths
+2536,আমার contact list এ সাবিনা এর নাম্বারটা কী?,email_querycontact
+2537,২৯ আর ৪৩ এর HCF হিসাব করো,qa_maths
+2538,আমাকে রাত ১২টায় sleep এর reminder সেট করো,calendar_set
+2539,প্রজেক্ট গ্রুপে ধন্যবাদ email করে দাও,email_sendemail
+2540,USB সম্পর্কে সহজ ভাষায় বুঝিয়ে বলো,qa_definition
+2541,প্রতি বৃহস্পতিবার 6:00 PM এ iftar এর জন্য মনে করিয়ে দিও,calendar_set
+2542,লন্ডনে আজ দুপুরে গরম হওয়ার chance আছে?,weather_query
+2543,contact list এ electricity office এর নাম্বার খুঁজে বলো,email_querycontact
+2544,Satyajit Ray কোথায় জন্মেছেন?,qa_factoid
+2545,পরশু weather কেমন হবে?,weather_query
+2546,cousin কে email করো,email_sendemail
+2547,ভোর ৩টায় medicine খাওয়ার রিমাইন্ডার set করো,calendar_set
+2548,contact list এ 333 নম্বরটা কার নামে আছে? please,email_querycontact
+2549,এই weekend এ wind speed কত,weather_query
+2550,শিউলি এর number কী?,email_querycontact
+2551,ম্যানচেস্টার ইউনাইটেডের ম্যাচের score বলো,news_query
+2552,রিমাইন্ডার set করো ভোর 3টা 10 মিনিটে,calendar_set
+2553,শাফল করে road trip playlist play দাও,play_music
+2554,সহপাঠীকে একটা email লিখে দাও,email_sendemail
+2555,৪০০ Tk এ ১০% ট্যাক্স include করলে total কত,qa_maths
+2556,Maruf কে মেইল পাঠাও আমার একটু দেরি হবে,email_sendemail
+2557,"""reservation করা আছে say করব"" এর definition কী?",qa_definition
+2558,আমাকে দুপুর সোয়া ২টায় ব্যাংকে যাওয়ার reminder দাও,calendar_set
+2559,Nikola Tesla কোথায় জন্মেছেন?,qa_factoid
+2560,Prothom Alo এর এই মুহূর্তের খবর দেখাও,news_query
+2561,ঢাকায় সন্ধ্যা ৬টা বাজলে Kathmandu তে কয়টা বাজে?,datetime_convert
+2562,breaking শিক্ষা update দেখাও,news_query
+2563,Argentina এর ব্রেকিং খবরের সারাংশ show করো,news_query
+2564,Excel এ pivot table বানাব কীভাবে সম্ভব?,qa_factoid
+2565,৫ পাউন্ড কত kg?,qa_maths
+2566,Chelsea এর ম্যাচের স্কোর কত?,news_query
+2567,টিউশনের reminder দিয়ে দাও প্রতিদিন 3:10 PM এ,calendar_set
+2568,৮০০০ এর double,qa_maths
+2569,নিউ ইয়র্কের time zone কী?,datetime_query
+2570,স্প্যানিশ sad গান চালাও,play_music
+2571,প্রতি রবিবার 10:20 AM এ meditation এর reminder সেট করো,calendar_set
+2572,১০ মিনিটের timer start করো,alarm_set
+2573,tomorrow বিকেল ৫টায় wake করে দিও,alarm_set
+2574,eighties এর গান শোনাও,play_music
+2575,Noakhali তে today শিলাবৃষ্টি হওয়ার chance আছে?,weather_query
+2576,৭ percent of ৩৬০০,qa_maths
+2577,২ মিনিটের timer start করো,alarm_set
+2578,ফারহানকে আমার একটু late হবে email করে দাও,email_sendemail
+2579,আজ সন্ধ্যায় weather কেমন?,weather_query
+2580,কমিউনিটি গ্রুপে মিটিং এজেন্ডা email এ share করো,email_sendemail
+2581,stock market এর ইতিহাস কী,qa_factoid
+2582,স্ত্রীকে email দাও,email_sendemail
+2583,roommate কে email করো আমি দশ মিনিটের মধ্যে আসছি,email_sendemail
+2584,12 গ্রাম ounce এ convert করো,qa_maths
+2585,১০০ ডলার টাকায় convert করো,qa_currency
+2586,৪০০ টাকার জিনিসে ১০% discount পেলে দাম কত?,qa_maths
+2587,tan ৪৫ ডিগ্রির মান কত?,qa_maths
+2588,৪ পাওয়ার ৭ calculate করো,qa_maths
+2589,ভাইয়া এর number কী?,email_querycontact
+2590,Saturn একবার ঘুরতে কত সময় লাগে?,qa_factoid
+2591,recent top stories বলো,news_query
+2592,contact list এ classmate এর নাম্বার খুঁজে বলো,email_querycontact
+2593,Arabic energetic গান চালু করো,play_music
+2594,tomorrow ঘুরতে যাওয়া যাবে?,weather_query
+2595,শাহীনকে email দাও,email_sendemail
+2596,Monday রাত ১১টায় মেডিটেশনের reminder সেট করো,calendar_set
+2597,AI আর ব্লুটুথ এর পার্থক্য কী?,qa_definition
+2598,এই সপ্তাহের top stories show করো,news_query
+2599,লন্ডনের local টাইম কত?,datetime_query
+2600,আজ Jummah র time কয়টা?,datetime_query
+2601,ফুফুকে voice note email এ পাঠাও,email_sendemail
+2602,900 এর 15 percent,qa_maths
+2603,Instagram কীভাবে আয় করে?,qa_factoid
+2604,"""I am hungry"" মানে কী? please",qa_definition
+2605,দেশাত্মবোধক music play করে দাও,play_music
+2606,৬৫০০ taka এর ৪০% কত?,qa_maths
+2607,Egypt এর সীমান্তে কোন কোন দেশ আছে?,qa_factoid
+2608,২০% of ৪৫০ কত হয়,qa_maths
+2609,"""airport কতদূর"" এর মানে কী?",qa_definition
+2610,"""শুভ জন্মদিন"" meaning কী?",qa_definition
+2611,"""আমি বুঝতে পারছি না"" sentence এর মানে কী?",qa_definition
+2612,৪০ কেজি কে pound এ বদলাও,qa_maths
+2613,প্লিজ ২০০ ringgit টাকায় কত,qa_currency
+2614,"""ধীরে বলুন"" এর definition কী?",qa_definition
+2615,"""খাবারটা দারুণ হয়েছে"" মানে কী? please",qa_definition
+2616,সহজে কীভাবে password strong করব?,qa_factoid
+2617,নাহিদাকে email দাও good night,email_sendemail
+2618,২১ এর cube,qa_maths
+2619,লিসবনে এখন time কত?,datetime_query
+2620,সিএনএনের সাম্প্রতিক headline পড়ো,news_query
+2621,Chicago তে টাইম কত,datetime_query
+2622,নারায়ণগঞ্জে storm এর alert আছে?,weather_query
+2623,ভাইয়াকে assignment email এ পাঠাও,email_sendemail
+2624,সকাল ৭টায় wake করে দিও,alarm_set
+2625,Noakhali তে শুক্রবার গরম পড়বে?,weather_query
+2626,এই সপ্তাহে fog condition কত?,weather_query
+2627,দুঃখের গানগুলো play দাও,play_music
+2628,contact list এ মেহেদী এর নাম্বার খুঁজে বলো,email_querycontact
+2629,আমার contact list এ ল্যান্ডলর্ড এর নাম্বারটা কী?,email_querycontact
+2630,ইংরেজি speaking এ ভালো হব কীভাবে?,qa_factoid
+2631,জাপানের time zone কী?,datetime_query
+2632,খালা এর phone number বলো,email_querycontact
+2633,আমাকে Friday সকাল সোয়া ১১টায় blood donation এর রিমাইন্ডার সেট করো,calendar_set
+2634,Tangail এ wind speed কেমন থাকবে?,weather_query
+2635,বগুড়ায় এই সপ্তাহে storm হওয়ার chance আছে?,weather_query
+2636,Chattogram এ এখন কালবৈশাখী হওয়ার সম্ভাবনা আছে?,weather_query
+2637,এই মুহূর্তের top stories read করো,news_query
+2638,এশার time কখন?,datetime_query
+2639,কাল বিকেল 3টা 30 মিনিটে ভাত বসানোর কথা remind করো,calendar_set
+2640,Saint Martin এ আগামী সপ্তাহে গরম পড়বে?,weather_query
+2641,sports নিয়ে latest কী খবর?,news_query
+2642,আজকের headlines কী?,news_query
+2643,latest শিল্প খবর read করো,news_query
+2644,আমাকে ২৫ মিনিট পরে doctor appointment এর রিমাইন্ডার দাও,calendar_set
+2645,friend এর ফোন নাম্বার বলো,email_querycontact
+2646,আগামীকাল রাত 8টায় alarm set করে দাও,alarm_set
+2647,"একটু ""ধীরে বলুন"" এর definition কী?",qa_definition
+2648,"একটু ""ধীরে বলুন"" এর meaning কী?",qa_definition
+2649,সিঙ্গাপুরের local time কত?,datetime_query
+2650,সৌদি আরবের local টাইম কত,datetime_query
+2651,এই weekend এ weather কেমন?,weather_query
+2652,৫০০ মিটার কে ফুটে convert করো,qa_maths
+2653,"""কাছাকাছি মসজিদ কোথায়"" meaning কী?",qa_definition
+2654,ববিকে CV email এ send করো,email_sendemail
+2655,Paris এ weather forecast দেখাও,weather_query
+2656,"Maruf কে email করে জানিয়ে দাও ok, আসছি",email_sendemail
+2657,"""এটা কত দূর"" sentence এর মানে কী?",qa_definition
+2658,doctor কে একটা email লিখে দাও,email_sendemail
+2659,বরিশালে today গরম পড়বে?,weather_query
+2660,Qatar এর local সময় কত?,datetime_query
+2661,আমাকে 7:30 PM এ ফ্লাইটের reminder দিয়ে দাও,calendar_set
+2662,কানাডায় time কত?,datetime_query
+2663,প্লিজ Bohemian Rhapsody গানটা শোনাও,play_music
+2664,১৪৪ এর square root কত হবে,qa_maths
+2665,আমাকে ১২ ঘণ্টা পরে laundry আনার reminder দাও,calendar_set
+2666,jogging এর সময় song বাজাও,play_music
+2667,lunch এর রিমাইন্ডার দিয়ে দাও tomorrow দুপুর ১২টা ৫ মিনিটে,calendar_set
+2668,আজ দুপুরে গাজীপুরে cricket খেলা যাবে?,weather_query
+2669,wife কে video email এ share করো,email_sendemail
+2670,ঢাকায় সকাল ৬টা বাজলে Istanbul এ কয়টা বাজে,datetime_convert
+2671,"""Wi-Fi password কী"" বাক্যটার মানে কী?",qa_definition
+2672,"""কোনো সমস্যা নেই"" sentence এর মানে কী?",qa_definition
+2673,Cristiano Ronaldo এর বিখ্যাত অবদান কী?,qa_factoid
+2674,তুরস্কের local time কত?,datetime_query
+2675,Los Angeles এর local time কত?,datetime_query
+2676,tomorrow জামা শুকাবে,weather_query
+2677,কলকাতায় time বলো,datetime_query
+2678,সিউলে time বলো,datetime_query
+2679,Istanbul এ এখন দিন না রাত?,datetime_query
+2680,নয়া দিগন্তের সাম্প্রতিক আপডেট show করো,news_query
+2681,ফজরের time হতে আর কত বাকি?,datetime_query
+2682,জার্মানির local time কত?,datetime_query
+2683,Mark Zuckerberg কোন দেশের নাগরিক?,qa_factoid
+2684,সুমনকে একটা email পাঠিয়ে দাও,email_sendemail
+2685,daily ভোর ৪টায় তাহাজ্জুদের এলার্ম,alarm_set
+2686,Sydney এর সাথে বাংলাদেশের সময়ের তফাত কত,datetime_query
+2687,Coldplay এর music শোনাও,play_music
+2688,10 মিনিট পর কোচিংয়ের কথা remind করো,calendar_set
+2689,"""Nice to meet you"" বাক্যটার মানে কী? please",qa_definition
+2690,Noakhali তে বন্যার alert আছে?,weather_query
+2691,"""আবার বলুন"" word এর মানে কী?",qa_definition
+2692,আজ দুপুরে Savar এ weather কেমন?,weather_query
+2693,Bangkok এ এখন সকাল নাকি রাত,datetime_query
+2694,জার্মানির local সময় কত?,datetime_query
+2695,Albert Einstein এর বিখ্যাত উক্তি কোনটি,qa_factoid
+2696,পলাশকে ঈদ মোবারক email করে দাও,email_sendemail
+2697,ক্লাস গ্রুপে মেইল করো happy birthday,email_sendemail
+2698,Manchester United এর এই সপ্তাহের খবরের সারাংশ দাও,news_query
+2699,লন্ড্রি আনার রিমাইন্ডার দাও Saturday সকাল ৯টা ৩০ মিনিটে,calendar_set
+2700,email এ সজীবকে meeting agenda share করো প্লিজ,email_sendemail
+2701,কিভাবে টাকা save করব?,qa_factoid
+2702,ভাইয়াকে আমি দশ মিনিটের মধ্যে আসছি বলে email করো,email_sendemail
+2703,নাঈমকে ধন্যবাদ বার্তা নিয়ে email করো,email_sendemail
+2704,মমতাজের song play করে দাও,play_music
+2705,"""bill দিন"" এর মানে কী?",qa_definition
+2706,গত ২৪ ঘণ্টার export শিরোনাম বলো,news_query
+2707,Norway এর সীমান্তে কোন কোন দেশ আছে?,qa_factoid
+2708,Rafi এর নাম্বার কী?,email_querycontact
+2709,"""check in করতে চাই"" বাক্যটার মানে কী?",qa_definition
+2710,email এ রহিমকে notes share করো,email_sendemail
+2711,"""I miss you"" এর মানে কী?",qa_definition
+2712,Bangkok এ এখন দিন না রাত?,datetime_query
+2713,please friend এর contact number বের করে দাও,email_querycontact
+2714,ক্লায়েন্ট এর phone number বলো,email_querycontact
+2715,Samsung কীভাবে আয় করে,qa_factoid
+2716,9 ঘণ্টা পর পরীক্ষার জন্য notify করো,calendar_set
+2717,tomorrow সাভারে weather কেমন?,weather_query
+2718,date কত আজকে?,datetime_query
+2719,সাংহাইয়ে এখন time কত?,datetime_query
+2720,"""What time does the shop open"" বাক্যটার মানে কী?",qa_definition
+2721,contact list এ টিম লিডার এর নাম্বার খুঁজে বলো,email_querycontact
+2722,"""How much is this"" মানে কী? please",qa_definition
+2723,৫ ইউরো টাকায় convert করো,qa_currency
+2724,৭৪ times ৩২ কত?,qa_maths
+2725,প্লিজ তাহাজ্জুদের reminder set করো এক ঘণ্টা পরে,calendar_set
+2726,কীভাবে passport এর জন্য apply করব?,qa_factoid
+2727,Sakib এর নাম্বার কী? please,email_querycontact
+2728,আজ Noakhali তে রোদে বের হলে সমস্যা হবে?,weather_query
+2729,আজকের আইপিএল news পড়ে শোনাও,news_query
+2730,Toronto তে এখন সর্বনিম্ন তাপমাত্রা কত?,weather_query
+2731,email এ landlord কে টিকেট দাও,email_sendemail
+2732,আজ তারাবিহর time কয়টা?,datetime_query
+2733,চেলসির আজ সন্ধ্যার শিরোনাম read করো,news_query
+2734,Korean দেশাত্মবোধক গান play দাও,play_music
+2735,cooking এর সময় গানগুলো বাজাও,play_music
+2736,email এ colleague কে লাইভ লোকেশন দাও,email_sendemail
+2737,৩৩৭ কে ১০ দিয়ে ভাগ করলে remainder কত?,qa_maths
+2738,সুপারহিট songs play করো,play_music
+2739,১৪০৪ কে ৩৯ দিয়ে divide করো,qa_maths
+2740,ড্রাইভার এর contact info দেখাও,email_querycontact
+2741,sir কে আমি পৌঁছে গেছি বলে email করো,email_sendemail
+2742,"""এর দাম কত"" sentence এর মানে কী?",qa_definition
+2743,জন্মদিনের reminder set করো ২ ঘণ্টা পর,calendar_set
+2744,৫ km কত মাইল,qa_maths
+2745,৬৫২ + ১১২ + ৬৬ calculate করো,qa_maths
+2746,doctor এর নাম্বার কী?,email_querycontact
+2747,email এ সুমনকে পিডিএফ ফাইল পাঠাও,email_sendemail
+2748,ফাহিমকে ভয়েস email share করো,email_sendemail
+2749,"""It was a pleasure meeting you"" বাক্যটার মানে কী? please",qa_definition
+2750,2000s এর song শোনাও,play_music
+2751,আজ দুপুর ১২টা ৩০ মিনিটে রিমাইন্ডার set করো,calendar_set
+2752,এখন কি midnight?,datetime_query
+2753,২৫০ pound টাকায় কত,qa_currency
+2754,৮০০ এর half কত হবে?,qa_maths
+2755,Drake এর music চালু করো,play_music
+2756,email এ দাদুকে সিভি পাঠাও,email_sendemail
+2757,কিছু মন ভালো করার গানগুলো play করে দাও,play_music
+2758,this week এর top stories show করো,news_query
+2759,New York এর সাথে ঢাকার সময়ের ব্যবধান কত?,datetime_convert
+2760,জান্নাতকে email লেখো টাকা পাঠিয়েছি দেখে নাও,email_sendemail
+2761,Tania এর নাম্বার কী?,email_querycontact
+2762,rainy day তে songs play করো,play_music
+2763,Abu Dhabi তে কয়টা বাজে?,datetime_query
+2764,রাতের খেলাধুলা news summary show করো,news_query
+2765,please ল্যান্ডলর্ড এর contact info দেখাও,email_querycontact
+2766,"""Take care of yourself"" এর মানে কী?",qa_definition
+2767,সন্ধ্যা সাড়ে ৬টায় wake করে দিও,alarm_set
+2768,Ariana Grande এর এনার্জেটিক song play করো,play_music
+2769,১১৫৯ minus ২২৮ বলো,qa_maths
+2770,Google কীভাবে আয় করে?,qa_factoid
+2771,"""আমার ডাক্তার দরকার"" এর definition কী?",qa_definition
+2772,আজ রাতের news কী?,news_query
+2773,আজ night এ কুয়াকাটায় outside যাওয়ার মতো weather আছে?,weather_query
+2774,বর্তমান time কত?,datetime_query
+2775,ভাইয়াকে email পাঠাও call me when free,email_sendemail
+2776,please স্যারকে সাপ্তাহিক রিপোর্ট নিয়ে email লিখে পাঠাও,email_sendemail
+2777,এখন থেকে ১ hour পর কয়টা বাজবে?,datetime_query
+2778,৫ factorial কত হয়?,qa_maths
+2779,London এ weather forecast দাও,weather_query
+2780,খুলনার আজ রাতের খবর read করো,news_query
+2781,"""I am hungry"" এর মানে কী? please",qa_definition
+2782,next 3 days বৃষ্টির সম্ভাবনা কত?,weather_query
+2783,Momtaz এর music চালাও,play_music
+2784,প্যারিসের local time কত?,datetime_query
+2785,৯০০০ এর half কত?,qa_maths
+2786,৬৭৬ এর square root কত হবে?,qa_maths
+2787,please colleague কে email পাঠাও আমি on my way,email_sendemail
+2788,Lionel Messi কোথায় জন্মেছেন?,qa_factoid
+2789,নারী ও শিশু হেল্পলাইনে 109 এর number কী?,email_querycontact
+2790,গত ২৪ ঘণ্টার top stories দাও,news_query
+2791,আজ রাতের job আপডেট দাও,news_query
+2792,১৯ এর cube বলো,qa_maths
+2793,নতুন song ছাড়ো,play_music
+2794,৫ মিনিটের timer লাগাও,alarm_set
+2795,Noakhali তে আজ night এ cloud হওয়ার সম্ভাবনা আছে?,weather_query
+2796,madam কে congratulations বলে email করো,email_sendemail
+2797,"""কাছাকাছি মসজিদ কোথায়"" মানে কী? please",qa_definition
+2798,হোম ডেলিভারিত এর number কী?,email_querycontact
+2799,গত ২৪ ঘণ্টার Premier League news show করো,news_query
+2800,৫৫ মিনিট পর ফজরের নামাজের reminder,calendar_set
+2801,নব্বইয়ের দশকের songs ছাড়ো,play_music
+2802,Fajr এর time হতে আর কত বাকি,datetime_query
+2803,"""Wi-Fi password কী"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition
+2804,প্লাম্বার এর contact detail খুঁজে দাও,email_querycontact
+2805,ঘুমানোর reminder set করো ৪৫ মিনিট পরে,calendar_set
+2806,wife কে email করে জানিয়ে দাও congratulations,email_sendemail
+2807,Rajshahi তে পরশু min temperature কত?,weather_query
+2808,Facebook কোন দেশের কোম্পানি?,qa_factoid
+2809,Sydney তে আগামীকাল গরম পড়বে?,weather_query
+2810,আজকের court news summary দাও,news_query
+2811,আমার contact list এ electricity office এর নাম্বারটা কী?,email_querycontact
+2812,কিন্ডলের features কী?,qa_definition
+2813,৩০০০ এর ১২ percent বলো,qa_maths
+2814,৫ pound টাকায় convert করো,qa_currency
+2815,ডেন্টিস্ট এর contact info দেখাও,email_querycontact
+2816,"""What time does the shop open"" এর মানে কী? please",qa_definition
+2817,reminder set করো সকাল ৫টায়,calendar_set
+2818,please madam এর contact number বের করে দাও,email_querycontact
+2819,মোবাইল ফোন section এর আজ রাতের headline বলো,news_query
+2820,"""Thank you very much"" এর definition কী?",qa_definition
+2821,৫০ ইয়েন কত Tk?,qa_currency
+2822,৭৯ times ২৮ কত?,qa_maths
+2823,"শিকাগোতে এখন time কত, day না night?",datetime_query
+2824,"""শুভ জন্মদিন say করব"" এর definition কী?",qa_definition
+2825,"মদিনায় এখন time কত, day না night",datetime_query
+2826,alarm set করে দাও কাল রাত ৮টা ২৫ মিনিটে,alarm_set
+2827,টিম লিডারকে email পাঠাও,email_sendemail
+2828,২০০০০ টাকা থেকে ৮০ percent off করলে কত থাকে?,qa_maths
+2829,ফেনীতে এখন min temperature কত?,weather_query
+2830,কাল রাত ১১টায় alarm সেট করো,alarm_set
+2831,clinic এর contact number বের করে দাও,email_querycontact
+2832,আর অ্যান্ড বি songs play করো,play_music
+2833,landlord এর নাম্বার কী?,email_querycontact
+2834,YouTube এর মূল পণ্য কী?,qa_factoid
+2835,১০০ dirham টাকায় কত?,qa_currency
+2836,AI এর সুবিধা কী কী?,qa_factoid
+2837,doctor কে ক্যান্সেলেশন নোটিশ নিয়ে মেইল করো,email_sendemail
+2838,চাকরি বিভাগের last 24 hours এর news জানাও,news_query
+2839,Italy এর সময় এখন কত?,datetime_query
+2840,Spanish দেশাত্মবোধক song play দাও,play_music
+2841,প্রতি বৃহস্পতিবার সকাল ১০টা ১৫ মিনিটে ফ্লাইটের রিমাইন্ডার set করো,calendar_set
+2842,Elon Musk কোন দেশের নাগরিক?,qa_factoid
+2843,office এর contact info দেখাও,email_querycontact
+2844,শিল্প নিয়ে এই মুহূর্তের কী news?,news_query
+2845,contact list এ খালা এর নাম্বার খুঁজে বলো,email_querycontact
+2846,Brazil এর আজ রাতের সংবাদ বলো,news_query
+2847,৯০০০ টাকা থেকে ২০% off করলে কত থাকে?,qa_maths
+2848,OpenAI কে প্রতিষ্ঠা করেছেন?,qa_factoid
+2849,আমার watch এর time ঠিক আছে?,datetime_query
+2850,Warfaze এর song play দাও,play_music
+2851,wife কে payment reminder নিয়ে email করো,email_sendemail
+2852,৩ মিনিটের টাইমার set করো,alarm_set
+2853,আজ দুপুর সোয়া ২টায় assignment submit করার জন্য alert দাও,alarm_set
+2854,contact list এ Nusrat এর নাম্বার খুঁজে বলো,email_querycontact
+2855,French ভাষার মানে কী? please,qa_definition
+2856,আত্মীয়দের গ্রুপে আমি পৌঁছে গেছি বলে email দাও,email_sendemail
+2857,Norway এর জাতীয় পতাকায় কয়টি রং আছে,qa_factoid
+2858,flight এর reminder দাও 4:00 AM এ,calendar_set
+2859,কিভাবে focus বাড়াব,qa_factoid
+2860,আগামী তিন দিন সুনামগঞ্জে weather কেমন?,weather_query
+2861,৪৬ কি prime number?,qa_maths
+2862,হাবিব ওয়াহিদ এর music play করে দাও,play_music
+2863,দুবাইয়ে শীতের alert আছে?,weather_query
+2864,ইত্তেফাকের আজ সকালের headlines বলো,news_query
+2865,আজ দুপুরে trip এর জন্য ভালো দিন?,weather_query
+2866,ম্যাডাম এর contact info দেখাও,email_querycontact
+2867,Japan এর time zone কী?,datetime_query
+2868,নতুন কোনো news আছে কি?,news_query
+2869,জার্মানির time এখন কত,datetime_query
+2870,২ power ৭ কত হয়?,qa_maths
+2871,কলিগ এর phone number বলো প্লিজ,email_querycontact
+2872,SSD সম্পর্কে সহজ ভাষায় বুঝিয়ে বলো,qa_definition
+2873,Brazil এর আয়তন কত,qa_factoid
+2874,মিম এর number কী?,email_querycontact
+2875,2500 টাকার জিনিসে 50% discount পেলে দাম কত?,qa_maths
+2876,ক্লিনি এর phone number কত?,email_querycontact
+2877,India এর দুপুরের সংবাদ show করো,news_query
+2878,প্রতিদিন রাত সোয়া ১২টায় reminder set করো,calendar_set
+2879,70s এর music বাজাও,play_music
+2880,প্লাম্বারকে সব ঠিক আছে বলে email দাও,email_sendemail
+2881,১৭১ plus ৫৩০ কত হবে,qa_maths
+2882,vitamin D কী?,qa_definition
+2883,"""Please wait here"" মানে কী? please",qa_definition
+2884,৩০০০ এর ২০% calculate করো,qa_maths
+2885,পাড়ার গ্রুপে email দাও আমি দশ মিনিটের মধ্যে আসছি,email_sendemail
+2886,Cumilla তে weather forecast শোনাও,weather_query
+2887,333 নম্বরটা কার number?,email_querycontact
+2888,খালা এর contact info দেখাও,email_querycontact
+2889,আজ সকালের top stories বলো,news_query
+2890,আয়েশাকে link email এ শেয়ার করো,email_sendemail
+2891,entertainment নিয়ে আজকের কী খবর?,news_query
+2892,ঈদের দিনে শোনার মতো গান play করে দাও,play_music
+2893,কীভাবে LinkedIn profile সাজাব?,qa_factoid
+2894,"""আপনার নাম কী"" sentence এর মানে কী?",qa_definition
+2895,Eminem এর গান শোনাও,play_music
+2896,পাসপোর্টের জন্য আবেদন করব how to?,qa_factoid
+2897,২ মিনিট পরে study করার জন্য alert দাও,alarm_set
+2898,৩০০০ Tk এর সাথে ৩ percent বাড়ালে কত হয়,qa_maths
+2899,colleague এর ফোন নাম্বার কত?,email_querycontact
+2900,বাবাকে email করো আমি দশ মিনিটের মধ্যে আসছি,email_sendemail
+2901,oxidation এর গুরুত্ব কী?,qa_factoid
+2902,"""এটা কত দূর"" এর definition কী?",qa_definition
+2903,reminder set করে দাও প্রতিদিন রাত ১১টায়,calendar_set
+2904,Berlin এ এখন দিন না রাত?,datetime_query
+2905,আজ সন্ধ্যার top stories পড়ো,news_query
+2906,৩ hour আগে কয়টা ছিল?,datetime_query
+2907,কিভাবে Wi-Fi এর speed বাড়াব?,qa_factoid
+2908,global warming কেন হয়?,qa_factoid
+2909,বস এর number কী?,email_querycontact
+2910,আজ morning এ আবহাওয়া কেমন থাকবে?,weather_query
+2911,আজ বিকেলে Toronto তে weather কেমন?,weather_query
+2912,বাসার ল্যান্ডলাইন এর phone number বলো,email_querycontact
+2913,please বাউল music ছাড়ো,play_music
+2914,প্লিজ Italy তে এখন দিন না রাত?,datetime_query
+2915,batch group এ email এ লিখে পাঠাও আমি পৌঁছে গেছি,email_sendemail
+2916,sad song play করো,play_music
+2917,নিউ ইয়র্কের local time কত?,datetime_query
+2918,আজ night এ সুনামগঞ্জে আবহাওয়া কেমন?,weather_query
+2919,কাল morning এ Bangkok এ weather কেমন?,weather_query
+2920,প্রতিদিন রাত ১০টা ১০ মিনিটে তাহাজ্জুদের alarm set করো,alarm_set
+2921,দুপুর ১টা ২০ মিনিটে ছেলেকে স্কুল থেকে আনার জন্য alert দাও,alarm_set
+2922,please ২২ এর cube বলো,qa_maths
+2923,শেষ missed call এর contact info দেখাও প্লিজ,email_querycontact
+2924,৯০০০ টাকার ঋণের ৬ মাসের EMI কত হবে?,qa_maths
+2925,cloud computing নিয়ে একটু বলো তো,qa_factoid
+2926,আমাকে ৭ ঘণ্টা পরে meeting এর রিমাইন্ডার দাও,calendar_set
+2927,১৫ ডিগ্রি সেলসিয়াস Fahrenheit এ কত?,qa_maths
+2928,পলাশকে প্রজেক্ট আপডেট email এ share করো,email_sendemail
+2929,"""জায়গাটা খুব সুন্দর"" বাক্যটার মানে কী? please",qa_definition
+2930,স্টাডি গ্রুপে voice note email এ ফরওয়ার্ড করো,email_sendemail
+2931,"""ইমিগ্রেশন কোন দিকে"" এই বাক্যটা বলতে কী বোঝায়? please",qa_definition
+2932,"""এটা কি নিরাপদ"" meaning কী?",qa_definition
+2933,আজ সকালে temperature কত?,weather_query
+2934,রোমান্টিক music play দাও,play_music
+2935,Toronto তে আবহাওয়া কেমন?,weather_query
+2936,"""এটা কি নিরাপদ"" এর definition কী? please",qa_definition
+2937,দাদু এর contact detail খুঁজে দাও please,email_querycontact
+2938,favourite contact এর contact info দেখাও please,email_querycontact
+2939,আজ সন্ধ্যায় Jashore এ তাপপ্রবাহ হবে কি,weather_query
+2940,machine learning কী?,qa_definition
+2941,১৫০০০ taka এর পণ্যে ৫ percent discount এর পর দাম কত?,qa_maths
+2942,oxidation কাকে বলে?,qa_factoid
+2943,please ৮ ঘণ্টা পর webinar এর কথা remind করো,calendar_set
+2944,alarm দাও বুধবার দুপুর ১টা ৩০ মিনিটে,alarm_set
+2945,ঢাকা আর Italy এর মধ্যে সময়ের পার্থক্য কত ঘণ্টা?,datetime_convert
+2946,Bluetooth এর use case কী কী?,qa_factoid
+2947,ম্যানেজার এর phone number কত?,email_querycontact
+2948,China এর আজ সন্ধ্যার news বলো,news_query
+2949,please Brazil এর আজকের update বলো,news_query
+2950,Maghrib এর ওয়াক্ত শুরু হতে আর কত বাকি?,datetime_query
+2951,deep learning আর blockchain এর পার্থক্য কী?,qa_definition
+2952,study করার reminder set করো ৩ min পরে,calendar_set
+2953,"""আমার পাসপোর্ট হারিয়েছে"" এই sentence টা বলতে কী বোঝায়?",qa_definition
+2954,সিলেটের হেডলাইন show করো,news_query
+2955,সিঙ্গাপুরে এখন time কত?,datetime_query
+2956,নাঈম এর contact info দেখাও,email_querycontact
+2957,Apple কবে প্রতিষ্ঠিত হয়?,qa_factoid
+2958,manager এর contact detail খুঁজে দাও,email_querycontact
+2959,ল্যান্ডলর্ডকে email দাও everything ok,email_sendemail
+2960,"""airport কতদূর"" মানে কী?",qa_definition
+2961,আজ সকালে Tangail এ বন্যা হবে কি?,weather_query
+2962,export নিয়ে গত ২৪ ঘণ্টার কী খবর,news_query
+2963,Cox's Bazar এ তাপমাত্রা কেমন?,weather_query
+2964,Noakhali তে thunderstorm এর alert আছে?,weather_query
+2965,২০০ পাউন্ড কত kg?,qa_maths
+2966,রহিমকে email পাঠাও,email_sendemail
+2967,please Brazil এর সাম্প্রতিক খবরের সারাংশ পড়ে শোনাও,news_query
+2968,Turkey এর local সময় কত?,datetime_query
+2969,আজ সন্ধ্যায় Tokyo তে weather কেমন?,weather_query
+2970,সজীব এর contact number বের করে দাও,email_querycontact
+2971,লিয়াকে একটা email লিখে দাও প্লিজ,email_sendemail
+2972,বৃহস্পতিবার 1:20 PM-এ জুম্মার নামাজের alarm রাখো please,alarm_set
+2973,"""স্টেশন কোথায়"" word এর মানে কী?",qa_definition
+2974,Liverpool এর recent news দাও,news_query
+2975,বার্সেলোনার recent শিরোনাম দেখাও,news_query
+2976,তামিল ভাষার meaning কী?,qa_definition
+2977,"৫৪, ৭৭, ৯০ এর average",qa_maths
+2978,২% of ১৫০০,qa_maths
+2979,"""How are you"" এর অর্থ কী? প্লিজ",qa_definition
+2980,বিদ্যুৎ অফিস এর contact info দেখাও,email_querycontact
+2981,আমাকে ভোর ৫টায় ফজরের নামাজের reminder set করো,calendar_set
+2982,জুম্মার time হতে আর কত বাকি,datetime_query
+2983,office group এ email দাও congratulations,email_sendemail
+2984,time কত?,datetime_query
+2985,Rangpur এর গত ২৪ ঘণ্টার headline read করো,news_query
+2986,ঢাকায় রাত ৯টা বাজলে Chicago তে কয়টা বাজে?,datetime_convert
+2987,Seoul এ কয়টা বাজে?,datetime_query
+2988,আগামী সপ্তাহে খুলনায় weather কেমন?,weather_query
+2989,my favourite প্লেলিস্ট play দাও,play_music
+2990,প্রতি রবিবার 5:00 PM-এ wake করে দিও,alarm_set
+2991,"""Please speak slowly"" বাক্যটার মানে কী?",qa_definition
+2992,Saudi Arabia এর time zone কী?,datetime_query
+2993,please শাফল করে liked songs প্লেলিস্ট play করে দাও,play_music
+2994,AI কী?,qa_definition
+2995,pop songs play করো,play_music
+2996,আগামী সপ্তাহে বগুড়ায় outside যাওয়ার মতো weather আছে?,weather_query
+2997,protein কেন হয়?,qa_factoid
+2998,৯০০০ টাকার জিনিসে ৫০% discount পেলে দাম কত?,qa_maths
+2999,"""luggage হারিয়ে গেছে"" মানে কী?",qa_definition

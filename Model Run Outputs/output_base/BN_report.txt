@@ -1,0 +1,176 @@
+RUN: base_model | DATASET: BN | file: /kaggle/input/datasets/anowersha/jev-version1/test_bn_2000.csv
+rows after filtering: 2000 (train-overlap removed: 0) | evaluated: 2000
+inference time: 24.7 min (0.74 s/utt) | label list: all 60 labels per query
+
+=== OVERALL ===
+Accuracy (= micro-F1)     : 0.0635  (95% Wilson CI 0.0536-0.0750; bootstrap 0.0540-0.0740)
+Top-3 / Top-5 accuracy    : 0.0745 / 0.0920
+Macro    P / R / F1       : 0.0015 / 0.0166 / 0.0027  (F1 bootstrap CI 0.0023-0.0031)
+Weighted P / R / F1       : 0.0056 / 0.0635 / 0.0103
+Cohen's kappa / MCC       : 0.0162 / 0.0252
+Domain-level accuracy     : 0.1395
+Invalid (non-label) preds : 0
+
+=== ERROR ANALYSIS ===
+Total errors: 1873 | same-domain: 152 | cross-domain: 1721
+Calibration: ECE=0.0448 | mean confidence correct=0.019, wrong=0.019
+
+Top confused pairs (gold -> pred : count):
+  calendar_set -> play_music : 125
+  weather_query -> iot_wemo_on : 88
+  news_query -> play_music : 86
+  general_quirky -> play_music : 84
+  qa_factoid -> play_music : 82
+  calendar_query -> play_music : 80
+  email_sendemail -> play_music : 59
+  email_query -> play_music : 57
+  play_radio -> play_music : 48
+  qa_definition -> play_music : 48
+  calendar_set -> iot_wemo_on : 40
+  cooking_recipe -> play_music : 38
+  social_post -> play_music : 36
+  play_podcasts -> play_music : 34
+  general_quirky -> iot_wemo_on : 34
+
+Accuracy per domain (worst first):
+                  mean  count
+dom                          
+alarm           0.0000     59
+audio           0.0000     30
+calendar        0.0000    332
+cooking         0.0000     40
+datetime        0.0000     64
+email           0.0000    176
+general         0.0000    126
+iot             0.0000     89
+lists           0.0000     89
+music           0.0000     44
+news            0.0000     97
+qa              0.0000    216
+social          0.0000     73
+recommendation  0.0000     68
+takeaway        0.0000     38
+transport       0.0000     90
+weather         0.0000    110
+play            0.4903    259
+
+10 weakest labels by F1:
+             label  precision  recall  f1  support
+       alarm_query        0.0     0.0 0.0       19
+      alarm_remove        0.0     0.0 0.0        9
+         alarm_set        0.0     0.0 0.0       31
+ audio_volume_down        0.0     0.0 0.0        2
+ audio_volume_mute        0.0     0.0 0.0       15
+audio_volume_other        0.0     0.0 0.0        1
+   audio_volume_up        0.0     0.0 0.0       12
+    calendar_query        0.0     0.0 0.0      112
+   calendar_remove        0.0     0.0 0.0       55
+      calendar_set        0.0     0.0 0.0      165
+
+10 strongest labels by F1:
+                label  precision  recall     f1  support
+recommendation_movies     0.0000  0.0000 0.0000        8
+          social_post     0.0000  0.0000 0.0000       57
+         social_query     0.0000  0.0000 0.0000       16
+       takeaway_order     0.0000  0.0000 0.0000       19
+       takeaway_query     0.0000  0.0000 0.0000       19
+      transport_query     0.0000  0.0000 0.0000       40
+       transport_taxi     0.0000  0.0000 0.0000       15
+        weather_query     0.0000  0.0000 0.0000      110
+    transport_traffic     0.0000  0.0000 0.0000       15
+           play_music     0.0863  0.9769 0.1587      130
+
+Sample errors (first 25):
+                                                                 utt                   intent        pred  conf
+                                        আমার জন্যে ফুটবল ম্যাচ চালাও                play_game  play_music 0.019
+                                 ময়মনসিংহ গীতিকা অডিওবুকটি রিজিউম কর           play_audiobook  play_music 0.019
+                                             আমার পরবর্তী ঘটনা খারিজ          calendar_remove iot_wemo_on 0.019
+                                                          নতুন আপডেট             social_query  play_music 0.019
+                                         মুক্তি কাম্প খেলা শুরু করুন                play_game  play_music 0.019
+                                   আমার ভাইয়ের জন্মদিনের কাউন্টডাউন           calendar_query iot_wemo_on 0.019
+                                                 আমাকে পডকাস্ট দেখান            play_podcasts  play_music 0.019
+                                        রাজু থেকে সর্বশেষ ইমেল দেখান              email_query  play_music 0.019
+                                                     আমাকে বলুন সময়           datetime_query iot_wemo_on 0.019
+                                                  আমার কত তালিকা আছে              lists_query  play_music 0.019
+                                               বান্দরবানর রাজধানী কি               qa_factoid iot_wemo_on 0.018
+                                           আমাকে বাংলাদেশে সময় বলুন           datetime_query  play_music 0.019
+                  আমার প্রিয় দশ পছন্দের তালিকায় সেই গানটি যোগ করুন           music_likeness  play_music 0.019
+                             অলি বুধবার ব্যবসায়িক মিটিং বাতিল করেছে          calendar_remove  play_music 0.019
+                                রাজুকে আমার শেষ ইমেইলের বিষয় কী ছিল              email_query  play_music 0.019
+                                              আমাকে p. s. t. সময় দিন           datetime_query  play_music 0.019
+আপনি কি আমার মাকে সাপ্তাহিক আবহাওয়া সম্পর্কে একটি ইমেল পাঠাতে পারেন          email_sendemail  play_music 0.018
+                                       আমার গার্ল ফ্রেন্ড এখন কোথায়           general_quirky  play_music 0.019
+                                             তালিকায় আইটেম যোগ করুন        lists_createoradd  play_music 0.019
+                      কত সাম্প্রতিক ইমেল এই প্রেরক বা বিষয় লাইন আছে              email_query  play_music 0.019
+                                    ওলি আমি পরের জন্য কি প্লান করেছি           calendar_query iot_wemo_on 0.019
+                                 দুইটা চল্লিশ p. m. থেকে আজ কি হচ্ছে           calendar_query iot_wemo_on 0.019
+                                           সাধারণভাবে স্টক কেমন চলছে                 qa_stock  play_music 0.019
+                                                          রেডিও খোঁজ               play_radio  play_music 0.019
+                             অলি আমাকে বলুন স্থানীয় শপিং জেলা কোথায় recommendation_locations  play_music 0.019
+
+=== FULL PER-CLASS REPORT ===
+                          precision    recall  f1-score   support
+
+             alarm_query     0.0000    0.0000    0.0000        19
+            alarm_remove     0.0000    0.0000    0.0000         9
+               alarm_set     0.0000    0.0000    0.0000        31
+       audio_volume_down     0.0000    0.0000    0.0000         2
+       audio_volume_mute     0.0000    0.0000    0.0000        15
+      audio_volume_other     0.0000    0.0000    0.0000         1
+         audio_volume_up     0.0000    0.0000    0.0000        12
+          calendar_query     0.0000    0.0000    0.0000       112
+         calendar_remove     0.0000    0.0000    0.0000        55
+            calendar_set     0.0000    0.0000    0.0000       165
+          cooking_recipe     0.0000    0.0000    0.0000        40
+        datetime_convert     0.0000    0.0000    0.0000         5
+          datetime_query     0.0000    0.0000    0.0000        59
+        email_addcontact     0.0000    0.0000    0.0000         4
+             email_query     0.0000    0.0000    0.0000        82
+      email_querycontact     0.0000    0.0000    0.0000        18
+         email_sendemail     0.0000    0.0000    0.0000        72
+           general_greet     0.0000    0.0000    0.0000         1
+            general_joke     0.0000    0.0000    0.0000         7
+          general_quirky     0.0000    0.0000    0.0000       118
+            iot_cleaning     0.0000    0.0000    0.0000        11
+              iot_coffee     0.0000    0.0000    0.0000        18
+     iot_hue_lightchange     0.0000    0.0000    0.0000        19
+        iot_hue_lightdim     0.0000    0.0000    0.0000         9
+        iot_hue_lightoff     0.0000    0.0000    0.0000        17
+         iot_hue_lighton     0.0000    0.0000    0.0000         1
+         iot_hue_lightup     0.0000    0.0000    0.0000         9
+            iot_wemo_off     0.0000    0.0000    0.0000         3
+             iot_wemo_on     0.0000    0.0000    0.0000         2
+       lists_createoradd     0.0000    0.0000    0.0000        26
+             lists_query     0.0000    0.0000    0.0000        34
+            lists_remove     0.0000    0.0000    0.0000        29
+       music_dislikeness     0.0000    0.0000    0.0000         1
+          music_likeness     0.0000    0.0000    0.0000        17
+             music_query     0.0000    0.0000    0.0000        24
+          music_settings     0.0000    0.0000    0.0000         2
+              news_query     0.0000    0.0000    0.0000        97
+          play_audiobook     0.0000    0.0000    0.0000        26
+               play_game     0.0000    0.0000    0.0000        18
+              play_music     0.0863    0.9769    0.1587       130
+           play_podcasts     0.0000    0.0000    0.0000        35
+              play_radio     0.0000    0.0000    0.0000        50
+             qa_currency     0.0000    0.0000    0.0000        25
+           qa_definition     0.0000    0.0000    0.0000        50
+              qa_factoid     0.0000    0.0000    0.0000       107
+                qa_maths     0.0000    0.0000    0.0000        10
+                qa_stock     0.0000    0.0000    0.0000        24
+   recommendation_events     0.0000    0.0000    0.0000        31
+recommendation_locations     0.0000    0.0000    0.0000        29
+   recommendation_movies     0.0000    0.0000    0.0000         8
+             social_post     0.0000    0.0000    0.0000        57
+            social_query     0.0000    0.0000    0.0000        16
+          takeaway_order     0.0000    0.0000    0.0000        19
+          takeaway_query     0.0000    0.0000    0.0000        19
+         transport_query     0.0000    0.0000    0.0000        40
+          transport_taxi     0.0000    0.0000    0.0000        15
+        transport_ticket     0.0000    0.0000    0.0000        20
+       transport_traffic     0.0000    0.0000    0.0000        15
+           weather_query     0.0000    0.0000    0.0000       110
+
+                accuracy                         0.0635      2000
+               macro avg     0.0015    0.0166    0.0027      2000
+            weighted avg     0.0056    0.0635    0.0103      2000

@@ -1,0 +1,176 @@
+RUN: base_model | DATASET: Banglish | file: /kaggle/input/datasets/anowersha/jev-version1/banglish_massive_test.csv
+rows after filtering: 2000 (train-overlap removed: 0) | evaluated: 2000
+inference time: 22.6 min (0.68 s/utt) | label list: all 60 labels per query
+
+=== OVERALL ===
+Accuracy (= micro-F1)     : 0.3005  (95% Wilson CI 0.2808-0.3210; bootstrap 0.2817-0.3225)
+Top-3 / Top-5 accuracy    : 0.4420 / 0.5255
+Macro    P / R / F1       : 0.3692 / 0.2157 / 0.2277  (F1 bootstrap CI 0.2089-0.2406)
+Weighted P / R / F1       : 0.5043 / 0.3005 / 0.2897
+Cohen's kappa / MCC       : 0.2669 / 0.3001
+Domain-level accuracy     : 0.4375
+Invalid (non-label) preds : 0
+
+=== ERROR ANALYSIS ===
+Total errors: 1399 | same-domain: 274 | cross-domain: 1125
+Calibration: ECE=0.5885 | mean confidence correct=0.945, wrong=0.865
+
+Top confused pairs (gold -> pred : count):
+  general_quirky -> qa_factoid : 77
+  weather_query -> qa_factoid : 77
+  play_music -> qa_factoid : 66
+  email_query -> email_sendemail : 65
+  calendar_query -> qa_factoid : 61
+  news_query -> qa_factoid : 61
+  qa_definition -> qa_factoid : 42
+  calendar_set -> qa_factoid : 38
+  datetime_query -> qa_factoid : 33
+  calendar_remove -> calendar_set : 33
+  calendar_query -> calendar_set : 28
+  lists_query -> qa_factoid : 26
+  transport_query -> qa_factoid : 25
+  recommendation_locations -> qa_factoid : 24
+  recommendation_events -> qa_factoid : 23
+
+Accuracy per domain (worst first):
+                  mean  count
+dom                          
+music           0.0000     44
+lists           0.0000     89
+general         0.0079    126
+audio           0.0333     30
+recommendation  0.0882     68
+news            0.1134     97
+iot             0.1461     89
+weather         0.1545    110
+datetime        0.2344     64
+takeaway        0.2368     38
+cooking         0.2500     40
+calendar        0.2982    332
+transport       0.4222     90
+alarm           0.4407     59
+email           0.4545    176
+play            0.4672    259
+social          0.5205     73
+qa              0.5370    216
+
+10 weakest labels by F1:
+             label  precision  recall  f1  support
+       alarm_query        0.0     0.0 0.0       19
+      alarm_remove        0.0     0.0 0.0        9
+ audio_volume_down        0.0     0.0 0.0        2
+audio_volume_other        0.0     0.0 0.0        1
+   audio_volume_up        0.0     0.0 0.0       12
+  email_addcontact        0.0     0.0 0.0        4
+  datetime_convert        0.0     0.0 0.0        5
+   calendar_remove        0.0     0.0 0.0       55
+  iot_hue_lightoff        0.0     0.0 0.0       17
+   iot_hue_lighton        0.0     0.0 0.0        1
+
+10 strongest labels by F1:
+            label  precision  recall     f1  support
+      qa_currency     0.8125  0.5200 0.6341       25
+   play_audiobook     0.9333  0.5385 0.6829       26
+         qa_stock     0.9333  0.5833 0.7179       24
+       iot_coffee     0.8571  0.6667 0.7500       18
+       play_radio     1.0000  0.6000 0.7500       50
+ transport_ticket     0.6429  0.9000 0.7500       20
+      social_post     0.9024  0.6491 0.7551       57
+transport_traffic     0.9091  0.6667 0.7692       15
+   transport_taxi     1.0000  0.6667 0.8000       15
+    play_podcasts     0.9259  0.7143 0.8065       35
+
+Sample errors (first 25):
+                                                  utt                   intent            pred  conf
+                    amar sob pochonder fok gan chalan               play_music   weather_query 0.985
+                     amar jonne football match chalao                play_game      qa_factoid 0.574
+                         amar poroborti ghotna kharij          calendar_remove      qa_factoid 0.680
+                                         notun update             social_query      news_query 0.998
+                        mukti kampo khela shuru korun                play_game      qa_factoid 0.720
+                   amar bhaiyer jonmodiner kauntodaun           calendar_query      qa_factoid 0.524
+                   raju theke sorboshesh email dekhan              email_query email_sendemail 0.997
+                                    amake bolun somoy           datetime_query      qa_factoid 0.835
+                                amar koto talika ache              lists_query      qa_factoid 0.961
+                        amake bangladeshe somoy bolun           datetime_query      qa_factoid 0.955
+amar priyo dosh pochonder talikay sei ganti jog korun           music_likeness   weather_query 0.533
+         olly budhbar byobsayik meeting batil koreche          calendar_remove    calendar_set 0.633
+            rajuke amar shesh email er bishoy ki chil              email_query email_sendemail 1.000
+                             amake p. s. t. somoy din           datetime_query   qa_definition 0.940
+                        amar garl frendo ekhon kothay           general_quirky      qa_factoid 0.994
+                               talikay item jog korun        lists_createoradd      qa_factoid 0.973
+   koto samprotik email ei prerok ba bishoy line ache              email_query email_sendemail 1.000
+                 olly ami porer jonno ki plan korechi           calendar_query      qa_factoid 0.876
+              duita chollish p. m. theke aj ki hocche           calendar_query  datetime_query 0.997
+       olly amake bolun sthaniyo shopping jela kothay recommendation_locations      qa_factoid 0.922
+                         amake bangladesh somoy bolun           datetime_query      qa_factoid 0.959
+                                            jome jawa           cooking_recipe   qa_definition 0.934
+   amar chutir talika theke call songbadopotro muchun             lists_remove      play_music 1.000
+             ami radio today rash limbagh shunte chai               play_radio   weather_query 0.644
+   ami ki got dui dine amajon theke kon email peyechi              email_query email_sendemail 1.000
+
+=== FULL PER-CLASS REPORT ===
+                          precision    recall  f1-score   support
+
+             alarm_query     0.0000    0.0000    0.0000        19
+            alarm_remove     0.0000    0.0000    0.0000         9
+               alarm_set     0.3421    0.8387    0.4860        31
+       audio_volume_down     0.0000    0.0000    0.0000         2
+       audio_volume_mute     1.0000    0.0667    0.1250        15
+      audio_volume_other     0.0000    0.0000    0.0000         1
+         audio_volume_up     0.0000    0.0000    0.0000        12
+          calendar_query     1.0000    0.0536    0.1017       112
+         calendar_remove     0.0000    0.0000    0.0000        55
+            calendar_set     0.5813    0.5636    0.5723       165
+          cooking_recipe     1.0000    0.2500    0.4000        40
+        datetime_convert     0.0000    0.0000    0.0000         5
+          datetime_query     0.1630    0.2542    0.1987        59
+        email_addcontact     0.0000    0.0000    0.0000         4
+             email_query     1.0000    0.1463    0.2553        82
+      email_querycontact     0.5556    0.2778    0.3704        18
+         email_sendemail     0.4701    0.8750    0.6117        72
+           general_greet     0.0000    0.0000    0.0000         1
+            general_joke     0.0000    0.0000    0.0000         7
+          general_quirky     1.0000    0.0085    0.0168       118
+            iot_cleaning     1.0000    0.0909    0.1667        11
+              iot_coffee     0.8571    0.6667    0.7500        18
+     iot_hue_lightchange     0.0000    0.0000    0.0000        19
+        iot_hue_lightdim     0.0000    0.0000    0.0000         9
+        iot_hue_lightoff     0.0000    0.0000    0.0000        17
+         iot_hue_lighton     0.0000    0.0000    0.0000         1
+         iot_hue_lightup     0.0000    0.0000    0.0000         9
+            iot_wemo_off     0.0000    0.0000    0.0000         3
+             iot_wemo_on     0.0000    0.0000    0.0000         2
+       lists_createoradd     0.0000    0.0000    0.0000        26
+             lists_query     0.0000    0.0000    0.0000        34
+            lists_remove     0.0000    0.0000    0.0000        29
+       music_dislikeness     0.0000    0.0000    0.0000         1
+          music_likeness     0.0000    0.0000    0.0000        17
+             music_query     0.0000    0.0000    0.0000        24
+          music_settings     0.0000    0.0000    0.0000         2
+              news_query     0.3929    0.1134    0.1760        97
+          play_audiobook     0.9333    0.5385    0.6829        26
+               play_game     0.7143    0.2778    0.4000        18
+              play_music     0.4845    0.3615    0.4141       130
+           play_podcasts     0.9259    0.7143    0.8065        35
+              play_radio     1.0000    0.6000    0.7500        50
+             qa_currency     0.8125    0.5200    0.6341        25
+           qa_definition     0.0597    0.0800    0.0684        50
+              qa_factoid     0.0884    0.7944    0.1590       107
+                qa_maths     0.0000    0.0000    0.0000        10
+                qa_stock     0.9333    0.5833    0.7179        24
+   recommendation_events     0.0909    0.0323    0.0476        31
+recommendation_locations     1.0000    0.0690    0.1290        29
+   recommendation_movies     0.4286    0.3750    0.4000         8
+             social_post     0.9024    0.6491    0.7551        57
+            social_query     0.3333    0.0625    0.1053        16
+          takeaway_order     0.9000    0.4737    0.6207        19
+          takeaway_query     0.0000    0.0000    0.0000        19
+         transport_query     0.0000    0.0000    0.0000        40
+          transport_taxi     1.0000    0.6667    0.8000        15
+        transport_ticket     0.6429    0.9000    0.7500        20
+       transport_traffic     0.9091    0.6667    0.7692        15
+           weather_query     0.2615    0.1545    0.1943       110
+
+               micro avg     0.3014    0.3005    0.3010      2000
+               macro avg     0.3692    0.2157    0.2277      2000
+            weighted avg     0.5043    0.3005    0.2897      2000

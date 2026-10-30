@@ -1,0 +1,14 @@
+intent,iot_wemo_on,play_music
+alarm_set,94,23
+calendar_set,24,59
+datetime_convert,14,56
+datetime_query,58,72
+email_querycontact,12,188
+email_sendemail,38,162
+news_query,19,181
+play_music,1,199
+qa_currency,3,10
+qa_definition,30,249
+qa_factoid,42,79
+qa_maths,14,173
+weather_query,136,64

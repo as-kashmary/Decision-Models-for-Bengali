@@ -1,0 +1,2001 @@
+﻿utt,intent,pred,conf
+প্লিজ ৪০০ kg কত পাউন্ড?,qa_maths,qa_maths,0.9610173294569107
+ফুফু কে invoice নিয়ে মেইল লেখো,email_sendemail,email_sendemail,0.775625327223621
+Chill Hits playlist বাজিয়ে দাও,play_music,play_music,0.9799396405061708
+"29, 71, 11, 91, 47 এর median কত",qa_maths,qa_maths,0.6710436496862716
+bank এর contact number বের করে দাও,email_querycontact,email_querycontact,0.9979108970149388
+শাশুড়ি এর number কী?,email_querycontact,email_querycontact,0.9705533966308816
+police এর এর contact number বের করে দাও,email_querycontact,email_querycontact,0.9980387160235017
+Singapore এ এখন time কত?,datetime_query,datetime_query,0.9929021592736159
+Dua Lipa এর Fix You ছাড়ো please,play_music,play_music,0.8230889926329342
+কাল ভোর ৫টায় ক্লায়েন্ট call এর এলার্ম লাগাও,alarm_set,alarm_set,0.6670968590195747
+171 USD BDT এ convert করো,qa_currency,qa_maths,0.4705438683015622
+প্লিজ email এ পাড়ার গ্রুপে document send করো,email_sendemail,email_sendemail,0.992453821319374
+৪৪৮ কে ৯১ দিয়ে multiply করো,qa_maths,qa_maths,0.9229471004005251
+every মঙ্গলবার রাত সোয়া ৯টায় বোনের পরীক্ষা এর অ্যালার্ম set করো,alarm_set,alarm_set,0.7070613000126631
+please আমার contact list এ আরিফ এর number টা কী?,email_querycontact,email_querycontact,0.9955896015485838
+"প্লিজ ""How much is that"" এর মানে কী?",qa_definition,qa_definition,0.9869335823547655
+একটু next week Sydney এ বৃষ্টি হবে কি?,weather_query,weather_query,0.9810666547363878
+"please ""Please take me to the hotel"" মানে কী?",qa_definition,qa_definition,0.9813920407663226
+"প্লিজ ""Excuse me"" বলতে কী বোঝায়?",qa_definition,qa_definition,0.9732520517847579
+Ukraine এর জাতীয় পশু কোনটি?,qa_factoid,qa_factoid,0.8488169528112113
+please ঢাকাতে রাত ৯টা হলে ইস্তাম্বুল এ কয়টা বাজে?,datetime_convert,datetime_convert,0.5558954978937171
+আমার contact list এ মামি এর এর নাম্বারটা কী?,email_querycontact,email_querycontact,0.9992831821849852
+email এ বন্ধুদের গ্রুপে ভিডিও করো,email_sendemail,email_sendemail,0.9726189569006163
+একটু বান্দরবান এ tomorrow morning আর্দ্রতা কত,weather_query,weather_query,0.694300571189449
+সত্তরের দশকের গান চালিয়ে দাও please,play_music,play_music,0.913091996711736
+UK এর নির্বাচন শিরোনাম দাও,news_query,news_query,0.9060382766968554
+please cryptocurrency সম্পর্কে উদাহরণ দাও,qa_definition,qa_definition,0.4821368388189098
+একটু monsoon সম্পর্কে ইতিহাস বলো,qa_factoid,qa_factoid,0.879914945603638
+প্লিজ moon এর কয়টা moon আছে?,qa_factoid,qa_factoid,0.4418568534486686
+৫৫ add ৫৪ কত হবে?,qa_maths,qa_maths,0.9019327955791876
+একটু Dua Lipa এর Stairway to Heaven বাজাও,play_music,play_music,0.25009881282089436
+একটু Paris এর আজ সকালে আবহাওয়ার পূর্বাভাস বলো,weather_query,weather_query,0.9755770363984998
+email এ ছোট বোন কে শুভ সকাল message করো,email_sendemail,email_sendemail,0.9476449986031391
+প্লিজ Reuters এ শেয়ারবাজার নিয়ে কী খবর আছে?,news_query,news_query,0.7394018411509579
+please Road Trip প্লেলিস্ট বাজিয়ে দাও please,play_music,play_music,0.8833462599269477
+প্রতি সোমবার দুপুর 12টা 25 মিনিটে ফোন চার্জ এর alert set করো,alarm_set,alarm_set,0.7406090194086213
+please Android কি নিরাপদ?,qa_factoid,qa_factoid,0.8378798139725838
+"প্লিজ ""Congratulations"" এর মানে কী?",qa_definition,qa_definition,0.9677485758326965
+"""এটার দাম কত"" এই sentence টা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9928274284767887
+প্রতি বৃহস্পতিবার 7:35 PM এ বাসের টিকিট এর alert বসাও,alarm_set,calendar_set,0.4197701183910777
+প্লিজ Kishore Kumar এর sad গান চালিয়ে দাও,play_music,play_music,0.9482473826606761
+প্লিজ bank এর নাম্বার কী?,email_querycontact,email_querycontact,0.9564646943795977
+please Tum Hi Ho গানটি বাজিয়ে দাও,play_music,play_music,0.8268113658069299
+Manila এ এখন time কত?,datetime_query,datetime_query,0.9769592320602319
+কাল সকালে রাত 12টা 25 মিনিটে bus এর wake up call সেট করে দাও,alarm_set,alarm_set,0.8070223260082946
+একটু Bogura এ আজ বাতাসের গতি কেমন,weather_query,weather_query,0.4353703799121528
+office এর boss এর contact number বের করে দাও,email_querycontact,email_querycontact,0.997516221765995
+please Dhakaতে দুপুর ১২টা বাজলে Dublin এ কয়টা বাজে?,datetime_convert,datetime_convert,0.7686298091622502
+সাতক্ষীরা এর আজ দুপুরে আবহাওয়ার forecast শোনাও,weather_query,weather_query,0.9804653281603534
+please Pink Floyd এর Chaiyya Chaiyya play দাও please,play_music,play_music,0.8721056552644094
+রাশেদ এর contact info দেখাও,email_querycontact,email_querycontact,0.9929391441384613
+please HTTP এর মানে কী?,qa_definition,qa_definition,0.9974305697570579
+প্লিজ দিনাজপুর এর tomorrow morning আবহাওয়ার পূর্বাভাস বলো,weather_query,weather_query,0.9724769724671515
+Lose Yourself গানটি ছাড়ো,play_music,play_music,0.8082550319895659
+একটু এই মুহূর্তের নির্বাচন news জানাও,news_query,news_query,0.9830779191213679
+"""Happy new year"" মানে কী?",qa_definition,qa_definition,0.9857685868686774
+SMS এর মানে কী?,qa_definition,qa_definition,0.9991020265997436
+please পুরনো দিনের music play দাও,play_music,play_music,0.9674261731480072
+please করাচি এ এখন কয়টা বাজে জানাও,datetime_query,datetime_query,0.9322335474661322
+Lamia এর ফোন নাম্বার কত?,email_querycontact,email_querycontact,0.9954000417464226
+please 500 কে 14 দিয়ে ভাগ করলে ভাগশেষ কত?,qa_maths,qa_maths,0.9383002363109196
+please কেনিয়া এর রাজধানী কোথায়,qa_factoid,qa_factoid,0.9525597354179091
+hall এর গ্রুপে আজ রাতে আসছি বলে email করো,email_sendemail,email_sendemail,0.9921760382485963
+আগামী দুই দিন রাঙ্গামাটি এ temperature কত,weather_query,weather_query,0.8043240399288007
+"একটু ""এটার দাম কত"" এর definition কী?",qa_definition,qa_definition,0.996034630644744
+সাদিয়া এর contact number বের করে দাও,email_querycontact,email_querycontact,0.9956470391572316
+IMF এর পূর্ণরূপ কী?,qa_definition,qa_definition,0.7408164095070908
+একটু email এ project team এ screenshot message করো,email_sendemail,email_sendemail,0.919366146036143
+please চীন এ এখন কয়টা বাজে দেখাও,datetime_query,datetime_query,0.9264912106550824
+please Tehran এ এখন সময় কত?,datetime_query,datetime_query,0.995066795378577
+Austria কোন মহাদেশে?,qa_factoid,qa_factoid,0.949852087266642
+"""আপনার সাথে দেখা হয়ে খুব ভালো লাগলো"" sentence এর মানে কী?",qa_definition,qa_definition,0.9666560446105167
+Eminem এর Ek Din Pakhi Ure Jabe চালিয়ে দাও please,play_music,play_music,0.29032570822455406
+কীভাবে stress কমাব,qa_factoid,qa_factoid,0.9173114978977774
+৩৪৩ কে ৯২ দিয়ে multiply করো,qa_maths,qa_maths,0.9409986674469382
+please আজ বিকেলে Dubai তে আকাশ পরিষ্কার থাকবে,weather_query,weather_query,0.6345994638324872
+"""এটা অনেক দামি"" meaning কী?",qa_definition,qa_definition,0.9980988037868201
+"একটু ""আমি ঠিক বুঝতে পারিনি"" এর meaning কী?",qa_definition,qa_definition,0.9860180481297104
+একটু ২২০ ডলার টাকা এ convert করো,qa_currency,qa_currency,0.868967056871327
+প্লিজ contact list এ +8801819004472 এর number খুঁজে বলো,email_querycontact,email_querycontact,0.9935843013242642
+"একটু ""Nice to see you"" এর মানে কী?",qa_definition,qa_definition,0.9853972296919588
+একটু France এর পরের ম্যাচ কবে,news_query,qa_factoid,0.6125000026792813
+please Road Trip playlist ছাড়ো please,play_music,play_music,0.976933984892741
+প্লিজ electricity সম্পর্কে দুটো বাক্যে বুঝিয়ে দাও,qa_definition,qa_definition,0.3000326629881113
+প্লিজ Dhaka আর Nepal এর মধ্যে time gap কত ঘণ্টা?,datetime_query,datetime_query,0.4407808395863905
+প্লিজ email এ বাড়িওয়ালা কে ঘুম থেকে উঠেছি দাও,email_sendemail,email_sendemail,0.9046057721009729
+please today সন্ধ্যা ৬:25 এ ভাইয়ার flight এর কথা মনে করিয়ে দাও,calendar_set,calendar_set,0.7507934774314605
+Tasnim এর ফোন নাম্বার বলো,email_querycontact,email_querycontact,0.9963228772910689
+please contact list এ আরিফ এর number খুঁজে বলো,email_querycontact,email_querycontact,0.9981901533708456
+ম্যাডাম কে email পাঠাও,email_sendemail,email_sendemail,0.9883505037653374
+"""আবার দেখা হবে"" meaning কী?",qa_definition,qa_definition,0.9938194878104049
+contact list এ পাশের বাসার আঙ্কেল এর নাম্বার খুঁজে বলো,email_querycontact,email_querycontact,0.9966778568173623
+একটু drone আর solar panel এর মধ্যে পার্থক্য কী,qa_definition,qa_definition,0.47725655088728475
+Juventus এর পরের ম্যাচ কবে,news_query,qa_factoid,0.33473648095408776
+৫ মিনিট পর reminder set করো,calendar_set,calendar_set,0.9836289077654797
+Dhakaতে বিকেল ৪টা হলে Hanoi এ কয়টা বাজে?,datetime_convert,datetime_query,0.4266241968779084
+please Dua Lipa এর Someone Like You চালাও,play_music,play_music,0.7511164166802302
+"""I am allergic to peanuts"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9851725457013547
+"একটু ""I am lost"" এর definition কী?",qa_definition,qa_definition,0.9991593875620175
+বাংলাদেশ আর Texas এর মধ্যে time difference কত ঘণ্টা?,datetime_convert,datetime_convert,0.9718180577763883
+একটু Sabina Yasmin এর acoustic গান ছাড়ো,play_music,play_music,0.6376874729457201
+"""I am lost"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9970900927560985
+একটু কীভাবে tax return দেব?,qa_factoid,qa_factoid,0.9585181546619829
+35 মিনিট later reminder দাও,calendar_set,calendar_set,0.9676163763743795
+Teknaf এ tomorrow morning শীত কেমন থাকবে,weather_query,weather_query,0.8610308125095769
+"please ৭৭, ৪৯, ৯০, ৪৫, ৯০, ৫৩ এর গড় কত",qa_maths,qa_maths,0.9642506814827243
+একটু বেইজিং তে এখন day না night?,datetime_query,datetime_query,0.8786381696012642
+Focus প্লেলিস্ট বাজিয়ে দাও প্লিজ,play_music,play_music,0.917893009270403
+একটু Mila এর Tum Hi Ho বাজাও,play_music,play_music,0.5690518126402906
+"প্লিজ ""Thank you so much"" এর অর্থ কী?",qa_definition,qa_definition,0.9516406579030443
+4:05 AM এ এলার্ম রাখো,alarm_set,alarm_set,0.8263015514964589
+গাজা এর আজ সকালের news পড়ে শোনাও,news_query,news_query,0.976173691511654
+কাল রাতে Teknaf এ temperature কত থাকবে?,weather_query,weather_query,0.9721694422584756
+সুমাইয়া কে voice note email করো,email_sendemail,email_sendemail,0.9722369935545879
+please ইউক্রেন এর last 1 hour এর headlines read করো,news_query,news_query,0.9688930009616161
+23 আর 37 এর LCM বের করো,qa_maths,qa_maths,0.7234544576981075
++8801377368592 এর number কী?,email_querycontact,email_querycontact,0.9352307650971763
+Texas তে এখন time কত?,datetime_query,datetime_query,0.9992837138757414
+মামা এর ফোন নাম্বার কত? please,email_querycontact,email_querycontact,0.9855918809985147
+this evening raincoat নিতে হবে?,weather_query,weather_query,0.9826202442693472
+৮০ এর দশকের song বাজিয়ে দাও,play_music,play_music,0.8373157515513343
+প্লিজ গাজীপুর এর এই সপ্তাহের news জানাও,news_query,news_query,0.9488871979047836
+একটু বৃষ্টির দিনে শোনার মতো গান play করো,play_music,play_music,0.9461841175275236
+fire service কে আমি জ্যামে আটকে আছি email করো,email_sendemail,email_sendemail,0.9389311212296955
+২২০ এর cube root বের করো,qa_maths,qa_maths,0.9728993687468994
+প্লিজ Google Maps আর online banking এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.5380297407343909
+please Tehran এর টাইম জোন কী?,datetime_query,datetime_query,0.4211495960397501
+প্লিজ ড্রাইভ করার সময় শোনার মতো song চালাও,play_music,play_music,0.9764398831907549
+please 193 এর ঘনমূল বের করো,qa_maths,qa_maths,0.31844433258629556
+please Mumbai এ পরশু ছাতা নিতে হবে?,weather_query,weather_query,0.932577472859924
+প্লিজ বন্ধুদের গ্রুপে আজ রাতে আসছি বলে email পাঠাও,email_sendemail,email_sendemail,0.9928495509646635
+Runa Laila এর গানগুলো বাজিয়ে দাও,play_music,play_music,0.9659975234104872
+Los Angeles এ আজ বিকেলে নৌকায় ঘোরা যাবে?,weather_query,weather_query,0.6693115630051296
+please ২৮ এর বর্গমূল বের করো,qa_maths,qa_maths,0.7960767561797022
+নীলা এর contact number বের করে দাও,email_querycontact,email_querycontact,0.9962893381082348
+বাংলা ট্রিবিউন এর এই সপ্তাহের news show করো,news_query,news_query,0.9858151295964324
+শান্ত songs বাজাও,play_music,play_music,0.9619533022646436
+please আরবি ভাষা বলতে কী বোঝায়?,qa_definition,qa_definition,0.9770123637563354
+প্লিজ Mexico এর টাইম জোন কী?,datetime_query,qa_factoid,0.429237587311234
+Colombo তে এখন দিন না রাত?,datetime_query,datetime_query,0.9625338216713316
+ইলেকট্রিশিয়ান কে invoice নিয়ে email পাঠাও,email_sendemail,email_sendemail,0.9920588512253151
+Korean ভাষার মানে কী?,qa_definition,qa_definition,0.9973087977791861
+৫ min পর alarm দাও,alarm_set,alarm_set,0.9680630082006867
+2020 এর গান চালিয়ে দাও please,play_music,play_music,0.9693095236491944
+long drive এ শোনার মতো গান শোনাও please,play_music,play_music,0.9657935374995448
+ফরাসি language বলতে কী বোঝায়?,qa_definition,qa_definition,0.9287714705631682
+প্লিজ লালন এর পুরনো দিনের song বাজাও,play_music,play_music,0.9246767085715347
+প্লিজ বাংলাদেশতে রাত ১১টা হলে Berlin এ কয়টা বাজে?,datetime_convert,datetime_convert,0.45845246700825654
+please 4:05 AM এ presentation practice এর এলার্ম set করো,alarm_set,alarm_set,0.6589000476119766
+Teknaf এর আগামী দুই দিন আবহাওয়ার পূর্বাভাস বলো,weather_query,weather_query,0.9769251132587501
+electric car আর Android এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.7353572238543297
+আমার contact list এ Nusrat এর নাম্বারটা কী?,email_querycontact,email_querycontact,0.9975777814360915
+please Vienna এর সাথে বাংলাদেশের সময়ের ব্যবধান কত ঘণ্টা?,datetime_convert,datetime_convert,0.5567017556433962
+একটু Makkah এ এখন কয়টা বাজে জানাও,datetime_query,datetime_query,0.956148819458123
+একটু রাঙ্গামাটি এ this evening আর্দ্রতা কত?,weather_query,weather_query,0.5389525522235542
+tutor এর নাম্বার কী?,email_querycontact,email_querycontact,0.980479576461002
+hall এর গ্রুপে লোকেশন পাঠালাম বলে email করো,email_sendemail,email_sendemail,0.9966609894031673
+please যুগান্তর এর আজকের update show করো,news_query,news_query,0.8869980976893863
+প্লিজ YouTube এর অসুবিধা কী,qa_factoid,qa_factoid,0.9195264107536081
+Norway এর প্রধান ভাষা কী?,qa_factoid,qa_factoid,0.8154249435048787
+please টাঙ্গাইল এর আজ সকালে আবহাওয়ার পূর্বাভাস শোনাও,weather_query,weather_query,0.922331205973054
+please ফুফু এর ফোন নাম্বার কত?,email_querycontact,email_querycontact,0.9821251804487399
+আজ রাতে দুপুর ১২টা ১৫ মিনিটে bus এর কথা মনে করিয়ে দাও,calendar_set,calendar_set,0.9731093364579798
+"""আমি রাস্তা হারিয়ে ফেলেছি"" meaning কী?",qa_definition,qa_definition,0.9563268299074986
+বান্দরবান এ আগামী দুই দিন rain হওয়ার chance আছে?,weather_query,weather_query,0.9819058625264903
+please YouTube কত দিনের মধ্যে শেখা যায়?,qa_factoid,qa_factoid,0.2534776295014409
+"""What time does it open"" মানে কী?",qa_definition,qa_definition,0.9912558632218306
+প্লিজ Chill Hits প্লেলিস্ট play দাও,play_music,play_music,0.9953294386776833
+"""আমার জল লাগবে"" এর definition কী?",qa_definition,qa_definition,0.9977779654995093
+ঢাকাতে দুপুর ১২টা বাজলে Dubai এ কয়টা বাজে?,datetime_convert,datetime_convert,0.8415311058544706
+একটু Evening Relax প্লেলিস্ট play দাও please,play_music,play_music,0.9574982102768286
+প্লিজ CPU এর পূর্ণরূপ কী?,qa_definition,qa_definition,0.4611547952557956
+একটু আগামী দুই দিন রাঙ্গামাটি তে temperature কত থাকবে?,weather_query,weather_query,0.9329184154426228
+please দেশাত্মবোধক songs play দাও,play_music,play_music,0.9831844460853782
+please photosynthesis সহজ ভাষায় বুঝিয়ে বলো?,qa_definition,qa_definition,0.9145552863631178
+Swedish language এর definition কী?,qa_definition,qa_definition,0.9899895209725602
+শেষ dial করা number এর contact info দেখাও,email_querycontact,email_querycontact,0.9996957846903051
+please Mymensingh এর এখন আবহাওয়ার পূর্বাভাস দাও,weather_query,weather_query,0.8523842048926484
+প্লিজ 2980 টাকার bill এ 10% tip দিলে মোট কত?,qa_maths,qa_maths,0.7000521555754071
+VR headset আর freelancing এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.8188297711846991
+"""আমার একটা ঘর দরকার"" এই sentence টা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9875901688304723
+"""I am lost"" এর মানে কী?",qa_definition,qa_definition,0.9997126078568553
+HTTP এর পূর্ণরূপ কী?,qa_definition,qa_definition,0.7727007800303922
+Bogura এ আজ দুপুরে humidity কত?,weather_query,weather_query,0.8910629667190582
+Mehedi এর ফোন নাম্বার কত?,email_querycontact,email_querycontact,0.9970106653677486
+Kothao Keu Nei গানটি play করো,play_music,play_music,0.688917073936819
+একটু টরন্টো তে এখন time কত?,datetime_query,datetime_query,0.98911514539252
+50 minute এর টাইমার বসাও,alarm_set,datetime_query,0.14784004480529392
+একটু হাউজ ওনার কে আজ আসতে পারব না email করো,email_sendemail,email_sendemail,0.962476431007241
+"please ""Congratulations"" বলতে কী বোঝায়?",qa_definition,qa_definition,0.9550538532297113
+একটু ৩৪ আর ১৩ এর GCD কত,qa_maths,qa_maths,0.8576004048690606
+প্লিজ Jamuna TV এর last 1 hour এর headlines শোনাও,news_query,news_query,0.8705925774880944
+next week Jessore এ বাতাসের গতি কেমন?,weather_query,weather_query,0.8472034960142155
+please Adele এর music চালাও please,play_music,play_music,0.9276568689374344
+"please ""এটার দাম কত"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9902927265068766
+contact list এ নীলা এর নাম্বার খুঁজে বলো,email_querycontact,email_querycontact,0.9989693535031501
+প্লিজ YouTube এর ভবিষ্যৎ কেমন?,qa_factoid,qa_factoid,0.5910389169272954
+একটু ফুফু কে শুভ সকাল email করো,email_sendemail,email_sendemail,0.9677620944194376
+প্লিজ email এ সুমাইয়া কে বাসায় ফিরেছি share করো,email_sendemail,email_sendemail,0.9768038871108731
+বাংলাদেশ আর ইস্তাম্বুল এর মধ্যে time difference কত?,datetime_convert,datetime_convert,0.9499618041315494
+পড়ার সময় শোনার মতো গান play দাও,play_music,play_music,0.9949099389610383
+প্লিজ 57 minus 4 কত?,qa_maths,qa_maths,0.5481917536573291
+কাল রাতে রাঙ্গামাটি এ temperature কত থাকবে?,weather_query,weather_query,0.9248553041496425
+please 6934 টাকার bill এ 10% tip দিলে মোট কত?,qa_maths,qa_maths,0.558700694858145
+১৭২ কে ৪৩ দিয়ে multiply করো,qa_maths,qa_maths,0.9520732778776797
+একটু Retro Mix প্লেলিস্ট play দাও,play_music,play_music,0.9777842687973566
+contact list এ office এর manager এর number খুঁজে বলো,email_querycontact,email_querycontact,0.9988298606081775
+ব্যায়ামের সময় শোনার মতো গান play দাও,play_music,play_music,0.9892945287511962
+প্লিজ laptop এর ভবিষ্যৎ কেমন,qa_factoid,qa_factoid,0.7770612028823793
+Daily Mix প্লেলিস্ট চালাও,play_music,play_music,0.9511118417300507
+"please ""এটা অনেক দামি"" এর মানে কী?",qa_definition,qa_definition,0.995728024189145
+Persian ভাষা বলতে কী বোঝায়?,qa_definition,qa_definition,0.9365350207488928
+please Numb গানটি play করো প্লিজ,play_music,play_music,0.9878406394793334
+please বণিক বার্তা এর আজকের শিরোনাম শোনাও,news_query,news_query,0.848487376883067
+tsunami সম্পর্কে দুটো বাক্যে বুঝিয়ে দাও,qa_definition,qa_definition,0.7209627531498172
+বান্দরবান এর এখন আবহাওয়ার forecast শোনাও,weather_query,weather_query,0.9155389212763431
+প্লিজ পুরনো দিনের music চালাও please,play_music,play_music,0.9000231683135289
+একটু জাহিদ কে শুভ সকাল email করো,email_sendemail,email_sendemail,0.9797529873129394
+"""I am allergic to peanuts"" বাক্যটার মানে কী?",qa_definition,qa_definition,0.99596560216375
+please blockchain এর সংজ্ঞা কী?,qa_definition,qa_definition,0.9862965617039353
+একটু কীভাবে stress কমাব,qa_factoid,qa_factoid,0.9500861886752908
+একটু 7 to the power 6 কত?,qa_maths,qa_maths,0.635046574100531
+একটু Road Trip প্লেলিস্ট বাজিয়ে দাও,play_music,play_music,0.7998143709818257
+Kishore Kumar এর music play করো প্লিজ,play_music,play_music,0.9786532322960779
+A. R. Rahman এর Believer চালাও please,play_music,play_music,0.471594784693926
+একটু পাশের বাসার আঙ্কেল এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.9031465891977891
+৩০ min এর countdown দাও,alarm_set,qa_maths,0.39192708077096555
+একটু Somoy TV এ বিদ্যুৎ সংকট নিয়ে কী খবর আছে?,news_query,news_query,0.46554571864983746
+৩ hr পর কাপড় তোলা এর এলার্ম লাগাও,alarm_set,alarm_set,0.49056949867347244
+স্যার এর phone number কত?,email_querycontact,email_querycontact,0.9728438967761851
+please Rony কে feedback নিয়ে email পাঠাও,email_sendemail,email_sendemail,0.9889077567462158
+please নয়া দিগন্ত এ পদ্মা সেতু নিয়ে কী খবর আছে?,news_query,news_query,0.6566588427776351
+এখন feels like temperature কত,weather_query,weather_query,0.7589641549172386
+please ভাবি কে email পাঠাও,email_sendemail,email_sendemail,0.9951360735333571
+alarm রাখো রাত পৌনে ১০টায়,alarm_set,alarm_set,0.9550765667434187
+প্লিজ study group এ contact email করো,email_sendemail,email_sendemail,0.7350723314888957
+প্লিজ office এর boss কে PDF email এ দাও,email_sendemail,email_sendemail,0.9778919703507486
+৯৪ এর square কত?,qa_maths,qa_maths,0.9781631274845923
+একটু today's অর্থনীতি update read করো,news_query,news_query,0.8855593325624231
+একটু বড় ভাই কে email পাঠাও,email_sendemail,email_sendemail,0.9936053983271017
+৭ মিনিট পর reminder সেট করে দাও,calendar_set,calendar_set,0.9439128682713749
+আজ রাতের আন্তর্জাতিক headlines দেখাও,news_query,news_query,0.984254215224099
+একটু তুর্কি language এর definition কী?,qa_definition,qa_definition,0.9891275520976663
+Tanvir এর ফোন নাম্বার কত?,email_querycontact,email_querycontact,0.9940642560363311
+বরিশাল এর আইন-আদালত news দেখাও,news_query,news_query,0.9605507244378633
+"""স্টেশন কতদূর"" এর meaning কী?",qa_definition,qa_definition,0.9797460578416626
+please James এর songs ছাড়ো please,play_music,play_music,0.9755763687255742
+প্লিজ ১২ ঘণ্টা later বাসের টিকিট এর অ্যালার্ম set করো,alarm_set,alarm_set,0.8416537425345356
+প্লিজ Jessore এ this evening বাইক চালানো ঠিক হবে?,weather_query,weather_query,0.8955488239384825
+James এর Ami Banglay Gan Gai play দাও,play_music,play_music,0.9929365424115838
+২৫১ subtract ৩৫ কত?,qa_maths,qa_maths,0.9932117336736588
+আগামী সপ্তাহে picnic করা যাবে?,weather_query,weather_query,0.963007749906355
+Norway এর রাজধানী কোথায়,qa_factoid,qa_factoid,0.9608879711919475
+wake up call লাগাও প্রতি শনিবার বিকেল 5:55 এ গাছে পানি এর জন্য,alarm_set,alarm_set,0.5085367656449743
+একটু James এর party গান ছাড়ো,play_music,play_music,0.8939003284210927
+"please ""আমার জল লাগবে"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9875396676069662
+প্রতি সোমবার বিকেল ৫টা ৫৫ মিনিটে ভাইয়ার flight এর wake up call দাও,alarm_set,alarm_set,0.6144863022992677
+YouTube আর iPhone এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.813712625739446
+Tehran তে এখন সকাল নাকি রাত?,datetime_query,datetime_query,0.947528191979208
+"প্লিজ ""Call the police"" এর মানে কী?",qa_definition,qa_definition,0.9776451123629235
+ভারত এর today's headlines show করো,news_query,news_query,0.9908794759784354
+একটু Habib Wahid এর Hotel California বাজিয়ে দাও প্লিজ,play_music,qa_factoid,0.4922642958811607
+জাহিদ এর কাছে এই কথাটা মেইল এ লিখে send করো বাসায় ফিরেছি,email_sendemail,email_sendemail,0.9228083265259217
+একটু এই weekend এ Delhi এ শীত কেমন থাকবে,weather_query,weather_query,0.850368370238805
+একটু Real Madrid এর ম্যাচের score,news_query,news_query,0.8020168917668465
+বিশ্বকাপ cricket কত বছর পর পর হয়,qa_factoid,general_quirky,0.1860807833763057
+please quantum computing সম্পর্কে ইতিহাস বলো,qa_factoid,qa_factoid,0.7692282540149705
+email এ জাহিদ কে আমি পৌঁছে গেছি share করো,email_sendemail,email_sendemail,0.983705814638432
+please প্রথম আলো এ ব্যবসা নিয়ে কী খবর আছে?,news_query,news_query,0.9543008203425001
+please ইনকিলাব এ খেলাধুলা নিয়ে কী খবর আছে?,news_query,news_query,0.7677896077022428
+"""আমি ঠিক বুঝতে পারিনি"" meaning কী?",qa_definition,qa_definition,0.9919838204662899
+please আজ দুপুরে Los Angeles এ rain হওয়ার chance আছে,weather_query,weather_query,0.8350206227459928
+প্লিজ Mohammedan এর last match এর ফলাফল,news_query,qa_factoid,0.2722473116915353
+প্লিজ জাপান এর আজকের update দাও,news_query,news_query,0.8366372955621969
+আজ ইফতারের time কখন?,datetime_query,datetime_query,0.9297245698216667
+"please ""শুভ সন্ধ্যা"" এর মানে কী?",qa_definition,qa_definition,0.9910128000975009
+আমার contact list এ landlord এর নাম্বারটা কী?,email_querycontact,email_querycontact,0.9959428687479016
+reminder সেট করে দাও আগামীকাল রাত 12টায়,calendar_set,calendar_set,0.9558899756591792
+প্লিজ Kuala Lumpur এর এখন আবহাওয়ার পূর্বাভাস শোনাও,weather_query,weather_query,0.8928915234904791
+প্লিজ Tasnim এর contact info দেখাও,email_querycontact,email_querycontact,0.98827807688794
+একটু বান্ধবী কে email পাঠাও,email_sendemail,email_sendemail,0.9945619051541669
+প্লিজ ৪ min পর ক্লায়েন্ট কল এর reminder বসাও,calendar_set,calendar_set,0.9239490401748687
+একটু আজ সকালে sweater পরতে হবে,weather_query,weather_query,0.9589589380201059
+একটু online banking কীভাবে কাজ করে,qa_factoid,qa_factoid,0.8540271811352438
+"প্লিজ ""আমার ফোন হারিয়ে গেছে"" sentence এর মানে কী?",qa_definition,qa_definition,0.985925486415772
+একটু Daily Mix playlist ছাড়ো,play_music,play_music,0.969545810029528
+Singapore এ এখন কয়টা বাজে জানাও,datetime_query,datetime_query,0.9509786070865699
+Eminem এর party গান play দাও,play_music,play_music,0.9708858490098478
+আফ্রিকা এর নির্বাচন update বলো,news_query,news_query,0.9019107481113824
+police এর ফোন নাম্বার বলো,email_querycontact,email_querycontact,0.9921434781712508
+4:05 PM এ alarm set করো,alarm_set,alarm_set,0.9869841635960807
+HTTP এর মানে কী?,qa_definition,qa_definition,0.9993796729411781
+please Europe এর today's news দাও,news_query,news_query,0.9631012763224627
+একটু BBC বাংলা এর আজ সকালের headlines দেখাও,news_query,news_query,0.9550013146421635
+"please ""টয়লেট কোথায়"" এর মানে কী?",qa_definition,qa_definition,0.9935020206154692
+প্লিজ acoustic songs বাজাও please,play_music,play_music,0.9257623662403516
+UK এর বিদ্যুৎ সংকট সংবাদ দেখাও,news_query,news_query,0.7255369621216181
+Tanvir কে email পাঠাও,email_sendemail,email_sendemail,0.9977612634818394
+তানভীর এর contact number বের করে দাও,email_querycontact,email_querycontact,0.9951311070699491
+Cairo এর time zone কী?,datetime_query,datetime_query,0.9387663986879712
+please নীলা এর কাছে এই কথাটা email এ লিখে পাঠাও meeting ১০টায়,email_sendemail,email_sendemail,0.8769719468831155
+প্লিজ Dhaka আর রাশিয়া এর মধ্যে সময়ের তফাত কত ঘণ্টা?,datetime_query,datetime_query,0.46373698929601026
+"একটু ""Excuse me"" মানে কী?",qa_definition,qa_definition,0.9965599285345914
+Mymensingh এ tomorrow morning গরম কেমন পড়বে?,weather_query,weather_query,0.9406944516277741
+একটু Toronto এর next week আবহাওয়ার পূর্বাভাস বলো,weather_query,weather_query,0.9849407851598172
+Somoy TV এর এই সপ্তাহের সংবাদ জানাও,news_query,news_query,0.8073832935484887
+next week Sydney তে শীত কেমন থাকবে,weather_query,weather_query,0.8731984820775841
+"please ""Where is the airport"" এর অর্থ কী?",qa_definition,qa_definition,0.964821262551323
+প্লিজ Arman কে meeting reminder নিয়ে মেইল করো,email_sendemail,calendar_set,0.6801648667893454
+please Vancouver এ এখন কয়টা বাজে,datetime_query,datetime_query,0.9527098220478825
+"প্লিজ ""Congratulations"" এর অর্থ কী?",qa_definition,qa_definition,0.9488611145516676
+please Mumbai এ কাল রাতে rain হওয়ার chance আছে?,weather_query,weather_query,0.9653535553362863
+"""Where is the bathroom"" এর মানে কী?",qa_definition,qa_definition,0.9865347481857997
+"please ""I need water"" বাক্যটার মানে কী?",qa_definition,qa_definition,0.9965475095238009
+একটু রান্নার সময় শোনার মতো song ছাড়ো,play_music,play_music,0.9503402229902272
+আমাকে প্রতি Monday 11:00 PM এ বাসের টিকিট এর reminder বসাও,calendar_set,calendar_set,0.9495984516746575
+৮০ এর দশকের song বাজাও,play_music,play_music,0.9467505753992791
+একটু Android আর freelancing এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.7386483842792838
+রিমাইন্ডার বসাও প্রতি শনিবার রাত 10টা 50 মিনিটে ট্রেনের time এর জন্য,calendar_set,calendar_set,0.9146454836526345
+please Polish ভাষা কী?,qa_definition,qa_definition,0.847002556159588
+rock music চালাও please,play_music,play_music,0.9377392354806847
+বড় ভাই এর contact info দেখাও,email_querycontact,email_querycontact,0.9850107239140218
+একটু Somoy TV এর breaking শিরোনাম দাও,news_query,news_query,0.6329531205201792
+একটু CGPA এর মানে কী?,qa_definition,qa_definition,0.9714381080061348
+please খেলাধুলা নিয়ে আজ কী ঘটছে?,news_query,news_query,0.7790899617624171
+please আন্তর্জাতিক নিয়ে আজ কী ঘটছে?,news_query,news_query,0.7711100875280146
+Tumi Robe Nirobe গানটি চালিয়ে দাও,play_music,play_music,0.8566529182588992
+"""আপনার সাথে কথা বলে ভালো লাগলো"" এর meaning কী?",qa_definition,qa_definition,0.9467513055001151
+একটু শান্ত songs বাজাও,play_music,play_music,0.8803565856803757
+Finland কোন মহাদেশে,qa_factoid,qa_factoid,0.8211624474050798
+প্লিজ ৭১৩ subtract ৯৮ কত?,qa_maths,qa_maths,0.9876641002310761
+একটু Dhakaতে রাত ১১টা হলে Brazil এ কয়টা বাজে?,datetime_convert,datetime_query,0.37356060085182075
+Pink Floyd এর Ek Din Pakhi Ure Jabe চালাও,play_music,play_music,0.19028048389576077
+please সুমাইয়া এর কাছে এই কথাটা email এ লিখে পাঠাও শুভ সকাল,email_sendemail,email_sendemail,0.9633958308847782
+contact list এ বড় ভাই এর নাম্বার খুঁজে বলো,email_querycontact,email_querycontact,0.9989840115469623
+please জাপান এর ধর্ম headlines শোনাও,news_query,news_query,0.868601070973949
+please ফুফু কে ভিডিও email এ forward করো,email_sendemail,email_sendemail,0.9812378320471332
+একটু 848 কে 16 দিয়ে divide করো,qa_maths,qa_maths,0.8018449169274453
+Mumbai তে এখন বাইরে যাওয়া নিরাপদ?,weather_query,weather_query,0.8946699337747156
+please কুষ্টিয়া তে পরশু ছাদে কাপড় শুকানো যাবে?,weather_query,weather_query,0.8591988639504388
+8 hr পর এলার্ম বসাও,alarm_set,alarm_set,0.6806621249309117
+please tomorrow morning Jakarta তে গরম কেমন পড়বে,weather_query,weather_query,0.8619506719958936
+please email এ বাড়িওয়ালা কে শুভ সকাল send করো,email_sendemail,email_sendemail,0.9931989115212919
+BTS এর music শোনাও প্লিজ,play_music,play_music,0.9655751622337638
+black hole সম্পর্কে সংক্ষেপে বলো,qa_factoid,qa_factoid,0.22677705614988647
+30 minute পরে ট্রেনের সময় এর কথা মনে করাও,calendar_set,calendar_set,0.5725566880128399
+163 এর cube root বের করো,qa_maths,qa_maths,0.8923644474325734
+এলার্ম set করো আজ দুপুর ১২টা ২০ মিনিটে,alarm_set,alarm_set,0.9769460634554509
+মেইল এ project team এ document share করো,email_sendemail,email_sendemail,0.738277197542784
+5 minute পর reminder লাগাও,calendar_set,calendar_set,0.8907482035997114
+"পাড়ার গ্রুপে ঠিক আছে, দেখা হবে বলে email করো",email_sendemail,email_sendemail,0.9816928813395644
+তুরস্ক এ এখন day না night?,datetime_query,datetime_query,0.8383721909695903
+"""Where is the bathroom"" এর মানে কী? please",qa_definition,qa_definition,0.9828859771762078
+please Blinding Lights গানটা বাজিয়ে দাও প্লিজ,play_music,play_music,0.8128699914380166
+ঢাকা আর ইস্তাম্বুল এর মধ্যে time difference কত?,datetime_convert,datetime_convert,0.9583744445986205
+"""Could you help me"" বাক্যটার মানে কী?",qa_definition,qa_definition,0.996778425553495
+acoustic গানগুলো চালিয়ে দাও,play_music,play_music,0.9655106941597086
+রিক্সাওয়ালা এর কাছে এই কথাটা email এ লিখে পাঠাও আজ রাতে আসছি,email_sendemail,email_sendemail,0.9712485763645509
+Rony এর contact info দেখাও,email_querycontact,email_querycontact,0.9911859340325816
+৬৮২১ টাকার bill এ ১৫% tip দিলে মোট কত?,qa_maths,qa_maths,0.8698242409065264
+বাড়িওয়ালা কে contact email এ share করো,email_sendemail,email_sendemail,0.8193631813925635
+Google Maps আর ChatGPT এর মধ্যে পার্থক্য কী,qa_definition,qa_factoid,0.35517510977143063
+3 hr এর টাইমার set করো,alarm_set,alarm_set,0.2650660252321346
+প্লিজ প্রথম আলো এর latest খবর শোনাও,news_query,news_query,0.9950212854841316
+ফাহিম এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.9882193039671433
+প্লিজ Hanoi এ local time কত,datetime_query,datetime_query,0.9299668321809599
+একটু ৮০ এর দশকের song চালাও,play_music,play_music,0.8742803075576379
+Android আর Bitcoin এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.7547418378844662
+এখন raincoat নিতে হবে?,weather_query,weather_query,0.986083484130601
+please কানাডা এর সড়ক দুর্ঘটনা headlines বলো,news_query,news_query,0.8212365317293712
+please Sakib এর ফোন নাম্বার বলো,email_querycontact,email_querycontact,0.9919448988184966
+please ঢাকাতে বিকেল ৪টা হলে মুম্বাই এ কয়টা বাজে?,datetime_convert,datetime_convert,0.577599933835349
+email এ study group এ resume লিখে পাঠাও,email_sendemail,email_sendemail,0.9881344515052999
+মেইল এ বড় ভাই কে happy anniversary share করো,email_sendemail,email_sendemail,0.6385031062528925
+please এখন বাইরে যাওয়া নিরাপদ?,weather_query,weather_query,0.7411397565214985
+প্লিজ Mohammed Rafi এর ঘুমপাড়ানি গান শোনাও please,play_music,play_music,0.8425245880349989
+আজ Sydney এ temperature কত থাকবে,weather_query,weather_query,0.944201166652282
+contact list এ বান্ধবী এর নাম্বার খুঁজে বলো,email_querycontact,email_querycontact,0.9993582397356419
+Al Jazeera এ খেলাধুলা নিয়ে কী খবর আছে?,news_query,news_query,0.6347805027992022
+YouTube এর সুবিধা কী?,qa_factoid,qa_factoid,0.927469656283509
+একটু Nancy এর lo-fi গান play করো please,play_music,play_music,0.9536119468997305
+রিমাইন্ডার দাও প্রতি Wednesday রাত ১০টা ৩৫ মিনিটে bus এর জন্য,calendar_set,calendar_set,0.9479834211192674
+please 613 যোগ 90 কত হবে?,qa_maths,qa_maths,0.9227994810769732
+প্লিজ next week খুলনা তে weather কেমন?,weather_query,weather_query,0.9974231902254469
+একটু database এর সংজ্ঞা কী?,qa_definition,qa_definition,0.9922349013202295
+"please ""একটা টেবিল বুক করতে চাই"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9715543810464453
+একটু আজ রাতের প্রযুক্তি news দাও,news_query,news_query,0.9929606797383376
+"41, 10, 83, 70 এর median বলো",qa_maths,qa_maths,0.6055188924762432
+please জাপান এ এখন কয়টা বাজে জানাও,datetime_query,datetime_query,0.92536023533805
+contact list এ Shafin এর নাম্বার খুঁজে বলো,email_querycontact,email_querycontact,0.999695261303894
+প্লিজ পাড়ার গ্রুপে আজ রাতে আসছি বলে email করো,email_sendemail,email_sendemail,0.9901350499059841
+reminder লাগাও সন্ধ্যা সোয়া ৬টায়,calendar_set,calendar_set,0.8079808054108116
+প্লিজ this evening কুষ্টিয়া এ তাপমাত্রা কত?,weather_query,weather_query,0.9076860063417049
+ময়মনসিংহ এর আজ রাতের news জানাও,news_query,news_query,0.9806467542256786
+একটু শাশুড়ি কে screenshot email এ লিখে পাঠাও,email_sendemail,email_sendemail,0.9794524667749396
+শ্বশুর এর phone number বলো,email_querycontact,email_querycontact,0.9852391335482257
+কাল সকালে বিকেল 3:20 এ মায়ের ওষুধ এর কথা remind করে দাও,calendar_set,calendar_set,0.9439328885826201
+২০৪০ টাকার ১৫ percent কত হবে?,qa_maths,qa_maths,0.9941917181972806
+"please ""এটা অনেক দামি"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9928473532074364
+"please 83, 3, 53 এর মধ্যমা কত",qa_maths,qa_maths,0.41888426790359623
+6 hr পর cricket practice এর alarm বসাও,alarm_set,alarm_set,0.4873440077119859
+please মাস্কাট এ এখন টাইম কত?,datetime_query,datetime_query,0.9823107268796765
+বার্লিন এর সাথে বাংলাদেশের সময়ের ব্যবধান কত hour?,datetime_convert,datetime_query,0.4399519094535188
+৩২৫ minus ৩৯ কত?,qa_maths,qa_maths,0.9575355735667207
+Ayub Bachchu এর songs শোনাও,play_music,play_music,0.930176959061893
+৩০ আর ৪০ এর LCM বলো,qa_maths,qa_maths,0.985323991463046
+প্লিজ ঢাকা আর Rome এর মধ্যে সময়ের তফাত কত ঘণ্টা?,datetime_query,datetime_convert,0.42675840191393116
+একটু tomorrow morning মাঠে খেলা যাবে?,weather_query,weather_query,0.8774825649810689
+please 107 কি even?,qa_maths,qa_maths,0.18596709505873685
+প্লিজ 2020 এর song ছাড়ো প্লিজ,play_music,play_music,0.9567303186319267
+আজ রাতের সড়ক দুর্ঘটনা update show করো,news_query,news_query,0.9324146150465376
+আজকের মহাকাশ headlines দাও,news_query,news_query,0.9566193098272644
+বাড়িওয়ালা কে লোকেশন email এ send করলাম লিখে জানাও,email_sendemail,email_sendemail,0.9827020595981041
+Jeddah এর সময় অঞ্চল কী?,datetime_query,datetime_query,0.8252554615661651
+একটু 786 কে 64 দিয়ে multiply করো,qa_maths,qa_maths,0.5946069087620381
+প্লিজ Sabbir এর contact number বের করে দাও,email_querycontact,email_querycontact,0.996151946244771
+প্লিজ Moscow তে এখন day না night?,datetime_query,datetime_query,0.850426241128799
+একটু Jupiter এর বয়স কত?,qa_factoid,qa_factoid,0.9863097413572695
+please 18 আর 30 এর LCM বের করো,qa_maths,qa_maths,0.7156853217521528
+please Los Angeles এ next week আবহাওয়া কেমন?,weather_query,weather_query,0.9826689372223321
+৫০ মিনিট পর ব্যাংকের কাজ এর কথা remind করো,calendar_set,calendar_set,0.9563235483239463
+মামি কে email করো,email_sendemail,email_sendemail,0.9988389160844454
+প্লিজ 12 minute পরে বাসের টিকিট এর রিমাইন্ডার লাগাও,calendar_set,calendar_set,0.7227778232986224
+please 4 ঘণ্টা পর বাসের টিকিট এর কথা মনে করাও,calendar_set,calendar_set,0.8295801680331933
+Olympics কত বছর পর পর হয়,qa_factoid,qa_factoid,0.29586235477467115
+অ্যালার্ম দাও প্রতি Wednesday বিকেল 4টা 55 মিনিটে ভাতের চুলা এর জন্য,alarm_set,alarm_set,0.9684898105516085
+আমাকে ৬ ঘন্টা later medicine এর কথা মনে করাও,calendar_set,calendar_set,0.8804935715485607
+16216 নম্বরটা কার contact বলো please,email_querycontact,email_querycontact,0.9759184953279709
+Karachi এর সাথে বাংলাদেশের সময়ের ব্যবধান কত ঘণ্টা?,datetime_convert,datetime_convert,0.47387327309148836
+please কীভাবে মনোযোগ বাড়াব,qa_factoid,qa_factoid,0.8844150811890732
+এই weekend এ যশোর এ humidity কত,weather_query,weather_query,0.7538805547843012
+আজ Maghrib এর time কখন?,datetime_query,datetime_query,0.9523238278184054
+please পৃথিবীর সবচেয়ে লম্বা নদী কোনটি?,qa_factoid,qa_factoid,0.8966340302884968
+Shayan Chowdhury Arnob এর কীর্তন গান বাজাও please,play_music,play_music,0.8239599324706324
+প্লিজ Workout playlist চালিয়ে দাও,play_music,play_music,0.9838804608278805
+6 power 5 কত?,qa_maths,qa_maths,0.9391960873229012
+Paris এর আগামী সপ্তাহে আবহাওয়ার পূর্বাভাস শোনাও,weather_query,weather_query,0.991095381272506
+একটু Moscow এর time zone কী?,datetime_query,datetime_query,0.8242685652773504
+কাল রাতে umbrella নিতে হবে?,weather_query,weather_query,0.9710073814718228
+bank এর এর contact number বের করে দাও,email_querycontact,email_querycontact,0.9986404078049406
+"একটু ""এটার দাম কত"" এই sentence টা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9877885357415473
+please বাংলাদেশতে বিকেল ৪টা হলে নেপাল এ কয়টা বাজে?,datetime_convert,datetime_convert,0.5714374579013664
+please family group এ লোকেশন পাঠালাম বলে email করো,email_sendemail,email_sendemail,0.9975651409668311
+প্লিজ contact list এ ছোট বোন এর নাম্বার খুঁজে বলো,email_querycontact,email_querycontact,0.9976822907191051
+ফাহিম এর phone number কত?,email_querycontact,email_querycontact,0.9819890647576133
+please Barishal এ পরশু temperature কত থাকবে,weather_query,weather_query,0.8851162756997472
+please ওয়েবসাইট কে আবিষ্কার করেছেন?,qa_factoid,qa_factoid,0.8057158045645262
+please কুয়েত এ local time কত,datetime_query,datetime_query,0.9508834821705882
+English ভাষা বলতে কী বোঝায়?,qa_definition,qa_definition,0.914271039827726
+প্লিজ কাল Mumbai তে humidity কত?,weather_query,weather_query,0.7140007483629808
+Greece এর জাতীয় পশু কোনটি?,qa_factoid,qa_factoid,0.8591391638346226
+please 406 যোগ 58 কত হবে?,qa_maths,qa_maths,0.8994959988559484
+এখন বাইরে যাওয়া safe,weather_query,weather_query,0.8863444055833448
+"""Congratulations"" এর অর্থ কী?",qa_definition,qa_definition,0.9735913401913976
+Jakarta এর এখন আবহাওয়ার পূর্বাভাস দাও,weather_query,weather_query,0.9613116864104483
+"""শুভ সন্ধ্যা"" বলতে কী বোঝায়? please",qa_definition,qa_definition,0.9656696376218216
+ফাহিম এর contact detail খুঁজে দাও please,email_querycontact,email_querycontact,0.9738739992686882
+please Dhakaতে বিকেল ৪টা হলে Tokyo এ কয়টা বাজে?,datetime_convert,datetime_convert,0.5662417571778996
+ঘুমানোর আগে শোনার মতো গান play করো,play_music,play_music,0.9831036425368854
+last 1 hour এর জলবায়ু শিরোনাম বলো,news_query,news_query,0.7608478163424732
+কাল রাতে দিনাজপুর এ weather কেমন?,weather_query,weather_query,0.9918508564062335
+please ইস্তাম্বুল এ এখন কয়টা বাজে জানাও,datetime_query,datetime_query,0.8538476013839233
+প্লিজ ছোট বোন কে contact email এ পাঠাও,email_sendemail,email_sendemail,0.8185939446765035
+please Argentina এ এখন টাইম কত?,datetime_query,datetime_query,0.8984695930467057
+প্লিজ নেপাল এর time zone কী?,datetime_query,datetime_query,0.7466745951643964
+অ্যালার্ম বসাও কাল সকালে দুপুর ১২টা ৩৫ minute এ,alarm_set,alarm_set,0.6735949204637987
+please Nusrat এর কাছে এই কথাটা email এ লিখে পাঠাও আমি জ্যামে আটকে আছি,email_sendemail,email_sendemail,0.9526689955170793
+"প্লিজ ""How far is the station"" বাক্যটার মানে কী?",qa_definition,qa_definition,0.9847013829432388
+breaking news আছে কিছু?,news_query,news_query,0.9670678200158276
+কীর্তন music চালিয়ে দাও,play_music,play_music,0.9381271135590374
+please ভ্রমণের সময় শোনার মতো গান বাজাও প্লিজ,play_music,play_music,0.9636355143680307
+ফ্যামিলি গ্রুপে report টা দেখে নাও বলে email করো,email_sendemail,email_sendemail,0.9845455452446447
+please আরিফ কে report টা দেখে নাও email করো,email_sendemail,email_sendemail,0.9881161384770003
+দুপুর ১২:50 এ alarm সেট করে দাও,alarm_set,alarm_set,0.9938442976963736
+please ভাবি এর এর নাম্বার কী?,email_querycontact,email_querycontact,0.9502464364295189
+please ৫৪ কি মৌলিক সংখ্যা?,qa_maths,qa_factoid,0.48976025267874784
+"please ""Nice to see you"" মানে কী?",qa_definition,qa_definition,0.9923283230267376
+please লস অ্যাঞ্জেলেস এ এখন কয়টা বাজে দেখাও,datetime_query,datetime_query,0.8103817604026101
+একটু 17 আর 24 এর LCM বের করো,qa_maths,qa_maths,0.4594691713260672
+police কে লোকেশন email এ লিখে পাঠাও,email_sendemail,email_sendemail,0.9935087337692393
+Tahsan এর Blinding Lights বাজাও,play_music,play_music,0.35160174707532266
+please মাদ্রিদ তে এখন সময় কত,datetime_query,datetime_query,0.9816088879175989
+মেইল এ ফাহিম কে লোকেশন পাঠালাম send করো,email_sendemail,email_sendemail,0.9891000401428643
+প্লিজ প্রতি Monday দুপুর ১২:00 এ yoga এর wake up call দাও,alarm_set,alarm_set,0.536569010025118
+"please ""Good evening"" বলতে কী বোঝায়?",qa_definition,qa_definition,0.9601816688065026
+please রাশিয়া এর football সারাংশ শোনাও,news_query,play_music,0.33769556112262794
+৮ minute পর ফোন চার্জ এর কথা মনে করাও,calendar_set,calendar_set,0.6730090693637993
+acoustic গান বাজিয়ে দাও,play_music,play_music,0.7714652098245267
+5797 টাকার bill এ 15% tip দিলে মোট কত?,qa_maths,qa_maths,0.6611060785638555
+প্লিজ ম্যাডাম কে document email এ share করো,email_sendemail,email_sendemail,0.9361262414809497
+Kuala Lumpur এ this evening কুয়াশা পড়বে কি?,weather_query,weather_query,0.673304778097896
+440 inch কত cm?,qa_maths,qa_maths,0.6963107848003467
+প্লিজ Reuters এর গতকালের শিরোনাম read করো,news_query,news_query,0.8958925421397723
+636 add 2 কত হবে?,qa_maths,qa_maths,0.7813662002235203
+please next Monday 9:35 PM এ bus এর কথা মনে করিয়ে দাও,calendar_set,calendar_set,0.9267371282386639
+tutor কে feedback নিয়ে email পাঠাও,email_sendemail,email_sendemail,0.9980444068902826
+একটু Someone Like You track টা play করো,play_music,play_music,0.6137496409902348
+অ্যালার্ম সেট করে দাও প্রতি Thursday 3:10 PM এ ক্লাস এর জন্য,alarm_set,alarm_set,0.9723448739202541
+একটু কাল সাতক্ষীরা এ weather কেমন?,weather_query,weather_query,0.992975684433949
+please 7:50 PM এ বোনের পরীক্ষা এর কথা মনে করিয়ে দাও,calendar_set,calendar_set,0.8770033475384211
+please রাশিয়া এর খেলাধুলা খবর শোনাও,news_query,news_query,0.5146381325092925
+please রাঙ্গামাটি এ আজ দুপুরে গরম কেমন পড়বে?,weather_query,weather_query,0.8458093761699449
+আজ Kushtia এ আর্দ্রতা কত,weather_query,weather_query,0.8123215695707379
+একটু এখন Teknaf এ আবহাওয়া কেমন?,weather_query,weather_query,0.9888693529864916
+"""আমাকে সাহায্য করুন"" এর meaning কী?",qa_definition,qa_definition,0.9939682830476215
+please API এর সংজ্ঞা কী?,qa_definition,qa_definition,0.9977215909972962
+ecosystem সম্পর্কে বিস্তারিত বলো,qa_factoid,qa_factoid,0.5715026844096661
+প্লিজ সিডনি এর সাথে বাংলাদেশের সময়ের ব্যবধান কত hour?,datetime_convert,datetime_convert,0.32770201900070994
+Tasnim এর নাম্বার কী?,email_querycontact,email_querycontact,0.9882134853690527
+প্লিজ সকাল সোয়া 6টায় গ্যাসের চুলা বন্ধ এর alert লাগাও,alarm_set,alarm_set,0.27249528410398705
+"""Could you help me"" এর অর্থ কী?",qa_definition,qa_definition,0.9783424313073413
+"প্লিজ ৪৬, ৫৮, ৭০, ৯৯, ৮, ৬৯ এর average বের করো",qa_maths,qa_maths,0.9723606671558186
+"""Where is the bathroom"" এর মানে কী? প্লিজ",qa_definition,qa_definition,0.9681376179641039
+please drone এর সুবিধা কী?,qa_factoid,qa_factoid,0.9412621126574943
+একটু Maroon 5 এর গান শোনাও,play_music,play_music,0.8243106120638514
+please 643 plus 76 কত হবে?,qa_maths,qa_maths,0.9052253589795852
+"please ""I am vegetarian"" এর অর্থ কী?",qa_definition,qa_definition,0.9850543349055528
+প্লিজ ১৬৬ কে ১৬ দিয়ে divide করলে ভাগশেষ কত?,qa_maths,qa_maths,0.9814050218245153
+alarm বসাও প্রতি Sunday দুপুর 1:25 এ কাপড় তোলা এর জন্য,alarm_set,alarm_set,0.8247156894842813
+সন্ধ্যায় শোনার মতো song শোনাও,play_music,play_music,0.911794788903945
+please বিজয় দিবস কবে শুরু হয়,qa_factoid,qa_factoid,0.3830731988447482
+রিমাইন্ডার দাও every বৃহস্পতিবার বিকেল 5:00 এ মায়ের ওষুধ এর জন্য,calendar_set,calendar_set,0.9761777353465109
+please প্রতি মঙ্গলবার 12:25 PM এ lab report এর এলার্ম লাগাও,alarm_set,alarm_set,0.6936756994270393
+Somoy TV এর সাম্প্রতিক update পড়ে শোনাও,news_query,news_query,0.9529851350944195
+database কী?,qa_definition,qa_definition,0.8525954127536604
+নারায়ণগঞ্জ এর এই মুহূর্তের news বলো,news_query,news_query,0.9460426433132207
+একটু this evening Delhi এ বৃষ্টি হবে কি,weather_query,weather_query,0.8799921928788875
+একটু solar panel আর freelancing এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.7674571946556651
+Imran এর contact info দেখাও,email_querycontact,email_querycontact,0.9859857973486993
+breaking ডলারের দাম খবর জানাও,news_query,news_query,0.953331027297852
+বরিশাল এর সড়ক দুর্ঘটনা news জানাও,news_query,news_query,0.8010580116080759
+alarm লাগাও আজ রাতে দুপুর ১২টা ৫ মিনিটে,alarm_set,alarm_set,0.9723735318720269
+প্লিজ Dhaka আর Bangkok এর মধ্যে সময়ের তফাত কত ঘণ্টা?,datetime_query,datetime_query,0.4824795427957306
+20 আর 31 এর GCD কত,qa_maths,qa_maths,0.888970842283051
+remote work আর Instagram এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.772067171347386
+শ্রীলঙ্কা এ এখন time কত?,datetime_query,datetime_query,0.9959307398887625
+একটু 278 কে 5 দিয়ে divide করলে ভাগশেষ কত?,qa_maths,qa_maths,0.9407326729212836
+Morocco এর পতাকার রং কী,qa_factoid,qa_factoid,0.6080299757105011
+কুষ্টিয়া এ tomorrow morning ছাতা নিতে হবে,weather_query,weather_query,0.9818099726724743
+৫৬০ কে ১৬ দিয়ে divide করো,qa_maths,qa_maths,0.9868356872185553
+"please ""দয়া করে আস্তে বলুন"" এর মানে কী?",qa_definition,qa_definition,0.987713155938989
+Shafin এর এর contact info দেখাও,email_querycontact,email_querycontact,0.9974696877371334
+১২২ কে ৪৫ দিয়ে multiply করো,qa_maths,qa_maths,0.9570687009316375
+Mohammed Rafi এর songs বাজিয়ে দাও,play_music,play_music,0.6709075247673879
+প্লিজ প্রতি রবিবার 7:50 AM এ বাজার এর এলার্ম লাগাও,alarm_set,alarm_set,0.4849228882108832
+antibiotic সম্পর্কে ইতিহাস বলো,qa_factoid,qa_factoid,0.7283908827998479
+Dhaka আর Rome এর মধ্যে time gap কত ঘণ্টা?,datetime_query,datetime_query,0.6333871857451896
+"""Call the police"" বাক্যটার মানে কী?",qa_definition,qa_definition,0.9971168356547958
+একটু Berlin এ এখন সকাল নাকি রাত?,datetime_query,datetime_query,0.8222867856579246
+একটু Colombo এর সাথে বাংলাদেশের সময়ের ব্যবধান কত ঘণ্টা?,datetime_convert,datetime_convert,0.4439536668025603
+প্লিজ 130 কে 7 দিয়ে multiply করো,qa_maths,qa_maths,0.8199935018864695
+please ৩২২ ইউরো Tk এ convert করো,qa_currency,qa_maths,0.4412280060118954
+198 কে 5 দিয়ে ভাগ করলে remainder কত?,qa_maths,qa_maths,0.9184984958690023
+90 min এর countdown সেট করে দাও,alarm_set,alarm_set,0.2940869607794684
+একটু Tokyo এ আগামী সপ্তাহে বাতাসের গতি কেমন?,weather_query,weather_query,0.8854201721606151
+"প্লিজ ""See you later"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9777408754593507
+ড্রাইভ করার সময় শোনার মতো song চালিয়ে দাও,play_music,play_music,0.9732060545699139
+একটু football নিয়ে এখন কী ঘটছে?,news_query,qa_factoid,0.41874376759291343
+please ১১২ subtract ৯ কত?,qa_maths,qa_maths,0.9831591422822336
+last 1 hour এর বিদ্যুৎ সংকট শিরোনাম পড়ে শোনাও,news_query,news_query,0.7822366268996687
+please Vietnam কোন মহাদেশে?,qa_factoid,qa_factoid,0.8826545162661336
+একটু পাড়ার গ্রুপে meeting ১০টায় বলে email করো,email_sendemail,email_sendemail,0.9460393542297716
+প্লিজ contact list এ 999 নম্বরটা কার নামে আছে?,email_querycontact,email_querycontact,0.9796087019957712
+12 ঘণ্টা এর countdown set করো,alarm_set,calendar_set,0.3150386382677385
+চাচি কে weekly update নিয়ে মেইল লেখো,email_sendemail,email_sendemail,0.8370830678221333
+"""Please take me to the hotel"" মানে কী?",qa_definition,qa_definition,0.9911862767030788
+online banking আর e-commerce এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.8783364053871426
+প্লিজ এই মুহূর্তের বন্যা headlines দেখাও,news_query,news_query,0.9807586919315778
+নয়া দিগন্ত এ শেয়ারবাজার নিয়ে কী news আছে?,news_query,news_query,0.8061310278264993
+"প্লিজ ""স্টেশন কতদূর"" এর meaning কী?",qa_definition,qa_definition,0.9580416198512206
+প্লিজ ওয়েবসাইট কে invent করেছেন?,qa_factoid,qa_factoid,0.6257710529244914
+মামি কে assignment নিয়ে মেইল লেখো,email_sendemail,email_sendemail,0.745289821393181
+Europe এর আজ রাতের সংবাদ show করো,news_query,news_query,0.9840396786013191
+please solar panel আর VR headset এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.840147694225084
+প্লিজ San Francisco এ local time কত?,datetime_query,datetime_query,0.7439673788886294
+email এ পাড়ার গ্রুপে resume লিখে পাঠাও,email_sendemail,email_sendemail,0.9911177408943432
+আজ দুপুরে Satkhira এ আর্দ্রতা কত?,weather_query,weather_query,0.9299552720906539
+Istanbul এর কাল রাতে আবহাওয়ার পূর্বাভাস দাও,weather_query,weather_query,0.9426123268034802
+পরশু Kushtia এ কুয়াশা পড়বে কি?,weather_query,weather_query,0.8173367863371638
+রোমান্টিক গান বাজাও please,play_music,play_music,0.8991576090046302
+প্লিজ Barishal এ কাল sweater পরতে হবে?,weather_query,weather_query,0.9545065879479763
+"প্লিজ ""আপনার সাথে কথা বলে ভালো লাগলো"" এর definition কী?",qa_definition,qa_definition,0.9661297748754876
+একটু প্লাম্বার কে ঘুম থেকে উঠেছি email করে দাও,email_sendemail,email_sendemail,0.9004228798206434
+"""স্টেশন কতদূর"" word এর মানে কী?",qa_definition,qa_definition,0.9823127944662133
+please Switzerland এর জাতীয় পশু কোনটি?,qa_factoid,qa_factoid,0.8960023086305
+"please ""দয়া করে আস্তে বলুন"" বাক্যটার মানে কী?",qa_definition,qa_definition,0.9949595928420786
+অ্যালার্ম রাখো প্রতি Thursday সকাল পৌনে 7টায় vaccine appointment এর জন্য,alarm_set,alarm_set,0.6003101174267229
+একটু রাফি এর এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.9760814435475395
+Kishore Kumar এর জ্যাজ গান বাজাও,play_music,play_music,0.9692796989092833
+"""I am lost"" এর মানে কী? please",qa_definition,qa_definition,0.9992213304762978
+সাদিয়া এর contact number বের করে দাও please,email_querycontact,email_querycontact,0.9888801698801063
+"একটু ""দয়া করে আস্তে বলুন"" এই sentence টা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9798850382574945
+laptop আর iPhone এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.7497293224238477
+প্লিজ ২৫৯ কে ৭ দিয়ে divide করো,qa_maths,qa_maths,0.9754629535527181
+ঢাকাতে সন্ধ্যা ৭টা বাজলে Tehran এ কয়টা বাজে?,datetime_convert,datetime_convert,0.9140119955022695
+"""জন্মদিনের শুভেচ্ছা"" মানে কী? please",qa_definition,qa_definition,0.9620008971745597
+"প্লিজ ""I am vegetarian"" বাক্যটার মানে কী?",qa_definition,qa_definition,0.9944786372532057
+প্রতি বৃহস্পতিবার 8:55 PM এ presentation practice এর reminder সেট করে দাও,calendar_set,calendar_set,0.9709857174600208
+"please ""আমাকে সাহায্য করুন"" এর definition কী?",qa_definition,qa_definition,0.9968545056898522
+blockchain কেন গুরুত্বপূর্ণ?,qa_factoid,qa_factoid,0.6364400334024177
+"""Happy new year"" এর অর্থ কী?",qa_definition,qa_definition,0.9557558147612362
+Dubai এর আজ দুপুরে আবহাওয়ার পূর্বাভাস শোনাও,weather_query,weather_query,0.9747528454889457
+Queen এর Tum Hi Ho play দাও প্লিজ,play_music,play_music,0.9357561363971886
+tutor এর ফোন নাম্বার বলো,email_querycontact,email_querycontact,0.9950545929439139
+fire service এর এর ফোন নাম্বার কত?,email_querycontact,email_querycontact,0.9689400419869769
+"একটু ""Where is the bathroom"" এর অর্থ কী?",qa_definition,qa_definition,0.9565745891997336
+দিনাজপুর এ আজ সকালে বজ্রপাতের chance আছে?,weather_query,weather_query,0.9067076968463833
+please নীলা কে photo email এ দাও,email_sendemail,email_sendemail,0.975871364192065
+BBC বাংলা এর গতকালের news দেখাও,news_query,news_query,0.9579020695368378
+একটু ৬৩২ subtract ৭৯ কত?,qa_maths,qa_maths,0.9734893237223023
+একটু DW বাংলা এ পরিবেশ নিয়ে কী খবর আছে?,news_query,news_query,0.5582414280930594
+প্লিজ Dhaka আর Madrid এর মধ্যে time gap কত?,datetime_query,datetime_query,0.6890342808870399
+একটু ১০ power ৪ কত?,qa_maths,qa_maths,0.9564329039512666
+প্লিজ Chile এর জনসংখ্যা কত?,qa_factoid,qa_factoid,0.9625934816622302
+"please ""How much is that"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9896547721563395
+email এ নিশাত কে বাসায় ফিরেছি send করো,email_sendemail,email_sendemail,0.995850451832449
+please নজরুল এর গান চালিয়ে দাও please,play_music,play_music,0.9570922393663287
+please সাদিয়া কে resume নিয়ে মেইল লেখো,email_sendemail,email_sendemail,0.7607857518835244
+"""আবার দেখা হবে"" এর definition কী?",qa_definition,qa_definition,0.9970833307801398
+wake up call লাগাও প্রতি Sunday সকাল ১১টা ৪০ মিনিটে ফজরের নামাজ এর জন্য,alarm_set,alarm_set,0.55521480881381
+প্রিন্সিপাল এর contact number বের করে দাও please,email_querycontact,email_querycontact,0.9887591307285931
+shuffle on করে গান চালাও,play_music,play_music,0.6187362301354814
+প্লিজ ৭ power ৫ কত?,qa_maths,qa_maths,0.9670088990172337
+"please ""Thank you so much"" এর মানে কী?",qa_definition,qa_definition,0.9831187362033241
+কাল রাতে Jessore এ কুয়াশা পড়বে কি?,weather_query,weather_query,0.6567175129302775
+"প্লিজ ""Happy new year"" মানে কী?",qa_definition,qa_definition,0.9626070872930316
+একটু 10921 এই নাম্বারের contact info দেখাও,email_querycontact,email_querycontact,0.9944583978009586
+Workout playlist শোনাও,play_music,play_music,0.9811991720089029
+এই শুক্রবার রাত 12টায় কাপড় তোলা এর reminder সেট করে দাও,calendar_set,calendar_set,0.9268369836685912
+প্লিজ কাল কুষ্টিয়া এ weather কেমন?,weather_query,weather_query,0.9974935112776647
+সকাল ৯টা ৫৫ মিনিটে alert দাও,alarm_set,alarm_set,0.8989629887296187
+Python কার তৈরি?,qa_factoid,qa_factoid,0.14815580271538628
+please 16263 এই নাম্বারের contact info দেখাও,email_querycontact,email_querycontact,0.9926953024319405
+আজ দুপুরে রাঙ্গামাটি এ wind speed কেমন?,weather_query,weather_query,0.9010873039749918
+Argentina তে এখন কয়টা বাজে,datetime_query,datetime_query,0.9561667702004524
+একটু hospital এর এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.898763221387791
+"একটু ""টয়লেট কোথায়"" word এর মানে কী?",qa_definition,qa_definition,0.9866736972869646
+নিশাত এর number কী?,email_querycontact,email_querycontact,0.976608748880599
+একটু Stairway to Heaven গানটি শোনাও প্লিজ,play_music,play_music,0.7948908728663763
+"""টয়লেট কোথায়"" এর meaning কী?",qa_definition,qa_definition,0.9963224969142109
+Greek ভাষার মানে কী?,qa_definition,qa_definition,0.9968563188562126
+please সাতক্ষীরা এ আজ বিকেলে humidity কত?,weather_query,weather_query,0.7029419507604766
+please Moscow এ এখন দিন না রাত?,datetime_query,datetime_query,0.934838092403813
+Sabbir এর নাম্বার কী?,email_querycontact,email_querycontact,0.9798713287282991
+একটু Ek Din Pakhi Ure Jabe গানটা play করো প্লিজ,play_music,play_music,0.7998805271627293
+"""বিমানবন্দর কোন দিকে"" এর definition কী?",qa_definition,qa_definition,0.9754938402156935
+please 615 কে 45 দিয়ে multiply করো,qa_maths,qa_maths,0.7130587425632452
+please দোহা এর সাথে বাংলাদেশের সময়ের ব্যবধান কত ঘণ্টা?,datetime_convert,datetime_convert,0.5212994477678106
+wake up call বসাও every Monday দুপুর ১২টায় yoga এর জন্য,alarm_set,alarm_set,0.6156517992761791
+"একটু ""দয়া করে আস্তে বলুন"" এর definition কী?",qa_definition,qa_definition,0.9935865606664991
+Dhaka আর Nepal এর মধ্যে time difference কত?,datetime_convert,datetime_convert,0.9427278670584254
+"""Excuse me"" মানে কী?",qa_definition,qa_definition,0.9995066530865736
+9:55 PM এ রিমাইন্ডার বসাও,calendar_set,calendar_set,0.9395120905274682
+একটু bank এর contact number বের করে দাও,email_querycontact,email_querycontact,0.98970559157499
+বান্দরবান এ কাল humidity কত?,weather_query,weather_query,0.5907083295478813
+প্লিজ caretaker এর নাম্বার কী?,email_querycontact,email_querycontact,0.9661235038452141
+please কাল সকালে সকাল 7টা 15 মিনিটে cricket practice এর এলার্ম set করো,alarm_set,alarm_set,0.8303394171200039
+প্লিজ Dhakaতে সকাল ১০টা হলে করাচি এ কয়টা বাজে?,datetime_convert,datetime_convert,0.4398894123597896
+৪৫৩ plus ৫৮ কত হবে?,qa_maths,qa_maths,0.9937467471851072
+প্লিজ Kuala Lumpur তে এখন সকাল নাকি রাত?,datetime_query,datetime_query,0.6521238912305183
+আজ সকালের মেট্রোরেল news দেখাও,news_query,news_query,0.986864556455613
+Brazil তে এখন সময় কত?,datetime_query,datetime_query,0.9797178587379848
+please মিশর এর সাথে বাংলাদেশের সময়ের ব্যবধান কত ঘণ্টা?,datetime_convert,datetime_convert,0.5239180910884035
+please 5G এর সুবিধা কী,qa_factoid,qa_factoid,0.9480961581440834
+৫৯ কি odd?,qa_maths,qa_maths,0.6069291819502161
+please ৩৩৪ লিটার কত গ্যালন?,qa_maths,qa_maths,0.7754151398766463
+একটু বরিশাল এর ব্যবসা update দেখাও,news_query,news_query,0.4568049141553591
+Dhakaতে দুপুর ১২টা বাজলে Madrid এ কয়টা বাজে?,datetime_convert,datetime_convert,0.7508784253816565
+২০১৫ এর গান চালাও please,play_music,play_music,0.9420061037987763
+"""এটা অনেক দামি"" এর meaning কী?",qa_definition,qa_definition,0.997551594124033
+Chaiyya Chaiyya song টা ছাড়ো,play_music,play_music,0.9802021857893031
+৩ hr পর gym এর কথা মনে করাও,calendar_set,calendar_set,0.8657309619008533
+please কাল umbrella লাগবে,weather_query,weather_query,0.6188359618618956
+একটু স্যার এর কাছে এই কথাটা email এ লিখে পাঠাও আজ রাতে আসছি,email_sendemail,email_sendemail,0.9694895704341782
+PDF এর পূর্ণরূপ কী?,qa_definition,qa_definition,0.7388776207686745
+please 1980s গান চালাও প্লিজ,play_music,play_music,0.9696593752171516
+আমাকে today 12:40 AM এ ভাইয়ার flight এর কথা মনে করিয়ে দাও,calendar_set,calendar_set,0.9334247117533442
+please প্রতি বৃহস্পতিবার রাত ১২টা ৫০ মিনিটে বাসের টিকিট এর এলার্ম বসাও,alarm_set,alarm_set,0.6591509716294769
+fire service এর এর ফোন নাম্বার বলো,email_querycontact,email_querycontact,0.9692365558555832
+3220 টাকার 20 percent কত হবে?,qa_maths,qa_maths,0.9331617430162755
+Cairo তে এখন দিন না রাত?,datetime_query,datetime_query,0.9699147765980338
+কানাডা এর last 1 hour এর আপডেট জানাও,news_query,news_query,0.7044204427287951
+একটু Dhaka আর Singapore এর মধ্যে সময়ের পার্থক্য কত?,datetime_convert,datetime_convert,0.7690568134240207
+please ৯ আর ২৫ এর LCM কত,qa_maths,qa_maths,0.9566535827704048
+please blockchain সহজ ভাষায় বুঝিয়ে বলো?,qa_definition,qa_definition,0.7557612962358907
+tomorrow সন্ধ্যা 6টা 50 মিনিটে presentation practice এর কথা মনে করিয়ে দাও,calendar_set,calendar_set,0.9500157445912955
+প্লিজ এই শুক্রবার 6:20 PM এ cricket practice এর কথা মনে করিয়ে দাও,calendar_set,calendar_set,0.9189585935900586
+শাশুড়ি এর phone number বলো,email_querycontact,email_querycontact,0.9788048345162299
+Dhakaতে সকাল ১০টা হলে মিশর এ কয়টা বাজে?,datetime_convert,datetime_query,0.5584009269355517
+please আজ Jessore এ humidity কত?,weather_query,weather_query,0.5126288394100967
+latest পরিবেশ সংবাদ read করো,news_query,news_query,0.9587367001217084
+109 এই নাম্বারের contact info দেখাও please,email_querycontact,email_querycontact,0.9971148500221444
+Sabbir এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.9892843265090829
+please ৯০ এর দশকের গান বাজাও,play_music,play_music,0.9489783112302967
+ফুফু কে happy anniversary email এ লিখে জানাও,email_sendemail,email_sendemail,0.8328530700664767
+এখন picnic করা যাবে,weather_query,weather_query,0.29221290272393763
+একটু DNA সম্পর্কে সংক্ষেপে বলো,qa_factoid,qa_factoid,0.31322537471538375
+সিলেট এর শেয়ারবাজার summary বলো,news_query,news_query,0.1904601031894317
+please টাঙ্গাইল তে পরশু শীত কেমন থাকবে?,weather_query,weather_query,0.7777207404974137
+please বাংলা ট্রিবিউন এর আজ সকালের শিরোনাম read করো,news_query,news_query,0.9388087086710603
+35 আর 32 এর HCF বের করো,qa_maths,qa_maths,0.7932251334110066
+Asia এর এই সপ্তাহের headlines জানাও,news_query,news_query,0.9852526087229843
+5 minute পরে ভাইয়ার flight এর কথা মনে করাও,calendar_set,calendar_set,0.7091091867279146
+please 275 ডলার টাকা এ convert করো,qa_currency,qa_currency,0.8864726329814434
+please সন্ধ্যায় শোনার মতো গান চালাও,play_music,play_music,0.951537870552805
+নিশাত এর contact number বের করে দাও,email_querycontact,email_querycontact,0.9978650190019601
+please YouTube আর freelancing এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.7772941283469657
+"একটু ""I need water"" মানে কী?",qa_definition,qa_definition,0.9898005879218701
+please 798 বিয়োগ 53 কত?,qa_maths,qa_maths,0.9062144513547322
+৪৫ minute এর টাইমার বসাও,alarm_set,datetime_query,0.1512608226669175
+Shafin এর contact number বের করে দাও,email_querycontact,email_querycontact,0.9989853448381304
+Earth এর কয়টা চাঁদ আছে?,qa_factoid,qa_factoid,0.7673199688024085
+TIN এর মানে কী?,qa_definition,qa_definition,0.9983481662425301
+এলার্ম লাগাও প্রতি Wednesday দুপুর 12:55 এ yoga এর জন্য,alarm_set,alarm_set,0.7869474669679652
+please Berlin এ পরশু কুয়াশা পড়বে কি,weather_query,weather_query,0.23961201157519205
+Mymensingh তে এখন temperature কত থাকবে?,weather_query,weather_query,0.936887052139327
+please রাশিয়া এর পদ্মা সেতু update বলো,news_query,news_query,0.5855680269151073
+শ্বশুর এর ফোন নাম্বার বলো please,email_querycontact,email_querycontact,0.9845964745865372
+please বিশ্বকাপ ক্রিকেট কবে শুরু হয়?,qa_factoid,qa_factoid,0.4290996567130666
+"প্লিজ ""আমি রাস্তা হারিয়ে ফেলেছি"" এর meaning কী?",qa_definition,qa_definition,0.924311524250339
+"""This is too expensive"" এর definition কী?",qa_definition,qa_definition,0.9947596094111546
+VPN এর পূর্ণরূপ কী?,qa_definition,qa_definition,0.7730479286796956
+Kuwait তে এখন দিন না রাত?,datetime_query,datetime_query,0.9582712883291068
+please police কে link email এ লিখে পাঠাও,email_sendemail,email_sendemail,0.9914963125395954
+please email এ ফ্যামিলি গ্রুপে invoice send করো,email_sendemail,email_sendemail,0.990696008916613
+প্লিজ নিশাত কে meeting reminder নিয়ে email পাঠাও,email_sendemail,email_sendemail,0.9234775506891217
+"""Happy new year"" এর মানে কী?",qa_definition,qa_definition,0.9807606345535462
+একটু today's শিক্ষা আপডেট শোনাও,news_query,news_query,0.791956651655146
+Android আর Uber এর মধ্যে পার্থক্য কী,qa_definition,transport_taxi,0.33945094339742393
+৮ minute পর চায়ের বিরতি এর কথা মনে করাও,calendar_set,calendar_set,0.8143263101436579
+please bank এর ফোন নাম্বার কত?,email_querycontact,email_querycontact,0.9832419692201222
+VR headset এর অসুবিধা কী?,qa_factoid,qa_factoid,0.9330743757264908
+কাল সকালে দুপুর সাড়ে ২টায় study এর কথা মনে করিয়ে দাও,calendar_set,calendar_set,0.959149193570837
+একটু Turkish language এর definition কী?,qa_definition,qa_definition,0.9837103377010948
+আমার contact list এ স্যার এর নাম্বারটা কী?,email_querycontact,email_querycontact,0.9983999416219123
+please এই weekend এ রাঙ্গামাটি এ ঝড় হবে কি,weather_query,weather_query,0.642859069795231
+Neptune সূর্য থেকে কত দূরে,qa_factoid,qa_factoid,0.5417442933690967
+contact list এ landlord এর এর নাম্বার খুঁজে বলো,email_querycontact,email_querycontact,0.9985401118879532
+শাশুড়ি কে proposal নিয়ে মেইল করো,email_sendemail,email_sendemail,0.9253617675533733
+প্লিজ Kuala Lumpur এ tomorrow morning আকাশ পরিষ্কার থাকবে,weather_query,weather_query,0.7847274110799602
+"প্লিজ ""টয়লেট কোথায়"" এর meaning কী?",qa_definition,qa_definition,0.9888924091716741
+144 ringgit টাকা এ convert করো,qa_currency,qa_currency,0.9327499413321924
+2780 টাকার 5 percent কত হবে?,qa_maths,qa_maths,0.9472659959301193
+"""স্টেশন কতদূর"" এর অর্থ কী? please",qa_definition,qa_definition,0.9531403066036126
+BBC বাংলা এ স্বাস্থ্য নিয়ে কী খবর আছে?,news_query,news_query,0.6765814726523925
+আজ আসরের time কয়টায়?,datetime_query,datetime_query,0.9926591490190151
+"""Good evening"" এর অর্থ কী?",qa_definition,qa_definition,0.9810781532649477
+অ্যালার্ম লাগাও today রাত ১০টা ১০ মিনিটে,alarm_set,alarm_set,0.947796758947811
+HTML এর full form কী,qa_definition,qa_definition,0.5546483141061314
+প্লিজ ২২৩ add ৬৮ কত হবে?,qa_maths,qa_maths,0.9482413108627072
+please ১০ এর factorial কত?,qa_maths,qa_maths,0.9197247776405699
+প্লিজ শাশুড়ি কে email পাঠাও,email_sendemail,email_sendemail,0.9956633470937547
+8 ঘন্টা later অ্যালার্ম রাখো,alarm_set,alarm_set,0.8077937789063777
+প্লিজ Al Jazeera এ আইন-আদালত নিয়ে কী খবর আছে?,news_query,news_query,0.8109546955734429
+wake up call সেট করে দাও রাত পৌনে ৯টায়,alarm_set,alarm_set,0.9385804067331714
+মিথিলা এর number কী?,email_querycontact,email_querycontact,0.9662849868894029
+সিঙ্গাপুর এর time zone কী?,datetime_query,datetime_query,0.798804242334646
+একটু সত্তরের দশকের গান চালাও please,play_music,play_music,0.7699648888842423
+remote work আর solar panel এর মধ্যে পার্থক্য কী,qa_definition,qa_definition,0.6418785994023707
+একটু Tokyo এর আগামী দুই দিন আবহাওয়ার পূর্বাভাস শোনাও,weather_query,weather_query,0.9431768961514074
+প্লিজ Runa Laila এর instrumental গান play করো,play_music,play_music,0.9728199009370138
+শ্বশুর এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.9892184178881459
+Tokyo এ আজ দুপুরে গরম কেমন পড়বে?,weather_query,weather_query,0.9633219181724717
+সকাল সাড়ে ৭টায় reminder বসাও,calendar_set,calendar_set,0.9506729228427511
+please ঢাকা আর Mexico এর মধ্যে সময়ের তফাত কত ঘণ্টা?,datetime_query,datetime_query,0.3767305989499269
+"""Could you help me"" এর মানে কী? please",qa_definition,qa_definition,0.9890841867326455
+560 কে 10 দিয়ে divide করো,qa_maths,qa_maths,0.9707257365124694
+প্লিজ VR headset কীভাবে কাজ করে?,qa_factoid,qa_factoid,0.8944237973922762
+wake up call লাগাও প্রতি সোমবার 12:00 AM এ ক্লাস এর জন্য,alarm_set,alarm_set,0.808415225106684
+প্লিজ Rony এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.9740909535429578
+please Mars সূর্য থেকে কত দূরে,qa_factoid,qa_factoid,0.6960792189728863
+একটু Tahsan এর Lose Yourself play করো প্লিজ,play_music,play_music,0.4524111135583387
+একটু Daily Star এর গতকালের সংবাদ show করো,news_query,news_query,0.6199793507797347
+একটু 6444 টাকার bill এ 10% tip দিলে মোট কত?,qa_maths,qa_maths,0.4690958237018139
+Toronto এ এখন day না night?,datetime_query,datetime_query,0.7912388569995527
+"প্লিজ ""I am lost"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9932819521706101
+প্লিজ 4760 টাকার 20 percent কত হবে?,qa_maths,qa_maths,0.9432163960390472
+আমাকে ১৫ min later ভাতের চুলা এর কথা মনে করাও,calendar_set,calendar_set,0.8547096876521347
+please কীভাবে পোকামাকড় তাড়াব,qa_factoid,qa_factoid,0.8674336891664851
+last missed call করা নাম্বারটা কার নামে আছে? please,email_querycontact,email_querycontact,0.8788275255528822
+ঢাকাতে রাত ৯টা বাজলে Karachi এ কয়টা বাজে?,datetime_convert,datetime_convert,0.8129747114812439
+please আজ মাগরিবের time কখন?,datetime_query,datetime_query,0.7779755202121997
+email এ hall এর গ্রুপে ভিডিও পাঠাও,email_sendemail,email_sendemail,0.9873578579057113
+please ইরান এর আজ সকালের update show করো,news_query,news_query,0.9525945147104805
+please ঢাকা আর Melbourne এর মধ্যে সময়ের পার্থক্য কত?,datetime_convert,datetime_convert,0.8811250018395927
+নারায়ণগঞ্জ এর today's সংবাদ দেখাও,news_query,news_query,0.774377778067148
+দুপুর ১টায় wake up call set করো,alarm_set,alarm_set,0.9354649804118729
+আজ দুপুরে bike চালানো ঠিক হবে?,weather_query,weather_query,0.9538685287299995
+একটু 254 এর square root বের করো,qa_maths,qa_maths,0.8697756566046257
+"একটু ""This is too expensive"" এর অর্থ কী?",qa_definition,qa_definition,0.9528658755396492
+একটু this evening খুলনা এ ঝড় হবে কি,weather_query,weather_query,0.45313379459514014
+quantum computing সম্পর্কে ইতিহাস বলো,qa_factoid,qa_factoid,0.7961703342611525
+আশির দশকের গান play দাও প্লিজ,play_music,play_music,0.9899175839961654
+একটু Tesla এর ভবিষ্যৎ কেমন?,qa_factoid,qa_factoid,0.9173259597901007
+প্লিজ টোকিও এ এখন কি day চলছে?,datetime_query,datetime_query,0.7459394774969051
+651 add 79 কত হবে?,qa_maths,qa_maths,0.8135923397792841
+আমার contact list এ হাউজ ওনার এর নাম্বারটা কী?,email_querycontact,email_querycontact,0.9985977694187952
+একটু next week Kuala Lumpur এ weather কেমন,weather_query,weather_query,0.9897515106450416
+কালের কণ্ঠ এর সাম্প্রতিক সারাংশ show করো,news_query,news_query,0.8703685058036644
+please Nancy এর ভক্তিমূলক গান বাজাও প্লিজ,play_music,play_music,0.9143961987857712
+please laptop আর remote work এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.8068143492382815
+"""এটা অনেক দামি"" এই sentence টা বলতে কী বোঝায়?",qa_definition,qa_definition,0.994675860241266
+Imran কে please call back email করো,email_sendemail,email_sendemail,0.9411894971926207
+Rangpur Riders এর ম্যাচের score,news_query,news_query,0.8180254064008916
+Manila এর time zone কী?,datetime_query,datetime_query,0.5728724675616624
+01644771107 এই নাম্বারের contact info দেখাও,email_querycontact,email_querycontact,0.9960614939924863
+Retro Mix playlist বাজিয়ে দাও,play_music,play_music,0.961448172736819
+please 12 ঘণ্টা পরে গ্যাসের চুলা বন্ধ এর কথা মনে করাও,calendar_set,calendar_set,0.5145126444341538
+"""thanks আপনাকে"" মানে কী?",qa_definition,qa_definition,0.9943665510171574
+পরশু Tangail এ গরম কেমন পড়বে,weather_query,weather_query,0.8749642521207551
+প্লিজ Germany এর ম্যাচের score,news_query,news_query,0.8935503956875379
+"প্লিজ ""জন্মদিনের শুভেচ্ছা"" word এর মানে কী?",qa_definition,qa_definition,0.940744560956169
+iPhone এর অসুবিধা কী,qa_factoid,qa_factoid,0.9559611167444433
+"৯৯, ৩২, ২৯, ৮৬, ৮ এর median বলো",qa_maths,qa_maths,0.8535597341077483
+প্লিজ আমার contact list এ নাফিস এর এর number টা কী?,email_querycontact,email_querycontact,0.9986227831239882
+প্লিজ লস অ্যাঞ্জেলেস এর time zone কী?,datetime_query,datetime_query,0.635110791263217
+please জাহিদ কে মেইল করো,email_sendemail,email_sendemail,0.9574556776355376
+please Asia এর সাম্প্রতিক update দাও,news_query,news_query,0.9370734374674605
+"""This is too expensive"" এর অর্থ কী?",qa_definition,qa_definition,0.9743907549004747
+একটু remote work আর 5G এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.901883860965691
+রাত 12:40 এ alarm রাখো,alarm_set,alarm_set,0.8604640852182206
+একটু Indonesian ভাষা কী?,qa_definition,qa_definition,0.45421657136654986
+একটু 7 power 3 কত?,qa_maths,qa_maths,0.6536470276969604
+"প্লিজ ""আমাকে একটু সাহায্য করুন"" এই sentence টা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9779652355074718
+Channel 24 এর গতকালের সারাংশ দেখাও,news_query,news_query,0.5749890428509276
+"প্লিজ ""বিমানবন্দর কোন দিকে"" এর meaning কী?",qa_definition,qa_definition,0.891558222370712
+একটু ৯০ এর দশকের গান শোনাও please,play_music,play_music,0.8893417335609871
+স্যার কে contact email করো,email_sendemail,email_sendemail,0.41965304016060734
+বাংলাদেশতে রাত ১১টা বাজলে Iran এ কয়টা বাজে?,datetime_convert,datetime_convert,0.8454518055293554
+please কীভাবে বাজেট বানাব,qa_factoid,qa_factoid,0.4935760984139552
+একটু Sylhet তে এখন মাঠে খেলা যাবে,weather_query,weather_query,0.5137140021056829
+একটু হাছন রাজা এর motivational গান play করো,play_music,play_music,0.848535157354539
+Dhaka আর Argentina এর মধ্যে time difference কত ঘণ্টা?,datetime_convert,datetime_convert,0.935021153017042
+"প্লিজ ""Nice to see you"" এর অর্থ কী?",qa_definition,qa_definition,0.9686664393402495
+Arabic language এর definition কী?,qa_definition,qa_definition,0.9909342376673973
+please খুলনা এ আজ বিকেলে শীত কেমন থাকবে?,weather_query,weather_query,0.8145291067486918
+কুয়েত এ এখন কয়টা বাজে show করো,datetime_query,datetime_query,0.9636688466417278
+"""আবার দেখা হবে"" এই sentence টা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9887955446773261
+Istanbul তে কাল রাতে শীত কেমন থাকবে,weather_query,weather_query,0.6008679626838959
+৩৭৯ minus ৭৩ কত?,qa_maths,qa_maths,0.9460854480998114
+contact list এ +8801761059915 এর নাম্বার খুঁজে বলো,email_querycontact,email_querycontact,0.9980075868934454
+"প্লিজ ""Please take me to the hotel"" বাক্যটার মানে কী?",qa_definition,qa_definition,0.9895418116193219
+ভারতীয় দল এর last match এর ফলাফল,news_query,qa_factoid,0.33601843431300243
+আমার contact list এ জাহিদ এর নাম্বারটা কী?,email_querycontact,email_querycontact,0.9989323435262205
+magnet কী?,qa_definition,qa_definition,0.8989853855906026
+একটু 566 plus 75 কত হবে?,qa_maths,qa_maths,0.8660549705503106
+৮ ঘণ্টা পর vaccine appointment এর কথা মনে করাও,calendar_set,calendar_set,0.9876928836635815
+প্লিজ আবাহনী এর ম্যাচের score,news_query,news_query,0.9628234869670725
+"please ""See you later"" মানে কী?",qa_definition,qa_definition,0.9922904121082221
+"প্লিজ ""Congratulations"" শব্দটার মানে কী?",qa_definition,qa_definition,0.981001554274337
+every Sunday ভোর ৫:35 এ ডাক্তারের serial এর alarm set করো,alarm_set,alarm_set,0.554307196338959
+"please ""আমি রাস্তা হারিয়ে ফেলেছি"" মানে কী?",qa_definition,qa_definition,0.944553663353593
+"প্লিজ ""See you later"" মানে কী?",qa_definition,qa_definition,0.9853053952254708
+ভাবি এর contact info দেখাও,email_querycontact,email_querycontact,0.9919128505783792
+"একটু ""Congratulations"" এর মানে কী?",qa_definition,qa_definition,0.9689327670690395
+this evening Gazipur তে temperature কত থাকবে,weather_query,weather_query,0.921224424982164
+৭৫ এর square root বের করো,qa_maths,qa_maths,0.9803537084740911
+আগামীকাল সন্ধ্যা ৬টা ৫ মিনিটে yoga এর রিমাইন্ডার দাও,calendar_set,calendar_set,0.9486174311450108
+Bhalobashi Bole song টা ছাড়ো,play_music,play_music,0.8470961106228796
+এলার্ম বসাও পরশু 3:05 PM এ,alarm_set,alarm_set,0.8110402329608211
+আজ সকালে bike চালানো ঠিক হবে?,weather_query,weather_query,0.9666538052405412
+ফাহিম কে বাসায় ফিরেছি email করে দাও,email_sendemail,email_sendemail,0.9497565696423397
+alarm বসাও পরশু রাত সাড়ে 8টায়,alarm_set,alarm_set,0.9650424074393731
+"please ""Could you help me"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9856712443008603
+please Mexico এর time zone কী?,datetime_query,datetime_query,0.6808739196401858
+একটু police কে invoice নিয়ে email পাঠাও,email_sendemail,email_sendemail,0.9880523592310855
+একটু ৭৬ কি prime number?,qa_maths,qa_maths,0.7487632329241464
+360 কে 12 দিয়ে divide করো,qa_maths,qa_maths,0.9758119792002953
+email এ Nusrat কে খাবার রেডি করো,email_sendemail,email_sendemail,0.9580742550359495
+কীভাবে water পরিষ্কার করব?,qa_factoid,qa_factoid,0.9267066121980354
+ফাহিম কে location email করো,email_sendemail,email_sendemail,0.9449784707324773
+please রোম এর সময় অঞ্চল কী?,datetime_query,datetime_query,0.6298774176210573
+please CGPA এর full form কী?,qa_definition,qa_definition,0.8862606010876511
+Dhaka আর Jeddah এর মধ্যে time gap কত ঘণ্টা?,datetime_query,datetime_query,0.7053647296083575
+please last missed call এর contact info দেখাও,email_querycontact,email_querycontact,0.9801569243374988
+please কাল Jessore এ আর্দ্রতা কত?,weather_query,weather_query,0.5872893288752532
+"""শুভ সন্ধ্যা"" মানে কী? please",qa_definition,qa_definition,0.9927995321287182
+cricket team এ শুভ সকাল বলে email পাঠাও,email_sendemail,email_sendemail,0.9704944951672942
+প্লিজ টাঙ্গাইল এ এই weekend এ আর্দ্রতা কত,weather_query,weather_query,0.7737025098343381
+please remote work কীভাবে কাজ করে,qa_factoid,qa_factoid,0.6876156165042776
+গাজা এর প্রযুক্তি headlines পড়ে শোনাও,news_query,news_query,0.9737297562334891
+"69, 82, 51, 50, 74 এর median বলো",qa_maths,qa_maths,0.6520706207882337
+please ৯ এর ফ্যাক্টোরিয়াল কত?,qa_maths,qa_factoid,0.24760645746856202
+ইলেকট্রিশিয়ান এর contact info দেখাও please,email_querycontact,email_querycontact,0.9378772528298281
+BBC বাংলা এর এই মুহূর্তের news পড়ে শোনাও,news_query,news_query,0.9915843197577359
+একটু Lamia এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.9572181405758944
+reminder সেট করে দাও প্রতি Thursday 11:40 AM এ মিটিং এর জন্য,calendar_set,calendar_set,0.992271711222927
+please বাংলাদেশতে দুপুর ১২টা হলে কায়রো এ কয়টা বাজে?,datetime_convert,datetime_convert,0.566954542899141
+breaking সড়ক দুর্ঘটনা খবর পড়ে শোনাও,news_query,news_query,0.9132472369561732
+please নয়া দিগন্ত এ প্রযুক্তি নিয়ে কী খবর আছে?,news_query,news_query,0.9350004338105612
+৪৯৪ কে ১৬ দিয়ে multiply করো,qa_maths,qa_maths,0.9214320427716831
+1:45 PM এ reminder রাখো,calendar_set,calendar_set,0.9578411865901676
+please মেট্রোরেল নিয়ে এখন কী ঘটছে?,news_query,news_query,0.5853382032374438
+Instagram কি নিরাপদ,qa_factoid,qa_factoid,0.49254955761957514
+একটু ম্যাডাম কে slides email করো,email_sendemail,email_sendemail,0.9323551018316764
+প্লিজ this evening Gazipur এ আবহাওয়া কেমন?,weather_query,weather_query,0.9889168599100164
+please পৃথিবী এর তাপমাত্রা কত?,qa_factoid,qa_factoid,0.647431675588294
+প্লিজ Neptune এর কয়টা চাঁদ আছে?,qa_factoid,qa_factoid,0.6481051404228435
+জাহিদ এর phone number কত?,email_querycontact,email_querycontact,0.9840893093668652
+একটু আমার contact list এ খালা এর নাম্বারটা কী?,email_querycontact,email_querycontact,0.9956894799119923
+একটু ১০৮ কি prime number?,qa_maths,qa_maths,0.8353053513604057
+37 আর 20 এর LCM বলো,qa_maths,qa_maths,0.7644955880862552
+alarm দাও প্রতি Friday বিকেল 3টা 40 মিনিটে vaccine appointment এর জন্য,alarm_set,alarm_set,0.7842908314925794
+একটু Sabbir এর এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.973368102606753
+একটু VR headset কত দিনের মধ্যে শেখা যায়?,qa_factoid,qa_factoid,0.35637794061162287
+যশোর এ next week ঝড় হবে কি?,weather_query,weather_query,0.9798137081696625
+1000 টাকার 60 percent কত হবে?,qa_maths,qa_maths,0.9767361694240225
+221 কে 5 দিয়ে divide করলে ভাগশেষ কত?,qa_maths,qa_maths,0.9781392551275249
+মামি এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.9910148755187758
+ফরিদপুর তে আজ সকালে umbrella লাগবে?,weather_query,weather_query,0.9758694149282471
+একটু ২৮৩ কে ১৫ দিয়ে divide করলে ভাগশেষ কত?,qa_maths,qa_maths,0.9870489252074078
+প্লিজ প্রতি Friday বিকেল 3:50 এ মায়ের ওষুধ এর alert রাখো,alarm_set,alarm_set,0.39890872082869694
+976 plus 84 কত হবে?,qa_maths,qa_maths,0.9269884389569191
+project team এ রিপোর্ট email করো,email_sendemail,email_sendemail,0.9252378585851765
+wake up call সেট করে দাও আজ রাতে 5:25 PM এ,alarm_set,alarm_set,0.9254289395141354
+please মেট্রোরেল নিয়ে এই সপ্তাহে কী ঘটছে?,news_query,news_query,0.6556677257783592
+Switzerland এর রাজধানী কোথায়?,qa_factoid,qa_factoid,0.9795866503001476
+technology নিয়ে এই সপ্তাহে কী ঘটছে?,news_query,news_query,0.8460780548770627
+fire service এর এর contact info দেখাও,email_querycontact,email_querycontact,0.9680688543705654
+৩৮১ kg কত পাউন্ড?,qa_maths,qa_maths,0.9297956920041169
+electric car আর Bitcoin এর মধ্যে পার্থক্য কী,qa_definition,qa_definition,0.37039056023113726
+প্লিজ বাংলাদেশতে রাত ১১টা হলে Muscat এ কয়টা বাজে?,datetime_convert,datetime_convert,0.6238351613267931
+একটু Mumbai এ এখন দিন না রাত?,datetime_query,datetime_query,0.8219640903302059
+প্লিজ Colombo এ এখন সময় কত,datetime_query,datetime_query,0.9487489230229896
+একটু Beijing এর সাথে বাংলাদেশের সময়ের ব্যবধান কত ঘণ্টা?,datetime_convert,datetime_convert,0.4363593007927917
+দুপুর ১টায় reminder রাখো,calendar_set,calendar_set,0.9651453713449266
+10921 নম্বরটা কার number?,email_querycontact,email_querycontact,0.9515802807643136
+প্লিজ breaking শিক্ষা সারাংশ দাও,news_query,news_query,0.48966719294918704
+৪৬৮ কে ৯০ দিয়ে multiply করো,qa_maths,qa_maths,0.9537492278715307
+একটু খালা এর কাছে এই কথাটা email এ লিখে পাঠাও eid mubarak,email_sendemail,email_sendemail,0.9535280211764194
+আমাকে 90 minute পরে দুধ গরম এর কথা মনে করাও,calendar_set,calendar_set,0.8290556293302758
+"৪৩, ৪১, ১৪, ২১, ২২ এর average বের করো",qa_maths,qa_maths,0.9770377839820884
+"একটু ""আবার দেখা হবে"" sentence এর মানে কী?",qa_definition,qa_definition,0.995403221553731
+"""বাস স্ট্যান্ড কোন দিকে"" এই sentence টা বলতে কী বোঝায়?",qa_definition,qa_definition,0.958973124270585
+প্লিজ ৫৪৬ minus ৪২ কত?,qa_maths,qa_maths,0.9149483785654792
+Perfect গানটা চালাও প্লিজ,play_music,play_music,0.9398257125588451
+প্লিজ ৮০ এর দশকের song চালিয়ে দাও প্লিজ,play_music,play_music,0.9459991219848997
+আমার contact list এ Mehedi এর নাম্বারটা কী?,email_querycontact,email_querycontact,0.9990007185945218
+প্লিজ Bogura এ পরশু picnic করা যাবে,weather_query,weather_query,0.5617295631727778
+please ২০০০ সালের গান বাজাও,play_music,play_music,0.9147086234641858
+যুগান্তর এ মেট্রোরেল নিয়ে কী news আছে?,news_query,news_query,0.8857608069692511
+please সূর্য সূর্য থেকে কত দূরে,qa_factoid,qa_factoid,0.6418599038849684
+একটু গাজীপুর এর পরিবেশ headlines জানাও,news_query,news_query,0.6596724970918774
+দিনাজপুর তে this evening বাইক চালানো ঠিক হবে?,weather_query,weather_query,0.9109058272871141
+প্লিজ বার্লিন তে এখন কি day চলছে?,datetime_query,datetime_query,0.913066253650503
+last incoming call এর নাম্বারটা কার নামে আছে? please,email_querycontact,email_querycontact,0.9331142611460019
+প্লিজ চাচি এর phone number বলো,email_querycontact,email_querycontact,0.9546268197421517
+Rangamati এ কাল আকাশ পরিষ্কার থাকবে?,weather_query,weather_query,0.7814607826561674
+প্লিজ সন্ধ্যা ৭টায় ফোন চার্জ এর কথা remind করে দাও,calendar_set,calendar_set,0.7711282095460492
+আজ আসরের time কখন শুরু?,datetime_query,datetime_query,0.9673266421511871
+"""Happy new year"" এর মানে কী? please",qa_definition,qa_definition,0.9745816707528546
+ভ্রমণের time শোনার মতো গান ছাড়ো,play_music,play_music,0.9339942751764742
+আমাকে সকাল ১০:10 এ milk গরম এর কথা মনে করিয়ে দাও,calendar_set,calendar_set,0.9740972745496095
+একটু ৮ power ৪ কত?,qa_maths,qa_maths,0.8641855382090193
+Athens এর time zone কী?,datetime_query,datetime_query,0.8798610901990376
+একটু মামা কে resume email এ share করো,email_sendemail,email_sendemail,0.9693566127998248
+সর্বশেষ খেলাধুলা update দেখাও,news_query,news_query,0.9305800227540876
+please database কেন গুরুত্বপূর্ণ,qa_factoid,qa_factoid,0.3288768991300745
+প্লিজ ৩৭৯ এর cube root বের করো,qa_maths,qa_maths,0.9475302267633748
+please প্রযুক্তি নিয়ে আজ কী ঘটছে?,news_query,news_query,0.9564793199741248
+"""How much is this"" এর definition কী?",qa_definition,qa_definition,0.9977056278210359
+প্লিজ ভ্রমণের সময় শোনার মতো গান play করো,play_music,play_music,0.9847240771873677
+৬ hour পরে lab report এর alarm দাও,alarm_set,alarm_set,0.9092802397182852
+YouTube আর ChatGPT এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.8139328989167348
+একটু Jessore এর পরশু আবহাওয়ার পূর্বাভাস বলো,weather_query,weather_query,0.9387909202618012
+please 5G কার তৈরি?,qa_factoid,qa_factoid,0.12978070473782552
+"""Thank you so much"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9840642256577101
+Berlin এ আজ আর্দ্রতা কত,weather_query,weather_query,0.6161898175556947
+প্লিজ খালা কে assignment জমা দিয়েছি email এ লিখে জানাও,email_sendemail,email_sendemail,0.8469638015726766
+প্লিজ GPS এর মানে কী,qa_definition,qa_definition,0.7698225969244574
+alarm লাগাও every Friday রাত 12:40 এ ভাতের চুলা এর জন্য,alarm_set,alarm_set,0.8247179160836141
+একটু Mymensingh এ আজ বিকেলে raincoat নিতে হবে?,weather_query,weather_query,0.9641922687063336
+please রাঙ্গামাটি এর tomorrow morning আবহাওয়ার পূর্বাভাস বলো,weather_query,weather_query,0.9391709564545845
+"""Where is the airport"" এর মানে কী?",qa_definition,qa_definition,0.9816991435572526
+rock songs play করো please,play_music,play_music,0.9952614916926589
+একটু আজ সকালে Teknaf তে weather কেমন?,weather_query,weather_query,0.9986138476730421
+তানভীর কে link email এ share করো,email_sendemail,email_sendemail,0.9757009081263067
+"""আমাকে সাহায্য করুন"" meaning কী?",qa_definition,qa_definition,0.9945332218040285
+একটু DW বাংলা এ football নিয়ে কী খবর আছে?,news_query,news_query,0.5393769345417312
+"please ""Good evening"" এর অর্থ কী?",qa_definition,qa_definition,0.9772746287356996
+Jakarta এ এই weekend এ বজ্রপাতের সম্ভাবনা আছে?,weather_query,weather_query,0.9737962783368734
+freelancing আর remote work এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.850028063745977
+একটু ৪৯১ add ৭০ কত হবে?,qa_maths,qa_maths,0.9226591562245371
+please আগামীকাল ভোর 4টা 40 মিনিটে ক্লায়েন্ট কল এর wake up call রাখো,alarm_set,alarm_set,0.5749372398683756
+খালা এর ফোন নাম্বার বলো please,email_querycontact,email_querycontact,0.9837471291323302
+please Tasnim কে meeting reminder নিয়ে মেইল করো,email_sendemail,calendar_set,0.7383333090511104
+Istanbul এ আজ সকালে আকাশ পরিষ্কার থাকবে?,weather_query,weather_query,0.8411529824358055
+৫ minute পর রিমাইন্ডার রাখো,calendar_set,calendar_set,0.9189931582543385
+please landlord কে email করো,email_sendemail,email_sendemail,0.9806293957014478
+please email এ Arman কে কালকের class cancel forward করো,email_sendemail,email_sendemail,0.9739598577286875
+online banking আর laptop এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.7522821133842298
+please Mohammed Rafi এর Ei Brishti Bheja Raate বাজিয়ে দাও প্লিজ,play_music,play_music,0.18664647887867164
+please Top 100 প্লেলিস্ট play করো,play_music,play_music,0.9878946916629905
+প্লিজ Ayub Bachchu এর Tumi Robe Nirobe ছাড়ো,play_music,play_music,0.6577297821513628
+পাকিস্তান এ এখন কয়টা বাজে show করো,datetime_query,datetime_query,0.9432680765901141
+10 আর 18 এর GCD বলো,qa_maths,qa_maths,0.7934001363912951
+Dhaka আর Cairo এর মধ্যে সময়ের পার্থক্য কত ঘণ্টা?,datetime_convert,datetime_convert,0.8371931986501507
+সকাল পৌনে ৬টায় alarm set করো,alarm_set,alarm_set,0.9836981503987167
+প্লিজ contact list এ বড় ভাই এর নাম্বার খুঁজে বলো,email_querycontact,email_querycontact,0.9980125706903267
+please ৬০৫ বিয়োগ ৪৯ কত?,qa_maths,qa_maths,0.9887189709440097
+প্লিজ পরশু সকাল 7টা 40 মিনিটে রুম ক্লিনিং এর alert set করো,alarm_set,alarm_set,0.6561409417483269
+ঢাকাতে দুপুর ১২টা হলে Argentina এ কয়টা বাজে?,datetime_convert,datetime_convert,0.5126876315797415
+last missed call টা কার নাম্বার থেকে এসেছিল?,email_querycontact,email_querycontact,0.8880846689814773
+Tanvir এর কাছে এই কথাটা মেইল এ লিখে পাঠাও assignment জমা দিয়েছি,email_sendemail,email_sendemail,0.7101859668981129
+Road Trip প্লেলিস্ট বাজাও,play_music,play_music,0.9570379101524886
+alert রাখো রাত সোয়া ১১টায়,alarm_set,alarm_set,0.6717504679797692
+আগামীকাল সকাল ৬টা ৪০ মিনিটে পড়াশোনা এর alarm দাও,alarm_set,alarm_set,0.9198738362512229
+please Tesla আর YouTube এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.7430330893660376
+Tasnim এর contact info দেখাও,email_querycontact,email_querycontact,0.9941636462749276
+please প্রতি Wednesday দুপুর ২:10 এ ভাইয়ার flight এর অ্যালার্ম রাখো,alarm_set,alarm_set,0.78708078577786
+please চীন এর সাথে বাংলাদেশের সময়ের ব্যবধান কত ঘণ্টা?,datetime_convert,datetime_convert,0.5159095381095006
+২২৪ minus ৮৩ কত?,qa_maths,qa_maths,0.9108805880449753
+প্লিজ Somoy TV এর last 1 hour এর খবর জানাও,news_query,news_query,0.7898903237920244
+SQL এর full form কী,qa_definition,qa_definition,0.5389256824364836
+মেইল এ batch group এ document send করো,email_sendemail,email_sendemail,0.9445268179005012
+প্লিজ মামা কে invoice নিয়ে email পাঠাও,email_sendemail,email_sendemail,0.9920753719837134
+প্লিজ ৩২৩ inch কত cm?,qa_maths,qa_maths,0.863023152485389
+Paris এ আজ বিকেলে rain হওয়ার chance আছে,weather_query,weather_query,0.9779618186859239
+politics নিয়ে এই সপ্তাহে কী ঘটছে?,news_query,news_query,0.7118647389939181
+একটু Jakarta তে this evening rain হওয়ার chance আছে?,weather_query,weather_query,0.9788342630869727
+রাশিয়া এর today's update বলো,news_query,news_query,0.7809639670415061
+প্লিজ অস্ট্রেলিয়া এ এখন time কত?,datetime_query,datetime_query,0.9279424886834639
+black hole কী?,qa_definition,qa_definition,0.8679648308622302
+মামি কে proposal নিয়ে email পাঠাও,email_sendemail,email_sendemail,0.997578356023977
+প্রতি Sunday সন্ধ্যা ৭টায় বাজার এর alarm বসাও,alarm_set,alarm_set,0.8118745869035555
+Hotel California song টা বাজিয়ে দাও,play_music,play_music,0.4673954078282205
+"প্লিজ ""This is too expensive"" এর অর্থ কী?",qa_definition,qa_definition,0.9488959449842596
+প্লিজ last 1 hour এর মেট্রোরেল headlines read করো,news_query,news_query,0.9700491673860617
+প্লিজ Neptune এর তাপমাত্রা কত,qa_factoid,qa_factoid,0.5245070001635899
+Argentina এর time zone কী?,datetime_query,datetime_query,0.7056948876873776
+টোকিও এর time অঞ্চল কী?,datetime_query,datetime_query,0.7347216686231527
+please লস অ্যাঞ্জেলেস এর time zone কী?,datetime_query,datetime_query,0.6902968891788768
+please ঢাকাতে সন্ধ্যা ৭টা বাজলে দোহা এ কয়টা বাজে?,datetime_convert,datetime_convert,0.9105467436246573
+please party music ছাড়ো,play_music,play_music,0.9424304780525175
+please জাপান তে এখন কি দিন চলছে?,datetime_query,datetime_query,0.8967647357884032
+contact list এ সুমাইয়া এর নাম্বার খুঁজে বলো,email_querycontact,email_querycontact,0.9994927787008389
+"""Call the police"" এর definition কী?",qa_definition,qa_definition,0.9974837008438378
+বান্ধবী এর number কী?,email_querycontact,email_querycontact,0.9654903593442485
+এখন Paris এ humidity কত?,weather_query,datetime_query,0.7649645243347337
+পাড়ার গ্রুপে ঘুম থেকে উঠেছি বলে email করো,email_sendemail,email_sendemail,0.9742837035695286
+প্লিজ Earth এর তাপমাত্রা কত,qa_factoid,qa_factoid,0.7245403528272645
+fire service এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.9432597481037787
+দুপুর সাড়ে ১২টায় মিটিং এর alert বসাও,alarm_set,alarm_set,0.5220170428196529
+প্লিজ ৩ power ৬ কত?,qa_maths,qa_maths,0.96791115278381
+প্লিজ ৪৬৮ কে ১৬ দিয়ে divide করলে ভাগশেষ কত?,qa_maths,qa_maths,0.9883512492367634
+hospital এর এর contact info দেখাও,email_querycontact,email_querycontact,0.9692823042636192
+Beijing তে এখন সময় কত,datetime_query,datetime_query,0.9905605171047096
+কুমিল্লা এর বিদ্যুৎ সংকট সংবাদ show করো,news_query,news_query,0.6414796712666472
+প্লিজ মাস্কাট এ এখন কি day চলছে?,datetime_query,datetime_query,0.8250305241588506
+একটু ৫ আর ১১ এর LCM বের করো,qa_maths,qa_maths,0.8396114913558248
+৬৬৩ কে ৪৫ দিয়ে multiply করো,qa_maths,qa_maths,0.9433565276431198
+সকাল ১১:35 এ reminder সেট করে দাও,calendar_set,calendar_set,0.9726291477528912
+প্লিজ Dhaka আর টরন্টো এর মধ্যে সময়ের তফাত কত ঘণ্টা?,datetime_query,datetime_query,0.4132907873329141
+please আজ বাইরে যাওয়া নিরাপদ,weather_query,weather_query,0.845963461474527
+প্লিজ Imran এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.961295295926278
+প্লিজ বৃষ্টির দিনে শোনার মতো গান বাজিয়ে দাও please,play_music,play_music,0.9129429340846114
+please রাঙ্গামাটি এর আজ আবহাওয়ার পূর্বাভাস দাও,weather_query,weather_query,0.8865504765680605
+রাশেদ কে meeting reminder নিয়ে মেইল লেখো,email_sendemail,calendar_set,0.8244128061306383
+"email এ Rony কে ঠিক আছে, দেখা হবে send করো",email_sendemail,email_sendemail,0.9920124422269617
+আগামী সপ্তাহে Teknaf এ তাপমাত্রা কত,weather_query,weather_query,0.9700353722926959
+please Delhi এর tomorrow morning আবহাওয়ার পূর্বাভাস শোনাও,weather_query,weather_query,0.9660783840592007
+বান্ধবী কে happy anniversary email করো,email_sendemail,email_sendemail,0.8699612027883765
+Anupam Roy এর শান্ত গান শোনাও please,play_music,play_music,0.8976614007117216
+please আজ রাতে রাত ১২টা ১৫ মিনিটে vaccine appointment এর alarm লাগাও,alarm_set,alarm_set,0.8076253099691193
+প্লিজ email এ ফ্যামিলি গ্রুপে photo পাঠাও,email_sendemail,email_sendemail,0.9816239000967409
+pharmacy এর কাছে এই কথাটা email এ লিখে পাঠাও শুভ সকাল,email_sendemail,email_sendemail,0.9211438083152773
+Sufi Nights playlist বাজাও,play_music,play_music,0.984124195590309
+Los Angeles তে next week বাইক চালানো ঠিক হবে?,weather_query,weather_query,0.9269028471217279
+Tanvir এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.9884882743399193
+please ৫৭০ টাকার ৪০ percent কত হবে?,qa_maths,qa_maths,0.9801263195063812
+সূর্য এর diameter কত,qa_factoid,qa_factoid,0.5233769138129571
+মামি এর phone number কত?,email_querycontact,email_querycontact,0.989844757115266
+গাজীপুর এর অর্থনীতি সারাংশ show করো,news_query,news_query,0.4362067478148565
+"""আমার টিকিট কোথায়"" meaning কী?",qa_definition,qa_definition,0.9955065571302577
+একটু Tokyo এ tomorrow morning শীত কেমন থাকবে?,weather_query,weather_query,0.8851042391291528
+৬ ঘন্টা পরে reminder দাও,calendar_set,calendar_set,0.9620406018887487
+drone কি নিরাপদ?,qa_factoid,qa_factoid,0.8548147631594456
+একটু API সম্পর্কে সংক্ষেপে বলো,qa_factoid,qa_factoid,0.3891299796762728
+Android আর 5G এর মধ্যে পার্থক্য কী,qa_definition,qa_definition,0.6277569636848863
+please রান্নার সময় শোনার মতো গান বাজিয়ে দাও,play_music,play_music,0.9363462442186814
+একটু ব্যান্ড Aurthohin এর ভক্তিমূলক গান চালিয়ে দাও,play_music,play_music,0.5798811903482396
+২৭৫ add ৫ কত হবে?,qa_maths,qa_maths,0.9700447288174209
+58 এর square কত?,qa_maths,qa_maths,0.9522894837493346
+রাশেদ কে লোকেশন পাঠালাম email করে দাও,email_sendemail,email_sendemail,0.9952189637925163
+Evening Relax playlist চালাও please,play_music,play_music,0.955266232794498
+Makkah এ এখন কয়টা বাজে বলো,datetime_query,datetime_query,0.9984250335965872
+একটু বাংলাদেশতে দুপুর ১২টা বাজলে Singapore এ কয়টা বাজে?,datetime_convert,datetime_convert,0.7575326475709686
+Somoy TV এর আজ রাতের update দেখাও,news_query,news_query,0.9418974068465512
++8801890320149 এর contact info দেখাও,email_querycontact,email_querycontact,0.9846854399338879
+Mars এর কয়টা চাঁদ আছে?,qa_factoid,qa_factoid,0.8053088070206024
+আমার contact list এ খালা এর নাম্বারটা কী?,email_querycontact,email_querycontact,0.9986773335360298
+please Ami Banglay Gan Gai track টা চালাও,play_music,play_music,0.8888812975084945
+please 491 লিটার কত গ্যালন?,qa_maths,qa_maths,0.5566804059864221
+please Dhakaতে বিকেল ৪টা হলে Moscow এ কয়টা বাজে?,datetime_convert,datetime_query,0.4466338411144921
+electricity সংকট নিয়ে এখন কী ঘটছে?,news_query,news_query,0.5594835524459256
+please Kuwait এর সাথে বাংলাদেশের সময়ের ব্যবধান কত ঘণ্টা?,datetime_convert,datetime_convert,0.42921603956863325
+next week Dubai এ ঝড় হবে কি,weather_query,weather_query,0.8864742697153382
+fire service এর নাম্বার কী?,email_querycontact,email_querycontact,0.8708328784881443
+প্লিজ ৬৩১ কে ২ দিয়ে multiply করো,qa_maths,qa_maths,0.9117714324337137
+"""বিমানবন্দর কোন দিকে"" এর meaning কী?",qa_definition,qa_definition,0.9358815017853156
+আমাকে ৪ ঘণ্টা later vaccine appointment এর রিমাইন্ডার set করো,calendar_set,calendar_set,0.9935668213867258
+please ২০১৫ এর গান চালিয়ে দাও,play_music,play_music,0.9640073547569082
+প্লিজ James এর গান ছাড়ো,play_music,play_music,0.987496786614166
+email এ বন্ধুদের গ্রুপে screenshot করো,email_sendemail,email_sendemail,0.9600367001376592
+please 352 subtract 22 কত?,qa_maths,qa_maths,0.9234482125668296
+"please ""আমার একটা ঘর দরকার"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9837562798545526
+contact list এ Rony এর নাম্বার খুঁজে বলো,email_querycontact,email_querycontact,0.9993064719376606
+Runa Laila এর গানগুলো ছাড়ো please,play_music,play_music,0.9902024570156
+একটু রাজশাহী এর football সারাংশ দেখাও,news_query,email_querycontact,0.20124163347453355
+ম্যাডাম কে আজ আসতে পারব না email করে দাও,email_sendemail,email_sendemail,0.950869686580958
+প্লিজ যুগান্তর এর এই সপ্তাহের headlines বলো,news_query,news_query,0.9545110307151752
+আমাকে today রাত ৯:20 এ cricket practice এর alarm set করো,alarm_set,alarm_set,0.8021054722763085
+বাংলা ট্রিবিউন এর আজ রাতের শিরোনাম show করো,news_query,news_query,0.9797441961436806
+please 12 ঘন্টা পর ক্লায়েন্ট কল এর কথা মনে করাও,calendar_set,calendar_set,0.7826061116301423
+please পাড়ার গ্রুপে খাবার রেডি বলে email পাঠাও,email_sendemail,email_sendemail,0.9881945967710458
+education নিয়ে এখন কী ঘটছে?,news_query,news_query,0.49694064098658336
+Artcell এর motivational গান চালিয়ে দাও,play_music,play_music,0.7584186410458851
+বাংলাদেশ cricket দল এর লেটেস্ট খবর,news_query,news_query,0.7950793907173153
+একটু batch group এ ঘুম থেকে উঠেছি বলে email করো,email_sendemail,email_sendemail,0.9649513622144839
+প্লিজ আজ দুপুরে Berlin এ বজ্রপাতের সম্ভাবনা আছে?,weather_query,weather_query,0.9078687754619444
+প্লিজ 120 টাকার 8 percent কত হবে?,qa_maths,qa_maths,0.9322682118670931
+please পৃথিবী এর কয়টা চাঁদ আছে?,qa_factoid,qa_factoid,0.7445911632862495
+"please ""আমাকে সাহায্য করুন"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9883315229752943
+নারায়ণগঞ্জ এর প্রযুক্তি আপডেট read করো,news_query,news_query,0.9013737779253085
+একটু ইনকিলাব এর এই সপ্তাহের headlines শোনাও,news_query,news_query,0.9612490780930768
+Finland এর সবচেয়ে বড় শহর কোনটি?,qa_factoid,qa_factoid,0.533816983803949
+12 min পরে অ্যালার্ম রাখো,alarm_set,alarm_set,0.8304432872668376
+"""একটা টেবিল বুক করতে চাই"" এই sentence টা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9767477676934121
+আগামী সপ্তাহে Jessore এ শীত কেমন থাকবে?,weather_query,weather_query,0.9760550022457634
+"""Congratulations"" মানে কী?",qa_definition,qa_definition,0.9886340128047783
+please Manila এ এখন সকাল নাকি রাত?,datetime_query,datetime_query,0.6334343936735963
+নিশাত কে email করো,email_sendemail,email_sendemail,0.9981048956313134
+চাচি এর phone number কত?,email_querycontact,email_querycontact,0.9779875111157269
+একটু email এ অফিস গ্রুপে slides দাও,email_sendemail,email_sendemail,0.9832312708969067
+আগামী সপ্তাহে raincoat নিতে হবে?,weather_query,weather_query,0.9979058394387044
+একটু ২৩ কি prime?,qa_maths,qa_maths,0.5198871354600273
+প্লিজ এই সপ্তাহের খেলাধুলা headlines read করো,news_query,news_query,0.9790743291714241
+please বড় ভাই এর এর ফোন নাম্বার বলো,email_querycontact,email_querycontact,0.9792537248124225
+প্লিজ আজ দুপুরে raincoat নিতে হবে?,weather_query,weather_query,0.9924081703316773
+একটু দিনাজপুর এ আজ raincoat নিতে হবে,weather_query,weather_query,0.9265418320258777
+২৪৭ kg কত পাউন্ড?,qa_maths,qa_maths,0.9099378858514207
+please Uranus এর ব্যাস কত?,qa_factoid,qa_factoid,0.8791287148608619
+একটু VPN এর পূর্ণরূপ কী,qa_definition,qa_factoid,0.6042764659060711
+Uber এর অসুবিধা কী?,qa_factoid,qa_factoid,0.9553721585912154
+please hospital কে ticket email এ share করো,email_sendemail,email_sendemail,0.9578030437908835
+Shafin এর নাম্বার কী?,email_querycontact,email_querycontact,0.985326536557857
+please Europe এর সাম্প্রতিক সংবাদ দেখাও,news_query,news_query,0.9493074526259456
+Dubai এ আজ সকালে আর্দ্রতা কত,weather_query,weather_query,0.8571254499571147
+"please ""I am allergic to peanuts"" মানে কী?",qa_definition,qa_definition,0.9878145009166026
+please Juventus এর পরের ম্যাচ কবে,news_query,qa_factoid,0.30397236335377487
+Japanese ভাষা বলতে কী বোঝায়?,qa_definition,qa_definition,0.9611180082494181
+"একটু ""আমাকে সাহায্য করুন"" sentence এর মানে কী?",qa_definition,qa_definition,0.9954308828900835
+please Gazipur এ আজ দুপুরে picnic করা যাবে?,weather_query,weather_query,0.7284542512801294
+এখন Jakarta এ weather কেমন?,weather_query,weather_query,0.9970101682260032
+please রেডিও কে আবিষ্কার করেছেন?,qa_factoid,qa_factoid,0.7089713972819632
+একটু 5G আর ChatGPT এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.8555021708443514
+Polish ভাষার মানে কী? please,qa_definition,qa_definition,0.9853609754941576
+৯২ inch কত cm?,qa_maths,qa_maths,0.8510397537828873
+চট্টগ্রাম এর প্রযুক্তি সংবাদ read করো,news_query,news_query,0.925031522530051
+১১১ কি even?,qa_maths,qa_maths,0.42450462879647294
+"please ""আমি রাস্তা হারিয়ে ফেলেছি"" বাক্যটার মানে কী?",qa_definition,qa_definition,0.9770687119370407
+7:15 AM এ alarm দাও,alarm_set,alarm_set,0.8819893903057421
+একটু Channel 24 এ পরিবেশ নিয়ে কী খবর আছে?,news_query,news_query,0.6078518786177934
+please Venus সূর্য থেকে কত দূরে?,qa_factoid,qa_factoid,0.9080835031412314
+landlord এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.966584097919476
+please every শনিবার দুপুর ১২টা ৫০ মিনিটে gym এর alarm set করো,alarm_set,alarm_set,0.9773295748122361
+৩৬৩ কে ১১ দিয়ে divide করো,qa_maths,qa_maths,0.9858498171929437
+একটু কীভাবে English speaking উন্নত করব,qa_factoid,qa_factoid,0.9526163768823256
+সকাল 11:10 এ yoga এর কথা মনে করিয়ে দাও,calendar_set,calendar_set,0.9747760467061178
+শ্বশুর কে টাকা পাঠিয়েছি email করো,email_sendemail,email_sendemail,0.9913618610489641
+Teknaf এর this evening আবহাওয়ার পূর্বাভাস শোনাও,weather_query,weather_query,0.9505524621218917
+please মামা এর এর contact info দেখাও,email_querycontact,email_querycontact,0.9897428676271218
+পাকিস্তান এর আন্তর্জাতিক সারাংশ show করো,news_query,news_query,0.3784010927105248
+প্লিজ 2020 এর গান play করো প্লিজ,play_music,play_music,0.9820211258355817
+please মাস্কাট এ এখন কয়টা বাজে বলো,datetime_query,datetime_query,0.9920279310640229
+একটু Chile এর মুদ্রা কী?,qa_factoid,qa_factoid,0.9395602988353003
+প্লিজ earthquake বলতে কী বোঝায়?,qa_definition,qa_definition,0.6075983273928695
+৪ এর factorial কত?,qa_maths,qa_maths,0.9071975576963422
+বাংলাদেশতে দুপুর ১২টা বাজলে Athens এ কয়টা বাজে?,datetime_convert,datetime_convert,0.8447458367576947
+212 add 33 কত হবে?,qa_maths,qa_maths,0.8082835135759614
+প্লিজ হাউজ ওনার এর কাছে এই কথাটা email এ লিখে পাঠাও ধন্যবাদ,email_sendemail,email_sendemail,0.9752527175893041
+Turkey এ এখন কয়টা বাজে বলো,datetime_query,datetime_query,0.9958533519675387
+Retro Mix প্লেলিস্ট চালিয়ে দাও,play_music,play_music,0.9628615707468311
+একটু 11 power 4 কত?,qa_maths,qa_maths,0.7308886345165804
+insulin সম্পর্কে বিস্তারিত বলো,qa_factoid,qa_factoid,0.7286078907778315
+Android আর laptop এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.7334135432713906
+শাশুড়ি এর contact info দেখাও,email_querycontact,email_querycontact,0.9917303931302647
+please tomorrow morning Mymensingh তে শীত কেমন থাকবে,weather_query,weather_query,0.7180769564422332
+২০ মিনিট পর alarm সেট করে দাও,alarm_set,alarm_set,0.9984438561907375
+please ঢাকাতে সকাল ১০টা হলে বার্লিন এ কয়টা বাজে?,datetime_convert,datetime_convert,0.4964179635623807
+please Mehedi এর কাছে এই কথাটা মেইল এ লিখে পাঠাও assignment জমা দিয়েছি,email_sendemail,email_sendemail,0.7386227040368184
+প্লিজ Mexico এর সাথে বাংলাদেশের সময়ের ব্যবধান কত ঘণ্টা?,datetime_convert,datetime_convert,0.3980718316990546
+12:00 AM এ yoga এর অ্যালার্ম set করো,alarm_set,alarm_set,0.8977468165605179
+24 আর 12 এর HCF কত,qa_maths,qa_maths,0.8677891079552091
+একটু last missed call এর contact info দেখাও,email_querycontact,email_querycontact,0.9696535637167376
+Hotel California song টা শোনাও please,play_music,play_music,0.7601631080241174
+hospital এর নাম্বার কী?,email_querycontact,email_querycontact,0.8422968366088431
+Top 50 playlist বাজাও,play_music,play_music,0.9842177495883073
+please বিজয় দিবস কে প্রথম জিতেছিল?,qa_factoid,qa_factoid,0.3104854993665096
+একটু HR কে email করো,email_sendemail,email_sendemail,0.9970264388426794
+একটু Tokyo এর পরশু আবহাওয়ার পূর্বাভাস দাও,weather_query,weather_query,0.9427958185689727
+3 hr পরে এলার্ম set করো,alarm_set,alarm_set,0.9345724190414437
+ভাবি এর কাছে এই কথাটা email এ লিখে পাঠাও eid mubarak,email_sendemail,email_sendemail,0.959082650138663
+একটু দৈনিক সংগ্রাম এর আজ সকালের news দাও,news_query,news_query,0.8763042665816176
+একটু tomorrow morning Teknaf এ গরম কেমন পড়বে?,weather_query,weather_query,0.9454111052973269
+৬০১ minus ৮৬ কত?,qa_maths,qa_maths,0.9486406146351406
+প্লিজ Mumbai এ এখন কয়টা বাজে দেখাও,datetime_query,datetime_query,0.8264297519313953
+প্লিজ bank এর ফোন নাম্বার কত?,email_querycontact,email_querycontact,0.9845586169221148
+Dubai এ পরশু আর্দ্রতা কত?,weather_query,weather_query,0.8591650343612753
+"""এটা অনেক দামি"" এর মানে কী? please",qa_definition,qa_definition,0.995728024189145
+"""স্টেশন কতদূর"" এর meaning কী? প্লিজ",qa_definition,qa_definition,0.9580416198512206
+Mumbai এর আগামী সপ্তাহে আবহাওয়ার পূর্বাভাস শোনাও,weather_query,weather_query,0.9887586200273674
+"""দয়া করে আস্তে বলুন"" এর meaning কী?",qa_definition,qa_definition,0.9918369064013228
+please পেনিসিলিন কে আবিষ্কার করেছেন,qa_factoid,qa_factoid,0.6704977525496352
+৪ ঘন্টা পর cricket practice এর reminder সেট করে দাও,calendar_set,calendar_set,0.9290869743298602
+cricket team এ জরুরি কথা আছে বলে email করো,email_sendemail,email_sendemail,0.9131493862665698
+Dhakaতে সন্ধ্যা ৭টা হলে Los Angeles এ কয়টা বাজে?,datetime_convert,datetime_convert,0.8176717225630539
+please জাপান এর গতকালের update show করো,news_query,news_query,0.8325060652548624
+please email এ hall এর গ্রুপে resume করো,email_sendemail,email_sendemail,0.9759068501485569
+drone এর অসুবিধা কী?,qa_factoid,qa_factoid,0.962657898265224
+please বাংলাদেশতে সকাল ১০টা বাজলে Oslo এ কয়টা বাজে?,datetime_convert,datetime_convert,0.7977345403778369
+Artcell এর music বাজিয়ে দাও,play_music,play_music,0.8678880139195161
+আরিফ এর কাছে এই কথাটা email এ লিখে পাঠাও ধন্যবাদ,email_sendemail,email_sendemail,0.9822550082846352
+তুরস্ক এ এখন কয়টা বাজে show করো,datetime_query,datetime_query,0.9387353929927471
+tsunami সম্পর্কে সংক্ষেপে বলো,qa_factoid,qa_definition,0.20814790051311644
+349 add 59 কত হবে?,qa_maths,qa_maths,0.7278773514370446
+laptop আর Android এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.7334135432713906
+please party music play করো,play_music,play_music,0.9594572943689559
+family group এ কালকের class cancel বলে email করো,email_sendemail,email_sendemail,0.9847655692682297
+একটু Neptune এর তাপমাত্রা কত?,qa_factoid,qa_factoid,0.6864373612207683
+প্লিজ Evening Relax প্লেলিস্ট ছাড়ো please,play_music,play_music,0.9581816487902679
+Brazil এর টাইম জোন কী?,datetime_query,qa_factoid,0.3605232862101077
+please আজ রাতে দুপুর 1:00 এ ইন্টারনেট বিল এর কথা মনে করিয়ে দাও,calendar_set,calendar_set,0.9240138396723442
+প্লিজ পাকিস্তান এর football headlines শোনাও,news_query,news_query,0.7292091378981113
+hospital কে proposal নিয়ে email পাঠাও,email_sendemail,email_sendemail,0.983718753468302
+Reuters এর গতকালের শিরোনাম শোনাও,news_query,news_query,0.7474931418518396
+landlord কে meeting ১০টায় email করো,email_sendemail,email_sendemail,0.8230435082280684
+প্লিজ খালা কে leave application নিয়ে email পাঠাও,email_sendemail,email_sendemail,0.9615289916464371
+৫০ কি prime number?,qa_maths,qa_maths,0.9124385941883157
+Lamia এর নাম্বার কী?,email_querycontact,email_querycontact,0.9835227530510167
+প্লিজ Sydney তে আজ বিকেলে rain হওয়ার chance আছে,weather_query,weather_query,0.9679028119870443
+একটু ৮০ এর দশকের গান চালিয়ে দাও please,play_music,play_music,0.9082486611297089
+Swedish ভাষা বলতে কী বোঝায়? please,qa_definition,qa_definition,0.9389583162446147
+একটু মিশর এর সাথে বাংলাদেশের সময়ের ব্যবধান কত hour?,datetime_convert,datetime_query,0.3161994670169825
+please আজ দুপুরে ফসল কাটা যাবে,weather_query,weather_query,0.4936544876175795
+একটু email এ সুমাইয়া কে শুভ সকাল লিখে পাঠাও,email_sendemail,email_sendemail,0.9908237910931093
+একটু Sylhet এ tomorrow morning ছাদে কাপড় শুকানো যাবে,weather_query,weather_query,0.8466383956696547
+alert রাখো every মঙ্গলবার 9:15 AM এ বোনের পরীক্ষা এর জন্য,alarm_set,calendar_set,0.32778963683149637
+Pink Floyd এর music শোনাও,play_music,play_music,0.941356563266508
+Mymensingh এ আগামী সপ্তাহে শীত কেমন থাকবে?,weather_query,weather_query,0.9582942008230118
+একটু প্রথম আলো এ জলবায়ু নিয়ে কী news আছে?,news_query,news_query,0.948053037124353
+"""এটার দাম কত পড়বে"" sentence এর মানে কী?",qa_definition,qa_definition,0.9946903282304841
+"একটু ""What time does it open"" এর definition কী?",qa_definition,qa_definition,0.9955081160783089
+Coldplay এর রোমান্টিক গান শোনাও,play_music,play_music,0.9507996314337579
+please শ্রীলঙ্কা এ এখন কয়টা বাজে জানাও,datetime_query,datetime_query,0.8978562781616809
+please ১৮ মিনিট later ভাইয়ার flight এর কথা মনে করাও,calendar_set,calendar_set,0.7020371171191291
+২ ঘন্টা এর timer দাও,alarm_set,alarm_set,0.5456070214934035
+৩৩ আর ১৩ এর HCF বলো,qa_maths,qa_maths,0.9068710548090666
+please tomorrow morning picnic করা যাবে?,weather_query,weather_query,0.745104725574506
+একটু Reuters এর breaking headlines দেখাও,news_query,news_query,0.9486238349765221
+please 83 কে 14 দিয়ে ভাগ করলে ভাগশেষ কত?,qa_maths,qa_maths,0.8622238047859727
+please email এ খালা কে বাসায় ফিরেছি forward করো,email_sendemail,email_sendemail,0.9815185451591832
+please Filipino ভাষা কী?,qa_definition,qa_definition,0.8762911631203748
+একটু Brazil এর লেটেস্ট খবর,news_query,news_query,0.3863399186210902
+please hall এর গ্রুপে আজ আসতে পারব না বলে email পাঠাও,email_sendemail,email_sendemail,0.98948463318043
+একটু Venus সূর্য থেকে কত দূরে,qa_factoid,qa_factoid,0.9084556071039864
+প্লিজ Dhaka আর Amsterdam এর মধ্যে time difference কত?,datetime_convert,datetime_convert,0.9348684607827505
+Believer গানটা চালিয়ে দাও,play_music,play_music,0.9393568928553262
+IMF এর মানে কী?,qa_definition,qa_definition,0.9985717522962605
+Sylhet এর আজ সকালে আবহাওয়ার পূর্বাভাস শোনাও,weather_query,weather_query,0.980199510559744
+বাংলাদেশতে বিকেল ৪টা বাজলে Hanoi এ কয়টা বাজে?,datetime_convert,datetime_convert,0.8126809366005646
+বাংলাদেশতে বিকেল ৪টা হলে Argentina এ কয়টা বাজে?,datetime_convert,datetime_convert,0.425852517590523
+প্লিজ Bangkok তে এখন কি দিন চলছে?,datetime_query,datetime_query,0.8647072171003743
+please 55 এর বর্গ কত?,qa_maths,qa_maths,0.6086310830319424
+প্লিজ Ed Sheeran এর ভক্তিমূলক গান চালাও,play_music,play_music,0.9170254896368373
+প্লিজ ভাবি এর number কী?,email_querycontact,email_querycontact,0.9379230640211669
+Dinajpur এ আজ ফসল কাটা যাবে?,weather_query,weather_query,0.7937766887363314
+please কাল রাতে Bogura এ rain হওয়ার chance আছে?,weather_query,weather_query,0.9742843830669894
+bandwidth এর সংজ্ঞা কী?,qa_definition,qa_definition,0.9985872624731326
+please ৭২৬ কে ১৫ দিয়ে ভাগ করলে ভাগশেষ কত?,qa_maths,qa_maths,0.9768640893189922
+একটু Portugal এর last match এর ফলাফল,news_query,qa_factoid,0.2996527790853654
+Mymensingh এ এখন বজ্রপাতের সম্ভাবনা আছে?,weather_query,weather_query,0.7968640996955366
+প্লিজ কাল Jessore এ আর্দ্রতা কত?,weather_query,weather_query,0.7438652640035157
+একটু 56 কে 7 দিয়ে divide করো,qa_maths,qa_maths,0.8090174099125617
+প্লিজ Moscow এর সাথে বাংলাদেশের সময়ের ব্যবধান কত ঘণ্টা?,datetime_convert,datetime_convert,0.48502408461163765
+একটু আমার সোনার বাংলা গানটি শোনাও please,play_music,play_music,0.9109716999893657
+প্লিজ Mymensingh এ আজ ফসল কাটা যাবে?,weather_query,weather_query,0.6793359506491358
+Lamia কে email পাঠাও,email_sendemail,email_sendemail,0.9986507477525773
+729 কে 13 দিয়ে ভাগ করলে remainder কত?,qa_maths,qa_maths,0.9071804477236786
+একটু প্রথম আলো এর এই মুহূর্তের headlines পড়ে শোনাও,news_query,news_query,0.9952988712431855
+"একটু ৬৬, ৫৬, ৩৩, ৭২, ৭৮ এর median বলো",qa_maths,qa_maths,0.80642679414401
+প্লিজ আগামীকাল দুপুর সাড়ে 2টায় lab report এর কথা মনে করিয়ে দাও,calendar_set,calendar_set,0.9611448628864899
+please Shafin এর ফোন নাম্বার বলো,email_querycontact,email_querycontact,0.9915451902596448
+প্লিজ ঢাকাতে বিকেল ৪টা বাজলে Manila এ কয়টা বাজে?,datetime_convert,datetime_convert,0.8873259373257837
+please হাউজ ওনার এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.9668432150167802
+please আজকের আইন-আদালত খবর বলো,news_query,news_query,0.9751944395547045
+প্লিজ ১৪ আর ২২ এর GCD কত,qa_maths,qa_maths,0.9500914245401278
+সুমাইয়া কে রিপোর্ট email এ send করো,email_sendemail,email_sendemail,0.9949866950697253
+জাপান এর রাজনীতি headlines দেখাও,news_query,news_query,0.928236558831851
+last 1 hour এর বন্যা news দেখাও,news_query,news_query,0.9478442435031869
+আরিফ কে PDF email এ লিখে পাঠাও,email_sendemail,email_sendemail,0.998651784437531
+একটু antibiotic সম্পর্কে উদাহরণ দাও,qa_definition,qa_definition,0.6736694888242594
+দিনাজপুর এ আজ বিকেলে rain হওয়ার chance আছে?,weather_query,weather_query,0.9860442170785239
+Bayern Munich এর last match এর ফলাফল,news_query,qa_maths,0.1932534921230088
+একটু ঢাকা আর সিঙ্গাপুর এর মধ্যে time difference কত?,datetime_convert,datetime_convert,0.8827277835111212
+Python এর অসুবিধা কী?,qa_factoid,qa_factoid,0.9582860210167818
+please Japanese ভাষার মানে কী?,qa_definition,qa_definition,0.9864754937755125
+প্লিজ রাঙ্গামাটি তে পরশু rain হবে কি?,weather_query,weather_query,0.9035145557061458
+hospital এর কাছে এই কথাটা email এ লিখে পাঠাও লোকেশন পাঠালাম,email_sendemail,email_sendemail,0.9623585938679725
+please বন্ধুদের গ্রুপে কালকের class cancel বলে মেইল পাঠাও,email_sendemail,email_sendemail,0.9283458460956194
+contact list এ office এর boss এর নাম্বার খুঁজে বলো please,email_querycontact,email_querycontact,0.9988682157249249
+"please email এ হাউজ ওনার কে ঠিক আছে, দেখা হবে দাও",email_sendemail,email_sendemail,0.9544526008351698
+৮৮৫৩ টাকার bill এ ১০% tip দিলে মোট কত?,qa_maths,qa_maths,0.8772256239011491
+alarm লাগাও পরশু ভোর 4টা 40 মিনিটে,alarm_set,alarm_set,0.9648401772596485
+01713190045 এই নাম্বারের contact info দেখাও,email_querycontact,email_querycontact,0.9960614380020963
+রাজশাহী এর জলবায়ু summary শোনাও,news_query,play_music,0.254262481965129
+please recession কী?,qa_definition,qa_definition,0.6619104655026793
+প্লিজ democracy বলতে কী বোঝায়?,qa_definition,qa_definition,0.8986240783472076
+একটু email এ রাশেদ কে happy anniversary send করো,email_sendemail,email_sendemail,0.9715255597479701
+3 hour এর countdown সেট করে দাও,alarm_set,alarm_set,0.3379009427805102
+বাংলাদেশতে সকাল ১০টা হলে Kuala Lumpur এ কয়টা বাজে?,datetime_convert,datetime_convert,0.49894121467531194
+ইউক্রেন এর এই মুহূর্তের আপডেট show করো,news_query,news_query,0.9704940702164003
+প্লিজ solar panel কীভাবে কাজ করে?,qa_factoid,qa_factoid,0.9579932183767548
+প্লিজ Jeddah এর টাইম জোন কী?,datetime_query,datetime_query,0.37552484548768655
+অ্যালার্ম রাখো every Thursday সকাল ১০টা ৫০ মিনিটে গাছে পানি এর জন্য,alarm_set,alarm_set,0.8798306398271756
+monsoon বলতে কী বোঝায়,qa_definition,qa_definition,0.8935945741961739
+প্লিজ Evening Relax playlist বাজিয়ে দাও please,play_music,play_music,0.9339652834264
+মেইল এ hospital কে খাবার রেডি message করো,email_sendemail,email_sendemail,0.7204641222076673
+একটু Ek Din Pakhi Ure Jabe গানটি চালিয়ে দাও প্লিজ,play_music,play_music,0.5911470635586126
+শ্বশুর এর phone number বলো প্লিজ,email_querycontact,email_querycontact,0.9673428295341799
+প্রতি Thursday সকাল 6:05 এ ট্রেনের সময় এর রিমাইন্ডার সেট করে দাও,calendar_set,calendar_set,0.9601916879917759
+antibiotic সম্পর্কে দুটো বাক্যে বুঝিয়ে দাও,qa_definition,qa_definition,0.5766406787718741
+আবাহনী এর লেটেস্ট news,news_query,news_query,0.9237920660261908
+please সর্বশেষ ধর্ম news দাও,news_query,news_query,0.9886963345969586
+একটু প্লাম্বার কে slides email এ send করো,email_sendemail,email_sendemail,0.9952717887018212
+Brazil এ এখন কয়টা বাজে জানাও,datetime_query,datetime_query,0.9129589228513649
+contact list এ pharmacy এর নাম্বার খুঁজে বলো,email_querycontact,email_querycontact,0.998562153824475
+"""Please take me to the hotel"" এর মানে কী?",qa_definition,qa_definition,0.9898804322656474
+প্লিজ ৪৭৮ plus ৪৫ কত হবে?,qa_maths,qa_maths,0.9850391583628695
+গাজা এর সর্বশেষ news দাও,news_query,news_query,0.9898054501544616
+প্রতি শুক্রবার বিকেল ৩টা ২০ মিনিটে medicine এর এলার্ম বসাও,alarm_set,alarm_set,0.6702205218663194
+please বাংলা ট্রিবিউন এ আইন-আদালত নিয়ে কী খবর আছে?,news_query,news_query,0.8954457287694486
+Dhaka আর ইস্তাম্বুল এর মধ্যে সময়ের তফাত কত ঘণ্টা?,datetime_query,datetime_query,0.47451035912904144
+আজ সকালে Sylhet এ শীত কেমন থাকবে?,weather_query,weather_query,0.9597077324280419
+"একটু ""Could you help me"" এর মানে কী?",qa_definition,qa_definition,0.9808618874370755
+প্লিজ 2 hr পর পড়াশোনা এর রিমাইন্ডার সেট করে দাও,calendar_set,calendar_set,0.8382327350298993
+please আজ বিকেলে ফসল কাটা যাবে?,weather_query,weather_query,0.6921121659315449
+please খুলনা এ tomorrow morning কুয়াশা পড়বে কি?,weather_query,weather_query,0.704344762668264
+রোম এ এখন কি day চলছে?,datetime_query,datetime_query,0.9488006610915374
+please 81 এর বর্গমূল বের করো,qa_maths,qa_maths,0.6680815187701322
+প্লিজ Chill Hits প্লেলিস্ট play করো,play_music,play_music,0.9934350913779454
+please ঘুমপাড়ানি songs শোনাও,play_music,play_music,0.9455525159593485
+pharmacy এর কাছে এই কথাটা email এ লিখে পাঠাও আজ আসতে পারব না,email_sendemail,email_sendemail,0.9188134404529784
+"একটু ""I am lost"" এর অর্থ কী?",qa_definition,qa_definition,0.9948805630592227
+contact list এ ফুফু এর নাম্বার খুঁজে বলো,email_querycontact,email_querycontact,0.9993708815506314
+please 5601 টাকার bill এ 15% tip দিলে মোট কত?,qa_maths,qa_maths,0.6779785258985954
+৪ ঘণ্টা পর gym এর কথা মনে করাও,calendar_set,calendar_set,0.9441221736341077
+"""How far is the station"" এর মানে কী?",qa_definition,qa_definition,0.9749250132692481
+Karachi এ এখন day না night?,datetime_query,datetime_query,0.8847397022154396
+প্লিজ Pink Floyd এর আমার সোনার বাংলা ছাড়ো please,play_music,play_music,0.8963552055575564
+আমাকে ২৫ মিনিট পর gym এর এলার্ম set করো,alarm_set,alarm_set,0.9813184892422806
+"please ""How much is that"" বাক্যটার মানে কী?",qa_definition,qa_definition,0.9975642406264812
+প্লিজ ঢাকাতে রাত ৯টা বাজলে Oslo এ কয়টা বাজে?,datetime_convert,datetime_convert,0.8434799885112642
+"37, 60, 44, 17, 94 এর average কত",qa_maths,qa_maths,0.9180270368288251
+"প্লিজ ""Could you help me"" বাক্যটার মানে কী?",qa_definition,qa_definition,0.9927335605924992
+please ৩৮৫০ টাকার ৭৫ percent কত হবে?,qa_maths,qa_maths,0.9834397697155026
+"please ""Happy new year"" মানে কী?",qa_definition,qa_definition,0.9801401271582957
+39 আর 35 এর LCM কত,qa_maths,qa_maths,0.8807613636867757
+প্লিজ blockchain বলতে কী বোঝায়?,qa_definition,qa_definition,0.8035822409592961
+please HR এর ফোন নাম্বার বলো,email_querycontact,email_querycontact,0.9933270798654459
+কাজ করার সময় শোনার মতো গান ছাড়ো please,play_music,play_music,0.9875573545739754
+একটু ফাহিম এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.9640829680934894
+একটু পাকিস্তান এর football সারাংশ জানাও,news_query,qa_factoid,0.19718904966447487
+reminder বসাও প্রতি Sunday ভোর 4টা 20 মিনিটে চায়ের বিরতি এর জন্য,calendar_set,calendar_set,0.9482402913121996
+আমার contact list এ security guard এর নাম্বারটা কী? please,email_querycontact,email_querycontact,0.9799600032552724
+প্লিজ contact list এ 109 নম্বরটা কার নামে আছে?,email_querycontact,email_querycontact,0.9777918178556914
+প্লিজ ফ্যামিলি গ্রুপে ঘুম থেকে উঠেছি বলে email করো,email_sendemail,email_sendemail,0.9513653701011641
+please Jessore এর এই weekend এ আবহাওয়ার পূর্বাভাস শোনাও,weather_query,weather_query,0.9557324867984541
+প্লিজ 385 ringgit টাকা এ convert করো,qa_currency,qa_currency,0.8525135723398835
+আজ সেহরির time কখন?,datetime_query,datetime_query,0.9646008929913586
+please ৪৫০০ টাকার ১২% কত হবে?,qa_maths,qa_maths,0.9725180102925112
+please ৭৫ এর বর্গ কত?,qa_maths,qa_maths,0.7992937439454083
+"""Good evening"" বলতে কী বোঝায়?",qa_definition,qa_definition,0.9639826997297838
+email এ অফিস গ্রুপে resume দাও,email_sendemail,email_sendemail,0.9768016721481275
+কাজ করার সময় শোনার মতো song শোনাও,play_music,play_music,0.9615032201557547
+"""See you later"" এর অর্থ কী?",qa_definition,qa_definition,0.9864467172487645
+একটু ১২ add ৪১ কত হবে?,qa_maths,qa_maths,0.8827892288867021
+জাহিদ কে email পাঠাও,email_sendemail,email_sendemail,0.9986000911826942
+please ৩৫ আর ২৭ এর গ.সা.গু কত,qa_maths,qa_maths,0.9394501117523737
+Athens এ এখন টাইম কত?,datetime_query,datetime_query,0.9849452212670307
+বাংলাদেশ আর Cairo এর মধ্যে সময়ের পার্থক্য কত?,datetime_convert,datetime_convert,0.8019742087911608
+প্লিজ Mumbai তে এখন ফসল কাটা যাবে?,weather_query,weather_query,0.6296968732726675
+please 206 এর বর্গমূল বের করো,qa_maths,qa_maths,0.7473312462011121
+Berlin তে next week কুয়াশা পড়বে কি?,weather_query,weather_query,0.8576869641048624
+কীভাবে song শিখব?,qa_factoid,qa_factoid,0.967696746038361
+contact list এ 01435130825 নম্বরটা কার নামে আছে?,email_querycontact,email_querycontact,0.9695250600196201
+"""জন্মদিনের শুভেচ্ছা"" meaning কী? প্লিজ",qa_definition,qa_definition,0.9427369574930394
+একটু টরন্টো এ local time কত?,datetime_query,datetime_query,0.9549241718906099
+ফুফু এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.9869559629117877
+রিমাইন্ডার set করো এই শুক্রবার সন্ধ্যা 6:15 এ,calendar_set,calendar_set,0.9214899837739713
+Iraq এর মুদ্রা কী?,qa_factoid,qa_factoid,0.6544535977973904
+আগামীকাল বিকেল 4:50 এ গ্যাসের চুলা বন্ধ এর reminder রাখো,calendar_set,calendar_set,0.7965597921041185
+2 মিনিট পর reminder বসাও,calendar_set,calendar_set,0.9835414790812842
+একটু Tasnim কে resume নিয়ে মেইল লেখো,email_sendemail,email_sendemail,0.6463635494832967
+Rony কে PDF email এ পাঠাও,email_sendemail,email_sendemail,0.995705978254222
+আমার contact list এ Rony এর নাম্বারটা কী?,email_querycontact,email_querycontact,0.9983773491196369
+"""আমাকে সাহায্য করুন"" sentence এর মানে কী?",qa_definition,qa_definition,0.9974747761608168
+প্লিজ 53 এর cube root বের করো,qa_maths,qa_maths,0.8617390337585065
+খালা এর contact number বের করে দাও,email_querycontact,email_querycontact,0.9979248593089785
+alert রাখো every বৃহস্পতিবার দুপুর 12টা 5 মিনিটে বাসের টিকিট এর জন্য,alarm_set,calendar_set,0.5909364609204822
+রিক্সাওয়ালা এর contact number বের করে দাও,email_querycontact,email_querycontact,0.9938627934257134
+please Tahsan এর Ami Banglay Gan Gai চালিয়ে দাও,play_music,play_music,0.9550045366406236
+landlord কে PDF email এ লিখে পাঠাও,email_sendemail,email_sendemail,0.9942983537015988
+please Makkah তে এখন time কত?,datetime_query,datetime_query,0.9980192734331312
+প্লিজ 78 পাউন্ড টাকা এ convert করো,qa_currency,qa_currency,0.5207765230959249
+একটু electric car আর ChatGPT এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.6936864849619356
+please আজ Asr এর সময় কয়টায়?,datetime_query,datetime_query,0.9534007188907138
+প্লিজ আগামী সপ্তাহে Toronto এ rain হওয়ার chance আছে?,weather_query,weather_query,0.9976346855578293
+please YouTube আর online banking এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.8060004531809599
+reminder লাগাও প্রতি Friday দুপুর 1টা 40 মিনিটে presentation practice এর জন্য,calendar_set,calendar_set,0.9284305302974948
+please ঢাকাতে সন্ধ্যা ৭টা হলে রোম এ কয়টা বাজে?,datetime_convert,datetime_convert,0.7420609892288111
+প্লিজ গাজীপুর এর breaking শিরোনাম বলো,news_query,news_query,0.8329292900861249
+প্লিজ 28 কি odd?,qa_maths,qa_factoid,0.33164117598077364
+প্লিজ ভাবি কে photo email এ পাঠাও,email_sendemail,email_sendemail,0.9910684753645123
+প্রতি রবিবার রাত ৯টা ৩৫ মিনিটে ডাক্তারের serial এর wake up call সেট করে দাও,alarm_set,alarm_set,0.5017215986845744
+প্লিজ Mohammed Rafi এর Chaiyya Chaiyya শোনাও প্লিজ,play_music,play_music,0.555163043618654
+please সর্বশেষ খেলাধুলা শিরোনাম দেখাও,news_query,news_query,0.9248447243412856
+please Channel 24 এর সাম্প্রতিক আপডেট দাও,news_query,news_query,0.9443861458134394
+"২, ৭৮, ৬৫, ৪৫, ৩ এর median বলো",qa_maths,qa_maths,0.9129336840718997
+একটু Colombo এ এখন সময় কত?,datetime_query,datetime_query,0.978135187586187
+প্লিজ Sydney তে আজ সকালে raincoat নিতে হবে?,weather_query,weather_query,0.9903745841787512
+একটু Paris এ আজ temperature কত থাকবে?,weather_query,weather_query,0.959583915390529
+please Brazil এ এখন day না night?,datetime_query,datetime_query,0.7040984700657646
+সকাল 7টায় alert set করো,alarm_set,alarm_set,0.9544141465630887
+please HR এর ফোন নাম্বার কত?,email_querycontact,email_querycontact,0.9930935626042915
+please আজ সেহরির time কখন?,datetime_query,datetime_query,0.9219824139709931
+please Blinding Lights গানটি বাজাও please,play_music,play_music,0.833189085910134
+প্লিজ 184 minus 90 কত?,qa_maths,qa_maths,0.7226008958946457
+please hospital এর contact info দেখাও,email_querycontact,email_querycontact,0.9231305591213392
+প্লিজ Uranus এর কয়টা চাঁদ আছে,qa_factoid,qa_factoid,0.8065442670543268
+BBC বাংলা এর গত ৩ ঘণ্টার আপডেট read করো,news_query,news_query,0.9439574829997082
+নিশাত এর phone number কত?,email_querycontact,email_querycontact,0.9784321352142994
+প্লিজ ময়মনসিংহ এর cricket আপডেট read করো,news_query,news_query,0.8508326142188324
+আমাকে দুপুর ২টা ৪০ মিনিটে ইন্টারনেট বিল এর কথা remind করে দাও,calendar_set,calendar_set,0.9640259316355668
+প্লিজ আমার contact list এ রাফি এর number টা কী?,email_querycontact,email_querycontact,0.99668099946506
+please ঢাকা আর দোহা এর মধ্যে সময়ের তফাত কত ঘণ্টা?,datetime_query,datetime_query,0.4412957470578059
+আমার contact list এ বড় ভাই এর নাম্বারটা কী?,email_querycontact,email_querycontact,0.9978467288694758
+please পাকিস্তান এর এই সপ্তাহের খবর শোনাও,news_query,news_query,0.9127528425343342
+"১৮, ৭২, ৬৮, ৮২, ৮৪, ৭৮ এর median বলো",qa_maths,qa_maths,0.8658503298786754
+একটু inflation বলতে কী বোঝায়?,qa_definition,qa_definition,0.678182565012326
+Nusrat এর নাম্বার কী?,email_querycontact,email_querycontact,0.9407747530182317
+প্লিজ monsoon সম্পর্কে সংক্ষেপে বলো,qa_factoid,qa_factoid,0.20213109414818684
+Tanvir এর ফোন নাম্বার কত? please,email_querycontact,email_querycontact,0.9857651622015631
+7 min পর অ্যালার্ম set করো,alarm_set,alarm_set,0.9083844246422232
+একটু cricket নিয়ে আজ কী ঘটছে?,news_query,news_query,0.7029309830871538
+bank এর ফোন নাম্বার বলো,email_querycontact,email_querycontact,0.9942469152861108
+একটু উদাস গানগুলো play দাও,play_music,play_music,0.9882510510038156
+৭০ পাউন্ড টাকা এ convert করো,qa_currency,qa_currency,0.6247565501823139
+জাহিদ কে feedback নিয়ে মেইল লেখো,email_sendemail,email_sendemail,0.8134308757214926
+ভ্রমণের সময় শোনার মতো গান play দাও,play_music,play_music,0.9859834216536243
+১০২৫ minus ৩৪ কত?,qa_maths,qa_maths,0.9820843180706934
+রাত ১২টা ৪০ মিনিটে reminder বসাও,calendar_set,calendar_set,0.9643029983241549
+please Toronto এর tomorrow morning আবহাওয়ার পূর্বাভাস দাও,weather_query,weather_query,0.9735967906824269
+please Runa Laila এর Ek Din Pakhi Ure Jabe শোনাও,play_music,play_music,0.3390595690810739
+একটু গত ৩ ঘণ্টার বিনোদন news পড়ে শোনাও,news_query,news_query,0.946623175683095
+প্লিজ last missed call এর contact info দেখাও,email_querycontact,email_querycontact,0.9846455953374489
+next week umbrella লাগবে?,weather_query,weather_query,0.9809823664789676
+2 min পরে alarm লাগাও,alarm_set,alarm_set,0.8550269779033697
+please Workout playlist চালিয়ে দাও please,play_music,play_music,0.9682364919019245
+একটু email এ study group এ link দাও,email_sendemail,email_sendemail,0.9530450786320301
+রাফি এর contact detail খুঁজে দাও please,email_querycontact,email_querycontact,0.974040618416779
+please আজ মাগরিবের সময় কয়টায়?,datetime_query,datetime_query,0.8751460721227845
+মাস্কাট এ এখন morning নাকি night?,datetime_query,datetime_query,0.6097256127401228
+Maroon 5 এর গান চালিয়ে দাও প্লিজ,play_music,play_music,0.9599060539000633
+contact list এ চাচি এর number খুঁজে বলো please,email_querycontact,email_querycontact,0.9970544163199296
+নেপালি language বলতে কী বোঝায়?,qa_definition,qa_definition,0.9563580163995228
+please আজ সকালে Kuala Lumpur এ ঝড় হবে কি?,weather_query,weather_query,0.9381756143455628
+please UK এর স্বাস্থ্য খবর শোনাও,news_query,news_query,0.7596894868734368
+বাড়িওয়ালা কে email করো,email_sendemail,email_sendemail,0.9902440350503273
+প্লিজ Gazipur তে কাল নৌকায় ঘোরা যাবে,weather_query,weather_query,0.6179065180585287
+"""আমাকে সাহায্য করুন"" এর definition কী?",qa_definition,qa_definition,0.9974734848993954
+Berlin তে আজ বিকেলে ছাতা নিতে হবে?,weather_query,weather_query,0.9792082710257163
+reminder দাও আগামীকাল দুপুর 1টায়,calendar_set,calendar_set,0.9797902911614603
+প্লিজ GDP সম্পর্কে সংক্ষেপে বলো,qa_factoid,news_query,0.2660891572487496
+alert সেট করে দাও আজ রাতে রাত ১২টায়,alarm_set,alarm_set,0.9188174544191345
+please 79 এর বর্গ কত?,qa_maths,qa_maths,0.431822917670166
+hall এর গ্রুপে meeting ১০টায় বলে email করো,email_sendemail,email_sendemail,0.9446280632945718
+একটু মস্কো এ এখন কয়টা বাজে show করো,datetime_query,datetime_query,0.905310575335886
+"please ""Please take me to the hotel"" এর মানে কী?",qa_definition,qa_definition,0.9799054930933669
+Sabina Yasmin এর Tum Hi Ho শোনাও please,play_music,play_music,0.49527539928185904
+প্লিজ 520 কে 10 দিয়ে divide করো,qa_maths,qa_maths,0.9519305103297181
+"""আমি কিছু বুঝতে পারছি না"" এই sentence টা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9816821873589107
+প্লিজ police এর ফোন নাম্বার কত?,email_querycontact,email_querycontact,0.9822755908526051
+please vaccine সম্পর্কে ইতিহাস বলো,qa_factoid,qa_factoid,0.7533100699230466
+please Ed Sheeran এর Tum Hi Ho চালাও,play_music,play_music,0.7517535312139003
+৬ hour এর টাইমার দাও,alarm_set,datetime_query,0.6208383422314019
+blockchain সহজ ভাষায় বুঝিয়ে বলো,qa_definition,qa_definition,0.7221162027356548
+আমাকে আজ 5:20 AM এ ভাতের চুলা এর কথা মনে করিয়ে দাও,calendar_set,calendar_set,0.9331828384100648
+"মামি এর কাছে এই কথাটা email এ লিখে পাঠাও ঠিক আছে, দেখা হবে",email_sendemail,email_sendemail,0.9539164793318792
+ভোর ৪:50 এ wake up call রাখো,alarm_set,alarm_set,0.6249534945209216
+প্লিজ Dublin এর সময় অঞ্চল কী?,datetime_query,datetime_query,0.5828471340091342
+please email এ পাড়ার গ্রুপে link share করো,email_sendemail,email_sendemail,0.986330001331195
+Jamuna TV এ football নিয়ে কী খবর আছে?,news_query,news_query,0.5798704363891584
+contact list এ 109 নম্বরটা কার নামে আছে? প্লিজ,email_querycontact,email_querycontact,0.9777918178556914
+please প্রযুক্তি নিয়ে এই সপ্তাহে কী ঘটছে?,news_query,news_query,0.871532726544882
+একটু Los Angeles তে এখন time কত?,datetime_query,datetime_query,0.9762307385439781
+এলার্ম set করো today দুপুর ১টা ৫ মিনিটে,alarm_set,alarm_set,0.9769564217386758
+প্লিজ Mohammedan এর ম্যাচের score,news_query,news_query,0.899559349829721
+CPU এর মানে কী?,qa_definition,qa_definition,0.9985547481849921
+১২০ কি prime?,qa_maths,qa_maths,0.9416939487877178
+ফ্যামিলি গ্রুপে ধন্যবাদ বলে email করো,email_sendemail,email_sendemail,0.9843280974271807
+আজ সকালে Teknaf তে বজ্রপাতের সম্ভাবনা আছে?,weather_query,weather_query,0.975062447767826
+please একুশে বইমেলা কে প্রথম জিতেছিল,qa_factoid,email_sendemail,0.15305628936923796
+please লালন এর lo-fi গান play দাও,play_music,play_music,0.9945377828757919
+Arijit Singh এর Perfect চালিয়ে দাও,play_music,play_music,0.4449494133223462
+please বিজয় দিবস কোথায় অনুষ্ঠিত হয়?,qa_factoid,qa_factoid,0.7787783888787086
+৪ ঘণ্টা এর timer দাও,alarm_set,alarm_set,0.5033744532634236
+"""I am vegetarian"" এর মানে কী?",qa_definition,qa_definition,0.9946179794888219
+দুপুর সোয়া ১২টায় reminder বসাও,calendar_set,calendar_set,0.9475822224496872
+প্লিজ বান্ধবী এর এর phone number কত?,email_querycontact,email_querycontact,0.9692316863095656
+অফিস গ্রুপে কালকের class cancel বলে email পাঠাও,email_sendemail,email_sendemail,0.9891391483298165
+একটু 435 দিরহাম টাকা এ convert করো,qa_currency,qa_currency,0.6081287750638945
+alert দাও সকাল ৭টায়,alarm_set,alarm_set,0.9074514072243473
+255 USD BDT এ convert করো,qa_currency,qa_maths,0.5015282325525804
+please টাঙ্গাইল তে এই weekend এ umbrella লাগবে,weather_query,weather_query,0.8668214047706118
+আজ Dhuhr এর time হতে কত বাকি?,datetime_query,datetime_query,0.9953566053930273
+প্লিজ BBC বাংলা এ cricket নিয়ে কী খবর আছে?,news_query,news_query,0.8982352074865687
+Sabbir এর নাম্বার কী? please,email_querycontact,email_querycontact,0.951801474097352
+"""What time does it open"" মানে কী? please",qa_definition,qa_definition,0.9899845361907658
+737 টাকার bill এ 10% tip দিলে মোট কত?,qa_maths,qa_maths,0.6141024314985166
+Shafin এর ফোন নাম্বার বলো,email_querycontact,email_querycontact,0.9976022263315417
+Eminem এর party গান চালাও,play_music,play_music,0.8466992146958704
+প্লিজ বান্ধবী এর contact number বের করে দাও,email_querycontact,email_querycontact,0.9951127192449966
+please পড়ার সময় শোনার মতো গান বাজিয়ে দাও,play_music,play_music,0.9506181790411511
+Mohammed Rafi এর Shape of You শোনাও please,play_music,play_music,0.44409388169257336
+Rony কে আমি পৌঁছে গেছি email এ লিখে জানাও,email_sendemail,email_sendemail,0.907216152501357
+প্লিজ ১১৪ কি prime?,qa_maths,qa_maths,0.8167305410271496
+please শাশুড়ি এর ফোন নাম্বার বলো,email_querycontact,email_querycontact,0.9814830231708042
+আমার contact list এ Sabrina এর number টা কী? please,email_querycontact,email_querycontact,0.9917675552806899
+wake up call সেট করে দাও আজ দুপুর ২টা ৩৫ মিনিটে,alarm_set,alarm_set,0.9460604673515958
+দুপুর সোয়া 2টায় alert বসাও,alarm_set,alarm_set,0.6804787754546894
+বন্ধুদের গ্রুপে বাসায় ফিরেছি বলে email করো,email_sendemail,email_sendemail,0.9782410383160794
+please tomorrow সন্ধ্যা 6টা 15 মিনিটে ইন্টারনেট বিল এর alert set করো,alarm_set,alarm_set,0.7997383114419319
+আমার contact list এ প্লাম্বার এর নাম্বারটা কী?,email_querycontact,email_querycontact,0.9994067320502791
+পোল্যান্ড এর currency কী?,qa_factoid,qa_currency,0.32062448501035573
+নারায়ণগঞ্জ এর শিক্ষা headlines শোনাও,news_query,news_query,0.826831923890726
+৮ hour পর কাপড় তোলা এর কথা মনে করাও,calendar_set,calendar_set,0.7780139825723013
+Kushtia এ আজ গরম কেমন পড়বে?,weather_query,weather_query,0.9778102810785859
+Shafin এর ফোন নাম্বার কত?,email_querycontact,email_querycontact,0.9971298215868198
+একটু Tanvir কে meeting reminder নিয়ে email পাঠাও,email_sendemail,email_sendemail,0.8920135507100655
+প্লিজ রাশেদ এর phone number কত?,email_querycontact,email_querycontact,0.9633998632263321
+ফাহিম এর contact info দেখাও,email_querycontact,email_querycontact,0.9924404747989117
+please bank এর কাছে এই কথাটা email এ লিখে পাঠাও জরুরি কথা আছে,email_sendemail,email_sendemail,0.9513332725533555
+"একটু ""আমি কিছু বুঝতে পারছি না"" এই sentence টা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9761186838634586
+প্লিজ সন্ধ্যা ৬টা ১০ মিনিটে ভাইয়ার flight এর কথা মনে করিয়ে দাও,calendar_set,calendar_set,0.8834908674409028
+please শেষ dial করা number এর contact info দেখাও,email_querycontact,email_querycontact,0.9992537391755176
+"একটু ""Could you help me"" মানে কী?",qa_definition,qa_definition,0.9856440820796178
+প্লিজ hospital এর contact info দেখাও,email_querycontact,email_querycontact,0.9375062853414067
+fire service এর contact detail খুঁজে দাও please,email_querycontact,email_querycontact,0.9022527058648119
+please last incoming call কার নাম্বার থেকে এসেছে?,email_querycontact,email_querycontact,0.8307479736842691
+"""আমার টিকিট কোথায়"" এর meaning কী?",qa_definition,qa_definition,0.9950875266628518
+সাদিয়া এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.976790538199469
+please টেলিফোন কে আবিষ্কার করেছেন?,qa_factoid,qa_factoid,0.8432429770836223
+contact list এ রিক্সাওয়ালা এর নাম্বার খুঁজে বলো,email_querycontact,email_querycontact,0.9984962396669134
+Beijing এ এখন কয়টা বাজে বলো,datetime_query,datetime_query,0.9941627621892097
+প্লিজ Berlin তে এখন দিন না রাত?,datetime_query,datetime_query,0.8994314476150745
+গাজীপুর এর ব্যবসা news বলো,news_query,news_query,0.8245066159674391
+5 hr এর timer দাও,alarm_set,alarm_set,0.36765127580472023
+৪০ min এর countdown লাগাও,alarm_set,qa_maths,0.28064628611116027
+Dubai তে এখন কি দিন চলছে?,datetime_query,datetime_query,0.9018469869741234
+email এ batch group এ link send করো,email_sendemail,email_sendemail,0.9963370872359649
+একটু মেইল এ hall এর গ্রুপে PDF share করো,email_sendemail,email_sendemail,0.9339646697057463
+electric car কার তৈরি?,qa_factoid,qa_factoid,0.15853478124080145
+1120 টাকার 75 percent কত হবে?,qa_maths,qa_maths,0.9622793128920165
+প্রতি শুক্রবার ভোর ৪টা ৫৫ minute এ বাসের টিকিট এর অ্যালার্ম রাখো,alarm_set,alarm_set,0.6104396495991598
+4:05 AM এ এলার্ম set করো,alarm_set,alarm_set,0.9423671055589203
+বাংলাদেশ আর Beijing এর মধ্যে সময়ের পার্থক্য কত?,datetime_convert,datetime_convert,0.8966551354999437
+Imran এর কাছে এই কথাটা email এ লিখে পাঠাও eid mubarak,email_sendemail,email_sendemail,0.9503692714521308
+কুষ্টিয়া এর this evening আবহাওয়ার পূর্বাভাস শোনাও,weather_query,weather_query,0.9586163360712828
+alarm set করো কাল সকালে 1:15 PM এ,alarm_set,alarm_set,0.9353888892218082
+"27, 44, 2, 19 এর median কত",qa_maths,qa_maths,0.5968614362259732
+Pritom Hasan এর Numb play করো,play_music,play_music,0.7285845606918696
+এলার্ম বসাও every Wednesday সন্ধ্যা ৬:15 এ ভাইয়ার flight এর জন্য,alarm_set,alarm_set,0.5475620758866848
+France এর পরের ম্যাচ কবে,news_query,qa_factoid,0.3947304772476447
+প্লিজ Believer গানটি চালিয়ে দাও,play_music,play_music,0.9446387011888546
+৪০ কি even?,qa_maths,qa_maths,0.6252315641120921
+২৫৩ এর cube root বের করো,qa_maths,qa_maths,0.9642966149064914
+একটু রিক্সাওয়ালা কে email করো,email_sendemail,email_sendemail,0.9883104832412082
+Thai language এর definition কী?,qa_definition,qa_definition,0.9957237635664049
+প্লিজ কোরিয়ান ভাষার meaning কী?,qa_definition,qa_definition,0.9680809603326704
+একটু Mila এর ধীর লয়ের গান শোনাও please,play_music,play_music,0.9053350522630756
+প্লিজ নয়া দিগন্ত এর today's headlines শোনাও,news_query,news_query,0.95049587430849
+Channel 24 এ কৃষি নিয়ে কী খবর আছে?,news_query,news_query,0.9081704761581303
+সিলেট এর খেলাধুলা headlines show করো,news_query,news_query,0.959391784113787
+Nancy এর Chaiyya Chaiyya play দাও প্লিজ,play_music,play_music,0.9349571022994743
+please Los Angeles এর এই weekend এ আবহাওয়ার পূর্বাভাস শোনাও,weather_query,weather_query,0.9050166036151752
+প্লিজ Tokyo এ আগামী সপ্তাহে বাইরে যাওয়া নিরাপদ?,weather_query,weather_query,0.9797906129937278
+Coldplay এর গানগুলো শোনাও,play_music,play_music,0.9925573770813944
+Iraq কোন মহাদেশে?,qa_factoid,qa_factoid,0.9432010986792512
+প্লিজ volcano এর সংজ্ঞা কী?,qa_definition,qa_definition,0.9909925579680241
+পাশের বাসার আঙ্কেল কে লোকেশন পাঠালাম email করো,email_sendemail,email_sendemail,0.9796401988812111
+please টরন্টো তে এখন টাইম কত?,datetime_query,datetime_query,0.9754768395530783
+fire service কে email পাঠাও,email_sendemail,email_sendemail,0.9869842310094437
+প্লিজ ভারত এর জলবায়ু আপডেট read করো,news_query,news_query,0.871204709560927
+আমার contact list এ শাশুড়ি এর নাম্বারটা কী?,email_querycontact,email_querycontact,0.9985384925634597
+Top 50 playlist বাজিয়ে দাও,play_music,play_music,0.9652836679755356
+প্লিজ Toronto এ এখন দিন না রাত?,datetime_query,datetime_query,0.7325714816833823
+Tokyo এর আগামী সপ্তাহে আবহাওয়ার পূর্বাভাস দাও,weather_query,weather_query,0.9928883291695971
+বড় ভাই কে thanks email এ লিখে জানাও,email_sendemail,email_sendemail,0.9728923476529587
+please Dua Lipa এর নাটকের গান বাজিয়ে দাও,play_music,play_music,0.8024122620203704
+2 ঘন্টা পর ক্লায়েন্ট কল এর কথা remind করো,calendar_set,calendar_set,0.9624845178769709
+আমার contact list এ mentor এর নাম্বারটা কী?,email_querycontact,email_querycontact,0.9975466774448399
+Dhakaতে রাত ৯টা বাজলে Kuwait এ কয়টা বাজে?,datetime_convert,datetime_convert,0.5935492896383304
+Imran কে email পাঠাও,email_sendemail,email_sendemail,0.9948779727376408
+ফ্যামিলি গ্রুপে আমি পৌঁছে গেছি বলে email পাঠাও,email_sendemail,email_sendemail,0.9773622576148551
+প্লিজ Cuba এর রাজধানী কোথায়,qa_factoid,qa_factoid,0.9303503734439023
+Mumbai এর সাথে বাংলাদেশের সময়ের ব্যবধান কত ঘণ্টা?,datetime_convert,datetime_convert,0.45971587023828847
+২০১৫ এর song চালাও,play_music,play_music,0.9511598210326268
+please কালের কণ্ঠ এ পরিবেশ নিয়ে কী খবর আছে?,news_query,news_query,0.7503017310782396
+আগামীকাল 9:00 AM এ ট্রেনের সময় এর কথা মনে করিয়ে দাও,calendar_set,calendar_set,0.9220821459251651
+একটু 10 এর factorial কত?,qa_maths,qa_maths,0.7718794370765347
+১৫ মিনিট পর reminder দাও,calendar_set,calendar_set,0.9781457623455556
+Makkah এ এখন কয়টা বাজে জানাও,datetime_query,datetime_query,0.9828026439012849
+please বরিশাল এর breaking সারাংশ দেখাও,news_query,news_query,0.5684236657862548
+"please ""I am vegetarian"" এর মানে কী?",qa_definition,qa_definition,0.992018809837167
+"""I am vegetarian"" এর অর্থ কী?",qa_definition,qa_definition,0.9891634450473866
+"""আমার টিকিট কোথায়"" এর definition কী?",qa_definition,qa_definition,0.9981369539888446
+৮৩ কে ৭১ দিয়ে multiply করো,qa_maths,qa_maths,0.8945957603005597
+please Mars এর কয়টা চাঁদ আছে,qa_factoid,qa_factoid,0.5908176158932572
+"please ""Call the police"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9839040402437788
+UV index বলো,weather_query,weather_query,0.42274907547374285
+office এর boss এর কাছে এই কথাটা মেইল এ লিখে পাঠাও eid mubarak,email_sendemail,email_sendemail,0.8225578569841536
+football নিয়ে আজ কী ঘটছে?,news_query,news_query,0.6313062798471251
+please quantum computing সম্পর্কে দুটো বাক্যে বুঝিয়ে দাও,qa_definition,qa_definition,0.5652706387870086
+"please ""এটা অনেক দামি"" এর definition কী?",qa_definition,qa_definition,0.9986101389372669
+this evening Mumbai এ humidity কত?,weather_query,weather_query,0.6402901751570876
+please রাজশাহী এর গত ৩ ঘণ্টার সংবাদ শোনাও,news_query,news_query,0.8396081994199861
+রিমাইন্ডার বসাও আজ 1:20 PM এ,calendar_set,calendar_set,0.9328885085638166
+একটু Kuwait এর সাথে বাংলাদেশের সময়ের ব্যবধান কত ঘণ্টা?,datetime_convert,datetime_query,0.33689498982668814
+Mehedi এর contact number বের করে দাও,email_querycontact,email_querycontact,0.9986998959800425
+2020 এর গান play দাও প্লিজ,play_music,play_music,0.9959411928624893
+"""See you later"" মানে কী?",qa_definition,qa_definition,0.9954359626564139
+একটু ঢাকা আর Dublin এর মধ্যে time gap কত?,datetime_query,datetime_query,0.7119263993384163
+please economy বলতে কী বোঝায়?,qa_definition,qa_definition,0.7466450248476808
+আজ সকালের ডলারের দাম summary জানাও,news_query,news_query,0.4734359142254125
+মামা এর contact number বের করে দাও,email_querycontact,email_querycontact,0.9982737391786309
+কুমিল্লা এর আজ সকালের update শোনাও,news_query,news_query,0.8381450987362103
+please cricket team এ ধন্যবাদ বলে email করো,email_sendemail,email_sendemail,0.9582207627653949
+৩ এর factorial কত?,qa_maths,qa_maths,0.9225287120111143
+এই মুহূর্তের পদ্মা সেতু headlines read করো,news_query,news_query,0.9860089153184989
+প্লিজ খুলনা এর কাল আবহাওয়ার forecast দাও,weather_query,weather_query,0.9605810014257271
+প্লিজ প্রতি বৃহস্পতিবার 10:20 AM এ ফোন চার্জ এর wake up call দাও,alarm_set,calendar_set,0.40611991604855663
+Sakib এর এর ফোন নাম্বার কত?,email_querycontact,email_querycontact,0.9950809833675862
+Austria এর সবচেয়ে বড় শহর কোনটি?,qa_factoid,qa_factoid,0.6672939282474994
+contact list এ hospital এর নাম্বার খুঁজে বলো,email_querycontact,email_querycontact,0.9968052284722627
+Hemanta Mukherjee এর ঘুমপাড়ানি গান চালাও please,play_music,play_music,0.819435312671437
+২ hour পর বোনের পরীক্ষা এর কথা মনে করাও,calendar_set,calendar_set,0.7229594066184228
+please contact list এ পাশের বাসার আঙ্কেল এর এর নাম্বার খুঁজে বলো,email_querycontact,email_querycontact,0.9953990121428917
+গাজা এর গতকালের update জানাও,news_query,news_query,0.7181501399232245
+প্লিজ খুলনা এ কাল রাতে rain হবে কি?,weather_query,weather_query,0.9468925209898145
+প্লিজ ১৪৬ এর square root বের করো,qa_maths,qa_maths,0.9716451715124491
+please Android আর drone এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.8080672095402016
+Tasnim কে weekly update নিয়ে মেইল করো,email_sendemail,email_sendemail,0.9185947457483596
+Shironamhin এর জ্যাজ গান চালাও প্লিজ,play_music,play_music,0.9876340338460196
+একটু Tasnim এর নাম্বার কী?,email_querycontact,email_querycontact,0.9073088167241697
+please স্যার কে ধন্যবাদ email এ লিখে জানাও,email_sendemail,email_sendemail,0.965292845486016
+একটু Habib Wahid এর party গান শোনাও,play_music,play_music,0.6410655894988926
+ঢাকা আর Beijing এর মধ্যে time gap কত?,datetime_query,datetime_query,0.6059581084557624
+একটু কানাডা এর cricket update পড়ে শোনাও,news_query,news_query,0.7720908514017168
+একটু quantum computing সম্পর্কে ইতিহাস বলো,qa_factoid,qa_factoid,0.8727223046827587
+লস অ্যাঞ্জেলেস তে এখন night কি না?,datetime_query,datetime_query,0.5345381523819529
+"একটু hall এর গ্রুপে ঠিক আছে, দেখা হবে বলে email পাঠাও",email_sendemail,email_sendemail,0.9845225666934855
+52 কে 86 দিয়ে multiply করো,qa_maths,qa_maths,0.7855726734140513
+বণিক বার্তা এর এই মুহূর্তের summary দাও,news_query,news_query,0.5056731374085209
+প্লিজ drone আর iPhone এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.7341162618872322
+প্লিজ আপেক্ষিকতা তত্ত্ব কে invent করেছেন?,qa_factoid,qa_factoid,0.838903201578609
+মাদ্রিদ এর time অঞ্চল কী?,datetime_query,datetime_query,0.7559673802364484
+৬৯৭২ টাকার bill এ ১৫% tip দিলে মোট কত?,qa_maths,qa_maths,0.8916003981312495
+৭৪ plus ২৬ কত হবে?,qa_maths,qa_maths,0.9899031132813634
+প্লিজ contact list এ clinic এর number খুঁজে বলো,email_querycontact,email_querycontact,0.9979817223824954
+8:00 PM এ মায়ের ওষুধ এর alarm দাও,alarm_set,alarm_set,0.9770276613115796
+please Dhaka আর Seoul এর মধ্যে time difference কত ঘণ্টা?,datetime_convert,datetime_convert,0.9500140451181115
+প্রতি বুধবার ভোর 4টা 5 মিনিটে ফোন চার্জ এর reminder বসাও,calendar_set,calendar_set,0.8864773515417737
+email এ চাচি কে ধন্যবাদ লিখে পাঠাও,email_sendemail,email_sendemail,0.9968131609508603
+4 hr এর টাইমার সেট করে দাও,alarm_set,alarm_set,0.5021603418415987
+please বান্দরবান এ কাল নৌকায় ঘোরা যাবে,weather_query,weather_query,0.27592473988412797
+৭৯ এর square কত?,qa_maths,qa_maths,0.9757643418966853
+Imran এর কাছে এই কথাটা email এ লিখে পাঠাও টাকা পাঠিয়েছি,email_sendemail,email_sendemail,0.9679248608615555
+প্লিজ Dubai তে এখন সকাল নাকি রাত?,datetime_query,datetime_query,0.7741926497251923
+আমার contact list এ চাচি এর নাম্বারটা কী?,email_querycontact,email_querycontact,0.99836420406528
+একটু ৪৫৩ ডলার টাকা এ convert করো,qa_currency,qa_currency,0.823026665532831
+আজ রাতের বিনোদন headlines পড়ে শোনাও,news_query,news_query,0.9914571326122101
+কায়রো তে এখন night কি না?,datetime_query,datetime_query,0.8127186550533487
+Barishal এর আজ বিকেলে আবহাওয়ার পূর্বাভাস বলো,weather_query,weather_query,0.9814447562005892
+একটু Lamia এর কাছে এই কথাটা email এ লিখে পাঠাও please call back,email_sendemail,email_sendemail,0.9383959498735762
+আমাকে 7 মিনিট পর vaccine appointment এর অ্যালার্ম বসাও,alarm_set,alarm_set,0.7059197177520267
+একটু Shironamhin এর classical গান চালিয়ে দাও,play_music,play_music,0.9678770643186915
+please VPN এর full form কী?,qa_definition,qa_definition,0.9021669331877036
+please Somoy TV এর breaking news read করো,news_query,news_query,0.984418141809218
+"""I am allergic to peanuts"" মানে কী?",qa_definition,qa_definition,0.9923605977877666
+Lamia এর কাছে এই কথাটা email এ লিখে পাঠাও জরুরি কথা আছে,email_sendemail,email_sendemail,0.9458932578471183
+"""Where is the bathroom"" এর অর্থ কী?",qa_definition,qa_definition,0.9770247906328483
+দৈনিক সংগ্রাম এর last 1 hour এর news read করো,news_query,news_query,0.9649881361252481
+"একটু ""I am lost"" এর মানে কী?",qa_definition,qa_definition,0.9972909125147744
+please কীভাবে ভালো ঘুমের জন্য কী করব,qa_factoid,qa_factoid,0.8977950338467354
+আমার সোনার বাংলা track টা play দাও please,play_music,play_music,0.8875139526658362
+এলার্ম বসাও প্রতি Monday 4:05 PM এ ভাতের চুলা এর জন্য,alarm_set,alarm_set,0.811582366092004
+বণিক বার্তা এর সর্বশেষ headlines পড়ে শোনাও,news_query,news_query,0.9865702242364106
+আফ্রিকা এর শিক্ষা update read করো,news_query,news_query,0.8964690851910828
+একটু আরিফ এর contact number বের করে দাও,email_querycontact,email_querycontact,0.9921794311519684
+১৬৭ কে ৭ দিয়ে divide করলে ভাগশেষ কত?,qa_maths,qa_maths,0.9888974191356679
+এখন Teknaf তে বৃষ্টি হবে কি,weather_query,weather_query,0.9386681430339125
+please Berlin এ আজ বিকেলে বাতাসের গতি কেমন?,weather_query,weather_query,0.5972434189714501
+35 min এর টাইমার set করো,alarm_set,alarm_set,0.3302019587044274
+ইনকিলাব এর আজ রাতের আপডেট show করো,news_query,news_query,0.9885237231747703
+please algorithm সহজ ভাষায় বুঝিয়ে বলো?,qa_definition,qa_definition,0.6637559679817902
+প্লিজ রাঙ্গামাটি এর আজ দুপুরে আবহাওয়ার forecast শোনাও,weather_query,weather_query,0.9426207540334748
+আমার contact list এ বাড়িওয়ালা এর নাম্বারটা কী?,email_querycontact,email_querycontact,0.9966425710428805
+"email এ খালা কে ঠিক আছে, দেখা হবে forward করো",email_sendemail,email_sendemail,0.9762131250442789
+please ১৩ আর ২১ এর LCM কত,qa_maths,qa_maths,0.9412667858457382
+please Arman এর ফোন নাম্বার কত?,email_querycontact,email_querycontact,0.9865937502062202
+2020 এর গান play করো প্লিজ,play_music,play_music,0.9925473572860508
+please অর্থনীতি নিয়ে এখন কী ঘটছে?,news_query,news_query,0.6728172635583834
+প্লিজ ৮ এর factorial কত?,qa_maths,qa_maths,0.8505004421002633
+batch group এ আজ আসতে পারব না বলে email পাঠাও,email_sendemail,email_sendemail,0.9892917668492138
+alarm সেট করে দাও বিকেল 4:20 এ,alarm_set,alarm_set,0.9879001577133844
+Adnan Sami এর গানগুলো বাজিয়ে দাও,play_music,play_music,0.9295950584995303
+প্লিজ Sydney এর time zone কী?,datetime_query,datetime_query,0.8346365784599917
+715 subtract 73 কত?,qa_maths,qa_maths,0.9643140161263782
+প্লিজ instrumental গানগুলো বাজিয়ে দাও প্লিজ,play_music,play_music,0.894844576738756
+"একটু ""I am vegetarian"" এর অর্থ কী?",qa_definition,qa_definition,0.9730944041213938
+please 01496615321 নম্বরটা কার contact বলো,email_querycontact,email_querycontact,0.9768832895131153
+Chile এর পতাকার রং কী,qa_factoid,qa_factoid,0.8490780373771082
+please Colombo তে local time কত,datetime_query,datetime_query,0.954365296035948
+bank এর কাছে এই কথাটা email এ লিখে পাঠাও please call back,email_sendemail,email_sendemail,0.9557546899749151
+একটু Python কার তৈরি,qa_factoid,qa_factoid,0.15632044925603125
+প্রতি Friday 7:35 PM এ ক্লায়েন্ট কল এর alert রাখো,alarm_set,alarm_set,0.40941911646466195
+প্লিজ বরিশাল এর today's সংবাদ দাও,news_query,news_query,0.8000747194594897
+Turkish ভাষার মানে কী?,qa_definition,qa_definition,0.9939611235079593
+প্লিজ ছাপাখানা কে invent করেছেন?,qa_factoid,qa_factoid,0.6607194541532135
+please ব্যায়ামের সময় শোনার মতো গান চালিয়ে দাও please,play_music,play_music,0.9634053074759383
+"""আমার টিকিট কোথায়"" মানে কী? please",qa_definition,qa_definition,0.9940469299404721
+প্লিজ ৬ ঘণ্টা পর ভাইয়ার flight এর অ্যালার্ম সেট করে দাও,alarm_set,alarm_set,0.8562459412026667
+5 মিনিট পর reminder রাখো,calendar_set,calendar_set,0.9711059980191123
+landlord এর contact info দেখাও,email_querycontact,email_querycontact,0.9743403559233569
+এখনকার time বলো,datetime_query,datetime_query,0.99911146196705
+তানভীর এর phone number কত?,email_querycontact,email_querycontact,0.959325677631848
+please রাশেদ এর ফোন নাম্বার বলো,email_querycontact,email_querycontact,0.9846776958085551
+Daily Star এর সাম্প্রতিক সংবাদ দেখাও,news_query,news_query,0.9307140461123786
+একটু today's ধর্ম শিরোনাম দাও,news_query,news_query,0.7458925455163097
+প্লিজ tomorrow morning খুলনা তে গরম কেমন পড়বে,weather_query,weather_query,0.8847033886327905
+wake up call বসাও প্রতি সোমবার 12:20 PM এ bus এর জন্য,alarm_set,alarm_set,0.7396051015587116
+last 1 hour এর নির্বাচন news বলো,news_query,news_query,0.9796995282214807
+Nancy এর কীর্তন গান বাজিয়ে দাও,play_music,play_music,0.6899703689222446
+প্লিজ ৫২৪ কে ১৫ দিয়ে divide করলে ভাগশেষ কত?,qa_maths,qa_maths,0.9915695030156814
+আরিফ এর number কী?,email_querycontact,email_querycontact,0.9855110207631435
+Coldplay এর রোমান্টিক গান শোনাও প্লিজ,play_music,play_music,0.965187874028668
+আজ সকালে Istanbul এ ঝড় হবে কি?,weather_query,weather_query,0.9441383467550413
+Dua Lipa এর আমার সোনার বাংলা play দাও,play_music,play_music,0.9557817475730672
+প্লিজ শ্বশুর কে meeting ১০টায় email এ লিখে জানাও,email_sendemail,email_sendemail,0.8387391903051408
+please project team এ PDF email করো,email_sendemail,email_sendemail,0.9706429994664677
+একটু freelancing কি নিরাপদ?,qa_factoid,qa_factoid,0.836967495924642
+রাশেদ কে ভিডিও email এ send করো,email_sendemail,email_sendemail,0.996568040960894
+tomorrow morning sunglasses লাগবে,weather_query,weather_query,0.7833365982342223
+একটু পরশু Paris এ আর্দ্রতা কত?,weather_query,weather_query,0.6830718513690706
+please মেইল এ পাড়ার গ্রুপে resume পাঠাও,email_sendemail,email_sendemail,0.9238089051369733
+please Numb গানটা play দাও,play_music,play_music,0.9930111709387607
+Reuters এ ডলারের দাম নিয়ে কী খবর আছে?,news_query,news_query,0.8327499520574841
+please ৯৪০ টাকার ৮% কত হবে?,qa_maths,qa_maths,0.9194758658012395
+Teknaf এ এখন কুয়াশা পড়বে কি?,weather_query,weather_query,0.5629485605066323
+please ৯০৬ add ৩১ কত হবে?,qa_maths,qa_maths,0.9619038417015898
+Rony কে খাবার রেডি email করো,email_sendemail,email_sendemail,0.958451112801454
+জাপান এর সর্বশেষ update জানাও,news_query,news_query,0.9505206674570267
+"""Could you help me"" বাক্যটার মানে কী? please",qa_definition,qa_definition,0.9957640687824844
+Jamuna TV এর আজ সকালের খবর জানাও,news_query,news_query,0.9135485496127748
+একটু আবাহনী এর last match এর ফলাফল,news_query,qa_factoid,0.40227002547434976
+৪০ মিনিট এর timer বসাও,alarm_set,alarm_set,0.6385702107629443
+ইরান এর সাম্প্রতিক news দেখাও,news_query,news_query,0.994598628210104
+please Vietnam এর প্রধান ভাষা কী?,qa_factoid,qa_factoid,0.4801845978288245
+প্লিজ contact list এ office এর boss এর এর নাম্বার খুঁজে বলো,email_querycontact,email_querycontact,0.9991159184875429
+please Kuala Lumpur এ এখন দিন না রাত?,datetime_query,datetime_query,0.8210068814606927
+please বাড়িওয়ালা এর contact number বের করে দাও,email_querycontact,email_querycontact,0.9833246193150633
+একটু কীভাবে bank account খুলব?,qa_factoid,qa_factoid,0.9668324524631404
+প্লিজ photosynthesis এর সংজ্ঞা কী?,qa_definition,qa_definition,0.9950043552993008
+একটু DW বাংলা এর breaking সংবাদ দাও,news_query,news_query,0.7902580895546667
+please এখন Berlin এ বৃষ্টি হবে কি?,weather_query,weather_query,0.8968252081535999
+প্লিজ পাড়ার গ্রুপে ধন্যবাদ বলে email পাঠাও,email_sendemail,email_sendemail,0.9946166445637034
+মিশর তে এখন day না night?,datetime_query,datetime_query,0.9462457415924703
+please Oslo এর সাথে বাংলাদেশের সময়ের ব্যবধান কত ঘণ্টা?,datetime_convert,datetime_convert,0.5094655212710719
+পাকিস্তান এর আজকের শিরোনাম read করো,news_query,news_query,0.9360098091316379
+Al Jazeera এ আন্তর্জাতিক নিয়ে কী খবর আছে?,news_query,news_query,0.6884251732464167
+আজ যশোর এ rain হওয়ার chance আছে,weather_query,weather_query,0.9862241380793149
+বণিক বার্তা এর এই মুহূর্তের news জানাও,news_query,news_query,0.9826261755606474
+12:50 PM এ alert set করো,alarm_set,alarm_set,0.8939045757607912
+ভাবি কে weekly update নিয়ে মেইল করো,email_sendemail,email_sendemail,0.8940778682334709
+একটু অস্ট্রেলিয়া এ এখন কয়টা বাজে show করো,datetime_query,datetime_query,0.7768856832131472
+একটু email এ tutor কে টাকা পাঠিয়েছি send করো,email_sendemail,email_sendemail,0.9990338028547648
+মিথিলা এর এর number কী?,email_querycontact,email_querycontact,0.9794543268408666
+Khulna তে আজ দুপুরে ফসল কাটা যাবে?,weather_query,weather_query,0.8619171458527551
+please Russian language এর definition কী?,qa_definition,qa_definition,0.9853673528640366
+২৯৬০ টাকার ৮ percent কত হবে?,qa_maths,qa_maths,0.9847635596014045
+"প্লিজ ""ধন্যবাদ আপনাকে"" meaning কী?",qa_definition,qa_definition,0.9832612877192577
+please পৃথিবীর সবচেয়ে বড় দেশ কোনটি,qa_factoid,qa_factoid,0.4145671227244095
+একটু email এ বন্ধুদের গ্রুপে voice note দাও,email_sendemail,email_sendemail,0.9585643205998392
+Maroon 5 এর Lose Yourself ছাড়ো,play_music,play_music,0.326012066369091
+please Shironamhin এর sad গান ছাড়ো,play_music,play_music,0.9756058942149732
+রিক্সাওয়ালা কে email করো,email_sendemail,email_sendemail,0.9933966910159673
+৭৯৬৬ টাকার bill এ ৫% tip দিলে মোট কত?,qa_maths,qa_maths,0.8225750759034515
+বড় ভাই এর এর contact info দেখাও,email_querycontact,email_querycontact,0.9901330642655543
+১৫ আর ৫ এর GCD কত,qa_maths,qa_maths,0.9694533721012292
+A. R. Rahman এর music শোনাও,play_music,play_music,0.8719439342610313
+"""Good evening"" বলতে কী বোঝায়? please",qa_definition,qa_definition,0.9601816688065026
+"""আপনার সাথে কথা বলে ভালো লাগলো"" এর definition কী? please",qa_definition,qa_definition,0.9774559999362191
+"please ""এটার দাম কত"" এর মানে কী?",qa_definition,qa_definition,0.9932056751426135
+email এ Rony কে বাসায় ফিরেছি দাও,email_sendemail,email_sendemail,0.9595919627151344
+Chill Hits প্লেলিস্ট চালাও,play_music,play_music,0.9716155413272397
+please আগামী সপ্তাহে Berlin তে শীত কেমন থাকবে,weather_query,weather_query,0.8803057467753955
+please ২৩১০ টাকার ৩০% কত হবে?,qa_maths,qa_maths,0.9634441960979017
+প্লিজ Los Angeles এ কাল রাতে rain হওয়ার chance আছে?,weather_query,weather_query,0.9395010131042562
+প্লিজ Colombo তে এখন সময় কত?,datetime_query,datetime_query,0.9761798055054266
+প্লিজ ঘুমানোর আগে শোনার মতো song চালিয়ে দাও,play_music,play_music,0.976380579668397
+please মিথিলা কে মেইল করো,email_sendemail,email_sendemail,0.9364896761853252
+৬৭৪ কে ৪০ দিয়ে multiply করো,qa_maths,qa_maths,0.9539053122322753
+please আজ খুলনা এ বাতাসের গতি কেমন?,weather_query,weather_query,0.4511568390514545
+please Al Jazeera এর এই সপ্তাহের headlines শোনাও,news_query,news_query,0.9381827940796411
+প্লিজ এই শুক্রবার দুপুর পৌনে ১টায় বাসের টিকিট এর কথা remind করে দাও,calendar_set,calendar_set,0.9398809726086683
+"""Thank you so much"" মানে কী?",qa_definition,qa_definition,0.9900801447666859
+ভাবি এর phone number কত?,email_querycontact,email_querycontact,0.9779117106525091
+অ্যালার্ম set করো today 12:00 AM এ,alarm_set,alarm_set,0.9356920823050539
+please breaking মহাকাশ সংবাদ শোনাও,news_query,news_query,0.8599078619412962
+একটু Bogura এর কাল আবহাওয়ার পূর্বাভাস শোনাও,weather_query,weather_query,0.9363647137587168
+Los Angeles এর সাথে বাংলাদেশের সময়ের ব্যবধান কত ঘণ্টা?,datetime_convert,datetime_convert,0.7079964143389395
+283 দিরহাম টাকা এ convert করো,qa_currency,qa_currency,0.7258820781988117
+please Jeddah এর সাথে বাংলাদেশের সময়ের ব্যবধান কত ঘণ্টা?,datetime_convert,datetime_convert,0.5020931292981656
+৫০ মিনিট এর টাইমার set করো,alarm_set,alarm_set,0.7844779615360581
+১২ min এর timer লাগাও,alarm_set,alarm_set,0.3960231886411205
+311 এর square root বের করো,qa_maths,qa_maths,0.9576882090006431
+please যুগান্তর এ cricket নিয়ে কী খবর আছে?,news_query,news_query,0.8309496568266953
+একটু Delhi এর এই weekend এ আবহাওয়ার পূর্বাভাস দাও,weather_query,weather_query,0.9843528793942619
+"""Thank you so much"" এর মানে কী?",qa_definition,qa_definition,0.9879264160128833
+oxygen সহজ ভাষায় বুঝিয়ে বলো?,qa_definition,qa_definition,0.7888623418636777
+please DW বাংলা এর today's সংবাদ জানাও,news_query,news_query,0.9113122347396683
+প্লিজ Sydney এ আজ সকালে আবহাওয়া কেমন?,weather_query,weather_query,0.9964694852723914
+প্লিজ Retro Mix playlist বাজিয়ে দাও,play_music,play_music,0.9689787385432285
+প্লিজ দিনাজপুর তে এই weekend এ ছাতা নিতে হবে?,weather_query,weather_query,0.9820919787346756
+please বাড়িওয়ালা কে weekly update নিয়ে email পাঠাও,email_sendemail,email_sendemail,0.9920904230997822
+please ৫১৮ কে ১৪ দিয়ে ভাগ করো,qa_maths,qa_maths,0.8834959980008167
+স্যার এর ফোন নাম্বার কত? please,email_querycontact,email_querycontact,0.9757862706015908
+একটু বড় ভাই এর এর phone number বলো,email_querycontact,email_querycontact,0.9102804225484447
+একটু Asia এর সড়ক দুর্ঘটনা আপডেট শোনাও,news_query,news_query,0.4983767717353623
+please রাশিয়া এর প্রযুক্তি headlines show করো,news_query,news_query,0.982863761204906
+please পদ্মা সেতু নিয়ে আজ কী ঘটছে?,news_query,news_query,0.668858838639419
+sad songs ছাড়ো,play_music,play_music,0.9906856217558094
+please Sinhala language এর definition কী?,qa_definition,qa_definition,0.9927846647096568
+প্লিজ Melbourne তে এখন সময় কত?,datetime_query,datetime_query,0.9742097605087872
+"প্লিজ 82, 14, 77 এর average কত",qa_maths,qa_maths,0.8258880859757642
+ভারতীয় দল এর লেটেস্ট news,news_query,news_query,0.7974698701281222
+সকালে শোনার মতো গান বাজাও please,play_music,play_music,0.9873312525163797
+WHO এর পূর্ণরূপ কী?,qa_definition,qa_definition,0.6977753934178337
+Tokyo এ tomorrow morning তাপমাত্রা কত?,weather_query,weather_query,0.9496310903631341
+প্লিজ ফুফা এর এর number কী?,email_querycontact,email_querycontact,0.9805093901626338
+please বাষ্পীয় ইঞ্জিন কে আবিষ্কার করেছেন?,qa_factoid,qa_factoid,0.8155702944606484
+৩৮৯ এর square root বের করো,qa_maths,qa_maths,0.9806494443036884
+একটু BBC বাংলা এর এই মুহূর্তের headlines পড়ে শোনাও,news_query,news_query,0.9771893175894738
+১০৩০ টাকার ৩০ percent কত হবে?,qa_maths,qa_maths,0.9895615491132473
+Kuala Lumpur এর tomorrow morning আবহাওয়ার পূর্বাভাস দাও,weather_query,weather_query,0.9839536539203143
+ঢাকাতে সকাল ১০টা বাজলে Athens এ কয়টা বাজে?,datetime_convert,datetime_convert,0.8462570972444105
+প্লিজ Arijit Singh এর Hotel California চালাও,play_music,play_music,0.21159547717804778
+contact list এ শ্বশুর এর নাম্বার খুঁজে বলো,email_querycontact,email_querycontact,0.9994662540521442
+please কাল রাতে Tokyo এ humidity কত?,weather_query,weather_query,0.4489723624439133
+প্লিজ contact list এ Tamanna এর number খুঁজে বলো,email_querycontact,email_querycontact,0.9959458133915454
+Tasnim এর ফোন নাম্বার বলো please,email_querycontact,email_querycontact,0.9883541002207178
+প্লিজ email এ Arman কে আজ আসতে পারব না দাও,email_sendemail,email_sendemail,0.97287336212096
+Numb song টা ছাড়ো please,play_music,play_music,0.9826091190955802
+please পৃথিবীর সবচেয়ে উঁচু পর্বত কোনটি,qa_factoid,general_quirky,0.2042711004259182
+Jamuna TV এর সাম্প্রতিক update পড়ে শোনাও,news_query,news_query,0.9555317439300348
+Sylhet এর আজ বিকেলে আবহাওয়ার পূর্বাভাস দাও,weather_query,weather_query,0.9830605519504314
+প্লিজ 3:05 AM এ বাসের টিকিট এর কথা মনে করিয়ে দাও,calendar_set,calendar_set,0.8948387529282489
+01249356028 নম্বরটা কার number?,email_querycontact,email_querycontact,0.8952853711201469
+প্লিজ বণিক বার্তা এর আজ সকালের update জানাও,news_query,news_query,0.8638300811350195
+দৈনিক সংগ্রাম এর এই মুহূর্তের headlines show করো,news_query,news_query,0.9837781189520751
+প্লিজ নিশাত এর কাছে এই কথাটা email এ লিখে পাঠাও জরুরি কথা আছে,email_sendemail,email_sendemail,0.9416008948034624
+Rome তে এখন সকাল নাকি রাত?,datetime_query,datetime_query,0.9456835410995502
+পড়ার সময় শোনার মতো গান play করো প্লিজ,play_music,play_music,0.9941029720774059
+প্লিজ motivational music বাজাও please,play_music,play_music,0.8017376748067392
+প্লিজ Imran কে টাকা পাঠিয়েছি email এ লিখে জানাও,email_sendemail,email_sendemail,0.9700940599564748
+আজ আসরের time কখন?,datetime_query,datetime_query,0.9730648182736735
+বিদ্যুৎ কে invent করেছেন?,qa_factoid,qa_factoid,0.7873466555172276
+Dhakaতে বিকেল ৪টা হলে করাচি এ কয়টা বাজে?,datetime_convert,datetime_query,0.42900133436909793
+James এর motivational গান বাজিয়ে দাও,play_music,play_music,0.5845072400185949
+বাড়িওয়ালা এর contact info দেখাও,email_querycontact,email_querycontact,0.9790079058336653
+প্লিজ Bitcoin কত দিনের মধ্যে শেখা যায়?,qa_factoid,qa_factoid,0.5378426363428587
+১৪৭০ টাকার ৪০ percent কত হবে?,qa_maths,qa_maths,0.9901917028907891
+প্লিজ study group এ খাবার রেডি বলে email পাঠাও,email_sendemail,email_sendemail,0.9861958594834435
+প্রথম আলো এ স্বাস্থ্য নিয়ে কী news আছে?,news_query,news_query,0.9610436510459138
+Dhaka আর সিডনি এর মধ্যে time gap কত ঘণ্টা?,datetime_query,datetime_query,0.687169650001852
+একটু 4151 টাকার bill এ 15% tip দিলে মোট কত?,qa_maths,qa_maths,0.5163006416469085
+please কানাডা এর স্বাধীনতা দিবস কবে?,qa_factoid,qa_factoid,0.7543690072152363
+Ekushey Book Fair কে প্রথম জিতেছিল,qa_factoid,qa_factoid,0.2769637194047859
+মামা কে photo email এ send করো,email_sendemail,email_sendemail,0.9985328797271102
+"প্লিজ ""বিমানবন্দর কোন দিকে"" meaning কী?",qa_definition,qa_definition,0.9085441316405334
+১২ ঘণ্টা পর ইন্টারনেট বিল এর কথা remind করো,calendar_set,calendar_set,0.9709466256205225
+please Mumbai এ আগামী দুই দিন আকাশ পরিষ্কার থাকবে?,weather_query,weather_query,0.6843625136821511
+একটু email এ বন্ধুদের গ্রুপে contact forward করো,email_sendemail,email_sendemail,0.938227215933988
+iPhone আর Google Maps এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.6043130317526076
+প্লিজ Nusrat কে মেইল করো,email_sendemail,email_sendemail,0.8206020454740546
+প্লিজ Kuala Lumpur এ কাল আবহাওয়া কেমন?,weather_query,weather_query,0.9943488834773104
+please Jamuna TV এর আজ সকালের সারাংশ show করো,news_query,news_query,0.6149205782920623
+email এ বড় ভাই কে জরুরি কথা আছে পাঠাও,email_sendemail,email_sendemail,0.985142941175742
+ছোট বোন এর phone number বলো,email_querycontact,email_querycontact,0.9528978281817702
+কালের কণ্ঠ এ শিক্ষা নিয়ে কী news আছে?,news_query,news_query,0.9271767129441427
+Singapore এ এখন দিন না রাত?,datetime_query,datetime_query,0.9328887686327769
+প্লিজ German ভাষা বলতে কী বোঝায়?,qa_definition,qa_definition,0.8811206346440954
+ইরান এর এই মুহূর্তের headlines বলো,news_query,news_query,0.9904730145127754
+please motivational music শোনাও,play_music,play_music,0.7630924332468579
+পাঞ্জাবি language বলতে কী বোঝায়?,qa_definition,qa_definition,0.8762182205918068
+৬০৯ কে ৭৫ দিয়ে multiply করো,qa_maths,qa_maths,0.9666093368238611
+একটু সিঙ্গাপুর এর সাথে বাংলাদেশের time difference কত ঘণ্টা?,datetime_convert,datetime_convert,0.7901869046653027
+Shafin কে proposal নিয়ে মেইল করো,email_sendemail,email_sendemail,0.9598235128119409
+রাত পৌনে 10টায় reminder দাও,calendar_set,calendar_set,0.9858835873669682
+please Dhakaতে বিকেল ৪টা বাজলে Kuala Lumpur এ কয়টা বাজে?,datetime_convert,datetime_convert,0.7710804415094653
+please fire service কে invoice নিয়ে মেইল লেখো,email_sendemail,email_sendemail,0.6578120567540525
+"please ""এটার দাম কত"" এর অর্থ কী?",qa_definition,qa_definition,0.9885219760325302
+নিশাত কে email পাঠাও,email_sendemail,email_sendemail,0.9983896560981724
+email এ জাহিদ কে assignment জমা দিয়েছি লিখে পাঠাও,email_sendemail,email_sendemail,0.9701233157020159
+15 minute পর বাজার এর কথা মনে করাও,calendar_set,calendar_set,0.8194971846256491
+আজ বিকেলে সাতক্ষীরা এ wind speed কেমন?,weather_query,weather_query,0.9563066735988514
+Mila এর sad গান চালিয়ে দাও,play_music,play_music,0.9874794650614698
+একটু Lamia কে email করো,email_sendemail,email_sendemail,0.9952955658166445
+একটু হাছন রাজা এর music বাজাও,play_music,play_music,0.8697731478534286
+Channel 24 এর সর্বশেষ সারাংশ পড়ে শোনাও,news_query,news_query,0.9090779684737805
+একটু Retro Mix প্লেলিস্ট চালাও,play_music,play_music,0.8453273484251683
+please Nagar Baul এর Tum Hi Ho চালাও প্লিজ,play_music,play_music,0.7761309263211775
+please ১০৮৭ subtract ৮৮ কত?,qa_maths,qa_maths,0.9815447577196985
+"""This is too expensive"" মানে কী?",qa_definition,qa_definition,0.9875674541004765
+"""Happy new year"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9757704503035127
+একটু Gym playlist ছাড়ো,play_music,play_music,0.9820877719850997
+last incoming call এর নাম্বারটা কার নামে আছে? প্লিজ,email_querycontact,email_querycontact,0.9400665634255354
+Adnan Sami এর music বাজাও,play_music,play_music,0.9082562231196932
+please DNA সম্পর্কে ইতিহাস বলো,qa_factoid,qa_factoid,0.7558009806945295
+"""আবার দেখা হবে"" এই বাক্যটা বলতে কী বোঝায়? please",qa_definition,qa_definition,0.9860955244949816
+প্লিজ মেইল এ রিক্সাওয়ালা কে happy anniversary পাঠাও,email_sendemail,email_sendemail,0.7696708193389732
+please কীভাবে ভাত রান্না করব?,qa_factoid,qa_factoid,0.8586399484860113
+Gazipur এ আজ বিকেলে গরম কেমন পড়বে,weather_query,weather_query,0.8833322160268973
+একটু YouTube আর Android এর মধ্যে পার্থক্য কী?,qa_definition,qa_definition,0.7436982388606074
+Hotel California track টা ছাড়ো,play_music,qa_factoid,0.16293712558556606
+6:10 PM এ রিমাইন্ডার দাও,calendar_set,calendar_set,0.9682645115565404
+"""How far is the station"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9774730863746577
+please বন্যা নিয়ে এই সপ্তাহে কী ঘটছে?,news_query,news_query,0.4775702486125218
+"please hospital কে ঠিক আছে, দেখা হবে email করো",email_sendemail,email_sendemail,0.9211561923109503
+৯০ এর দশকের গান play দাও,play_music,play_music,0.991470937165281
+আজ Asr এর time হতে কত বাকি?,datetime_query,datetime_query,0.9908216562567027
+একটু fire service কে email করো,email_sendemail,email_sendemail,0.9626587514941191
+সন্ধ্যা ৭:20 এ alert সেট করে দাও,alarm_set,alarm_set,0.9371109739961633
+একটু email এ family group এ resume forward করো,email_sendemail,email_sendemail,0.9856277898766321
+"please ""আমার জল লাগবে"" বাক্যটার মানে কী?",qa_definition,qa_definition,0.9961791450535236
+"please ""Where is the airport"" এই বাক্যটা বলতে কী বোঝায়?",qa_definition,qa_definition,0.9784947449803935
+প্লিজ 286 এর cube root বের করো,qa_maths,qa_maths,0.8515808314278908
+6:55 PM এ ক্লায়েন্ট কল এর alert set করো,alarm_set,alarm_set,0.5992973564908116
+প্লিজ আজ Fajr এর time কখন?,datetime_query,datetime_query,0.8328292727658994
+"একটু ""ধন্যবাদ আপনাকে"" word এর মানে কী?",qa_definition,qa_definition,0.9867995446921686
+alarm রাখো 12:25 PM এ,alarm_set,alarm_set,0.9500114478668182
+প্লিজ পরশু Toronto এ গরম কেমন পড়বে?,weather_query,weather_query,0.9477964003691999
+প্লিজ আজ রাতে রাত 12টায় পড়াশোনা এর reminder set করো,calendar_set,calendar_set,0.896468639884041
+একটু ঢাকা আর Mexico এর মধ্যে সময়ের পার্থক্য কত?,datetime_convert,datetime_convert,0.7349053553909505
+Karachi এর টাইম জোন কী?,datetime_query,datetime_query,0.4117197359735912
+please কীভাবে দ্রুত টাইপ করতে শিখব?,qa_factoid,qa_factoid,0.8686147100311431
+Nepal এর টাইম জোন কী?,datetime_query,datetime_query,0.3241575053132315
+Workout playlist বাজিয়ে দাও please,play_music,play_music,0.9431360208436584
+আমার contact list এ বড় ভাই এর নাম্বারটা কী? please,email_querycontact,email_querycontact,0.9953702349994118
+একটু গত ৩ ঘণ্টার ধর্ম update দাও,news_query,news_query,0.5102847476527741
+please party গান play দাও please,play_music,play_music,0.9654437092600636
+please France এর লেটেস্ট খবর,news_query,news_query,0.549460786440414
+Jessore তে এখন raincoat নিতে হবে,weather_query,weather_query,0.9480449479826741
+please পারমাণবিক বোমা কে আবিষ্কার করেছেন?,qa_factoid,qa_factoid,0.8716631950123214
+Kuwait এর সাথে বাংলাদেশের সময়ের ব্যবধান কত ঘণ্টা?,datetime_convert,datetime_convert,0.39026065497150136
+452 add 75 কত হবে?,qa_maths,qa_maths,0.798391662253193
+একটু Sun এর কয়টা চাঁদ আছে?,qa_factoid,qa_factoid,0.8744132785728236
+reminder সেট করে দাও প্রতি শুক্রবার সন্ধ্যা ৭টা ২৫ মিনিটে bus এর জন্য,calendar_set,calendar_set,0.8215293176258675
+প্লিজ Gazipur এর tomorrow morning আবহাওয়ার পূর্বাভাস দাও,weather_query,weather_query,0.9793299792456333
+please every রবিবার বিকেল ৩টায় bus এর wake up call লাগাও,alarm_set,alarm_set,0.5058399716792016
+একটু ঘুমপাড়ানি songs play করো,play_music,play_music,0.9580063269280115
+প্লিজ 286 পাউন্ড টাকা এ convert করো,qa_currency,qa_currency,0.48101794514597307
+সাদিয়া কে voice note email এ লিখে পাঠাও,email_sendemail,email_sendemail,0.9905995808873245
+প্লিজ ২০০০ সালের song বাজিয়ে দাও প্লিজ,play_music,play_music,0.765655430345333
+৮১৬ কে ১৬ দিয়ে divide করো,qa_maths,qa_maths,0.9655052338743612
+প্লিজ Arman এর কাছে এই কথাটা email এ লিখে পাঠাও meeting ১০টায়,email_sendemail,email_sendemail,0.8941807752450576
+please পাঞ্জাবি ভাষা কী?,qa_definition,qa_definition,0.775909491044594
+bank এর contact detail খুঁজে দাও,email_querycontact,email_querycontact,0.9862173383354057
+Singapore এর সময় অঞ্চল কী?,datetime_query,datetime_query,0.7427592598252544
+শ্রীলঙ্কা এর সাথে বাংলাদেশের সময়ের ব্যবধান কত hour?,datetime_convert,datetime_convert,0.3627951719193619
+কাল রাতে Mymensingh এ শীত কেমন থাকবে,weather_query,weather_query,0.596294589847571
+please Venus এর বয়স কত,qa_factoid,qa_factoid,0.9722000620327557
+একটু অফিস গ্রুপে আজ রাতে আসছি বলে email করো,email_sendemail,email_sendemail,0.990964423749099
+"প্লিজ ""এটার দাম কত"" এর definition কী?",qa_definition,qa_definition,0.9959696475951475
+আগামী সপ্তাহে Sydney এ গরম কেমন পড়বে,weather_query,weather_query,0.9566736127197416
+Mila এর motivational গান চালাও প্লিজ,play_music,play_music,0.8499679092106022
+please ৪৯৬ ঘণ্টা কত মিনিট?,qa_maths,alarm_set,0.26934220419183985
+রাত ৯টা ৫৫ মিনিটে alert লাগাও,alarm_set,alarm_set,0.8333679539636168
+please Imran কে টাকা পাঠিয়েছি email এ লিখে জানাও,email_sendemail,email_sendemail,0.9711365745314183

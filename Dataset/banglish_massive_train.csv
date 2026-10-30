@@ -1,0 +1,3001 @@
+Id,utt,intent
+5987,food panda r theke amader biriyani anun,takeaway_order
+9300,abc radio unonobboi doshmik dui fm radio channel bajate apnake amar proyojon,play_radio
+15173,soptahante mariya tar facebook e ki rekhechen ta amake janan,social_query
+2080,amar ghum theke othar alarm chotay set kora hoyeche,alarm_query
+5275,onugroh kore check korun ebong ei ganti aro ekbar punrabritti korun,music_settings
+13865,juktir orth dekhun,qa_definition
+4325,khela ami destinis chaildo dara sarbhaibhar,play_music
+3985,onugroh kore choytay alarm set korun,alarm_set
+3396,ei ganti ki sera kurir moddhe chil,music_query
+15284,sumon shudhu amar facebook fide post korechen,social_query
+10702,talika ei item thaka uchit,lists_createoradd
+12097,amake palermo paray ei soptahante sangskritik onushthan dekhte din,recommendation_events
+6574,bissho ushnota,weather_query
+4445,olly apnake amake bibhinno diknirdesh dite hobe,transport_query
+10181,pizza ebong ponir upadan ki ki,cooking_recipe
+5533,ganti onek sadhnar pore ami,music_likeness
+838,ei soptaher jonno jege otha call batil korun,alarm_remove
+2411,dhakay koyta baje,datetime_query
+5313,elomelo radio rakhun,music_settings
+4935,ami kokhon food panda r theke amar chinese tek out asha korte pari,takeaway_query
+3583,volume shunnoe set korun,audio_volume_mute
+16913,ei byoktir dara opthit kono email ache,email_query
+7220,amar ki agami budhbar duitay appointment ache,calendar_query
+3384,doya kore budhbar rat attar ekti alarm toiri korun,alarm_set
+11236,amar mudi talika theke kukurer khabar soran,lists_remove
+11714,ajke chottogram ki ghotche,recommendation_events
+1508,ek ghontar jonno nihshobdo mod set korun,audio_volume_mute
+10782,amar kaj ki,lists_query
+14576,char jog char koto,qa_maths
+16870,holooyete kibhabe pouchaben,email_querycontact
+3628,amar jonno ek cup coffee banan,iot_coffee
+4563,apni ki amar time jonke sentral e poriborton korte paren,datetime_convert
+11199,amar korniyo talika muche felun,lists_remove
+227,rais kukar socket chalu korun,iot_wemo_on
+3885,bortomane ki alarm set kora ache,alarm_query
+908,ekhon jete shuru korar jonno vacuum set korun,iot_cleaning
+9735,risento audiobook ti resume kor,play_audiobook
+13527,kumillar tulnay chottogramer orthoniti kemon,general_quirky
+15620,amar jonno rastay gort somporke obhijog tweet,social_post
+16254,rakib somporke amar tothyoe file e apnar kache ki tothyo ache,email_querycontact
+16752,amar email check korun,email_query
+963,doya kore alo komiye din,iot_hue_lightdim
+17154,onugroh kore ei email er uttor din,email_sendemail
+6816,olly bikal chartay rohimke call kora amake mone rakhte shahajyo korun,calendar_set
+378,apni ei songit songrokkhon kibhabe korben,music_likeness
+12801,dhaka train er ticket book korun,transport_ticket
+9837,gan tin,play_audiobook
+12035,apni ki doya kore amake bolte paren konti khabarer sathe bhalo bar,recommendation_locations
+3519,amra ki alo jalate pari,iot_hue_lightup
+390,smart plug socket syuich,iot_wemo_on
+1624,somoy set korun,alarm_set
+12821,traffic,transport_traffic
+6866,poroborti nirdharit ibhentos ki,calendar_query
+11149,talika opsaron korun,lists_remove
+1908,amar restaurant adesh status,takeaway_query
+13838,apni ki amake ei proshner uttor khuje pete shahajyo korte paren,qa_maths
+12122,beili rod daraz bish miniter moddhe ekti uber chedul korun,transport_taxi
+11811,dhaka tuyentite ki bajche,recommendation_movies
+9045,mongolbar bikel pachtar alarm,alarm_set
+7581,amar ajker meeting talika,calendar_query
+3500,ekhon rumer alo bondho korun,iot_hue_lightoff
+4805,hi apni kemon achen,general_greet
+16292,ekti contact somporke tothyo tanar upay ache ki,email_querycontact
+9342,betar kendro poriborton korun,play_radio
+6453,chokbajar theke chottogram city te sostar flight,transport_ticket
+10958,amar somosto songrokkhit talikar nam ki,lists_query
+13602,maikel jakosner paribarik porichoy,qa_factoid
+202,alarm soran,alarm_remove
+3171,amar rock gan playlist,play_music
+1970,ei ganti tinbar punrabritti korun,music_settings
+1651,apni ki amake sorboshesh khelar khobor dite paren,news_query
+16865,ami chai apni amar contact e ekti email jog korun,email_addcontact
+2837,barite alor halka rong upre poriborton korun,iot_hue_lightup
+2405,rannaghrer alo komanor somoy eseche,iot_hue_lightdim
+4342,speaker er volume komiye din,audio_volume_down
+12832,aj bikele dhaka jawar train er ticket book korun,transport_ticket
+16247,amar kon mail ache,email_query
+2541,doya kore nil alo din,iot_hue_lightchange
+1353,ami amar speaker komiye dite chai,audio_volume_down
+16706,rajshahi theke korim uddinke khujun,email_querycontact
+11309,amar priyo podcast khelun,play_podcasts
+5394,socket bondho korun,iot_wemo_off
+12312,bortoman traffic bibechnay park ebhiniute jete amar kotokkhon lagbe,transport_traffic
+3197,are apni ki amake ekti krimi coffee baniye dite paren,iot_coffee
+10134,thai fraid rais recipe bolun,cooking_recipe
+13343,amake ekti notun bakoppak kenar jonno sobcheye sosta jayga khujun,recommendation_locations
+5220,speaker volume sorboccho korun,audio_volume_up
+14469,share bajare oyaloton er dam koto,qa_stock
+3699,apnake artosel check korte hobe se sera,music_likeness
+8174,apni ki amar calendar e somosto gym er class er jonno ekdin age alarm ghori set korben,alarm_set
+17126,puspoler email uttor,email_sendemail
+16910,ami chai ebong amar email thikana,email_addcontact
+2942,are aj ki,general_greet
+15080,olly daraz ebong oyalton stock mullo tulna korun ebong amake bolun konti bete,qa_stock
+12356,amar train er ticket dorkar,transport_ticket
+4807,ami ei gan somporke ki bhabi ta mone rakhun,music_likeness
+4076,amar shobar ghore aloguli bondho korun,iot_hue_lightoff
+4153,o priya tumi kothay ganti bajao,play_music
+15378,tweet samsang tader janate amar oyashare agun legeche,social_post
+6117,soptaher abohawa report,weather_query
+3952,jolpai bagan kothay jekhane takeaway newa jay,takeaway_query
+2785,vacuum kora shuru korun,iot_cleaning
+5153,ager ganti ripit korun,music_settings
+10474,talikay amar ki kichu ache,lists_query
+14478,teish gun bayanno ki,qa_maths
+1518,food panda theke ekti biriyani mit play tar order korun,takeaway_order
+2882,bortoman ganer pore thamun,music_settings
+10409,amra eksathe poker khelob,play_game
+11430,dhaka af m theke podcast chalan,play_podcasts
+9435,radio fm karjokrom somporke ekti program chalan,play_radio
+5415,amar jonno food panda r theke ekti boro plein pizza order korun,takeaway_order
+12184,arakan sorok e kon nirman ache ki,transport_traffic
+303,apni kibhabe korchen,general_greet
+14002,oyaloton stock mullo,qa_stock
+15191,facebook e amar sorboshesh post dekhun,social_query
+3854,doya kore speaker nihshobdo,audio_volume_mute
+3428,apni ki hi seting e alo lagate paren,iot_hue_lighton
+13233,apni ki amar jonno tero jog pach jog noy jog korte paren,qa_maths
+6211,shubho din,general_greet
+989,amake ekti mojar koutuk dekhan,general_joke
+11195,mudir talikay coffee jog korun,lists_createoradd
+933,eta amar priyo korun,music_likeness
+11702,amake nikter theatre dekhan,recommendation_movies
+10691,item jog korun,lists_createoradd
+5602,eta ei soptahe sundor hote jacche,weather_query
+9258,radio shuru kor,play_radio
+924,light gulo ektu kom kor,iot_hue_lightdim
+5095,konar alo chalu korun,iot_hue_lighton
+16966,kajer somoy somporke email gulo khujun,email_query
+4366,kon mojar jokos,general_joke
+13770,american dollar ebong takar mudrar moddhe har koto,qa_currency
+934,speaker er volume poriborton korun,audio_volume_other
+5389,smart socket bondho korun,iot_wemo_off
+11728,ei soptahe sobcheye boro blokbastar ki,recommendation_movies
+15879,amake kashemer phone number din,email_querycontact
+9066,sat april ki amar ekta khela ache,calendar_query
+14652,arong er bortoman stock mullo koto,qa_stock
+1292,smart plug shuru korun,iot_wemo_on
+4092,amar speaker ke ek miniter jonno thaman ekhane amake ekti call korte hobe,audio_volume_mute
+7067,amar calendar e ajker kono ghotna,calendar_query
+13489,ami pochondo kori emon cinema ebong gan poramorsh din kintu eta ogotta emon noy jegulo ami agei bolechi premer tajomohol,recommendation_movies
+1573,vacuum cleaner chalu korun,iot_cleaning
+14800,podda setu koto lomma,qa_factoid
+11829,farmoget ashepashe khawar jonno bhalo jayga ki,recommendation_locations
+2145,ekti soptahante christmas chil ek hajar noy shot bahattor,datetime_query
+5171,apni ki share sattar jonno amar alarm set korte paren,alarm_set
+12048,sthaniyo elakay ghotna,recommendation_events
+15425,keu ki amar online bondhuder moddhe bagdan ba jonmo diyeche,social_query
+12897,amar kredit card byabohar kore pach number train e amar ekti goldo class ticket dorkar,transport_ticket
+496,halka rong nil poriborton korun,iot_hue_lightchange
+23,rannaghrer alo mridu korun,iot_hue_lightdim
+16440,rukminike email pathan je ami chakrir prostab grohon korbo,email_sendemail
+14070,chorki stock mullo ki,qa_stock
+3154,bedroom er light bondho korun,iot_hue_lightoff
+4211,apni ki mone koren ei soptahe hafoppanto pora thik hobe,weather_query
+5994,tomar ki mone hoy agamikal brishti hobe,weather_query
+166,apni kemon achen,general_greet
+1662,dhaka ebong uttorar moddhe somyer parthokko ki,datetime_convert
+4345,mone rakhben je ei ganti bhalo kintu bayam korar jonno khub dhirogtir,music_likeness
+4800,apni ki wemo plug socket chalu korte paren,iot_wemo_on
+11672,aj rat cinema r somoy,recommendation_movies
+10476,apple kinun,lists_remove
+4269,ami sottii eta pochondo ei gan riple,music_likeness
+9847,album audiobook chalan,play_audiobook
+13049,satasher moddhe koyti tin pawa jay,qa_maths
+11988,ei muhurte je ekti bhalo cinema ber hoyeche,recommendation_movies
+6555,amar somoysuchi,calendar_query
+11087,amader dudh dorkar,lists_createoradd
+8339,shombar bikel er pore binamulle,calendar_query
+11891,amar kachakachi ki ghotna ghotche,recommendation_events
+11967,jekhane ekti moder dokan,recommendation_locations
+10315,nebhar habh i ebhar khela jak,play_game
+12389,amake train er ticket kinun,transport_ticket
+14423,takar ebong takar biruddhe kotota kharap korche,qa_currency
+1130,aj ki pore brishti hobe,weather_query
+10270,tumi ki soliteyar khelte chao,play_game
+14627,amake asuser stock mullo din,qa_stock
+16629,jariya barir phone number ki,email_querycontact
+4381,agamikaler jonno amar prothom alarm soriye din,alarm_remove
+10877,shuru talika,lists_createoradd
+16268,ajker shokaler mosharfer email er uttor din,email_sendemail
+1066,volume er settings dekhte hobe,audio_volume_other
+1707,speaker gulike pach shotangsh theke namiye din,audio_volume_down
+1050,audio theke bus bondho korun,audio_volume_down
+12038,amar elakay shopping molguli khujun,recommendation_locations
+14295,srishtikortar shongga ki,qa_definition
+12757,amar obosthan theke amake nite ekti taxi pathan,transport_taxi
+9338,ami doya kore radio amar shunte chai,play_radio
+3356,ami jaideko jam bhalbasi,music_likeness
+4584,bachchader shekhan jokhon tara barite eka thakbe dorja na khulte,alarm_remove
+10445,item opsaron,lists_remove
+2880,sottor shotangshe volume briddhi,audio_volume_up
+16219,jeriner er mobile number ki,email_querycontact
+1503,dhakay jodi bikel charta tobe khulnay somoy koto,datetime_convert
+6440,ei muhurte dekhte ekti bhalo cinema ki,recommendation_movies
+9830,misir alir pora porte thokun,play_audiobook
+11000,ekti notun talika kor,lists_createoradd
+16670,amar kache ekhon porjonto kotoguli khola hoyni emon email ache,email_query
+2930,ami ei ganti pochondo kori eta ki apni doya kore ekbar punrabritti korte paren,music_likeness
+1049,audio settings poriborton korun,audio_volume_other
+15727,oyalton ekti obhijog tweet korun,social_post
+3473,onugroh kore sob punrabritti chalu korun,music_settings
+2215,songjukto budget somporke amake bolun,news_query
+3420,songit traking,music_query
+3265,amar ekta koutuk shunte hobe apni amake ekta bolte paren,general_joke
+1562,ekhane ondhokar mone kore alor garhotto bariye din,iot_hue_lightup
+13526,kibhabe ami choyojner poribarer jonno mudikhanar taka sonchoy korbo,general_quirky
+11780,chittagong ei soptahonto ki krishker hat khola ache,recommendation_events
+2692,wemo socket bondho korun,iot_wemo_off
+4257,doya kore amake bortoman tarikh bolun,datetime_query
+2358,miles chalao,play_music
+10869,talikay baki kichu,lists_query
+850,ekti koutuk doya kore,general_joke
+8000,doya kore amar sidiul theke teishe march amar lunch tarikhti muche felun,calendar_remove
+6848,shukrobar bhor pachtay amake jagiye dao amake train dhorte hobe,alarm_set
+15329,sorboshesh post ki chil,social_query
+10945,ami shokale studio er talika bad dite chai,lists_remove
+845,amar ki ki alarm guli ekhon set kora ache,alarm_query
+8021,shukrobarer meeting er jonno amar ekti smarok proyojon,calendar_set
+16811,amar ki rajib theke ekti notun email ache,email_query
+14294,takar binimoy euro r har bakkha kor,qa_currency
+868,wemo plug socket bondho,iot_wemo_off
+11856,ekti cinema olly suparish korun,recommendation_movies
+14903,stock sorboshesh dam ki,qa_stock
+17013,samprotik email dekhao,email_query
+16198,shakiler er email amake linko,email_querycontact
+8136,agamikal shokal egarotay amar bikel tintar meeting somporke mone koriye deben,calendar_set
+3808,alo ana,iot_hue_lightup
+4160,apni ki amake aj food panda r theke biriyani order korte paren,takeaway_order
+11299,porer porbe jao,play_podcasts
+3453,shanto hoo,audio_volume_mute
+10044,ami kibhabe khichuri theke tuna kaserol toiri korbo,cooking_recipe
+9920,pasta soser recipe ki,cooking_recipe
+12564,ami ki ei gontobber jonno sobcheye sosta relgari ticket pete pari,transport_query
+4698,amake bikel pachtay smoron korao,alarm_set
+1142,soptaher kon din amake bolun,datetime_query
+16197,sadiyar number ki,email_querycontact
+7591,amar moddhahnobhojer birti kokhon,calendar_query
+3062,doya kore ei alarm ti batil korun,alarm_remove
+5628,fan bondho korun,iot_wemo_off
+6119,hello dhakay ekhon koyta baje,datetime_query
+11918,ei soptahe kon cinema cholche,recommendation_movies
+15086,ei shobder mane ki,qa_definition
+12605,shukrobar shokale dhaka jabar prothom train er ticket amake khuje din,transport_ticket
+9336,radio today chalao,play_radio
+5244,rannaghrer light bondho korun,iot_hue_lightoff
+11205,kajer talika muche felun,lists_remove
+6231,apni ki korte paren,general_quirky
+129,amake ajker somporke bolun,general_quirky
+10856,amar talika dekhte hobe,lists_query
+12496,olly trish miniter moddhe ekti uber e call korun,transport_taxi
+4888,kumilla er bortomane ja ghotche se somporke amake update rakhun,news_query
+9887,ami aj robibar audiobook khelte chai,play_audiobook
+15266,social media te notun ki,social_query
+4576,apni amake ber korte paren,takeaway_order
+16434,amar poribarke bolun eta ekti email,email_sendemail
+10025,amake bolun kibhabe malai cake ranna korte hoy,cooking_recipe
+15500,ekti obhijog form anun,social_post
+1629,binamulle home bitoron,takeaway_order
+15303,notun ki amake bolun,social_query
+13642,onugroh kore pattho shonggayito korun,qa_definition
+9801,lirik nam khulun,play_audiobook
+2460,kichu koutuk bolun,general_joke
+16767,samprotik email gulo,email_query
+12480,amake ekhon eyarport niye jete pare emon ekti pathao khoj din,transport_taxi
+13781,james shonaktokari,qa_definition
+13874,amake bolun kokhon poroborti boro bhumikompo bangladesher aghat hanbe,qa_factoid
+2705,awaj koman,audio_volume_down
+13782,bostu shonakto korun,qa_definition
+3372,bangladeshe somoy koto,datetime_query
+12268,dinajpur mail kobe dhaka pouchabe bolun,transport_query
+13164,dodulloman shonggayito korun,qa_definition
+7554,ekojonke bolun ami aj tar sathe dekha korte chai,calendar_set
+10606,talikay khaddo item songkhya koto,lists_query
+7171,olly mahtam sakiber maiya re maiya bajan,calendar_set
+11739,ticket,recommendation_movies
+304,shokaler ki khobor,general_greet
+2314,alo loyar light niche,iot_hue_lightdim
+3789,ekti koutuk bolun ja amar mukhe hasi rakhe,general_joke
+3794,ami speaker nihshobdo korte chai,audio_volume_mute
+4202,amar plug chalu korun,iot_wemo_on
+11707,shohor sobcheye jonopriyo khabar restaurant ki,recommendation_locations
+15881,ekhane amar jonno kon notun mail ache ki,email_query
+3871,doya kore ektu alo jaliye din,iot_hue_lightup
+9274,noyosh niranobboi f m radio bajan,play_radio
+12807,train er somoy sthan,transport_query
+1054,amar priyte ei gan songrokkhon korun,music_likeness
+17007,amar inbox ki notun kono email ache,email_query
+6146,oyebe koutuk khujun,general_joke
+4766,aj shokale ki kot porar dorkar hobe,weather_query
+1411,mukto amake coffee baniye dao,iot_coffee
+15874,doya kore inbox check korun notun kon email ache kina,email_query
+7390,ei soptaher jonno donto bishoyker appointment batil korun,calendar_remove
+1311,ekhan theke dhakar somyer parthokko koto,datetime_convert
+2020,dui level dara volume briddhi,audio_volume_up
+3431,k-tar somoy match shuru hobe,datetime_query
+13991,tini gotkal kothay chilen,general_quirky
+11263,porerti please,play_podcasts
+2074,amar bosar ghore plug socket chalu korun,iot_wemo_on
+11835,kachakachi kichu bhalo restaurant ache ki,recommendation_locations
+1536,bharter tulnay bangladeshe ekhon somoy koto,datetime_convert
+2766,amar jonno ekti sorobrah order shuru korun,takeaway_order
+3135,amake star kabab tek out theke ekti bati order korun,takeaway_order
+5504,ami ki amar barir alarm set korechi,alarm_query
+5325,hi apni ki adesh er jonno home bitoron offer koren,takeaway_query
+211,kokkho ujjol korun,iot_hue_lightup
+5999,dhaka ebong dillir somyer byobdhan koto,datetime_convert
+14371,takar binimoy har bolun,qa_currency
+6336,apni aj diner shurute onuman korben na,general_quirky
+13678,taka ba rupee mullo ki beshi,qa_currency
+12163,apni ki amar mayer jonno train er ticket book korte paren,transport_ticket
+3185,ainjibider somporke ekti koutuk bolun,general_joke
+16068,kobir er thikana prodorshon korun,email_querycontact
+3395,ekhon amar wemo plug socket bondho korun,iot_wemo_off
+915,amar rumer alo nibhiye dao,iot_hue_lightoff
+11913,ekhane khawar jonno sobcheye bhalo jayga ki,recommendation_locations
+3536,amar somosto alarm bondho korun,alarm_remove
+5805,apni apnar smartofon ba tablet byabohar kore sei dibhaisti chalu ba bondho korte sokkhom hoben,iot_wemo_on
+677,amar phone er plug socket ti charge kora hole doya kore bondho korun,iot_wemo_off
+4221,ami ki ekhon somoy jante pari,datetime_query
+4877,amar rat attar alarm ti muche felun ebong eti sondhye sattay set korun,alarm_remove
+3113,ami ei gantike ghrina kori doya kore mone rakhben jate ami ar kokhonoo ei ganti na shuni,music_dislikeness
+12000,ami amar charpashe ki dhorner gan ghotna dekhte pacchi,recommendation_events
+3959,amar alarm guli paharer somoy poriborton korun,alarm_set
+3905,kikobol shesh hoye geche amar ar budhbar sondhay kikobler jonno alarm er proyojon nei,alarm_remove
+2845,amar order kothay,takeaway_query
+9703,apni ki amar sorboshesh audio boi chalate paren,play_audiobook
+2730,amar ekti mojar koutuk khuje ber korte hobe ja bachchader jonno thik ache,general_joke
+11118,asonno soptaher jonno amar kon talika ache,lists_query
+191,plug chalu korun,iot_wemo_on
+10517,ami ki talika songrokkhit ache,lists_query
+11071,onugroh kore mudikhanar talika theke tometo bad din,lists_remove
+1267,kendriyo somye bortoman somoy amake bolun,datetime_query
+10553,olly aj amar ki kora dorkar,lists_query
+4007,shuffle chalu korun,music_settings
+7497,shukrobarer calendar e jonmodiner noishbhoj,calendar_query
+7146,amar calendar e mayer sathe dinner khujun ebong eti muchun,calendar_remove
+15871,sumit namer somosto contact gulo khujun,email_querycontact
+15003,manna koto sale mara jan,qa_factoid
+11746,olly ki cinema aj rat noyta bajche modhumita cinema hol,recommendation_movies
+12845,amar jonno sondhay ekti cab book korun,transport_taxi
+4078,bosar ghorer alo bondho korun,iot_hue_lightoff
+5385,poroborti somoy miles nirbachongulo mone rakhben,music_likeness
+11660,ekti sera restaurant r talika amake prodan korun,recommendation_locations
+13992,tar notun puroskar,general_quirky
+3140,speaker jore korun doya kore,audio_volume_up
+9034,meeting july calendar,calendar_query
+2136,amar bhor chartar alarm muche felun,alarm_remove
+1737,holer alo shotangshe kom korun,iot_hue_lightdim
+13034,ekoshot ponchasher bish shotangsh ki,qa_maths
+16790,apni sulekha somporke ki janen,email_querycontact
+16502,meri begmer telifon number ki,email_querycontact
+1663,uttora ebong dhakar moddhe somyer parthokko ki,datetime_convert
+15491,deri chalan somporke daraz er ekti obhijog tweet,social_post
+11208,amar notun prokolpo talikay sthoptir sathe ekti meeting jog korun,lists_createoradd
+1326,restaurant ki order newar onumti dey,takeaway_query
+5483,agami shonibar tarikh ki,datetime_query
+2819,ei gan eriye jan,music_dislikeness
+10641,ei nothigulike amar sathe bhromon korar jonno proyojniyo jinisgulite jog korun,lists_createoradd
+5776,amar sorobrah ki hocche,takeaway_query
+3738,onugroh kore speaker gulike aro kom aramdayok level edjasto korun,audio_volume_down
+3375,dhaka bangladesh somoy shokal noytay sthaniybhabe kotota hobe,datetime_convert
+8337,amar poroborti daktarer appointment porjonto kotokkhon,calendar_query
+3659,kompani ekhon vacuum cleaner chalu korche,iot_cleaning
+11533,porer porbe skip kor,play_podcasts
+11855,ekti boi prostab korun,recommendation_movies
+492,apni janen ki ekti orthohin koutuk,general_joke
+5508,koutuk bolo,general_joke
+4931,id ki din,datetime_query
+13409,amake dui jog dui er uttor bolun,qa_maths
+9559,radio chalao,play_radio
+1419,aro alo doya kore,iot_hue_lightup
+6606,shirsh dosh boiguli,recommendation_movies
+735,doya kore apnar volume komate paren,audio_volume_down
+2569,prothom alo e samprotik khobrer jonno check korun,news_query
+2828,gan thamao,audio_volume_mute
+12399,aj sondha satta ey amake nite golden taxi dako,transport_taxi
+1931,hatar talika bajan,play_music
+11973,kon kon jomi kroy bikroy amake bolun,recommendation_events
+3271,aj set kora somosto alarm soran,alarm_remove
+6032,volume niyontron korun,audio_volume_mute
+1505,wemo socket chalu korun,iot_wemo_on
+16236,apni ki upre takiye abar amar porichitigulite jubayer purano email jog korte paren,email_addcontact
+10362,amar jonno game kriket khelo,play_game
+4200,ajker somosto alarm sthayibhabe snuj korun,alarm_remove
+10000,ami kibhabe ekti dim poch korte pari,cooking_recipe
+12423,ekhon janojot kemon chil,transport_traffic
+5172,doya kore amake share sattay jagiye deben,alarm_set
+11579,ei elakay kon akorshoniyo ghotna ache,recommendation_events
+679,ami chai apni sel phone charge howar age plug socket bondho korun,iot_wemo_off
+5295,apni ektu eta shanto korte paren,audio_volume_down
+10091,ami kibhabe ekti macher kopta ranna korbo,cooking_recipe
+1755,alo jaliye dao,iot_hue_lightup
+10101,apni kibhabe kabab ranna korben,cooking_recipe
+1020,ekhon abohawa kemon,weather_query
+15068,chondronath pahar kothay obosthit,qa_factoid
+15325,amar samajik maddhome ki hocche,social_query
+14758,bhartiyo rupee theke taka,qa_currency
+11642,ekhane ki korar ache,recommendation_events
+3493,amake kichu coffee banan,iot_coffee
+13309,dui jog char ki,qa_maths
+2469,alor ujjolotor poriborton korun,iot_hue_lightup
+15344,amake kichu mojar facebook post din,social_query
+971,aj notun ki,news_query
+14720,binimoy har taka ebong taka,qa_currency
+12497,olly apni ekti teksi call korte paren,transport_taxi
+4879,alor settings,iot_hue_lightchange
+12279,apni ki amar jonno train er ticket er dam dekhte paren,transport_query
+10174,bhunar ekti bhalo recipe khujun,cooking_recipe
+11117,apni ki manibbag theke amar card er bishod biboron muche felte paren,lists_remove
+1986,dibhaiser gor set korun,audio_volume_other
+11544,bhut f m er tin number podokkostoti khoj,play_podcasts
+6254,hi ei joni ami ajker jonno bishesh thala jante chai,general_quirky
+4079,agamikal shokaler jonno amar alarm kotota set kora hoyeche,alarm_query
+9933,dujner jonno ekti romantic dinner er jonno ekti recipe khujun,cooking_recipe
+1163,shiriner sob gan bajao,play_music
+12850,amar jonno bandorban draibher jonno ekti uber taxi book korun,transport_taxi
+9701,ami humayun ahmeder lekha kothao keu nei boiti shunte chai,play_audiobook
+14732,targeter ekti share kinte koto khoroch hobe,qa_stock
+11387,ami amar podcast e jekhane rekhechilam sekhane chaliye jan,play_podcasts
+16783,amar ma tar pathano saptahik abohawa proyojon,email_sendemail
+1968,baire ki brishti hocche,weather_query
+3350,kothay agun,audio_volume_up
+7611,ajker jonno somosto meeting batil korun,calendar_remove
+15283,mitu theke kon notun facebook post,social_query
+8547,asonno calendar event soran,calendar_remove
+16722,ami ki gym theke ekti email peyechi,email_query
+1472,volume bish kom korun,audio_volume_down
+10304,fri fayar er jonom jonom bajan,play_game
+5580,ei je volume uchcho matray chalu,audio_volume_up
+8462,ei soptahe kon din amar porikolpona ache,calendar_query
+1068,robot vacuum cleaner sokriyo korar age amar kichu jana dorkar ki,iot_cleaning
+13941,ami shobder orth jante chai,qa_definition
+1909,restaurant delivery update,takeaway_query
+2449,kupars restaurant theke pizza basay bitoron,takeaway_order
+12275,niu market jonno ekhan theke draibhing route thik korun,transport_query
+2586,ei channel ti ganate songrokkhon korun,music_likeness
+12290,ekti event ba ekti ticket nibondhon korun,transport_ticket
+7610,agamikaler alarm soriye felun,alarm_remove
+15928,mahir jonno ekti email pathan je ami duhkhit ami bujhte parini je tini et osustho,email_sendemail
+3948,ami apnake ekti alarm set korte chai,alarm_set
+4164,apni ki ranna ghorer alo golapi korte paren,iot_hue_lightchange
+13169,kon dokane sobcheye sosta tin kilo bif pawa jabe,recommendation_locations
+11657,logan oyanted somoy ki,recommendation_movies
+16828,amar meyer phone number konti,email_querycontact
+1959,sorboshesh khobor pan,news_query
+9800,khola ganer nam,play_audiobook
+3575,ei gan ti khubi bhalo,music_likeness
+1188,ekti melodi gan bajan,play_music
+15159,ami ki jante pari facebook e ki probonta cholche,social_query
+2632,amake american binnase ajker tarikh jante din,datetime_query
+14257,taka ebong dollar er rupantor har dekhan,qa_currency
+11114,nimnolikhit jonno ekti talika toiri korun,lists_createoradd
+2818,ami ei gan pochondo kori na,music_dislikeness
+12454,dhakar shesh train kokhon charbe,transport_query
+1538,amar order ki prostut,takeaway_query
+7828,eropor ki korte hobe,calendar_query
+15184,gotkal theke amar status e koto like ache,social_query
+4769,wemo plug socket bondho korun,iot_wemo_off
+12487,ekti cab call korun,transport_taxi
+3180,ami ei shonibar doshtar jonno ekti alarm set korte chai,alarm_set
+11100,ekti talika eti likhun,lists_createoradd
+8312,ekti bikel char-tay jog korun mi proti prottek mongolbar jonno appointment,calendar_set
+11112,amake amar bortoman mudi talika porun,lists_query
+12771,bandorban theke nila jawar train khuje nin,transport_query
+10420,ei game khulun,play_game
+1199,hassokor kichu bolun,general_joke
+14119,doya kore amake barir shongga bolun,qa_definition
+4123,kachakachi bangladeshi restaurant theke khaddor offer nin,takeaway_query
+12370,agamikaler relgarir somoy,transport_query
+3380,vacuum chalu korun,iot_cleaning
+11304,letesto rijon podcast ti chalao,play_podcasts
+15107,apni ajke rate ki cinema suparish korben,recommendation_movies
+11949,apni amake khabar jayga bolte paren,recommendation_locations
+6653,soundorjer shongga,general_quirky
+15176,ami ajke facebook e sumner kach theke ekti notun byoktigot barta pele amake janan,social_query
+15277,bortoman tapmatra tweet korun,social_post
+11946,sobcheye nikotostho boighor dokan kothay,recommendation_locations
+12657,ekta taxi bhara kore bimanobondorer char number gete sheli parbhin ke tule nin jini shukrobar tinta ekush e flight pach hajar charoshot ekotrish e asben,transport_taxi
+10330,chekaros chalao,play_game
+1504,bangladesh rat atta baje dhaka kota baje,datetime_convert
+15419,are twitter e oyaltonke amar obhijog post korun,social_post
+4774,ami ekti koutuk shunte chai,general_joke
+9105,amar calendar er somosto event gulo muche din,calendar_remove
+16812,onugroh kore rohim uttor dile ekti bigyopti pathan,email_query
+3112,shobdo bondho korun,audio_volume_mute
+12876,daraz call korun ebong shokal tintar somye jonno ekti taxi book korun,transport_taxi
+3942,ei bochor dipabli kon din porche,datetime_query
+16610,ami kon notun email peyechi kina ta dekhte hobe,email_query
+3805,ei soptahe abohawa,weather_query
+14667,ek markin dollar er jonno koto euro,qa_currency
+15803,mayer jonmodin somporke amar bonke email korun sneha park e party r ayojon korar bishye amader chinta kora uchit,email_sendemail
+12440,niu dhaka shohor theke dinajpur porjonto ki ki trip pawa jay,transport_query
+6393,eta ki mojar na je kibhabe abohawa kharap hocche,general_quirky
+15281,instagram,social_query
+11037,amar porichiti talika theke make soriye din,lists_remove
+4229,tumi ki amar bedroom er bati nibhiye dite par,iot_hue_lightoff
+14990,amader shohrer abohawa bolun,weather_query
+2706,bish parsento volume niche,audio_volume_down
+798,kon restaurant gulo khabarer offer kore,takeaway_query
+16155,suresh probhu er thikana ki,email_querycontact
+2804,alor ujjolota komiye din,iot_hue_lightdim
+2612,aj ki bar,datetime_query
+1757,alexa alo ujjol kore,iot_hue_lightup
+3826,olly ei muhurte ei ki bajano hocche,music_query
+952,dhakar abohawa ki ekhon kharap,weather_query
+12228,amar ekhon ekta taxi dorkar,transport_taxi
+6592,ekti chot talika shuru korun,general_quirky
+2422,ekhon mirpurer abohawa kemon,weather_query
+16293,amar oti samprotik email porun,email_query
+8054,satoi march theke somosto event porishkar korun,calendar_remove
+1929,amake kichu songit pan,play_music
+15287,samajik media update,social_query
+11038,amar icchar talika theke projapti klip muche din,lists_remove
+11832,olly nikotostho ekti park kothay ami dourate pari,recommendation_locations
+11564,amake dhakay korniyo somporke bolun,recommendation_events
+5197,ami ki ek cup coffee pete pari,iot_coffee
+11850,nikotostho theatre oyarning show korar somoy ki,recommendation_movies
+11574,ashepashe kon ghotna ache,recommendation_events
+5460,amar ki ekhon ekta chata ana dorkar,weather_query
+1597,rumba shuru korun,iot_cleaning
+14715,china songskriti bakkha korun,general_quirky
+2817,bosar ghore ondhokar,iot_hue_lighton
+15223,facebook theke ajker hailait ki ki,social_query
+1013,dhaka shohor city theke bangladesh koto ghontar parthokko,datetime_convert
+13773,ekti otibeguni roshmi shonggayito korun ebong bornona korun,qa_definition
+2319,alor shokti niche,iot_hue_lightdim
+770,ei din bissher charpashe ki ghotche,news_query
+1613,somyer alo mlan howa uchit,iot_hue_lightdim
+154,settings sebh korun,music_settings
+16958,klayentoke email kora shuru korun,email_sendemail
+7001,ghotna toiri korun,calendar_set
+3745,amar kichu coffee dorkar,iot_coffee
+1174,ekti monorom shobdo din,audio_volume_other
+14851,eksho biyog ponchasher folafol ki,qa_maths
+2079,shesh ganer punrabritti korun,music_settings
+15936,amar kontekto e notun imeil jukto korun,email_addcontact
+12128,train e dupurer age kibhabe rongpur jaben,transport_query
+3429,apni vacuum lagate paren,iot_cleaning
+12705,train er ticket app khulun,transport_ticket
+11234,amar talikar nam bolun,lists_query
+4733,volume somonnoy korun,audio_volume_other
+6588,bortoman khobor,news_query
+4075,robot vacuum cleaner sokriyo korun,iot_cleaning
+6318,apni ki mone koren ajker dinti sundor hobe,general_quirky
+8981,amar jonmodiner party batil korun,calendar_remove
+5986,food panda r ekti biriyanir order din,takeaway_order
+1338,ami agamikaler jonno ki alarm nirdharon korechi,alarm_query
+5469,doya kore alo chalu korun,iot_hue_lighton
+6976,ami ei bikeler jonno ki mone koriye dite hobe,calendar_query
+2987,tek out delivery kore,takeaway_query
+5610,poroborti alarm ti kokhon bajbe ta amake bolun,alarm_query
+2608,amar biriyani order er ki hol ami order korar por ek ghonta hoye geche,takeaway_query
+2443,sabina amake coffee baniye dao,iot_coffee
+14079,barmuda trayangel kothay,qa_factoid
+11724,sobcheye nikotostho jolpai bagan kothay,recommendation_locations
+1880,volume ektu baran,audio_volume_up
+12445,amake agamikal chottogram jawar train er somoy din,transport_query
+1633,amake amar alarm gulo dekhan,alarm_query
+805,doya kore google speaker er somosto volume komiye din,audio_volume_down
+10531,apni ki amar onusmarok talikar nam porte paren,lists_query
+2110,dhakay ekhon koyta baje,datetime_query
+13388,bortomane dollar theke euro rupantorer har koto,qa_currency
+2696,chinese spring oyanton syup ebong ekti chot gorur mangsho ebong brokli theke halim order korun,takeaway_order
+13629,olly ami jekhane achi tar sobcheye kache chiriyakhana kothay,recommendation_locations
+2686,oyadike bolar jonno amar ekta hassokor koutuk dorkar,general_joke
+13620,pran kompani er jonno stock mullo ki,qa_stock
+14931,dui hajar ponero fiyesta ki tin bochre mulloban hobe,general_quirky
+8256,amar calendar e somosto nirdharit ghotna soran doya kore,calendar_remove
+3076,plug bondho korun,iot_wemo_off
+1550,wemo bondho korun,iot_wemo_off
+6700,amake utsahit korche,general_quirky
+3682,ke ei ganer gayok,music_query
+3943,ei maser bish tarikh kon din,datetime_query
+5885,alor tibrota briddhi,iot_hue_lightup
+2273,restaurant e ki home bitoron ache,takeaway_query
+2866,onugroh kore dekhun pizza r bitoron ache kina,takeaway_query
+9954,ekti bhuna chiken tapmatra ki howa uchit,cooking_recipe
+1738,baganer alo ordhek mlan korun,iot_hue_lightdim
+11837,amake kachakachi kichu niramish restaurant dekhan,recommendation_locations
+2580,onugroh kore chup thakun jotokkhon na ami boli,audio_volume_mute
+2671,ami agamikal shokaler jonno amar alarm set korechi kina ta porikkha kore dekhben ki,alarm_query
+5239,maigreshon somporke ajker khobor dekhan,news_query
+12426,robibar komlapur station theke poshchim dike jacche shokal atta theke shokal doshta moddhe relgari somoy koto,transport_query
+10331,cholun eksathe daba kheli,play_game
+11741,agami soptahe dhaka asonno boi mela jonno onusondhan korun g,recommendation_events
+12774,foler chatni bishesh,transport_traffic
+16063,ami ki gotkal theke kaj theke notun email ache,email_query
+7331,biddut bachate bari theke ber hole wifi bondho korun,iot_wemo_off
+1642,na na eta namiye din,audio_volume_down
+4548,kukur hatanor playlist shuru,play_music
+15892,rehanke ekti email pathan,email_sendemail
+6084,doya kore shokal doshtay amake sotork korun,alarm_set
+2406,amar pochonder gan jog korun,music_likeness
+1235,amader somoy jokhon bikel pachta tokhon chottogramer somoy koto,datetime_convert
+5190,shobdo kora jore,audio_volume_up
+2239,bissho songbad shironam ki doya kore amake bolun,news_query
+4897,alo khub ujjol,iot_hue_lightdim
+15330,ami amar bondhuder theke ki post mis korechi,social_query
+13413,pach ke ek dara bhag korle ki hoy,qa_maths
+3422,gayok ke,music_query
+4108,bhor chartay ki alarm ache,alarm_query
+4147,nishchit korun je amar shuffle guli sorboda punrabritti ebong sorboda elomelo hoy,music_settings
+15360,samajik maddhome ei muhurte ki hocche,social_query
+11461,doya kore ota podcast chalan,play_podcasts
+926,light aro ektu kom korun,iot_hue_lightdim
+9752,dipu number to resume kor,play_audiobook
+3527,kachakachi testi trit,takeaway_order
+9852,amar jo er boiyer shesh seshon theke shuru kor,play_audiobook
+16867,amar bondhuke mail korun,email_sendemail
+1021,emon kon rap ache ja sekso mani ebong dragos jorit noy,music_query
+16466,ei email ti notun contact e jog korun,email_addcontact
+2407,ei ganti ki klasiker ontorgot,music_query
+3469,ekhane ekhon noyta baje sileter somoy koto,datetime_convert
+4298,speaker er volume baran,audio_volume_up
+2750,amar ek cup coffee dorkar,iot_coffee
+16602,aj shokal doshtay je email pathano hoyeche doya kore ta upre tanun,email_query
+14114,shila bali ki,qa_definition
+561,amar shokal attar alarm batil kor,alarm_remove
+4980,doya kore volume seting korun,audio_volume_other
+6062,light er switch chalu korun,iot_wemo_on
+10564,tasko list opsaron korun,lists_remove
+9721,hari potarer ponchom boiti resume kor,play_audiobook
+14956,manchitro khulun,qa_factoid
+1103,shubho oprahno,general_greet
+9480,pratohrasher radio amar bajan,play_radio
+1506,wemo plug chalu korun,iot_wemo_on
+2324,volume shunno korun,audio_volume_mute
+1788,uchchotor volume set korun,audio_volume_up
+3325,apni plug chalu korte paren,iot_wemo_on
+1519,kofipot chalu korun,iot_coffee
+4593,asonno alarm guli somporke amake bolun,alarm_query
+13786,takar bortoman binimoy har,qa_currency
+10059,makhner bikolpo ki,cooking_recipe
+5317,ghore ujjolota baran,iot_hue_lightup
+9046,bingshotom soptaher jonno somosto tiutring event muche felun,calendar_remove
+10693,ei talika porishkar korun,lists_remove
+3793,speaker ti ekhon anmiut korun,audio_volume_up
+14863,tribhuj ki shonggayito kore,qa_definition
+11591,mahtam sakiber ekti boi suparish korun,recommendation_movies
+4542,media r volume jore kora,audio_volume_up
+4912,ei koutuk ki somporke,general_joke
+2024,kichu coffee toiri kora shuru korun,iot_coffee
+2691,ami ar socket byabohar korte chai na,iot_wemo_off
+1641,iha baran,audio_volume_up
+1477,aloguli koman,iot_hue_lightdim
+10917,apni ki amar jonno shesh talika muche felte paren,lists_remove
+3414,ami kokhon amar adesh diyechilam ebong etite kotota somoy lagbe,takeaway_query
+10654,budhbarer talika theke poritran pan,lists_remove
+750,volume dosh shotangsh porjonto koman,audio_volume_down
+13282,amake sar jogdish chondro bosu somporke sobkichu bolun,qa_factoid
+15072,apni kibhabe surj bornona korben,qa_definition
+4977,soptaher kon din chabbish tarikh,datetime_query
+4686,porer ganti bajao,play_music
+15066,ami ekhon ek rupee r koto taka pete pari,qa_currency
+152,volume poriborton korun,audio_volume_other
+3456,sakiber pizza ki sorobrah kora ache,takeaway_query
+9843,tamashar karento ganti abar bajao,play_audiobook
+2832,olly coffee mekar shuru korun,iot_coffee
+14821,onek desher tulna,qa_factoid
+1785,doya kore rannaghor bondho kor,iot_hue_lightoff
+15300,olly trending social media,social_query
+144,ami eta pochondo kori,music_likeness
+4744,amar asonno somosto alarm gulir talika korun,alarm_query
+5925,amake aifon somporke shesh khobor din,news_query
+3110,porer ghonta dhore rakhun,audio_volume_mute
+5337,alexa amake apnar set kora alarm somoy prodan korun,alarm_query
+1712,somosto imran mahmuder duhkhit ganer filtar korun ebong imran mahmud er duhkher ganer playlist songrokkhon korun ba toiri korun,music_likeness
+3427,apni ki alo jalate paren,iot_hue_lightup
+3932,ek patro coffee toiri korun,iot_coffee
+5730,doya kore alo bondho kor,iot_hue_lightoff
+17064,bhobisshote byaboharer jonno amar contact e ei email ti songrokkhon korun,email_addcontact
+9240,tumi ki bigyapon chara ekoistik music bajate paro,play_radio
+14176,jonno stock mullo ki,qa_stock
+12198,amake dhaka er relgari er ticket book korun,transport_ticket
+5555,ei ganti kon cinema r,music_query
+2751,apni ki amar jonno coffee machine shuru korte paren,iot_coffee
+10549,ami ekti notun talika shuru korte chai,lists_createoradd
+2629,food panda r order korun,takeaway_order
+11052,talikay ki ache doya kore amake bolun,lists_query
+1520,volume ponchashe baran,audio_volume_up
+9266,amar pochonder radio station ti tune kor,play_radio
+12793,amar kaj korar pothe kon durghotna ache ki,transport_traffic
+2500,olly doya kore smart socket ti bondho korun,iot_wemo_off
+12420,nikototom lokkhyo kothay,transport_query
+3017,bangladeshi delivery kore,takeaway_query
+5513,amake ei songiter shurur bakkangsh bolun,music_query
+1073,rannar ghorer alo nibhiye dao,iot_hue_lightdim
+276,jini ganti kobhar korechen amar proticchobi,music_query
+12492,amake ekta gari dao,transport_taxi
+12811,dhaka traffic dekhan,transport_traffic
+4847,wemo plug socket sokriyo korun,iot_wemo_on
+1364,socket bondho obosthay rakhun,iot_wemo_off
+16915,amar ki kon notun email ache,email_query
+4621,ekhon kom alo,iot_hue_lightdim
+2881,bortoman ganer punrabritti korun,music_settings
+4045,kar dara ei ganti,music_query
+12666,ei muhurte traffic kemon ache,transport_traffic
+5399,robibarer somosto alarm soran,alarm_remove
+2186,ami tomake amar bosar ghorer alo nibhiye dite chai,iot_hue_lightoff
+193,amake kichu koutuk bolun,general_joke
+5,bondho rakha,audio_volume_mute
+12769,dhaka relgari ticket koto,transport_query
+3374,jodi ami dhakay sumner phone kori sondha choytay tar somoy ki hobe,datetime_convert
+17159,konotrakte uttorer mail jog korun,email_addcontact
+2347,music player e bortoman trak dekhan,music_settings
+8980,apriler tritiyo tarikher jonno appointment batil korun,calendar_remove
+13350,dui gun dui ki,qa_maths
+9621,ami rannaghre radio te bhuter bari show shunte chai,play_radio
+11452,radio today te mach dhora podcast guli chalan,play_podcasts
+5887,shokti bondho korun,iot_wemo_off
+15267,social midiyay notun kichu,social_query
+8374,dui ghontar moddhe mitingyer jonno alarm soh event toiri korun,alarm_set
+10106,amake pizza chikener recipe dekhan,cooking_recipe
+9824,misir ali jekhane shesh korechilam sekhan theke chalu kor,play_audiobook
+14902,adhikker shongga ki,qa_definition
+287,sofar pasher bati jalao,iot_hue_lightup
+11091,ei item ti sonnibesh koran,lists_createoradd
+2123,dhaka abohawa kemon,weather_query
+4390,volume komiye din,audio_volume_down
+3233,amar jonno ekti coffee toiri korun,iot_coffee
+14845,amake bolun bhugorbhostho mane ki,qa_definition
+2752,doya kore amake ek cup coffee baniye din,iot_coffee
+6053,alor briddhi barale ekhane niche dekha kothin,iot_hue_lightup
+11230,ami pidie er kono report ache,lists_query
+2510,sondha pachta obdhi nijeke bondho rakhun,audio_volume_mute
+9244,kansas city r hip hop station ti chalao,play_radio
+4806,amar ekta bhalo koutuk dorkar,general_joke
+14623,chirkut tothyo,qa_factoid
+13701,dollar ebong british pound er moddhe binimoy ki,qa_currency
+9925,ekti dim siddho ami koto somoy dhore korbo,cooking_recipe
+2310,alo sate namiye dao,iot_hue_lightdim
+15253,shesh din kon bondhura chil,social_query
+17084,ei soptaher jonno kototi notun email eseche,email_query
+16053,habibke chakrir jonno ekti mail pathan,email_sendemail
+15643,tothyo proyojon,social_query
+1626,alarm ton set korun,alarm_set
+1634,olly amake amar alarm dekhao,alarm_query
+199,amar priyo pizza jayga ki tekooyer jonno upolobdho,takeaway_query
+3344,agamikal kokhon ami ghum theke uthob,alarm_query
+5283,nijeke nihshobdo korun,audio_volume_mute
+10060,eti majhari howar jonno amar kotokkhon ekti sinar mangsho ranna korte hobe,cooking_recipe
+4344,ei gantike pach tara rate din ebong reting songrokkhon korun,music_likeness
+1433,doya kore volume komiye din,audio_volume_down
+1290,plug e chalu,iot_wemo_on
+17120,kon notun email ache ki,email_query
+88,are ami chai apni biriyani order korun,takeaway_order
+14671,ek hajar pesor jonno amader koto taka lagbe,qa_currency
+11383,ami rock endo roll er podcast shunte chai,play_podcasts
+3358,standing rock protibad trak rakhun,news_query
+4633,bosar ghore alo ekhon bondho,iot_hue_lightoff
+5101,olly jog alarm batil kore,alarm_remove
+5033,amake kukur somporke ekti koutuk bolun,general_joke
+6081,amar ki aj ekta kot lagbe,weather_query
+16468,amar porichiti ei email jog korun,email_addcontact
+4739,dhakay ki ekhon dupur,datetime_query
+11777,amar kache ekti joibik bibhag songe mudikhana khujun,recommendation_locations
+849,amake ekti koutuk din,general_joke
+10725,kamalke talikay nin,lists_remove
+1711,amar playlist e uddessho nei mereya gan songrokkhon korun,music_likeness
+60,sat shokale alarm bondho korun,alarm_remove
+9104,shonibar ki kono appointment set ache,calendar_query
+16346,ibhanke email pathan ebong shokal bela bhule na jawar jonno take smoron koriye din,email_sendemail
+6175,ami kichui dekhte pacchina,iot_hue_lighton
+7948,ei event ti amar calendar e jukto kor,calendar_set
+5256,gan poriborton korun,music_settings
+13446,emran ki hoyeche,general_quirky
+10683,ekhon porjonto amar talika ki,lists_query
+16952,sumner email ki,email_querycontact
+6569,choncholer kotha bolun,general_quirky
+16926,ami gotkal ki email peyechi,email_query
+12017,sthoniyo pizza dokan sonakto korun,recommendation_locations
+13007,apni konti sera doshok chil bole mone koren,general_quirky
+9536,sobcheye kacher f m station e tune korun,play_radio
+8650,ekti bigyopti onusmarok ebong brihospotibar jonno calendar event jog korun shokal satta lebel bikroy sobha doya kore,calendar_set
+12621,dhaka relgari koto somye chole,transport_query
+14333,daraz kokhon bondho hoy,qa_stock
+717,onugroh kore amake prothom alo shesh khoborti porun,news_query
+7433,obosthan amar office,calendar_set
+15111,doya kore eti shonggayito korun,qa_definition
+2501,doya kore smart socket bondho korun,iot_wemo_off
+2718,amake share pachtay jagiye din,alarm_set
+5091,olly duti gan eriye jan,music_settings
+17071,amake porun amake notun kon email amake notun barta pathan,email_query
+5502,onugroh kore holti aro ujjol korar byobostha korun,iot_hue_lightup
+12459,amake train er ticket dekhao,transport_ticket
+12512,charoshot ekochollish traffic er mot eksochenjo ki,transport_traffic
+8147,calendar event theke konsart soran,calendar_remove
+12065,rajshahi ashepashe ghotna talika korun,recommendation_events
+1064,volume er settings prodorshon korun,audio_volume_other
+10612,shushko uposorg soh somosto khaddo item talika theke dure niye jan,lists_remove
+455,bedroom er alo lal kore din,iot_hue_lightchange
+1100,tumi aj kemon acho,general_greet
+4050,amake ekti koutuk bolun,general_joke
+16882,email er maddhome barta pathan,email_sendemail
+12645,rastagulo ekhon kemon lagche,transport_traffic
+12880,train kokhon komlapur station e ase,transport_query
+12502,aj ashi route e janojot beshi,transport_traffic
+12028,mirpur ghor dour protijogita,recommendation_events
+9646,radio,play_radio
+13757,google manchitro,qa_factoid
+4937,amar klasikal playlist e jao,play_music
+16159,ekti notun email jog korun,email_addcontact
+14013,gohna mane ki,qa_definition
+15376,darazke tweet kore bolun je tader service abar baje hoye geche,social_post
+11046,amake amar bondhu talikay niye jan,lists_query
+14132,onugroh kore amake bolun apnar kache koto takar dam koto rupee,qa_currency
+15088,bangladesher ebong taka binimoy ki,qa_currency
+143,ami eta pochondo kori na,music_dislikeness
+5692,petabit record korun,music_likeness
+961,doya kore ei ghore ujjolota baran,iot_hue_lightup
+11919,apni ki amake bolte paren kon boi sobcheye bhalo ribhiugulo,recommendation_movies
+5018,ami gorom coffee chai,iot_coffee
+5419,onugroh kore wemo socket bondho korun,iot_wemo_off
+10,porar jonno upjukto alo set korun,iot_hue_lightchange
+10326,tv te amader pochonder football match ti chalao,play_game
+3820,bortoman ganti osadharon hisebe note korun,music_likeness
+14883,koto jonno amra rupee r jonno taka binimoy korte paren,qa_currency
+4369,light er sathe songjog koro,iot_hue_lightup
+1631,shunte hobe amar bortoman ganer volume,audio_volume_up
+1883,oi ganer nam ki,music_query
+1552,smart plug chalu korun,iot_wemo_on
+11882,olly chottograme deri porjonto khola ki ache,recommendation_events
+5972,apni doya kore at theke noytir moddhe alarm er set ti soriye dite paren,alarm_remove
+16707,rubel ahmed kothay thaken ebong tar phone number ki,email_querycontact
+16830,sakib ekti nishchitokoron email pathan,email_sendemail
+13290,chirosthayi orth,qa_definition
+1044,amar kachakachi sera pizza je bitoron kore,takeaway_order
+4970,amar kajer alarm soran,alarm_remove
+11432,tumi ki bhut f m podcast ti bajate paro,play_podcasts
+3963,ajker jonno kon alarm ache,alarm_query
+3095,moyomonshing e abohawa kemon,weather_query
+13264,dinta kemon chilo,general_greet
+1610,coffee shuru korun,iot_coffee
+1899,sottor shotangsh alo ujjol korun,iot_hue_lightup
+9265,radio ti chalu kor,play_radio
+2503,apni ki smart socket ti bondho korte paren,iot_wemo_off
+9753,apni misir ali bajano paren,play_audiobook
+719,hi,general_greet
+10537,chutir talika toiri korun,lists_createoradd
+3483,aj basar fire abohawa kemon,weather_query
+753,kichukkhon kotha bolben na,audio_volume_mute
+2382,porishkar prokriya shuru korun,iot_cleaning
+13551,amake ajker offer kora sera biriyani din,takeaway_order
+1154,ranna ghorer alo bondho korun,iot_hue_lightoff
+11694,kono bhalo cinema,recommendation_movies
+4091,ami amar speaker er volume chai,audio_volume_up
+10972,school sorobraher jonno ekti notun talika toiri korun,lists_createoradd
+10311,tumi ki ekti game khelte pochondo korboe,play_game
+2078,doya kore volume samanno komiye din,audio_volume_down
+4825,halka rong niler sathe poriborton korun,iot_hue_lightchange
+9388,kacher rock station ti khoj,play_radio
+5850,amake ekti kapuchino banao,iot_coffee
+661,doya kore ami ki jante pari bangladeshe kokhon sondha choyta hobe,datetime_convert
+15320,amake sorboshesh fid update dite doya kore,social_query
+10610,ekti talikay item jog korun,lists_createoradd
+11818,olly biyar bikri kore emon ekti dokan khujun,recommendation_locations
+4636,speaker er volume hras korun,audio_volume_down
+12971,olly apnar ki amar jonno kon poramorsh ache kibhabe ami porichalna korbo,general_quirky
+12316,amar obosthaner kachakachi traffic somporke tothyo din doya kore,transport_traffic
+1531,onugroh kore g theke notun khujun cnn,news_query
+12031,nooga asonno ghotna talika,recommendation_events
+120,olly amake hosan,general_joke
+9894,misir ali apni kothay resume kor,play_audiobook
+13879,ayub bachchu somporke bolun,qa_factoid
+5066,doya kore volume level poriborton kore unish theke korun,audio_volume_up
+1451,alo samonjosso korun,iot_hue_lightchange
+4531,porer ushno din kokhon,weather_query
+953,doya kore apni amar speaker nihshobdo korun,audio_volume_mute
+13686,bangladesher mudrar binimoy har ki,qa_currency
+4397,doya kore apni shantobhabe kotha bolte paren,audio_volume_down
+1522,bamer speaker er volume dosh dara baran,audio_volume_up
+5891,kon alarm set ache ki tara ki,alarm_query
+13743,ja bortomane twitter e trend korche,social_query
+5877,ei ganer music khubi melodiyas ebong rilaksing,music_likeness
+2147,alarm khulun,alarm_set
+5435,amar rat attar alarm muche felun,alarm_remove
+9785,boiti chalu koro,play_audiobook
+15480,ei obhijog rifresh korun,social_post
+262,alo nil korun,iot_hue_lightchange
+14086,duishoke tero diye bhag korle ki hoy,qa_maths
+607,bish miniter jonno nihshobdo set korun,audio_volume_mute
+16283,contact e check korun,email_querycontact
+414,amar kokkher alo kichu romantic ronge poriborton korun,iot_hue_lightchange
+551,ke ei gan gaiche,music_query
+5540,ami coffee pan korte chai,iot_coffee
+2648,lalongiti songiter jonno amar playlist check korun,music_settings
+10635,ki talika pawa jay ta amake dekhan,lists_query
+14420,rashed sikdar amar talikabhukto stock biniyog korche,qa_stock
+563,halka rong poriborton,iot_hue_lightchange
+11249,eta jog korun,lists_createoradd
+1792,shubho oprahno kemon achen,general_greet
+13514,biral mach khete pare,qa_factoid
+16731,amar kache ki saheber kon notun email ache,email_query
+6552,rajniti cinema r golpo ki,general_quirky
+3706,aj nobmi tarikh,datetime_query
+14660,bissher brihottom mohadesh ki,qa_factoid
+3324,onugroh kore wemo plug bondho korun,iot_wemo_off
+10888,talika bad din,lists_remove
+1814,onugroh kore amake chini chara coffee poribeshon korte shahajyo korun,iot_coffee
+13050,shakib khan kokhon jonmogrohon korechilen,qa_factoid
+4699,mone korano,alarm_set
+4756,ami kichu daun tempo shunte chai,play_music
+10540,talika dekhan,lists_query
+10556,amar talika ki,lists_query
+2189,amar wemo plug bondho korun,iot_wemo_off
+13950,amake taka ebong dollar er moddhe binimoy har dekhan,qa_currency
+2368,ei bissher sorboshesh khobor ki,news_query
+7648,calendar theke event soran,calendar_remove
+3334,vacuum cleaner diye ghor porishkar korun,iot_cleaning
+1200,olly hassokor kichu bolun,general_joke
+1145,amar vacuum cleaner chalu korun,iot_cleaning
+11308,ami sasthyo bishoyok notun ekti podcast shunte chai,play_podcasts
+118,ei ganer shilpi ke bolun,music_query
+7212,amar poroborti kajer mitingyer ek ghonta age amake mone koriye din,calendar_set
+1031,bosar ghorer alo mlan korun,iot_hue_lightdim
+4446,amar gontobbe jawar jonno apnake ekti bikolpo poth khuje ber korte hobe,transport_query
+10360,amar sathe daba khela khelun,play_game
+3510,sob bosar ghorer alo bondho korun,iot_hue_lightoff
+1373,apni upre kotha bolte paren,audio_volume_up
+121,amake ekti bhalo koutuk bolun,general_joke
+16933,gym er contact dekhan,email_querycontact
+4523,bairer abohawa kemon,weather_query
+3009,amar jonno alo bariye dewa dorkar tumi ki ta korte parbe,iot_hue_lightup
+238,kon alarm ache,alarm_query
+12622,shrimongol robibar train ti kotbar chole,transport_query
+16909,amar talikay ekti notun email porichiti jog korun,email_addcontact
+119,amake hasale,general_joke
+15188,amar twitter account check korun,social_query
+7183,shonibar rat doshtar jonno calendar e rokeyar jonmodinti jukto korun,calendar_set
+1686,eta ki hyan ba na je agamikaler tapmatra gorom hobe,weather_query
+11097,bikkhat obhinetader talika muche din,lists_remove
+1055,ei gan ar bajaben na,music_dislikeness
+3573,hi google ei ganti khub kolaholpurn,music_dislikeness
+2894,speaker er volume kom,audio_volume_down
+8775,bikel tintey ekti notun reminder set korun,calendar_set
+12297,hail taxi,transport_taxi
+1384,ei maser tritiyo shukrobar kon tarikh,datetime_query
+10576,porichiti talika theke borun bisshas muchun,lists_remove
+12912,ami ki ek ghontar moddhe amar barite asar jonno ekti taxi pete pari,transport_taxi
+801,onugroh kore speaker er shobdo nihshobdo korun,audio_volume_mute
+11473,amii amar pochonder channel er gotkaler podcast ti shunte chai,play_podcasts
+10660,item char soran,lists_remove
+8884,poroborti mongolbar mitingyer jonno ekti alarm set korun,alarm_set
+1297,jore,audio_volume_up
+10275,mukti kampo chalu kor,play_game
+13550,apni ki amake bolte paren je ei bochrer tero tarikh shukrobar tv te bajano hobe,general_quirky
+10079,khabar ranna korar sohoj recipe ki,cooking_recipe
+12599,kon obosthaner dirghotom somoy ki,transport_query
+10885,ekti item muchun,lists_remove
+14575,ingllando kon mudra byabohar kore,qa_currency
+4157,are olly apni ki somproti kon koutuk hassokor shunechen,general_joke
+615,amar playlist theke gan somuh bajan,play_music
+2349,ghorer bortoman alor ronggulike garh ronger sathe protisthapon korun,iot_hue_lightchange
+3709,ei ganti prothom kokhon record kora hoyechilo,music_query
+2445,sneha amar coffee banan,iot_coffee
+16792,ei je amar strike ami tomake bhalobasi ei barta pathan,email_sendemail
+1723,noy-i february dui hajar sotero sale dhakar abohawar poristhiti kemon hobe,weather_query
+1173,awaj adjasto korun,audio_volume_other
+10122,ekti bhalo dal recipe ki,cooking_recipe
+15835,doya kore amar samprotik email er uttor din,email_sendemail
+10198,sera chaumin recipe jonno onusondhan,cooking_recipe
+12678,train dara prodotto obosthane kon trip ache ki,transport_query
+5769,food panda r restoray ki sorobrah ache,takeaway_query
+3703,ei soptaher jonno ki alarm set kora hoyeche,alarm_query
+12737,koyekti janbahon rasta,transport_traffic
+13537,jibner uttor ki,qa_factoid
+5527,asbabopotro porishkarer jonno cleaner sokriyo korun,iot_cleaning
+12725,amake dhakar jonno ekti sosta train er ticket khujun,transport_ticket
+3070,doya kore awaj bondho korun,audio_volume_mute
+12015,amar ki ki event gulo ache,recommendation_events
+754,ei somoy oncholti dhaka poriborton korun,datetime_convert
+11171,sob upolobdho er pete,lists_query
+2732,amake kichu coffee shuru korun,iot_coffee
+7725,proti dui din sukhi jiniser jonno ekti onusmarok set korun,calendar_set
+17161,amar porichiti songrokkhon korun,email_addcontact
+1332,ei ganta ami kothay pabo,music_query
+12371,haspatal jawar jonno amake ekti ride khuje din,transport_taxi
+2011,hello apni kemon achen,general_greet
+11011,memo khulun,lists_remove
+2748,ami ki ei aloke komlate poriborton korte pari,iot_hue_lightchange
+17131,amar drafto foldare songrokkhit email ti jihadke pathan,email_sendemail
+6450,kokhon prothom sottor degree diner purbabhas,general_quirky
+4406,awaj bondho korun,audio_volume_mute
+1980,amar pochonder gan bajan,play_music
+12860,porer train ti dhaka uddesshe kokhon charbe,transport_query
+1632,ekhon bajano ganer volume barate hobe,audio_volume_up
+14790,ekti takar ebong ekti rupee r mulloer moddhe parthokko ki,qa_currency
+4450,amar jagar alarm kokhon ache,alarm_query
+1284,ei somoyti aiesti poriborton korun,datetime_convert
+16351,amar meilobokso check korun ebong amake janan je aj shokal sattay kono mail post ache kina,email_query
+12269,chottogram dhaka mel thik somye pouche jabe,transport_query
+4517,amar order er status dekhun,takeaway_query
+1539,ami kokhon amar khabar tulte pari,takeaway_query
+7251,shamler party ta batil korun,calendar_remove
+8293,punrabrittimulok ghotna calendar e jog kora hoyeche,calendar_set
+10257,ekti game khelte chan,play_game
+394,ajimpure dupur hole dhaka kota baje,datetime_convert
+11748,kumilla ki hocche,recommendation_events
+10779,amar jonno ei talika muche din,lists_remove
+5314,ager ganer punrabritti korun,music_settings
+11540,nimnolikhit podcast porbo shuru,play_podcasts
+3533,onugroh kore bangladesh somoy onchol poriborton korun,datetime_convert
+5492,apni ki amar jonno alarm bondho korben,alarm_remove
+13314,apni je bhumikar jonno jacchen tar upor nirbhor kore apnar uttorke probhabit korboe,qa_factoid
+11479,radio lab porer porbo khelun,play_podcasts
+4169,doya kore kansater abohawa bolun,weather_query
+2552,amar diner somoy dorkar,datetime_query
+5496,ami ei cinema dikhechi,recommendation_movies
+3656,ami sadharonot ki gan shuni,music_query
+3274,notun bangladeshi restaurant theke je kono khabar din,takeaway_query
+10657,talikay dim jog korun,lists_createoradd
+14983,dosh dollar ke euro te rupantorer binimoy har,qa_currency
+4275,doya kore amake ekti koutuk bolun,general_joke
+3877,wemo plug socket chalu ache,iot_wemo_on
+12331,olly amake tritiyo tarikhe dhaka shohrer relgari er ticket book korun kokhon ami kon chinta kori na,transport_ticket
+12448,shonibarer jonno dhaka train er ticket er jonno book korun ebong orthoprodan korun,transport_ticket
+15474,daraje ekti barta pathan je biddut abar bondho hoye geche,social_post
+1070,rannar ghorer alo jaliye dao,iot_hue_lightup
+11531,doya kore bhut f m er ager porbo ti chalu korun,play_podcasts
+12062,asonno sthaniyo ghotna dekhan,recommendation_events
+1689,ei soptaher abohawa songkranto purbabhas ki,weather_query
+462,ami jazz shunte chai,play_music
+1003,agamikal shokaler jonno amar alarm soran,alarm_remove
+1983,amar khawar somoy theke adha ghonta alarm set korun,alarm_set
+1393,somoy,datetime_query
+13541,londri shuru korun,iot_wemo_on
+10329,poker game ti chalu kor,play_game
+12378,amake ekti ride book korun,transport_taxi
+9586,masud bajao,play_radio
+8497,agamikal shokaler jonno amar somoysuchite amar ki ache,calendar_query
+12847,apni agamikal shokale dhaka theke feni jawar train er ticket book korun,transport_ticket
+12153,lokkhipur jawar prothom relgari koyta,transport_query
+6075,tumi ki bhigi bhigi bajate paro,play_music
+13843,dhaka ebong dinajpur moddhe koto mile,qa_factoid
+4762,apni ki speaker er matra barate paren,audio_volume_up
+3083,doya kore amar alor rong poriborton korun amake obak korun,iot_hue_lightchange
+2366,ei gan kokhon ber hoyeche,music_query
+3777,ami ekhon komla alo chai,iot_hue_lightchange
+8356,kokhon bank chuti,calendar_query
+13265,ami asha kori amra biskut khete parob,general_quirky
+15712,ami daraz er kache obhijog korte chai,social_post
+12009,chottogram ajker kon fri event,recommendation_events
+9533,ch khela shuru 89.6 f. m. radio jokhon eti dupur ektay hoy,play_radio
+7869,calendar theke event ber korun,calendar_remove
+10586,sekhane gajor rakhte mone rakhben,lists_createoradd
+549,onugroh kore feelings sei songitti abar punrabritti korun,music_settings
+5179,ami ei gan je bajche pochondo,music_likeness
+4025,bondho kor,iot_wemo_off
+11930,ki notun boigulo bhalo,recommendation_movies
+3292,pasifik ebong kendriyo somyer moddhe parthokko koto,datetime_convert
+9960,ami kibhabe bhat bashpo korte pari,cooking_recipe
+1001,amar smart plug socket chalu korun,iot_wemo_on
+12169,kumilla te ki ekhon traffic ache,transport_traffic
+1000,amar smart plug socket bondho korun,iot_wemo_off
+8556,ei shukrobar moddhahnobhojer kaj muche felun,calendar_remove
+16095,amar boske email korun je ami ajke derite aschi,email_sendemail
+2045,khub beshi alo,iot_hue_lightdim
+3382,bitorner jonno call korun ebong biriyani order korun,takeaway_order
+11240,ami chai apni amar jonno ekti talika toiri korun,lists_createoradd
+9873,amake aro kichu kothao keo nei hottakari porun,play_audiobook
+10930,amar telibhishon talikay ki ache,lists_query
+12804,amar apos byabohar kore,transport_taxi
+11092,ei item ontorbhukto,lists_createoradd
+2299,ei bochor bordin koto tarikhe hobe,datetime_query
+13511,ami kibhabe dui theke char biyog korbo,qa_maths
+664,alo bondho koriye dao,iot_hue_lightdim
+4213,porbot man proshanto mohasagre poriborton korun,datetime_convert
+3240,ghorer baire alor rong poriborton kore lal korun,iot_hue_lightchange
+948,ami bakograundo gan pochondo kori,music_likeness
+2361,ami kichu pizza order korte chai,takeaway_order
+3346,amar obosthan ebong bangladesh er moddhe somyer parthokko ki,datetime_convert
+5194,amar jana dorkar dhaka shohre ekhon koyta baje,datetime_query
+5613,alor abha koman,iot_hue_lightdim
+4713,soptahante amake jagao na,alarm_remove
+9693,chalano shuru kor tithir nil toyale,play_audiobook
+15341,apni amar niujfide shubho jonmodin post korun,social_post
+14220,shobdo shonggayito korun,qa_definition
+12120,amake adh ghontar moddhe dhakar jonno ekti taxi book korun,transport_taxi
+5151,onugroh kore poroborti gane jan,music_settings
+786,are apni kemon achen,general_greet
+15823,ami ki amar boser kach theke notun kichu peyechi,email_query
+9946,pizza jonno sera recipe ki,cooking_recipe
+13753,meril stock er doinik mullo koto,qa_stock
+10748,amar talika theke sei item ti muchun,lists_remove
+11223,kenakata talika muche din,lists_remove
+15912,jonike email korun,email_sendemail
+2747,amake ei alor rong poriborton korte hobe,iot_hue_lightchange
+2130,ektu ujjol dhonnobad,iot_hue_lightup
+5331,bangladesh ebong dhakar moddhekar somoy,datetime_convert
+3996,amar elakay ki khobor,news_query
+11167,amar kenakatar talikay dudh jog korun,lists_createoradd
+498,halka rongti lale poriborton korun,iot_hue_lightchange
+2923,are amake sadiyas cake theke kichu niye asar order koro,takeaway_order
+11422,je podcast ti ami shesh shunchilam seti shuru kor,play_podcasts
+14120,bari shobder orth ki,qa_definition
+9036,ajker jonno somosto event batil korun ebong amake byosto chihnit korun,calendar_remove
+13061,ami school er sothik shongga chai,qa_definition
+2924,are olly amake food panda r theke kichu ber korar adesh din,takeaway_order
+10581,dim item kenar talika theke trashe soran,lists_remove
+16684,amake rahul rahuler barir thikana bolun,email_querycontact
+12222,traffic er nay kemon,transport_traffic
+11869,olly amake rajshahi ekti chiriyakhana ba poshu park khuje ber korun ja ei soptahante khola,recommendation_events
+5717,doya kore ek ghontar jonno telibhishon nihshobdo korun,audio_volume_mute
+14840,bhartiyo rupee theke taka er rate koto,qa_currency
+12382,uber e taxi buking korun,transport_taxi
+2152,pochonder gan,play_music
+15352,doya kore tweet korun je amar dayapar chire jacche,social_post
+2111,jokhon ekhane rat doshta baje tokhon dhakay koyta,datetime_convert
+12238,ami kibhabe dhaka pete pari,transport_query
+16194,onugroh kore lijke email pathan,email_sendemail
+9769,golpo punray shuru korun,play_audiobook
+15947,contact khulun ebong ashikke khujun,email_querycontact
+213,aj ki tarikh,datetime_query
+2375,shilpi ke,music_query
+16844,inbox khulun,email_query
+12084,silet ki kono sangskritik kormokando hocche,recommendation_events
+2744,cnn e aj ki khobor nibondhoguli chil,news_query
+17091,contact,email_querycontact
+3520,eta ektu ondhokar alo briddhi korun,iot_hue_lightup
+2519,ami robot vacuum cleaner chalu korte chai,iot_cleaning
+10180,ami kibhabe ekti pizza ranna korbo,cooking_recipe
+15699,bajarer mishro ba nokol ponno,social_post
+6931,calendar e event jog korun,calendar_set
+5400,mongolbar shokal choytar alarm soriye din,alarm_remove
+10834,amar kenakatar talikay ki ache,lists_query
+9786,amar boiti chalao,play_audiobook
+4828,restoray takeaway ache,takeaway_query
+12282,ami silet theke rajshahi porjonto train er ticket chai,transport_ticket
+11659,amake ekti sundor chinese restaurant bolun,recommendation_locations
+125,sumi amake ekti koutuk bolun,general_joke
+466,siri kon tarikh,datetime_query
+16599,ei email muche din,email_sendemail
+210,doya kore alo dekhar jonno bondhuttopurn korun,iot_hue_lightchange
+1500,holer alo jalao,iot_hue_lighton
+14860,american dollar ke euro te rupantor korun,qa_currency
+11522,olly onugroh kore podkashter poroborti porbo,play_podcasts
+10209,besh bhalo,cooking_recipe
+12257,amake sentral park roder kache traffic er bortoman poristhiti bolun,transport_traffic
+7473,aj amar shikkhoker sathe sakkhater kotha mone koriye din pachta nagad,calendar_set
+10437,ekti notun talika toiri korun,lists_createoradd
+10558,amar talika dekhan,lists_query
+5048,mobile charjar plug e,iot_wemo_on
+9741,audiobook plebbak chalu rakho,play_audiobook
+4388,jharbati sob dike ghuriye din,iot_hue_lightup
+4329,apni ki amar phone e gan kon bajche ta chinte paren,music_query
+611,porer din shokal satta porjonto alarm set korun,alarm_set
+2462,artosel er songit shuffle korun,music_settings
+13410,ei trish baro somadhan,qa_maths
+13092,odhibeshner shongga ki,qa_definition
+15118,stock samprotik probonta check korun,qa_stock
+808,shokal attay coffee banao,iot_coffee
+11311,porer porbo ti chalao,play_podcasts
+580,doya kore light bondho korun,iot_hue_lightoff
+2549,ami prothom alo khobor jog korechi,news_query
+2001,jodi amar vacuum cleaner sokriyo na hoy tobe doya kore eti sokriyo korun,iot_cleaning
+5693,petabit shonao,music_likeness
+9898,chilekothar sepai audiobook por,play_audiobook
+5480,amra ki alo komate pari,iot_hue_lightdim
+1231,apni ki amake amar kachakachi sorboccho reted chinese kari out er menute nirdesh dite paren,takeaway_order
+15163,ajke ami kotogulo peyechi,social_query
+16218,jeriner jonmodin kobe,email_querycontact
+4528,apni ki amake bichana namok alarm ti somporke bolte paren,alarm_query
+4011,amar jonno vacuum shuru korun,iot_cleaning
+11893,ei soptahante kon ghotna ghotche,recommendation_events
+6545,amake jokos bolun,general_joke
+11113,ami amar talika shunte chai,lists_query
+9298,onugroh kore ch shuru korun f m atosh nobboi radio channel,play_radio
+2876,amake khushi korun,general_joke
+11912,tara ki ei soptahante dhaka kon ghotna ghotche,recommendation_events
+2372,ghore alor tibrota baran,iot_hue_lightup
+12747,amar jonno doya kore relgarir ticket book korun,transport_ticket
+11976,ami khulna je sob dokan khuje pacchi amake dekhao,recommendation_locations
+5878,ami gayker chironton kontho bhalobasi tini amar priyo,music_likeness
+5049,dashbord er sob botam chalu korun,iot_wemo_on
+1330,ei gantir nam ki,music_query
+529,switch off kore,iot_hue_lightoff
+12154,amar office er baire traffic obostha ki,transport_traffic
+2572,alo sobuje poriborton korun,iot_hue_lightchange
+10694,ei talika muche felun,lists_remove
+13650,dosher borgomul koto,qa_maths
+13479,amar presar kukarer jonno murgir urur recipe chai,cooking_query
+12805,phone number e call korun,transport_taxi
+1002,shokal attar jonno amar alarm muchun,alarm_remove
+3125,shekh hasinar bhromon nishedhagyar sorboshesh ghotna ki,news_query
+1261,ei ganti ashchorjojonok tai na,music_likeness
+445,punrabritti album,music_settings
+12798,amake station theke lokeshne train er somoy din,transport_query
+11051,amar talikay ki ache,lists_query
+9905,ami jekhane shesh korechilam sekhan theke bajano chaliye jan,play_audiobook
+3830,ami ar doinik bikal pachta proyojon mi alarm,alarm_remove
+10136,amake rannar oyebsait dekhan,cooking_recipe
+15745,olly shaminate notun email jog korun,email_addcontact
+2513,ami kibhabe amar coffee machine e taimar set korbo,iot_coffee
+16043,dui hajar sotero arthik protibedner jonno bisshonathke ekti mail pathan,email_sendemail
+13055,ei onkoti somadhan korun,qa_maths
+11958,amake cinema r somoy dekhan,recommendation_movies
+1906,volume hras korun,audio_volume_down
+14445,amake bolun bissho bhromne kothay jete hobe ebong kon sthanguli sobcheye guruttopurn,recommendation_locations
+1214,ami nil alo chai,iot_hue_lightchange
+3142,ami eti ghrina kori ei ganti abar chalaben na,music_dislikeness
+1854,ekhon koyta baje,datetime_query
+16901,ami ki amar babar kach theke kon email peyechi,email_query
+1942,vacuum cleaner sokriyo korun,iot_cleaning
+2096,food panda r ki online e order dey,takeaway_query
+692,ganer nam ki jeta bondho hoye gel,music_query
+14045,ei bostur jonno shongga ki,qa_definition
+13120,gonok,qa_maths
+8898,tothyo,calendar_query
+12304,dhaka relgari somoy,transport_query
+949,potbhumi te sei gan ti biroktikor,music_dislikeness
+1258,poneroi march er abohawar bistrit tothyo din,weather_query
+1291,plug bondho,iot_wemo_off
+3855,ami halum er koutuk shunte chai,general_joke
+1724,dhakar sorboccho tapmatra koto,weather_query
+4042,doya kore vacuum shuru korun,iot_cleaning
+574,ekoi gan doshbar punrabritti korun,music_settings
+8726,prottekti event muche felun,calendar_remove
+9247,ami kichu radio pop shunte chai,play_radio
+13560,byobsar shongga ki,qa_definition
+2645,bosar ghore alo komiye dao,iot_hue_lightdim
+12992,tin gun dui soman choy,qa_maths
+5686,wemo chalu korun,iot_wemo_on
+3141,doya kore shantobhabe kotha bolun,audio_volume_down
+134,amar sorobrah kora porjonto kotokkhon,takeaway_query
+2827,libhing rumer speaker er nihshobdo korun,audio_volume_mute
+17055,rahuler theke amar porichitite ekti notun email jog korun,email_addcontact
+3328,amake khobor dekhan,news_query
+3084,doya kore ei aloguli halka ronger matray din,iot_hue_lightdim
+7838,ki ghotche rat atta ebong bikel pachta aj,calendar_query
+1487,amar samprotik playlist theke firiye dao ganti chalao,play_music
+4214,amar bortoman onchol theke amar ghori kendriyo somoy onchole poriborton korun,datetime_convert
+9604,ami chai tumi radio chalao,play_radio
+15295,amar peje ki notun post ache,social_query
+12858,manchitro dekhao,transport_query
+11689,olly amake dekhan kothay sobcheye nikotostho restaurant,recommendation_locations
+2988,ami ki food panda r theke delivery pete pari,takeaway_query
+4417,somoy dhaka,datetime_query
+12574,train e dhaka ticket book korun,transport_ticket
+9196,ei calendar event muche din,calendar_remove
+907,apni vacuum chalu korte paren,iot_cleaning
+10874,apni ki amar korniyo talika muche felte paren,lists_remove
+14970,asun eksathe bissho dokhol kori,general_quirky
+4060,thakar ghore alo bondho korun,iot_hue_lightoff
+10890,amake kenakatar talika din,lists_query
+10847,ekti talika soran doya kore,lists_remove
+12157,amake jawar jonno train er ticket dao,transport_ticket
+9988,bashpibhut,cooking_recipe
+9820,odible kichukkhon chalao,play_audiobook
+16761,amar email guli prerok ke amake bolo,email_query
+145,ami lalongiti pochondo kori,music_likeness
+13374,kukurke ber hote din,general_quirky
+667,ujjolota hras korun,iot_hue_lightdim
+3684,google korun ami ontot doshbar ki gan shunechi,music_query
+15493,daraje kinte ekti obhijog likhun,social_post
+10021,upadan ki amake dekhan,cooking_recipe
+15799,amake notun email dekhan,email_query
+4808,mone rakhun ami kibhabe ei gan rate korechi,music_likeness
+10015,pachti bakke amake morog mosallam toirir poddhoti janate din,cooking_recipe
+14496,amake markin juktorashtrer dollar ebong kanadiyan dollar er moddhe binimoy har din,qa_currency
+16708,jakir er kajer obosthan somporke tothyo sondhan korun,email_querycontact
+12359,ami ki traffic poristhiti jante pari,transport_traffic
+12911,amar ek ghontar moddhe ride dorkar,transport_taxi
+5203,boguray shokal atta hole purbe somoy koto,datetime_convert
+4981,ekti hassokor koutuk ki,general_joke
+12792,kon traffic bilommo ache,transport_traffic
+4071,doya kore volume kom korun,audio_volume_down
+15007,soman,qa_maths
+6917,event gulo muche felun,calendar_remove
+1037,ami brihospotibarer jonno ki alarm set korechi,alarm_query
+4263,apni ki idaning kon bhalo koutuk shunechen,general_joke
+11872,apni ki amar elakay bortomane cholman kono cinema suparish koren,recommendation_movies
+4599,restaurant r jonno delivery oposhon sorobrah korun,takeaway_query
+11143,onugroh kore somosto nam ji er bornanukromik diye shuru korun ebong ekti talika toiri korun,lists_createoradd
+7507,aj amar calendar e koto meeting ache,calendar_query
+8735,gotkal theke amar onusmarok punrabritti korun,calendar_query
+15202,amar facebook e koto notification ache,social_query
+5918,alogulir tibrota koman,iot_hue_lightdim
+13458,choy gun atoshotti ki,qa_maths
+15031,snafu shobder shongga ki,qa_definition
+8357,doya kore ei event ti jukto korun,calendar_set
+255,olly ami sadharonot kajer pore ki gan pochondo kori,music_query
+3005,ei gan ta ki sidite ache,music_query
+8153,shukrobar nacher somporke apni amake ki bolte parben,calendar_query
+12644,traffic porishkar kaj kore,transport_traffic
+1976,jodi kon alarm set kora thake tahle amake janan,alarm_query
+3268,doya kore amake projuktite up to det rakhun,news_query
+12103,kon sthaniyo ghotna aj rat rakha hocche,recommendation_events
+12620,ekhan theke relgari chottogram jawar somoy koto,transport_query
+228,rais kukarer socket bondho korun,iot_wemo_off
+10484,online e khaddo ponner jonno ki talika pawa jay,lists_query
+4617,pizza station e jogajog korun ebong pizza ar lemned soh ekti boro pizza order korun,takeaway_order
+1152,holer moddhe vacuum cleaner byabohar korun,iot_cleaning
+4637,awaj settings kom korun,audio_volume_other
+3596,kemon cholche sob,general_greet
+14736,murgi ranna korar sobcheye sohoj ebong joldi poddhoti ki,cooking_query
+2285,shokal choytay coffee banao,iot_coffee
+6056,bosar ghorer alo bondho,iot_hue_lightoff
+3383,amake kichu khabar dao,takeaway_order
+9711,ami chai apni audio ti drut egiye nin taropor punrarombho korun,play_audiobook
+267,ekhane bhishonbhabe ondhokar,iot_hue_lighton
+10882,agamikaler jonno amar appointment er talika muche din,lists_remove
+4849,rat atta er jonno ekti alarm set korun mi,alarm_set
+12991,char jog pach soman noy,qa_maths
+15351,jalal sathe jogajog korun,social_post
+13449,amake nusrat jahaner boyosh din,qa_factoid
+10046,ami kibhabe ekti mangsho ranna korbo,cooking_recipe
+15440,protishthaner name tweet korun je ami somoyomto amar order paini,social_post
+9867,amar risentoli shona audiobook gulo list kor,play_audiobook
+12803,onugroh kore dhaka jawar train er ticket book korun,transport_ticket
+11559,podcast priyo khelun,play_podcasts
+12057,sthaniyo theatre skrining kon cinema,recommendation_movies
+12137,ibbhalir diknirdeshna,transport_query
+14825,jar mullo bangladeshi taka ba rupee r cheye beshi,qa_currency
+10701,ei jinisti talikay jog kora dorkar,lists_createoradd
+5795,bondho,iot_hue_lightoff
+1082,apnar volume uchcho doya kore ja parun kom punrabritti korun,audio_volume_down
+7937,ei event ti kon din hobe,calendar_query
+4907,khola koutuk,general_joke
+5360,amra kon somoy onchole achi doya kore bortomane poriborton korun,datetime_convert
+12730,er moddhe bortoman traffic kemon,transport_traffic
+2053,amar iromma bosar ghorer porishkar korun,iot_cleaning
+4203,doya kore wemo pawar kete din,iot_wemo_off
+14148,kommol bornona korun,qa_definition
+15870,masud er email aidi ki,email_querycontact
+2807,apni ki amake ek cup coffee dite paren,iot_coffee
+12863,aj kon traffic somossa,transport_traffic
+8181,apni ki amar calendar theke dater daktar dekhano muche felte paren,calendar_remove
+15146,facebook e sobcheye beshi like ki,social_query
+5903,ami ki shokal ch-tar jonno alarm set korechi ta nishchit korun,alarm_query
+7816,amake bonani shohorgulite asonno ghotna dekhan,recommendation_events
+9322,amar radio chalu kor,play_radio
+16464,notun contact hisabe oi email ti songrokkhon korun,email_addcontact
+688,amake ekhoni dhakar somoy din,datetime_query
+5618,aj shokale apni je alarm set korechen ta shudhu amar jonno dekhun,alarm_query
+11357,apni ki si en en onusondhan korte paren,play_podcasts
+3740,amake bissher sorboshesh khobor prodan,news_query
+15308,ami shunechi ali sobematro biye koreche apni ki amake tader instagram e biyer chobi dekhate paren,social_query
+12518,sekhane jete kotokkhon lagbe,transport_query
+3044,kon somyer jonno alarm set kora hoyeche,alarm_query
+2604,ekhon theke ek ghontar jonno ekti alarm set korun,alarm_set
+12123,amake ekti taxi book korun,transport_taxi
+10800,ekhon samprotik talika muchun,lists_remove
+8128,amake imran mahmudul somporke bistarit din,music_query
+8792,ei event er bishod biboron ki,calendar_query
+13148,ami chobi ba grafikso dekhate amar robot pochondo kori,general_quirky
+11734,olly kemon hol notun mubhi debi,recommendation_movies
+9081,porshu sob meeting porichalna korboe,calendar_set
+12319,kaj theke ghor e jete traffic kemon,transport_traffic
+1721,april mase puro soptaher jonno shokal doshtar alarm set korun,alarm_set
+10042,malai cake bargulir recipe ti kothay pab,cooking_recipe
+11931,apni ki amake dekhar jonno ekti bhalo natok sajesto korte paren,recommendation_movies
+10385,amar sathe jiro awar khelo,play_game
+3730,onugroh kore amake shekh jamal dhanomondi klab bachai somporke sorboshesh bolun,news_query
+11395,pore podcast e jhap din,play_podcasts
+1362,socket chalu korun,iot_wemo_on
+13834,ek taka american dollar tulnay koto,qa_currency
+2808,are olly ektu alo jaliye dao,iot_hue_lightup
+6671,ajke ki mojar kichu korte hobe,general_quirky
+5719,apni ki radio ke nihshobde sthapon korte paren,audio_volume_mute
+12200,aj sondhay ei bangladesh jawar relgari ticket book korun,transport_ticket
+11478,ekti podcast bajan,play_podcasts
+3544,ei ghore ki sobuj alo thakte pare,iot_hue_lightchange
+13137,koyti mohasagor ache,qa_factoid
+12183,charsho pach tite ki kono durghotna ghoteche,transport_traffic
+704,doya kore aloguli kom ujjol korun,iot_hue_lightdim
+4384,agamikal abohawa thanda ba gorom hobe,weather_query
+12784,amake ekti bortoman traffic report din,transport_traffic
+7407,brihospotibar satarer din event toiri korun ebong eti punrabritti korte set korun,calendar_set
+13097,prithibir mot mohasagrer songkhya koto,qa_factoid
+1825,amake dhaka sorboshesh update bolun,news_query
+4947,amake murgi somporke ekti koutuk bolun,general_joke
+32,karpetguli charidike bichiye din,iot_cleaning
+10618,ekti notun mudi talika shuru korun,lists_createoradd
+1966,halka rong sobuj kore din,iot_hue_lightchange
+4460,food panda r ki delivery ache,takeaway_query
+12889,ami ki jot taratari sombhob noyakhali theke bari porjonto ekti uber pete pari,transport_taxi
+11594,koto har gonna kora hobe,qa_stock
+9835,gan ek,play_audiobook
+7599,agami soptahe ki ghotna ghotche,calendar_query
+1074,obharhed light mlan korun,iot_hue_lightdim
+4668,delivery kina jigyasa korun,takeaway_query
+2634,speaker kom korun,audio_volume_down
+2875,rock gan bajao,play_music
+1035,amake feelings er sorboshesh gan bajao,play_music
+821,playlist ti shuffle korun,music_settings
+12545,dhakar poribohon khuje ber korun,transport_taxi
+7650,ei event er age bigyopti set korun,calendar_set
+114,ei playlist odolobodol korun,music_settings
+2652,sthaniyo songbad app khulun,news_query
+11094,ekti talika muche din,lists_remove
+2266,dhaka e abohawa ekhon ki korche,weather_query
+2487,volume upre,audio_volume_up
+12274,ekhan theke dhaka er jonno route pan,transport_query
+14097,kobe chil shakiber jonmodin,qa_factoid
+16798,doya kore sob notun email porun,email_query
+9928,amake bolun kibhabe pasta ranna korte hoy,cooking_recipe
+10631,ami chai apni talika theke item ti soran,lists_remove
+11635,agamikal kon cinema dekhano hobe,recommendation_movies
+929,gayker nam,music_query
+504,doya kore shanto hon,audio_volume_mute
+8514,amar ki agamikaler jonno amar somoysuchite kon khola ache,calendar_query
+8298,bangladesh kriket game ti kothay khelche,calendar_query
+7938,doya kore amake bolun ei event reminder ti kon diner jonno set kora hoyechilo,calendar_query
+5032,apni volume chalu korte paren,audio_volume_up
+2772,ami kokhon amar adesh nite pari,takeaway_query
+14122,apni ki doya kore bolte paren amerikar rajdhani ki,qa_factoid
+4284,alor ujjolota chalu korun,iot_hue_lightup
+1790,amake amar pochondoniyo songit bolun,music_query
+12997,ami mrittu somporke borjeser ekti kobita bujhte chai,general_quirky
+3430,apni doya kore vacuum lagate paren,iot_cleaning
+14334,dokkhin enpi koto uchcho,qa_stock
+5773,dhaka bortoman somoy,datetime_query
+4650,ami to ei dhorner ar kono gan shunte chai na,music_dislikeness
+5785,songit poriborton,music_settings
+17024,soptaher abohawa kemon ta khuje ber korun ebong make ekti email pathan,email_sendemail
+15888,apni ki onugroh kore sthaniyo restaurant r talika songgroh kore amar samike email korte paren,email_sendemail
+11319,porer podcast ti bajao,play_podcasts
+12900,tin july amar jonno relgari pas,transport_ticket
+12321,olly ekti taxi dakun,transport_taxi
+13187,amake britter kkhetrofler sutro bolun,qa_maths
+14741,notun aifoner spesifikeshon ki,general_quirky
+12175,dosh pi er jonno amake ekti uber flag korun mi aj rate,transport_taxi
+1299,dhire,audio_volume_up
+10837,olly er pore ki,general_quirky
+9039,tesra july bibahti muche felun,calendar_remove
+11957,olly amar nikte ki boi cholche,recommendation_movies
+6122,sei bakograundo ganti bhoyanok,music_dislikeness
+12333,amar jonno ekti train e ekti ticket book korun agamikal ki ja pawa jay rajshahi jawar jonno,transport_ticket
+9558,tumi ki gan bajate paro,play_radio
+13641,patther shongga ki,qa_definition
+7849,amar poroborti daktarder appointment kokhon hobe amake bolun,calendar_set
+7783,ami ki e soptahante ekti football khela ache,calendar_query
+12301,doya kore amake ekti uber din,transport_taxi
+7027,je event e amar facebook bondhura ongshogrohon korboe,calendar_query
+116,ki bajche,music_query
+5916,ekhon amar jonno kapachino shuru korun,iot_coffee
+269,sabina ekhane khub ondhokar ami emonki amar hat dekhte pacchi na,iot_hue_lighton
+11866,chottogram ei uikendo onushthanguli ache,recommendation_events
+12522,amar jonno relgarir ticket book korun,transport_ticket
+13171,ami bhaluker mot kibhabe haibarnet korte pari,general_quirky
+2399,ki durdanto ekti gan ami eimatro jeta bolechi seta apni amar jonno sebh korte paren,music_likeness
+10599,apni amar mudir talikay dudh jog korte paren,lists_createoradd
+4556,amar jonno kichu coffee toiri korun,iot_coffee
+1206,amar bikal tinta alarm nishkriyo korun,alarm_remove
+6080,aj dupurer khabarer por ki amar bhari koter proyojon hobe,weather_query
+15702,apni jodi amar jonno status post koren tahle bhalo hobe,social_post
+8798,doya kore amake bolun joyitar jonmodiner party kobe ache,calendar_query
+10395,ami ekhon amader jonno football khelte chai,play_game
+5807,apni aro dibhais niyontron korte apnar barite otirikto switch jog korte paren,iot_wemo_on
+11255,talikay ekhono ki ache,lists_query
+13789,chartir borgomul koto,qa_maths
+8855,doya kore somosto calendar event muche felun,calendar_remove
+13559,amar jodi ponchash dollar thake ebong chobbish ti khoroch kori tahle amar kache ar koto dollar obshishto thakbe,qa_maths
+17086,ei uttor doya kore,email_sendemail
+2811,ei ghorer ujjol korun,iot_hue_lightup
+8740,dupur duita er jonno ekti alarm set korun mi,alarm_set
+720,hello,general_greet
+12255,dhaka shohrer traffic somporke ki,transport_traffic
+313,ujjolota bish shotangsh briddhi korun,iot_hue_lightup
+11951,ei elakay kichu uchcho restaurant ache,recommendation_locations
+2005,eta ki food panda r theke sorobrah kora niye jete pare,takeaway_query
+5942,sontrasi karjokrom,news_query
+16827,amar strir email ki,email_querycontact
+2212,songit punrabritti,music_settings
+14210,ami chai ami eksathe video gemos khelte partam,play_game
+3449,lal theke nile alo poriborton korun,iot_hue_lightchange
+6206,ajker dinti sottii klantikor,general_quirky
+1879,ami gotkal sondhay sei koldople ganti shunechilam ta ki apni abar bajate paren,music_query
+264,alo ujjol nil korun,iot_hue_lightchange
+1859,amake sorboshesh projukti khobor anun,news_query
+6019,apnar pathano alarm jante chai,alarm_query
+14177,shel sauth stock aj kemon cholche,qa_stock
+3518,ami dekhte pacchi na asun etike aro ujjol kori,iot_hue_lightup
+8232,ami ei soptahe kichu korchi na,calendar_remove
+7236,doya kore poyla apriler appointment ti muche felun,calendar_remove
+16547,ami munirake email korte chai ebong jigyasa korte chai je se mirpure shukrobare kajer pore dekha korte chay kina,email_sendemail
+16500,onugroh kore amar samike ekti mail pathan amar aj rate deri hobe,email_sendemail
+11121,amar apple dorkar nei eta amar kenakatar talika theke soriye din,lists_remove
+12590,apni dhaka relgari somoysuchi porikkha korte paren,transport_ticket
+4732,volume kom,audio_volume_down
+409,amake amar alarm shonan,alarm_query
+5498,ami dhaka theke koto somye call korte pari ebong bangladesh eti byobsar somoy hobe,datetime_convert
+8319,amake bhule jeona satash tarikh dupure amar ekta reminder dorkar,calendar_set
+5542,mongolbarer boithker jonno rakha alarm amake janan,alarm_query
+12216,ekti plener ticket book korun,transport_ticket
+16307,ekti email toiri korun ja amar poribarer kache jete hobe,email_sendemail
+12194,dhaka shohre bortoman trafik ki,transport_traffic
+15764,are doya kore shesh papeler email er uttor din,email_sendemail
+11781,theatre ki khela dekhano hocche,recommendation_events
+3448,alor rong poriborton kore nil korun,iot_hue_lightchange
+1220,eti shesh hole ei ganti punrabritti korun,music_settings
+10307,amar sathe chekaros khel,play_game
+10274,engri bardos khulun,play_game
+3007,olly apni ki amar jonno alo barate paren,iot_hue_lightup
+8371,are olly bish tarikhe amar calendar porishkar korun,calendar_remove
+11595,ghotna sthol kothay,recommendation_events
+9467,amar pandora radio chalu korun,play_radio
+5222,amake khaleda jiya somporke sorboshesh khobor bolun,news_query
+12499,agamikal ki chadpurer jonno train er ticket pawa jabe,transport_query
+12443,ami ki traffic jam chara bari firte pari,transport_traffic
+12894,amake train er ticket book korte shahajyo korun,transport_ticket
+7823,amar ajke ki ki ache,calendar_query
+16644,ekti bohirgami bartar uttor pathate prostut,email_sendemail
+9409,radio songit bajan,play_radio
+6969,amar ajke ki korte hobe,calendar_remove
+15535,sthaniyo dokane tader grahok porisheba kotota bhoyonkor tuitkarider bakkha korun,social_post
+10396,ami ja bhabchi sei shobdo onuman kor khelati khela kemon hoy,play_game
+7139,amake dupur barotar meetinger jonno poner minit age notification set korun,calendar_set
+10487,talika toiri korun,lists_createoradd
+11416,poroborti rekording chalan,play_podcasts
+11632,onugroh kore amake bolo ami majhrater pore kachakachi kothay paniyo pab,recommendation_locations
+980,eti khub-i jore awaj hocche doya kore music ti koman,audio_volume_down
+6037,share pachtay amake jagao,alarm_set
+5858,vacuum cleaner shuru,iot_cleaning
+5420,onugroh kore wemo socket chalu korun,iot_wemo_on
+6474,abohawa ki,weather_query
+13755,eta ki,qa_definition
+8972,june mase ki kono jonmodin ache,calendar_query
+12820,traffic dekhan,transport_traffic
+14307,bharter bhougolik gurutto ki,qa_factoid
+685,gotkal rat choytay bajano ganti bajao,play_music
+305,food panda r theke ekti biriyani order korun,takeaway_order
+11925,bangla city plajar kachakachi cafe guli amake bolun,recommendation_locations
+3279,amar bosar ghore alo komiye din,iot_hue_lightdim
+14940,dosher uttor ki,qa_maths
+12830,hanif er ekti bohiragot cab book korun,transport_taxi
+13375,dosh bochre eshiya kemon hobe,general_quirky
+12026,gajipur dike kono dour khela,recommendation_events
+3672,doya kore shobar ghorer alo abcha korun,iot_hue_lightdim
+2084,ami joler gan ba ayub bachchu byotit jekon klasikkal shunte chai,play_music
+2033,ber kora adesh bortoman obostha,takeaway_query
+1727,ami bengol in restaurant theke khaddo sorobrah korbo,takeaway_query
+10623,olly kosmetik talikay dayapar jog korun,lists_createoradd
+2502,doya kore smart socket chalu korun,iot_wemo_on
+703,ami alo kom ujjol chai,iot_hue_lightdim
+10550,ekti notun talika shuru korun,lists_createoradd
+3641,onugroh kore amar barir aloguli jaliye din,iot_hue_lighton
+11590,got shukrobar muktiprapto ekti cinema suparish korun,recommendation_movies
+6839,amar ki agamikal kono meeting ache,calendar_query
+5003,alo baran,iot_hue_lightup
+1444,nirobta hon,audio_volume_mute
+10281,golof shuru koro,play_game
+6348,amar din songkkhep,general_quirky
+9315,radio te chalu korun rajshahi radio fm,play_radio
+2418,bortoman ganti punrabritti korun,music_settings
+10208,sugondho,cooking_recipe
+6437,olly aj ami amar phone er sorbotro onusondhan korechi ebong eti khuje paini,general_quirky
+413,amar rumer alo poriborton kore nil dao,iot_hue_lightchange
+11128,ajker kajer jonno ekti talika toiri korun,lists_createoradd
+12843,sondhay amar jonno bimanobondore ekti taxi book korun,transport_taxi
+14161,kon desh sobcheye beshi koyla byabohar kore,qa_factoid
+1955,ekhon bajano ganer punrabritti korun,music_settings
+709,amake nirbachni bhoter update pan,news_query
+12815,amake amar nikototom banko obosthaner diknirdesh din,transport_query
+6018,dhakar somoy,datetime_query
+7917,bikel tintay amar ma-ke call korar jonno amar ekti reminder dorkar,calendar_set
+4777,music laibrerite ganguli elomelo korun,music_settings
+1479,ajke sorboccho rate dewa koutuk ki,general_joke
+7116,amar calendar theke dadosh tarikhe amar appointment muche felun,calendar_remove
+2905,bati jalao,iot_hue_lighton
+1159,mojar jinis bolun,general_joke
+3250,ami kichu takeaway khabar order korte chai,takeaway_order
+7492,ei soptahe khola event,calendar_query
+4261,doya kore bodlikoron babhar korun,music_settings
+4720,soptahanto ki sundor hote jacche,weather_query
+3991,apni ki light bondho korte paren,iot_hue_lightoff
+15169,snapocchate notun kichu ache ki,social_query
+11768,ei soptahante demra ki ki ghotna ghotche,recommendation_events
+77,olly ami sottii ei ganti upbhog korchi,music_likeness
+6999,ghotna jog korun,calendar_set
+13047,noy dara bibhokto ashir jonno somadhan,qa_maths
+3792,amar speaker nihshobdo korte hobe,audio_volume_mute
+10447,amar talikay ki ache amake bolun,lists_query
+3580,amar alarm bondho na howa porjonto sailento mod chalu korun,audio_volume_mute
+544,amake ekti joghonno rosikta bolun,general_joke
+6463,ami selibriti gosiper bishoy chai,news_query
+9713,sam haris audio book chalao,play_audiobook
+2086,ami manna de ba kishor kumar byotit kon klasikkal shunte chai,play_music
+12418,ekhan theke shuru korar jonno ekti taxi book korun,transport_taxi
+2081,agamikal shokal choytar amar ekti alarm set korun,alarm_set
+12180,amar bortoman obosthane amar ekti uber dorkar,transport_taxi
+13621,amake oyaltoner bortoman stock mullo bolun,qa_stock
+14270,doya kore amake ek taka soman rupee r bistarit din,qa_currency
+13333,plus oyai dara ki,qa_maths
+2333,agamikal choytar jonno alarm set korun,alarm_set
+16333,notun email thikana jog korun,email_addcontact
+5765,vacuum shuru,iot_cleaning
+10188,ami kibhabe mangsh bhape seddho korbo,cooking_recipe
+3622,amake cnn shirshok golpo bolun,news_query
+758,oyemo plug socket chalu korun,iot_wemo_on
+13461,gonit patthodharaguli,qa_maths
+500,dhakay somoy koto,datetime_query
+12648,byobharik draibhing mullayon,transport_ticket
+13751,bortoman mudrar har,qa_currency
+2961,sobgulor punrabritti korun,music_settings
+5114,pachtar por ki kono alarm ache,alarm_query
+12141,kaj e jete traffic kirokom,transport_traffic
+9779,mirar gramer bari chalao,play_audiobook
+9072,ajker jonno amar somoysuchi prodorshon,calendar_query
+12432,amar dhaka er relgari agomner somoy dorkar,transport_query
+2746,libhing rum alo holude bodlao,iot_hue_lightchange
+2046,ami shobdo chai na,audio_volume_mute
+9995,pani futte kotokkhon lage,cooking_recipe
+9883,majhrater gan sirije fire jan,play_audiobook
+5067,shesh ganti punrabritti korun,music_settings
+12524,amake dhakar sobcheye sosta train er ticket book korun,transport_ticket
+1921,shubho sondha,general_greet
+4297,jore bolo,audio_volume_up
+15899,jamaler jonmodin kobe,email_querycontact
+11723,bonani jure prekkhagrihe ekhon cholche sobcheye premomoy hassoros mubhi somporke amake janan,recommendation_movies
+12138,amar jonno relgarir ticket book korun,transport_ticket
+14032,amake bolun kokhon hasinar jonmo hoyechilo,qa_factoid
+4374,set kora alarm guli abar dekhan,alarm_query
+2872,amar ki alarm set ache,alarm_query
+11375,podcast bajao,play_podcasts
+2435,robot vacuum cleaner chalu,iot_cleaning
+11254,notun item songe talika update korun,lists_createoradd
+3765,amar jonno ekti alarm set korun,alarm_set
+12493,amar trish miniter moddhe taxi lagbe,transport_taxi
+12230,bari jete amar ekta taxi lagbe,transport_taxi
+12584,jokhon amar office e jete hobe,transport_query
+13660,amader dollar ebong yen er moddhe binimoy har ki,qa_currency
+9048,ei soptahante chikitsa nijukti batil korun,calendar_remove
+4267,volume chalu korun songiter,audio_volume_up
+16984,shesh kobe ami rajiber sathe kotha bolechi,email_querycontact
+5259,ei gan thammos up,music_likeness
+2601,doya kore barandar alo bondho korun,iot_hue_lightoff
+1927,game rume wemo plug bondho korun,iot_wemo_off
+10980,apnar talikay ki ache bolun,lists_query
+5932,somoysuchi khulnate poriborton korun,datetime_convert
+16231,onugroh kore ajader email er protikriya janan je tar dharnati durdanto,email_sendemail
+10871,ajker jonno amar korniyo talikay school theke bachchader pik up jog korun,lists_createoradd
+13438,amar stock aj kemon cholche,qa_stock
+1437,amake amar alarm guli dekhte din,alarm_query
+383,garejer alo bondho korun,iot_hue_lightoff
+1213,olly ami nil alo chai,iot_hue_lightchange
+13849,apni ki amake takar binimoy har bolte paren,qa_currency
+6330,amar jatayat aj kothin chil,general_quirky
+598,shobdo chalu korun,audio_volume_up
+12179,kachpur rastay traffic poristhiti ki,transport_traffic
+7787,amar daktarer appointment er ager rate amake mone koriye din,calendar_set
+4370,music player e volume sat store baran,audio_volume_up
+5767,vacuum chalu,iot_cleaning
+8407,ami ei agami soptaher jonno ki ghotna ache,calendar_query
+55,ami kon suparish jete kichu torkari chai,takeaway_query
+5348,amake ektu abcha alo dao,iot_hue_lightdim
+16073,amar contact er notun email thikanagulo songrokkhon korun,email_addcontact
+452,jini bortomane songsod nirbachne egiye achen,news_query
+4285,ei soptaher sorboccho tapmatra koto,weather_query
+15940,sorboshesh email er uttor din,email_sendemail
+9203,kichu radio station chalu korun,play_radio
+15369,ibhelike tweet korun ebong tader bolun tader service abar baje hoye geche,social_post
+4965,onugroh kore amar oyemo plug socket chalu korun,iot_wemo_on
+5784,amake food panda theke biriyani order korun,takeaway_order
+15494,amake yahoo r jonno ekti kharap porjalochna likhte hobe,social_post
+1245,alor rong lal kore din,iot_hue_lightchange
+5539,coffee prostut korun,iot_coffee
+15691,amake chiloksor grahok seba number dekhan,social_post
+2047,volume kom kor,audio_volume_down
+3211,ei somye amake jagiye dao,alarm_set
+14048,ei onchole ekti bhouglik sotto ki,qa_factoid
+13189,amake bolun kon stock guli aj stock market nasdaker sobcheye boro labhkari chil,qa_stock
+3933,amar somosto sokriyo alarm dekhan,alarm_query
+5455,prothom alo theke khobor pan,news_query
+2722,apni ki kon bhalo koutuk janen,general_joke
+3236,bangladesh betar play korun,play_music
+1053,ei ganti khub bhalo na,music_dislikeness
+4289,ekhane khub ondhokar alor ujjolota briddhi korun,iot_hue_lightup
+2170,amar alarm poriborton korun,alarm_remove
+16383,hei olly amar ki kono notun email ache,email_query
+2904,mejhe porishkar korun,iot_cleaning
+10935,mudir talika muche din,lists_remove
+11321,onugroh kore bigyaner upor podcast chalan,play_podcasts
+4097,aj ki hocche,news_query
+10884,ami kibhabe ekti item muche felte pari,lists_remove
+7903,amar ebong rahuler majhe agamikal dupur dutoy meeting er reminder set korun,calendar_set
+12868,pathao,transport_taxi
+960,doya kore alo jaliye din,iot_hue_lightup
+9304,ami ekti rap station shunte chai,play_radio
+9180,budhbar shokal noytay rayhaner er sathe meeting korar jonno onusmarok set korun,calendar_set
+10259,ami apnake ekti khelar jonno chalenjo korchi,play_game
+12336,train e ekhan theke sitakundo lagoser durotto koto,transport_query
+10380,apni amar sathe khelte paren emon ekti khela beche nin,play_game
+7700,amar puro calendar porishkar korun,calendar_remove
+4434,ei soptaher jonno purbabhas ki,weather_query
+15819,notun contact toiri korun,email_addcontact
+5395,socket bondho,iot_wemo_off
+2190,amar wemo socket chalu korun,iot_wemo_on
+12948,bangladesher rajdhani ki,qa_factoid
+649,ami ki ajker jonno kono alarm set kore rekhechi,alarm_query
+4199,ajker jonno set kora somosto alarm okkhom korun,alarm_remove
+2013,ei muhurte ei ganer gayok ke,music_query
+14738,thik ache google bagerhat thakar jonno sobcheye bhalo ebong sobcheye sashroyi jayga kothay,recommendation_locations
+927,ke ei gan gay,music_query
+6851,ajke amar jonno ibhentos dekhao,calendar_query
+11035,item hotta,lists_remove
+1303,khaleda jiyar orthonoitik niti ki,news_query
+9530,kichu bhalbasar gan rakhun,play_radio
+9433,bangla ganer ekti playlist bajao,play_music
+6020,ami ki apnar set kora alarm somporke jante pari,alarm_query
+12670,amader ghor traffic porikkha korun,transport_traffic
+3697,ei socket chalu korun,iot_wemo_on
+16673,rahuler pathano shesh email e ki chilo,email_query
+4044,doya kore ekhoni vacuum kora shuru korun,iot_cleaning
+11159,mishti alu soran,lists_remove
+10799,amar talikay dim jog korun,lists_createoradd
+4490,amake sondha share choytar somoy mone koran,alarm_set
+15156,jini somproti social midiyay post korechen,social_query
+13368,at bar satti somikorner uttor dao,qa_maths
+2401,apni ki amar jonno eti ekti chomotkar gan songrokkhon korte paren,music_likeness
+4509,shokal doshtay alarm bondho korun,alarm_remove
+14886,mosharorof korim koto lomma,qa_factoid
+6042,ami alo bondho korte chai,iot_hue_lightoff
+5269,ekhon bangladeshe bikal share pachta baje bharter somoy ki hobe,datetime_convert
+1578,amake ekti bhalo chikitosker rosikta bolun,general_joke
+464,amake tarikh ebong somoy bolun,datetime_query
+3850,ki samprotik ghotna ei muhurte ghotche,news_query
+7428,apni amar asonno ibhentosmuh prodan korte paren,calendar_query
+1146,robot vacuum sokriyo korun,iot_cleaning
+10168,kibhabe ei khabar ranna korte hoy,cooking_recipe
+11188,talika khulun,lists_query
+12700,ei shokale trafik ki,transport_traffic
+1954,volume ponchash shotangsh porjonto baran,audio_volume_up
+9085,ami brihospotibar dupur duitay sompadker boithker jonno ekti onusmarok chai,calendar_set
+11736,mafiya ekti bhalo cinema,recommendation_movies
+11629,chouddo ebong atharo number rastar moddhe kono bhalo pizza sthan ache ki,recommendation_locations
+10003,ami chottogramer mejbani mangsho ranna korte chai kibhabe amake dekhan,cooking_recipe
+12105,dhaka atak,recommendation_movies
+7897,amar ki agamikaler jonno kono appointment set ache,calendar_query
+10515,amake bokeya bilgulir ekti talika toiri korte hobe,lists_createoradd
+3251,ami kkhudhart amake kichu sorobrah khabar dekhao,takeaway_order
+13883,emajon m tark mojud dam,qa_stock
+4572,onugroh kore wemo plug socket ti bondho korun,iot_wemo_off
+2064,ei soptahe abohawa kemon thakbe,weather_query
+1521,doshe volume kom korun,audio_volume_down
+10248,ami ekti khela khelte birokto,general_quirky
+11710,sthaniyo elakar sera dokan,recommendation_locations
+10201,biriyani khabarer dhapgulo ki,cooking_recipe
+10287,tik tak to kheli,play_game
+15919,amake esoesmither yahoo dot kome sam smith er jonno ei notun porichiti jog korte hobe,email_addcontact
+11738,somoy dekhan,recommendation_movies
+5357,eta ke,music_query
+13769,koto taka ami ki ek rupee te pete pari,qa_currency
+4204,ei soptahe tusharpat hobe,weather_query
+1730,amar kachakachi handi sentar chekoaut korun ebong bangla pizza order korun,takeaway_order
+10814,amar korniyo talikay mudi kenakata jog korun,lists_createoradd
+8654,kirner er snatok party may maser pach tarikh rubi lebeljukto ekti event jog korun,calendar_set
+666,ami alogulir tibrota komate chai,iot_hue_lightdim
+15322,jar jonmodin aj facebook e,social_query
+4635,speaker er volume komiye din,audio_volume_down
+2439,ei ganti kokhon record kora hoyechilo,music_query
+15937,email contact e jog korun,email_addcontact
+13668,sakramentote eti kotota pahari,qa_factoid
+13947,shakib khaner boyosh koto,qa_factoid
+12429,amar jonno ekti taxi book korun,transport_taxi
+13760,pakhi somporke bikkhat masik chada koutuk ki,general_joke
+14908,bangladeshor dirghotom nodi ki,qa_factoid
+16546,ei email er sathe ekti notun contact korun,email_addcontact
+16826,amar strike khujun,email_querycontact
+3219,agamikal shokal choytar jonno alarm set korun,alarm_set
+3136,ami ekti krim ebong tinti chini soh coffee cup coffee chai,iot_coffee
+976,dhakate ekhon kotota baje,datetime_query
+9687,karjokor manusher satti obbhas khelun dudh cha kheye toke guli kore deb,play_audiobook
+5959,ami tomake nihshobdo korte chai,audio_volume_mute
+14264,mohan agneygirir bhouglik man ki,qa_factoid
+2262,parthokko prokash koro,iot_hue_lightchange
+4946,robotik vacuum shuru korun,iot_cleaning
+17089,jogajog sondhan korun,email_querycontact
+11163,talika theke ekti item soran,lists_remove
+12147,olly amake shukrobar rate rajshahi jete hobe apni ki amake ekti ticket book korte paren,transport_ticket
+13973,ki cinema sakib al hasan koreche,qa_factoid
+3063,ami ei alarm ti sthayibhabe sorate chai,alarm_remove
+5907,ajker jonno alarm set korun,alarm_set
+15507,daraze tweet korun tader karento line baje hoye geche,social_post
+10492,amar mudir talikay ki ache,lists_query
+7339,agamikal meeting muche din,calendar_remove
+5625,ondhokar,iot_hue_lightdim
+12207,dhaka traffic kemon,transport_traffic
+573,volume briddhi,audio_volume_up
+15206,proti tin ghontay amake amar facebook update din,social_query
+2826,ami kotoguli alarm set korechi,alarm_query
+6200,eta kibhabe sombhob,general_quirky
+5777,sorobrah jawar obostha,takeaway_query
+15981,shilar email er uttor din,email_sendemail
+5975,apni ki amake bolte paren ajker tarikh ki,datetime_query
+3043,alarm riset korun,alarm_remove
+17139,ei email ekti uttor pathan,email_sendemail
+1585,bortomane bajano gan somporke amar motamot songrokkhon korun,music_likeness
+14252,komoppaker stock kemon cholche,qa_stock
+3716,ei gane amar ja kichu amar ache doya kore rakhun,music_likeness
+1743,jonta suit home praibhet limited er sondesh khujun ebong order korun,takeaway_order
+4150,mathar oprer aloguli on jaliye dewa light on korun,iot_hue_lighton
+4069,bortoman somoy,datetime_query
+9890,robindronath notun kore shuru kor,play_audiobook
+2290,coffee prostutkarokke nirdesh din dosh miniter moddhe ekti filtar coffee toiri korte,iot_coffee
+4120,apni ki alarm somoy set korechen,alarm_query
+4047,food panda r stekhaus delivery kore,takeaway_query
+14462,presidento abdul hamid somporke bistarit janun,qa_factoid
+10411,kros oyardos khela jak,play_game
+14997,nishpotti mane ki,qa_definition
+1248,apni ki amake ajker tarikh bolte paren,datetime_query
+4721,apnar sera rosikta ki,general_joke
+7143,amake ei tarikh program bolun,calendar_query
+12351,porer soptaher jonno dhaka jawar barth sit soh train er ticket book korun,transport_ticket
+12462,aj rat sattay uber book korun mi,transport_taxi
+4,olly shanto,audio_volume_mute
+4962,elomelo songit,music_settings
+14510,ayub bachchur jonmodin ki,qa_factoid
+12422,doya kore traffic obostha bolun,transport_traffic
+4743,hi google amake bolun amar jonno ki alarm set kora ache,alarm_query
+10140,rannar app download korun,cooking_recipe
+11765,mishon eksotrim bhalo cinema,recommendation_movies
+10793,ekti notun talika khulun,lists_createoradd
+10313,jitie bhais city game khelun,play_game
+11766,nirapotta sochetonta,recommendation_movies
+16802,apni ki doya kore notun bartar jonno amar gmail check korte paren,email_query
+15605,amar somosto feisbuk bondhuder shubho shokal kamna korchi,social_post
+10841,apni ki amar talikay amake update korte paren,lists_query
+16855,rahul das email gulo,email_query
+1660,eta hate nao,iot_cleaning
+874,bosar ghore alo bondho korun,iot_hue_lightoff
+6113,amar purber oror sathe gorom wings er ongsh order korun,takeaway_order
+2348,bortoman trake volume koto ta dekhan,music_settings
+1075,apni ki bish shotangsh light nibhiye dite paren,iot_hue_lightdim
+3498,amake sattay uthte hobe,alarm_set
+1598,rumba chalu korun,iot_cleaning
+13030,amake alimer boiti bakkha korun,qa_factoid
+8051,sat-i march dupur share tintay daktar babuke calendar e jog korun,calendar_set
+15285,amar facebook account e notun ki,social_query
+11854,borishal aj ki ghotna somuh cholche,recommendation_events
+5257,music player settings khulun,music_settings
+6022,aj ratta ki norom sondha,weather_query
+2587,pandorar sathe ei channel ti jukto korun,music_likeness
+11927,poshchim bogura dami khichuri restaurant somporke apni amake bola paren,recommendation_locations
+14595,gotrate facebook er stock koto bereche,qa_stock
+3644,ami apnake sei shesh tothyoti abar bolte chai tobe aro jore,audio_volume_up
+429,bathrum bondho alo,iot_hue_lightoff
+3531,apni bangladesh somoy onchol poriborton korte paren,datetime_convert
+9365,radio te jao,play_radio
+13884,apni ekti cheyar shonggayito korte paren,qa_definition
+194,apni ki kon koutuk janen,general_joke
+16695,mayer kach theke ki email eseche,email_query
+2568,channel i theke kon breaking news ache ki,news_query
+12130,train e chottogram jatrar somoy nirdharon korun,transport_ticket
+15611,ei hotel e bag niye amar kharap obhigyota ache grahok porishebate eti tweet korun ebong tader ei bishye linker prasongikta din,social_post
+10715,amar talika porun,lists_query
+12920,are charta train station chere kotota baje,transport_query
+3459,doya kore speaker ke shanto korun,audio_volume_mute
+14556,ei kompanir stock er stock mullo somporke amake update korun,qa_stock
+16681,joy email pathan are ami gotkal tomake mis korechi aj rate rater khabar jonno baire jete chai,email_sendemail
+5629,gijar chalu korun,iot_wemo_on
+6160,autlet chalu,iot_wemo_on
+14131,ami kibhabe ekti bakke shoktishali byabohar korbo,qa_definition
+13561,bhalobasar shongga dao,qa_definition
+2884,doya kore ghorer sob alo nibhiye din,iot_hue_lightoff
+3574,ei gan ti khub lomma,music_dislikeness
+1453,alarm saptahik settings poriborton korun,alarm_remove
+10405,dice roll kora jak,play_game
+10002,amake dekhan kibhabe kom kalorir breakfast ranna korte hoy,cooking_recipe
+11207,notun talika,lists_createoradd
+4597,ranna ghorer radio chalu kor,iot_wemo_on
+3501,ghorer alo nibhiye dao,iot_hue_lightoff
+12808,train er somoy obosthan,transport_query
+198,chilokso ki tek eoye kore,takeaway_query
+7544,agamikaler jonno somosto appointment muche felun,calendar_remove
+10852,ami je talika toiri korechi tar nam ki,lists_query
+5657,amar jonno momtaj gan bajan,play_music
+5068,onugroh kore ei playlist ti shuffle e rakhun,music_settings
+5191,spikarguli chalu korun,audio_volume_up
+1767,dui hajar tinoshot trish ke jiemti plus charoshot trish theke jiemti duishote rupantor korun,datetime_convert
+11237,amar mudikhanar talikay kola jog korte hobe,lists_createoradd
+5072,ekti notun alarm toiri korun,alarm_set
+919,olly amar shokaler alarm muche din,alarm_remove
+9836,sadhin music chalan,play_audiobook
+4804,hi olly kemon achen,general_greet
+4748,ei muhurte sokriyo na hote ami oyemo socket pochondo korbo,iot_wemo_off
+928,ei ganer nam ki,music_query
+11597,apni kichu kukur suparish korte paren kibhabe event gulo amader shohor jacche,recommendation_events
+3939,apni ki amar priyo ei gan songrokkhon korte paren,music_likeness
+10056,apni kibhabe luchi banaben,cooking_recipe
+9865,amar jonno ei audiobook ti chalan,play_audiobook
+14681,didarul almer kono sompork ache ki,qa_factoid
+15140,keu ki amar sorboshesh chobi pochondo kore,social_query
+10821,amar talikay aj kichu ache,lists_query
+323,smart charjar chalu korun,iot_wemo_on
+2343,music player e trak athash ripit e set korun,music_settings
+12171,bimanobondorer kache janojot kotota kharap,transport_traffic
+10991,amar kache ki talika ache ja ami got soptahe ek ba onnobhabe update korini,lists_query
+49,ji emti plus faibher somoy koto,datetime_convert
+547,doya kore music er volume baran baba kotdin dekhina tomai,audio_volume_up
+69,ami rock songgit pochondo kori,music_likeness
+3152,amar shokal choyta alarm muche din,alarm_remove
+4270,ami ek cup coffee chai,iot_coffee
+2155,ei muhurte bortoman somoy ki,datetime_query
+5380,amake bangladesh theke khobor bolun,news_query
+12218,amar ekta plener ticket dorkar,transport_ticket
+10524,gan muche din ki jodi amar songit,lists_remove
+14299,bela obela porun,transport_ticket
+12262,ami ki agami shonibar dupurer dike dhaka oyar train er ticket pete pari,transport_query
+4363,dhakar somoy doya kore,datetime_query
+12615,amake dhaka theke feni rajdhani train er ticket book korte hobe,transport_ticket
+9479,radio te play tipun,play_radio
+15979,ekti email jogajog hisabe daktar oshok jog korun,email_addcontact
+11151,amar kenakata talikay peyajeyaje jog korun,lists_createoradd
+795,agamikaler jonno alarm ti kotar somoy set kora ache,alarm_query
+16866,amar porichiti ekti email jog korun,email_addcontact
+1111,poth chola ganti bajao,play_music
+2714,bhaibranto rong thakte chai,iot_hue_lightchange
+3715,ei bortoman gan somporke amar montobbo songrokkhon korun,music_likeness
+10625,ajker jonno amar porikolpona ki,calendar_query
+11983,amar elakay ekti romantic mojadar kichu suparish korun,recommendation_movies
+479,khaleda jiyar bhashon khobor khujun,news_query
+684,imran mahmuder ganti chalan,play_music
+16252,tonmoyer tothyo dekhun,email_querycontact
+4643,ami chai ghorti kom alokit hok,iot_hue_lightdim
+1481,porar jonno ekti ujjol rong choyon korun,iot_hue_lightchange
+6011,ghori ki bole,datetime_query
+2308,purbancholiyo somye jodi shokal doshta tobe proshanto mohasagriyo somye ta koto,datetime_convert
+15855,amar notun email e email thikanati foroyard korun,email_sendemail
+10467,talikay jan ebong item soran,lists_remove
+5806,apni apnar dibhaiser jonno somoysuchi set korte paren ebong ekti mobile internet songjog byabohar kore durobortibhabe tader niyontron korte paren,iot_wemo_on
+13328,nikototom bangladeshi restaurant jonno menuti tanun,takeaway_order
+5109,ekhon onek sadhnar pore ami bajan,play_music
+4167,volume ordheker kom,audio_volume_down
+16253,aleksa soubhik er tothyo dekhun,email_querycontact
+12595,amar apnake ekti train er ticket book korte proyojon ja dupur duitay chere jay,transport_ticket
+3678,ami ek cup coffee newa pochondo korbo,iot_coffee
+5829,food panda r theke to biriyani order din,takeaway_order
+1495,ami kon dhorner songit sobcheye beshi shuni,music_query
+6197,apni ke,general_greet
+15628,amar facebook account er sorboshesh update ki,social_query
+1243,apnar bholte ekti koutuk khujun ebong amake bolun,general_joke
+2966,office er light bondho korun,iot_hue_lightoff
+13235,tero ebong choudder jogofol nirnoy kor,qa_maths
+4832,lukanor maddhome,audio_volume_mute
+4886,ami ei songgit e matro prokash post kora motamot songrokkhon korun,music_likeness
+4330,bortoman ganer nam ki,music_query
+13019,ekoshot shat tirish shotangsher koto shotangsh ta ber korun,qa_maths
+13173,pach ebong dui er jogofol,qa_maths
+78,je gan ti tumi bajaccho ta chomotkar,music_likeness
+10240,gorur mangshoer sera testing kat ki,cooking_recipe
+11264,eriye jan,play_podcasts
+10203,chingri shutki korar jonno amar ki ki poddhoti dorkar,cooking_recipe
+3949,apni ki amar jonno ekti alarm set korte paren,alarm_set
+1973,lobir alo bondho korun,iot_hue_lightoff
+2181,ekhoner somoy bolun,datetime_query
+5617,bangladeshi jon theke indiyar time jone time jon poriborton korun,datetime_convert
+15324,amar soshal media update din,social_query
+15741,amar status update korun,social_post
+828,notun haydar hosein playlist khelun,play_music
+6264,amar mejaj kharap ache amake ekta koutuk bolun,general_quirky
+5725,apnar volume baran,audio_volume_up
+15063,google stock koto dami,qa_stock
+14494,oyaloton er stock mullo,qa_stock
+5853,robot vacuum cleaner chalu korun,iot_cleaning
+4006,purn shoktite alo baran,iot_hue_lightup
+3299,wemo plug bondho korun,iot_wemo_off
+4746,socket nishkriyo korun,iot_wemo_off
+3051,olly amar alo rong nil kore dao ebong doya kore bosar ghorer alota bondho kore dao,iot_hue_lightchange
+16359,ei contact dara pathano email pora ki,email_query
+4239,robot vacuum chalu korun,iot_cleaning
+4230,amar kompiutarer jonno amar office e plug chalu korte hobe,iot_wemo_on
+14215,tin jog tinsho ponchash ki,qa_maths
+4343,speaker er volume ponchash shotangshe baran,audio_volume_up
+8006,rajorshi amake brihospotibar ekti email pathabe ebong onugroh kore amader mitingyer jonno ekti calendar appointment set up korun je tarikhti tini sei email e prodan korben tar upor bhitti kore,calendar_set
+16545,ei email e ekti notun,email_addcontact
+5045,niche shobar ghor alo poriborton din,iot_hue_lightdim
+1356,beguni theke halka rong poriborton korun,iot_hue_lightchange
+5509,ekti koutuk prodan korun,general_joke
+14577,satanobboi er borgomul koto,qa_maths
+11448,jo roganer podcast ti shuru kor,play_podcasts
+17162,kono notun email,email_query
+10404,alo bajao,play_game
+5248,olly amar ki aj ekta kot ante hobe,weather_query
+11879,amar elakay ami kon ghotna jogdan korbo,recommendation_events
+4479,shajam ei songit,music_settings
+7744,ami ki robibar bikel pachtay pawa jay,calendar_query
+3081,amake doya kore biriyani ebong pran up din,takeaway_order
+14832,selibritir net mullo koto,qa_factoid
+1821,ek ghontar moddhe robot cleaner sokriyo korun,iot_cleaning
+10464,nimnolikhit talika muche din,lists_remove
+10984,upolobdho talika porun,lists_query
+13728,sthaniyo landomarker durotto,qa_factoid
+16608,ami kon email peyechi kina dekhun,email_query
+5276,onugroh kore music player e gan elomelo korben na shudhu ektana bajano,music_settings
+7382,amar calendar e ki duitir beshi daktarer appointment ache,calendar_query
+13793,prem shobdoti ahhan na korei bhalbasa shonggayito korun,qa_definition
+14056,rupee theke bangladeshi takar binimoy har iuesdi ebong kad ki,qa_currency
+15842,ekti email e likhun prapok ajad,email_sendemail
+3879,fenir abohawa kemon,weather_query
+15328,instagram check korun,social_query
+9860,onugroh kore sadhin music app khulun ebong play punray shuru korun,play_audiobook
+4464,playlist e amar gan pochondo songrokkhon korun,music_likeness
+16226,contact sompadna korun,email_addcontact
+11639,amar jaygar charpashe ki ghotna ghotche,recommendation_events
+12164,apni ki amar baba jonno relgari ticket book korte paren,transport_ticket
+16863,number dayal korun,email_querycontact
+7982,ajker jonno somosto event muchun,calendar_remove
+16199,boruner kajer email e email pathan,email_sendemail
+2567,oyemo socket okkhom korun,iot_wemo_off
+11572,amar elakay ki ghotna porikolpona kora hoyeche,recommendation_events
+2352,ghorer halka rong poriborton korun ebong poriborte ondhokar korun,iot_hue_lightchange
+1857,niche,audio_volume_down
+15820,amar fonbuke amar mayer email poriborton korun,email_addcontact
+8780,boser sathe share barotay meetinger jonno ekti reminder set korun,calendar_set
+670,ekti pizza r order din,takeaway_order
+2284,olly attay amake coffee baniye dao,iot_coffee
+6051,kichu alo baran,iot_hue_lightup
+16584,ami jader kach theke email peyechi tader shesh jonoshonkha kara,email_query
+871,opiniyon jog kora,music_likeness
+1172,amar jonno sadhin media bajan,play_music
+8976,shudhu amar sohokormider sathe meeting somporke amake onusmarok set korun,calendar_set
+14428,ekti takar mullo koto,qa_currency
+17096,ami sakib theke shesh call kobe peyechi,email_querycontact
+13425,amar ki soyetar pora uchit,weather_query
+10434,ei talika muche din,lists_remove
+11727,kachakachi theatre er somoy dekhao,recommendation_movies
+15307,ami amar facebook check korini ekhono amar ghonishtho bondhuder theke kon update ache,social_query
+5754,audio bondho korun,audio_volume_mute
+12642,amake bikel pachtar trenei nooga jete hobe,transport_ticket
+2689,order nishchit korun ebong amake nishchitokoron pathan,takeaway_order
+16553,apni ki amar jonno jarif er jogajog tothyo khujben,email_querycontact
+12146,olly amake train station e ekti cab dakun,transport_taxi
+4242,doya kore kotha bolben na,audio_volume_mute
+3277,alo kom,iot_hue_lightdim
+13371,apni kibhabe songkhya biyog korben,qa_maths
+16209,agamikaler kajer party r biboron somporke munnike email pathan,email_sendemail
+1244,ami amar barir jonno lal rong pochondo kori eti poriborton korun,iot_hue_lightchange
+11573,aj rat charpashe ki,recommendation_events
+3275,food panda r sorobrah kore,takeaway_query
+13046,sobcheye lomma mathar chuler bissho record ki,qa_factoid
+6168,pach miniter jonno kon bigyopti nei,audio_volume_mute
+8935,shighroi ki ki event guli aste choleche,calendar_set
+4049,food panda r dokan sorobrah kore kina ta dekhun,takeaway_query
+3231,sabina doya kore amake ekta cha baniye dao,iot_coffee
+12005,amar nikte sera kaprer dokan talika korun,recommendation_locations
+16074,amar edres book e ei email jog korun,email_addcontact
+10185,kachakachi restaurant er talika,recommendation_locations
+15744,ashar jonno notun email jog korun,email_addcontact
+341,coffee machine chalu korun,iot_coffee
+3881,barir aloguli poriborton kore golapi korun,iot_hue_lightchange
+4014,amar somosto alarm guli batil korun,alarm_remove
+12082,elakay sob ghotna ki,recommendation_events
+16060,amar bank email er uttor din ebong tader janan je ami kredit card er bokeya porishodh korechi,email_sendemail
+11786,shrabon megher din,recommendation_movies
+16522,jonir somporke ekti notun contact tothyo toiri korun,email_addcontact
+6847,budhbar dupure ekti alarm set korun jate ami prathmik grohonkari program er jonno nibondhon korte pari,alarm_set
+1102,suprobhat,general_greet
+1147,ekhon vacuum chalu korun,iot_cleaning
+435,maser kon din porer mongolbar,datetime_query
+9644,radio shuru radio bibisi oyan,play_radio
+15243,feisbuke post koro,social_post
+6082,amar barir baire amar rasta porishkar korte ki ami porikolpona kora uchit,weather_query
+11674,doniya ga-te dokan talika korun,recommendation_locations
+73,amar sera songit play korun,play_music
+1484,amar kache thaka alarm guli porjalochna korun,alarm_query
+11620,rater khabar jonno kachakachi ki ache,recommendation_locations
+10907,apni ki amar jonno ekti notun talika toiri korte paren,lists_createoradd
+1101,shubho shokal olly,general_greet
+12861,dhakar poroborti relgari kokhon asbe,transport_query
+70,amar priyo songit bando feelings,music_likeness
+2185,amar bosar ghorer alo nibhiye dao please,iot_hue_lightoff
+10358,geim chalao,play_game
+2813,doya kore amake ek cup coffee din,iot_coffee
+5960,kono bhalo pizza item,takeaway_order
+1086,doya kore ektu thamun,audio_volume_mute
+4004,rannar ghorer alo ujjol korun,iot_hue_lightup
+11411,poroborti porbe egiye jan,play_podcasts
+12113,sthaniyo kono krishijat bajar ponner ache,recommendation_locations
+1032,media rumer alo beguni theke sobuje poriborton korun,iot_hue_lightchange
+11569,amake elaka chinese restaurant bolun moddhe,recommendation_locations
+847,ei muhurte kon alarm set ache,alarm_query
+877,food pandar theke khabar order,takeaway_order
+6757,agamikal sabrinake call korar jonno onusmarok din,calendar_set
+12556,kaj pete kotokkhon,transport_traffic
+4901,media r volume komiye din,audio_volume_down
+15978,email contact e porimnike jog korun,email_addcontact
+2268,hajir biriyanir sera damer sadharon biriyani order korun,takeaway_order
+12463,onugroh kore ekhoni ekti pathao rijarbh korun,transport_taxi
+12641,onugroh kore rangamati jawar jonno bikel pachtar relgari book korun,transport_ticket
+4358,food panda maddhome biriyani theke kichu food panda order korun,takeaway_order
+16852,notun email,email_query
+4005,bosar ghore aloti ordhek baran,iot_hue_lightup
+4906,ajker koutuk,general_joke
+1853,ami ekti kom ujjol ghor pochondo korbo,iot_hue_lightdim
+12589,apni ki amar jonno feni jawar relgarir ticket book korte paren,transport_ticket
+14663,apni ki amake danso bar somporke kichu dharna dite paren,qa_definition
+11313,ami ager porbo dekhte chai,play_podcasts
+13784,takar bortoman poriborton har koto,qa_currency
+10178,sothikbhabe aluguli kata shikhun,cooking_recipe
+4598,je restaurant delivery kore,takeaway_query
+4238,amake volume settings din,audio_volume_other
+11232,amake amar talikar nam din,lists_query
+15255,keu ki amake bolte paren apni ki alochna korchen,social_query
+5815,alo nibhao,iot_hue_lightoff
+16510,prapto email e ei uttor pathan,email_sendemail
+9368,shesh radio channel chalao,play_radio
+10862,ami apnake amar talika theke dokkhin item opsaron korte hobe,lists_remove
+16337,amar notun email somporke bolun,email_query
+12023,amar elakay ei soptahanter jonno ki event nirdharit hoy,recommendation_events
+13364,kokhon rashtroptir din,qa_factoid
+13597,rupee te takar somtullo ki,qa_currency
+9686,juddher shilpo chalao,play_audiobook
+1434,doya kore volume niyontron kor,audio_volume_other
+14570,julfikar ali boyosh,qa_factoid
+13119,kibhabe trikonametri gonna kora jay,qa_maths
+14427,ami kon stock kkhoti korechi,qa_stock
+8331,agamikaler jonno amar meeting muche din,calendar_remove
+11480,ei podcast er poroborti porbe egiye jan,play_podcasts
+2021,khub norom volume kom,audio_volume_down
+5998,jodi ekhon ekhane bhor pachta hoy tobe dhakay bortoman somoy koto,datetime_convert
+3813,ami na bola porjonto nihshobdo sokriyo,audio_volume_mute
+10102,pizza kibhabe ranna korte hoy amake dekhan,cooking_recipe
+4215,amar sentral time joner poriborte dhaka bangladesh time jon dorkar,datetime_convert
+12100,tupi bajche sineplekse cholche,recommendation_movies
+1461,pizza raja theke chijbargar ebong fraiyer jonno ekti sorobrah korun,takeaway_order
+5106,olly playlist shuffle korun,music_settings
+13045,sera chokolet chip kuki recipe ki,general_quirky
+3821,bortoman ganer reting tin tara,music_likeness
+10920,amar talikay koto item ache,lists_query
+9563,jina ebong desta somprocharer somoy amake ekti radio amar bajan,play_radio
+3065,amake ekti koutuk shunte dao,general_joke
+14004,amake hundai ekti stock mullo pan,qa_stock
+6040,are alo bondho korun please,iot_hue_lightoff
+6263,hi sekhane amake obhinondon janan ami office e amar chakrite podonnoti peyechi,general_quirky
+8711,ajke jonno amar calendar porikkha korun,calendar_query
+16465,ekti porichiti hisabe je email thikana byabohar korun,email_addcontact
+10325,football khela kemon,play_game
+11289,eta nao,general_quirky
+757,amar charjar eta sathe songjog korte wemo plug socket chalu korun,iot_wemo_on
+7285,asonno jogobbayam seshon somosto muche felun,calendar_remove
+12772,tranjit,transport_traffic
+15299,hot social media bishoy ki,social_query
+4950,ami ei gan upbhog kori na,music_dislikeness
+8913,aj dupurer khabarer pore amake ki korte hobe,calendar_query
+12870,traffic doya kore,transport_traffic
+2776,rumer alo nibhiye dao,iot_hue_lightoff
+11105,talika toiri,lists_query
+14188,pran kompani er stock mullo ki,qa_stock
+10344,khola daba khela,play_game
+9797,ami obsheshe nojrul kobitasomogro porte chai,play_audiobook
+14826,onugroh kore notun kanon soni camera r biboron khujun,qa_definition
+5802,ekhon ki ghonta,datetime_query
+12187,amar bortoman obosthane traffic er sorboshesh khobor,transport_traffic
+12285,station k theke station kh jete train kotokkhon somoy ney,transport_query
+91,ami ki food panda r theke dupurer khabarer order sorobrah pari,takeaway_order
+4357,karpet theke karpet freshnar vacuum korun,iot_cleaning
+10946,ami ki khola talika ache,lists_query
+16255,fonbuke jogajog ajad khulun,email_querycontact
+13719,james ki bhromne jacche,qa_factoid
+14519,amake ohongkari shobder shongga din,qa_definition
+15654,ibbhalike tweet korun amar ek hajar ek shot chiyattor numberer order ti ami paini,social_post
+13529,ami ki cinema dekhte jete hobe,recommendation_movies
+4427,amake shokal noytay jagiye din,alarm_set
+9602,radio amar pop bajan,play_radio
+14312,amake facebook er share er dam dekhan,qa_stock
+11956,olly amar kachakachi ki cinema cholche,recommendation_movies
+13767,takar moddhe binimoy har koto ami markin juktorashtro ebong bangladesh,qa_currency
+288,alo halka korun,iot_hue_lightup
+14614,baro dara ek hajar gun korun,qa_maths
+10714,apni ki amar jonno notun talika toiri korte paren,lists_createoradd
+259,tumi khub jore,audio_volume_down
+14219,koto sentimitar ek fu toiri kore,qa_maths
+3514,robindro songit file silekto korun,play_music
+14108,sumner ki sontan ache,qa_factoid
+2794,shiriner nodi bajao,play_music
+8787,bangladesh jonno kon bishesh chutirdin onusondhan,recommendation_events
+3173,ei aloguli khub ujjol doya kore tader kom korun,iot_hue_lightdim
+4038,food panda r theke biriyani order korun,takeaway_order
+12688,ei ghontay dinajpur i fiftine traffic kotota bhari,transport_traffic
+1882,ami ekta kothao shunte pacchi na,audio_volume_up
+10148,ekti charti ponir khichuri jonno fudnetooyarkokom theke sorboccho rate pawa recipe ti khujun,cooking_recipe
+16819,amake amar porichitigulo dekhan,email_querycontact
+10416,amra ki ekti game khelob,play_game
+809,dupure coffee cholai korun,iot_coffee
+16167,ami munirake ekti uttor pathate chai,email_sendemail
+82,sorboccho light barate doya kore,iot_hue_lightup
+1381,songiter volume chalu korun,audio_volume_up
+1829,hello apni ki korchen,general_greet
+12467,dhakar traffic obostha ki,transport_traffic
+645,samanno alo baran,iot_hue_lightup
+1709,ami chai speaker gulo uchu hoye uthuk,audio_volume_up
+11028,talika sompadna korun,lists_createoradd
+14538,amake pathor somporke bakkha korun,qa_definition
+13356,bhalo mane ki,qa_definition
+5551,ja pawa jay nikototom restoray,recommendation_locations
+2806,onugroh kore amar ek cup coffee chai,iot_coffee
+5606,karpet porishkar korun,iot_cleaning
+12361,ekhane sobcheye nikotostho restaurant kothay,recommendation_locations
+16861,google krom,email_querycontact
+6281,apni ki ekhon porjonto apnar din upbhog korchen,general_quirky
+10959,amar mudite jog korun,lists_createoradd
+9616,onugroh kore radio today bajan,play_radio
+17109,amar contact talikay gmail dot kom e rahulke jog korun,email_addcontact
+6479,olly ki ghotche,recommendation_events
+2135,poroborti alarm kokhon,alarm_query
+9333,unonobboi doshmik choy e radio chalu koro,play_radio
+740,poribesh aj koto ardr,weather_query
+1889,disko light jaliye din,iot_hue_lighton
+9719,alom poshu khamare fire jan,play_audiobook
+1957,olly amake amar alarm bolun,general_greet
+12196,dhaka traffic er stor ki,transport_traffic
+10314,asun eksathe football kheli,play_game
+10341,blokas game chalu kor ami tomar sathe khelte chai,play_game
+1947,volume kom,audio_volume_down
+1643,ghorer sob alo komla kore dao,iot_hue_lightchange
+5643,jazz jonrar gan bajao,play_music
+3766,agamikal amar jonno ekti alarm set korun,alarm_set
+14337,poshchaddhabon ki bhalo cholche,qa_stock
+265,olly shubho ratri alo bondho korun,iot_hue_lightoff
+6916,calendar theke somosto event soran,calendar_remove
+2820,barir aloguli nil rong poriborton koro,iot_hue_lightchange
+15961,amar asmake ekti email pathano dorkar,email_sendemail
+2958,robot vacuum cleaner chalu koro,iot_cleaning
+14009,konok chapar boyosh koto,qa_factoid
+2402,amar aro alo dorkar,iot_hue_lightup
+12673,rastay ekhon ki janojot,transport_traffic
+3072,ami onugroh kore speaker der nihshobdo korte chai,audio_volume_mute
+13811,amake morel mashrumer ekti bornona khujun,qa_definition
+9939,alu bhaji bhajar jonno teler tapmatra ki howa uchit,cooking_recipe
+2204,amake pakhi somporke ekti koutuk bolun,general_joke
+15813,olly meeting somporke rabbirer kach theke ekti email somporke amake sotork kore,email_query
+1824,ami theke gan pochondo kori,music_likeness
+5924,doya kore volume er matra kom korun,audio_volume_down
+12777,amar kachakachi bortoman traffic amake dekhan,transport_traffic
+1161,party mode ikuyalaijar set korun,music_settings
+9997,makhon toiri korte krimer ki kkhoti korte hoy,cooking_recipe
+15985,ei notun email jog korun,email_addcontact
+8313,adrer jonmodin ki poyla march e,calendar_query
+16177,email er uttor dao,email_sendemail
+7364,duhajar sotero saler march er teish tarikh ekti prothom ghotna muche felun,calendar_remove
+11127,sofrer talikay ki ontorbhukto kora hoyeche,lists_query
+11010,ekti notun kenakatar talika anun,lists_createoradd
+4701,amar shobdota anmiut korun,audio_volume_up
+1817,nikotostho coffee r dokan theke ekti coffee order korun,iot_coffee
+1609,banano shuru korun,iot_coffee
+3736,onugroh kore speaker er volume komiye din,audio_volume_down
+1219,gana shuffle chalu korun,music_settings
+11221,amar talikay juta rakhun,lists_createoradd
+12131,amake train e dinajpur theke dhaka firti trip book korun,transport_ticket
+8316,adrer er jonmodin hisabe march ponchom jog korun,calendar_set
+14578,ek ki tin dara bibhajjo,qa_maths
+9901,amar jonno amar ami er ekti audio boi songskoron khujun ebong eta amar jonno chalan,play_audiobook
+3412,amar order kotokkhon hobe,takeaway_query
+11523,podcast er porer porbo ti shunte chai,play_podcasts
+3272,food panda r sorobrah kore kina ta khuje ber korun,takeaway_query
+3966,amar katalog ei gan jog korun,music_likeness
+15772,tar number ki,email_querycontact
+9804,dipu number to open kor ebong chalao,play_audiobook
+11102,mudir talika,lists_query
+10968,apnar talikar stock e ki pawa jay,lists_query
+14962,khola stock,qa_stock
+3487,eta shanto somoy,audio_volume_mute
+11772,ekhon ki cinema cholche,recommendation_movies
+3983,eta bondho,audio_volume_mute
+15257,sorboshesh tweet,social_query
+1304,are olly aj ki tarikh,datetime_query
+1644,ranna ghorer alo holude poriborton korun,iot_hue_lightchange
+9750,minarer playlist shonan,play_audiobook
+14168,shakib khan ki ei bochor kkhudhe gan raj giyechilen,qa_factoid
+11356,tumi ki back to december chalate paro,play_podcasts
+12046,sthaniyo elaka ghotna,recommendation_events
+467,amar ranna ghorer alo ujjol korun,iot_hue_lightup
+6010,ami ki pizza hate amar boro order nite pari,takeaway_query
+12727,poshchim dike jete amar kotokkhon lagbe,transport_traffic
+16469,amar porichitigulite ei email ti jog korte chai,email_addcontact
+5274,amar pop playlist chalan doya kore,play_music
+5694,coffee banao,iot_coffee
+10392,amar sathe ora egar jon khelo,play_game
+15977,kajer email thikana jog korun,email_addcontact
+10063,torkari moddhe ki thake,cooking_recipe
+3746,ami coffee chai,iot_coffee
+6807,ajker somosto ghotna muche din,calendar_remove
+3393,amar wemo plug socket bondho korun,iot_wemo_off
+3901,ekti playlist shona jak,play_music
+5096,sob alo chalu koren,iot_hue_lighton
+5383,ghorer alo komiye dao,iot_hue_lightdim
+14024,mrittu bornona korun,qa_definition
+8897,amar ajker appointment guli muche felun,calendar_remove
+358,aj amar alarm kokhon bondho hobe,alarm_query
+857,alo mridu korun,iot_hue_lightdim
+3467,eta jore bajan,audio_volume_up
+11565,apni ki gajipur kichu moja korar poramorsh dite paren,recommendation_events
+10963,ei talika dhongs korun,lists_remove
+14313,amake nisanor share er dam dekhan,qa_stock
+153,shuffle sokkhom korun,music_settings
+1507,wemo plug socket chalu korun,iot_wemo_on
+830,are baire khub gorom aj bikeler tapmatra koto,weather_query
+1335,ami james music pochondo kori doya kore eti chalan,music_likeness
+11297,sorboshesh jogobbam video somporke ekti podcast chalan,play_podcasts
+646,ektu alo baran,iot_hue_lightup
+797,apni ki ekti meksikan restaurant r poramorsh dite paren,takeaway_query
+9740,audiobook chalu kor,play_audiobook
+1540,amar khabar kokhon prostut hobe,takeaway_query
+10469,playlist e ekti notun talika toiri korun,lists_createoradd
+4830,ami ki khabar niye jete pari,takeaway_query
+14711,kon elakay ontot hajar mile khola morubhumi ache,qa_factoid
+12517,apni ki ei diner jonno train er ticket rijarbh korte paren,transport_ticket
+84,cleaner robot chalu korun,iot_cleaning
+10283,lig og lijendos game ti shuru kor,play_game
+5514,amake ei songiter nam ebong prokar din,music_query
+1999,sekhane ki hasina update ache,news_query
+957,ami choytar jonno alarm set korte chai,alarm_set
+706,ami joler gan prodhan shunte chai doya kore,play_music
+4194,dhakar somoy bolun,datetime_query
+9782,eta pach minit por bajao,play_audiobook
+5553,restaurant er ribhiu,takeaway_query
+2843,amar order er sathe ki hoyeche,takeaway_query
+12547,olly barer jonno ekti ride khujun,transport_taxi
+10011,ekti brek fasto lunch dinner kina khabarer dhoron nirbachon korun,cooking_recipe
+11667,amar charpashe ki,recommendation_locations
+12752,doya kore rangamati nebhada theke koksobajoar jawar ekti amotrak ticket kinun apriler prothom tarikhe,transport_ticket
+14864,brittakar bostu bibhinno dhorner ki ki,qa_factoid
+863,amar alarm guli,alarm_query
+5880,vacuum cleaner shuru korun,iot_cleaning
+14084,at gun baro ki,qa_maths
+2083,aro alo ujjol korun,iot_hue_lightup
+15079,amake home dipor gor pach bochrer stock mullo din,qa_stock
+2126,upsagre harikener sathe ki ghotche,news_query
+16823,amake dulaler jogajoger tothyo dekhan,email_querycontact
+2253,ei songgit amar priyo talikay pathan,music_likeness
+10637,upolobdho talika,lists_query
+16864,apni ki amar contact e ekti notun email jog korte paren,email_addcontact
+1183,rat barotar muche felun,alarm_remove
+11056,amar aj ki ki korte hobe,lists_query
+10389,football name amar priyo khela khelun,play_game
+15746,email diye notun contact toiri korun,email_addcontact
+10347,ami chai tumi amar jonno ei game ti khelo,play_game
+13471,apni gopon rakhte paren,general_quirky
+1852,eta ekhane khub ujjol,iot_hue_lightdim
+3247,somosto alarm batil korun,alarm_remove
+1470,speaker nihshobdo korun,audio_volume_mute
+13358,chouddo ki dui dara bhag korle,qa_maths
+15110,ami kibhabe amar binimoy mudrar har porikkha korbo,qa_currency
+2707,doya kore jore,audio_volume_up
+2241,got maser shesh radio station gulo songrokkhon korun,music_likeness
+12041,amar elakay ekta mela dekhun,recommendation_locations
+9395,olly radio te ekhon ki cholche,play_radio
+10428,amar kenakatar talika muche din,lists_remove
+6002,jao ebong amake ek cup coffee baniye dao,iot_coffee
+2977,apnar rong onno kichute poriborton korun,iot_hue_lightchange
+5607,aro ujjol,iot_hue_lightup
+10384,apni amar sathe khelte paren emon game er talika banan,play_game
+17047,amake rahuler kach theke email guli jante din,email_query
+9268,dokumentari soh radio bando bajan,play_radio
+2121,bedroom er alo bondho korun,iot_hue_lightoff
+2228,ami apnake shokal noyta uttora dinajpur time e rupantor korte chai,datetime_convert
+1907,volume socchota unnot korun,audio_volume_other
+1501,uprer tolar sokol alo chalu korun,iot_hue_lighton
+9017,calendar sob muche felun,calendar_remove
+17038,jogajoger sthan prodan korun,email_querycontact
+14003,hiror stock mullo koto,qa_stock
+2051,amake dhakar ajker abohawa songkranto tothyo din,weather_query
+2202,prothom alor shironam,news_query
+16521,amar sorboshesh email ante,email_query
+6447,shohre ekti mudi dokan khujun je shutki macher achar rakhe,recommendation_locations
+12916,amar jonno ekti taxi book korun dupur ektay,transport_taxi
+12384,amake chottogram theke kumilla train er ticket er mullo bolun,transport_query
+4648,amar priyo ronge alo poriborton korun,iot_hue_lightchange
+13121,tin jog char koto,qa_maths
+12577,ekhane traffic ache,transport_traffic
+733,amar songit pochondo songrokkhon korun,music_likeness
+11381,pushti songkranto tothyoer volume dui khelun,play_podcasts
+7577,alarm punrabritti korun,alarm_set
+6063,fan socket chalu korun,iot_wemo_on
+16251,tohirul amar contact list theke bil somporke tothyo prodan kore,email_querycontact
+15681,kenar dui soptah pore daraz er tweet ebong hemos sob alga hoye geche,social_post
+7928,notun event moddhahnobhoj autobbak,calendar_set
+4159,are olly ekta bhalo koutuk diye amake haso,general_joke
+2043,amar alor dorkar nei,iot_hue_lightoff
+2996,pujibajarer sathe notun ki,qa_stock
+17097,parbhiner phone number ki,email_querycontact
+4341,boktar volume baran,audio_volume_up
+8988,event kora,calendar_set
+5080,ami kon gan beshi bajai,music_query
+16187,amar bhaiyer office er thikana bolun,email_querycontact
+8815,event mase jan ebong muchun,calendar_remove
+2076,sob alor switch on,iot_hue_lighton
+10410,amake hadudu khelay khelo,play_game
+4420,kichu shila khuje,play_music
+15600,soni grahok sebay smart ti bhi somporke ekta obhijog log korun,social_post
+12907,amar basa ekti taxi pathan,transport_taxi
+5819,atif aslamer bangla ganti bajan,play_music
+2044,amar light lagbe na,iot_hue_lightoff
+404,apni ki barir alor rong halka theke garh rongye poriborton korte paren,iot_hue_lightchange
+10809,shesh entri muchun,lists_remove
+5247,amake ki aj ekta kot ante hobe,weather_query
+11938,ei je olly amar jonno sthaniyo dokaner talika korun,recommendation_locations
+13954,apni pach jog pach gonna korte paren,qa_maths
+13542,chula shuru korun,iot_wemo_on
+1896,ranna ghore alo bondho korun,iot_hue_lightoff
+3799,alo golapi poriborton korun,iot_hue_lightchange
+9351,ami radio station e kichu gan shunte chai,play_radio
+12592,doya kore amake dhaka train er ticket kinun,transport_ticket
+9764,jago go bhogini chalao,play_audiobook
+15570,ami oyalton er twitter handolar dekhte chai,social_post
+11984,olly breya plaja faibhe ki bajche,recommendation_movies
+15814,sakkhatkar somporke rahuler kach theke ekti email somporke amake sotork korun,email_query
+5857,smart plug socket nishkriyo korun,iot_wemo_off
+16,olly holer alo abcha kor,iot_hue_lightdim
+15162,got chobbish ghontay ke amar byobsay sara diyeche,social_query
+11648,borishal aj kon konsart hocche,recommendation_events
+14873,bortomane daraz er mullo koto,qa_stock
+5673,ami je alarm set korechi doya kore ta soriye din,alarm_remove
+10955,porichiti talikar shironam ki,lists_query
+7182,agamikal dupur du-toy shantonur sathe meeting ti jukto korun,calendar_set
+11697,batosrik sangskritik onushthan kokhon asche,recommendation_events
+1716,tumi ki ektu norom kore kotha bolte paro,audio_volume_up
+15119,ei kompanigulir stock check korun,qa_stock
+1237,amar alor rong somonnoy korun,iot_hue_lightchange
+2950,amar priyo hisabe ei gan songrokkhon korun,music_likeness
+5861,alor tibrota hras korun,iot_hue_lightdim
+5901,apni alo bondho korun,iot_hue_lightoff
+10085,bibhinno recipe sondhan korun,cooking_recipe
+1175,arame shobdo somonnoy korun,audio_volume_other
+5564,budget ekhno bhot hoyeche,news_query
+5630,ti bhi bondho korun,iot_wemo_off
+9891,kothao keo nei chalao,play_audiobook
+4749,brishti ki hote choleche,weather_query
+6907,amake proti maser prothom mone koriye din,calendar_set
+75,ke ei bortoman songiter lekhok,music_query
+3218,protidin shokal choyta jonno alarm set korun,alarm_set
+12058,ashepasher theatre e ki kon bhalo cinema cholche,recommendation_movies
+1392,ei je olly ki obostha,general_greet
+5723,ajke sondhay ki brishti hobe,weather_query
+2698,iunibharsiti draibhe burger king theke duti chij burger order korun,takeaway_order
+4389,apni volume poriborton korte paren,audio_volume_other
+11898,ei somye ba asche soptah shohre jekono utosob,recommendation_events
+11747,sineplekso ki cinema aj rat noyta bajchesineplekso,recommendation_movies
+8966,atharoi may ki kono jonmodin ache,calendar_query
+3120,purbancholiyo somoy jodi baro ghonta egiye tobe chittagonger somoy koto,datetime_convert
+16657,sheshbar ami kokhon rohim akhtarer sathe jogajog korechi,email_querycontact
+4615,shorma hauj call korun ebong ham ebong mashrum soh ekti boro erabiyan shorma order korun,takeaway_order
+16934,rubel er mobile number dekhan,email_querycontact
+11193,porichiti theke rajib soran,lists_remove
+15591,darazke janan je tara amar du-ti item pathate bhule geche,social_post
+9759,thama theke chalu kor,play_audiobook
+4072,apni eta namiye dite paren,audio_volume_down
+11293,podcast er shuruti khoj,play_podcasts
+7093,amar calendar kliyar kor,calendar_remove
+5335,kon alarm set ache,alarm_query
+9484,doya kore radio amar bajan,play_radio
+15938,amar ei contact list e ei email jog korun,email_addcontact
+12571,dhaka theke shesh relgari kokhon chare,transport_query
+15608,durbol nishkashon byobostha somporke ekti obhijog tweet korun,social_post
+10179,kibhabe mangshoer fali bhalo kore bhuna jabe,cooking_recipe
+13653,ekti stethoskop mane ki,qa_definition
+13379,amake bolun douranor age kibhabe prosarit korte hoy,general_quirky
+13752,sebhen up er stock er bortoman mullo,qa_stock
+11870,amar elakay bortoman cinema ki cholche,recommendation_movies
+10723,he olly soroborn diye shuru howa ebong sor diye shesh howa namer talika toiri korun,lists_createoradd
+3064,ei alarm ti sthayibhabe nirob kora dorkar,alarm_remove
+2028,ekhon ki gan bajche,music_query
+8483,amake mone koriye din je amar meyeke tar shubho barshikir shubheccha janate brihospotibar prothom phone korte,calendar_set
+1153,vacuum cleaner diye dhulo muche felun,iot_cleaning
+13543,doya kore amake bolun kibhabe ekti skru draibhar toiri korte hoy,general_quirky
+16224,email jog korun,email_addcontact
+9354,radio chalu kor,play_radio
+175,amake sorboshesh projuktir khobor bolun,news_query
+14941,kalkuletor kholo,qa_maths
+9807,audiobook ti theke amake miles er ganti shonao,play_audiobook
+16076,rahul shikha theke samprotik email dekhan,email_query
+799,ami ki ei somye khabar order ber korte pari,takeaway_order
+11722,dhaka theatre e ebong tar ashepashe chola ekti dhaka atak mubhir nam din,recommendation_movies
+4499,nihshobde settings set korun,audio_volume_mute
+4571,wemo plug ti bondho kora uchit,iot_wemo_off
+3345,bangladesh e kota baje,datetime_query
+1140,barite ante testi trit theke pizza order korun,takeaway_order
+10277,ami ek theke dosh number er kotha bhabchi,play_game
+5485,shohre moddhorat hote koto ghonta hobe,datetime_query
+10120,kibhabe chaumin ranna korte hoy,cooking_recipe
+8943,ami chai amar sob event muche fela hok,calendar_remove
+212,ebong aloguli jalan,iot_hue_lighton
+1713,dongol cinema er gan download ebong songrokkhon korun,music_likeness
+10536,ekti notun mudi talika toiri korun,lists_createoradd
+13308,at theke char biyog korle koto obshishto thake,qa_maths
+5211,ami klasikal gan shunte chai,play_music
+2169,snuj korun,alarm_remove
+6375,olly ei bochrer bhalo rap album ki,music_query
+3153,amar shokal n-tar alarm guli muche felun,alarm_remove
+3688,eti ektu jore korun,audio_volume_up
+14583,ek dollar e koto taka,qa_currency
+822,ei ganer punrabritti bondho korun,music_settings
+12229,amar kachakachi ekti taxi porisheba khujun,transport_taxi
+12881,drutjan train kokhon dhaka pouchay,transport_query
+1456,bairer obostha kemon,weather_query
+1561,apni ki doya kore aloguli ujjol korte paren,iot_hue_lightup
+5720,amake ei elakay agamikal abohawa dekhan,weather_query
+2357,tumi songit jekhane chere giyechile oikhan theke chalao,play_music
+5510,ekhane ebong sekhaner somyer farak koto,datetime_convert
+2635,volume ponchash theke baran,audio_volume_up
+5522,amake hassokor,general_joke
+3499,shokal sattar jonno amar alarm set kora ache,alarm_set
+10387,ami ekti kanamachi khelte chai,play_game
+548,doya kore nila er shuffle er har komay dao,music_settings
+11350,amake dhaka e relgari er somoy janate din,play_podcasts
+14322,ekti jammura fol dekhte kemon,qa_definition
+10716,amake amar talika dekhan,lists_query
+16126,make pathan ma onek dhonnobad,email_sendemail
+10294,amar kriket game ti on kor,play_game
+3534,diner koutuk,general_joke
+2068,volume er level,audio_volume_other
+5166,bonani te ki pore brishti hobe,weather_query
+12349,aj amake dhaka theke dinajpur porjonto poroborti dui ghontar somosto train er somoy dekhan,transport_query
+3627,sneha amake ek cup coffee baniye dao,iot_coffee
+117,eta ki songit,music_query
+5071,pachtay notun alarm set korun,alarm_set
+5772,potbhumi poriborton korun,iot_hue_lightchange
+16301,binyer phone number konti,email_querycontact
+5489,delivery r jonno bangladeshi bitoron korun,takeaway_order
+12167,dhakar rastay traffic kemon,transport_traffic
+5920,ki hocche shekh hasinar budget prostab niye,news_query
+1813,aamar gorom coffee chai doya kore din,iot_coffee
+16371,ekhono kon notun email ache,email_query
+5079,tithi rohmaner onurup shilpider suparish korun,music_query
+7235,amar poroborti chul kata batil korun,calendar_remove
+11783,ajke amar charpashe ki ghotna ghotche,recommendation_events
+15779,konotrakto projekto shesh doya kore amake inobhyej pathan er sathe muktake email korun,email_sendemail
+6066,kotha bolben na,audio_volume_mute
+9086,girjar pore robibar mohila klaber sathe milit howar jonno amake ekti onusmarok set korun,calendar_set
+998,ei ghorer alo nibhiye dao,iot_hue_lightoff
+575,shudhu tahsaner gangulo bajan,music_settings
+2878,onugroh kore agamikaler jonno somosto alarm batil korun,alarm_remove
+15332,twitter kemon ache,social_query
+16302,jhuma kakimar email thikana bolun,email_querycontact
+3465,onugroh kore alarm bondho korun,alarm_remove
+14524,amake forodpur theke madaripur porjonto gari chalanor diknirdesh din,transport_query
+16778,kamaler jogajoger biboron ki,email_querycontact
+5434,shokal satta alarm soran,alarm_remove
+7965,ami jante chai amar ki kono notun reminder ache,calendar_query
+8288,teishe march amake ja korte hobe ta soriye din,calendar_remove
+8843,labni er sathe meeting shiliul kor,calendar_set
+15895,contact e notun email jog korun,email_addcontact
+6443,aj kichu ghotna ghoteche,general_quirky
+11640,amader elakay kon karnibhal hocche,recommendation_events
+9016,calendar er somosto ghotna porishkar korun,calendar_remove
+12655,please ekta taxi deke charshote pouchan ebong amake bijoy sornite niye jan,transport_taxi
+2162,es ke punrabritti korun,music_settings
+12337,dhaka janojter matra beshi,transport_traffic
+1648,diner bela somosto alo bondho korun,iot_hue_lightoff
+5218,amake bolun channel aiyer sorboshesh shironam,news_query
+12272,amar jonno jekono train e dhaka jawar jonno agamikal relgari ticket book korun,transport_ticket
+2854,chollish miniter jonno shobdo kora bondho korun,audio_volume_mute
+2877,agamikal attar jonno nirdharit alarm batil korun,alarm_remove
+14529,apnar kache euro r har koto taka,qa_currency
+5789,ajke ki rod jholomle abohawa,weather_query
+9427,amake ekti lokosongiter station khuje din,play_radio
+16391,jamal uddin amake kon notun email pathiyechen,email_query
+3847,amar priyo dhorner songit ki,music_query
+6637,dupurer khabarer jonno ki ranna korben,cooking_query
+1969,aj ki roudrojjol din,weather_query
+10561,ekti notun talika dekhan,lists_createoradd
+10137,make dak,email_querycontact
+4763,are shobdo kom apni jodi tune korte paren,audio_volume_up
+12326,kon jaygay janojot beshi,transport_traffic
+410,amar alarm guli kokhner jonno set kora ache,alarm_query
+4537,amake prothom alo shirsh golpo bolun,news_query
+2909,amake bolun kokhon star kabab amar rater khabar sorobrah korte pare,takeaway_query
+15650,jini amake likhechen ba social midiyay ullekh korechen,social_query
+3797,alo poriborton,iot_hue_lightchange
+3484,ami bolechilam,general_quirky
+1645,amar ki kono alarm set kora ache,alarm_query
+848,ami ekti koutuk chai,general_joke
+1190,dhaka moddhorat hole uttoray kota baje,datetime_convert
+2585,ekhon kom volume e radio shuru korun,audio_volume_down
+12300,amake ekta taxi dak,transport_taxi
+11575,amake charpashe akorshoniyo ghotna bolun,recommendation_events
+1956,hello apni aj kemon achen,general_greet
+12614,dhaka theke feni rajdhani train er ticket book korun,transport_ticket
+12001,ami ajke rate kichu bhalo jinis kothay dhorte pari,recommendation_events
+911,doya kore amake rajshahir bortoman somoy bolun,datetime_query
+5289,ami sorboshesh khobor ki jante chai,news_query
+8003,shukrobarer jonno amar meeting batil korun,calendar_remove
+10074,apni sohje ekti dim kotokkhon ranna korben,cooking_recipe
+10670,amar jogajoger talika theke okkhor maddhom theke shuru howa byoktir talikati soriye din,lists_remove
+13087,apni ki pachti nite paren ebong tin dara bhag korte paren,qa_maths
+87,rater khabar jonno kichu biriyani order korun,takeaway_order
+11210,notun talika toiri korun,lists_createoradd
+3179,onugroh kore agamikal satsho tirishtar jonno ekti alarm set korun,alarm_set
+14403,daraz share er dam ekhon koto,qa_stock
+4493,amar alor rong elomelo kichute poriborton korun,iot_hue_lightchange
+15178,ei chobiti twitter e post korun,social_post
+4964,apni amar wemo plug bondho korte paren,iot_wemo_off
+10068,alu bhorta rannar somoy ki,cooking_recipe
+2974,ei shilpir onnanno gan,music_query
+13944,somossajukto shongga ki,qa_definition
+1560,asun kichu jazz shuni,play_music
+16621,amar jogajog talika jog korun ebong tader ekti contact talika email pathan,email_addcontact
+3845,dinner jonno chiken kari order korun,takeaway_order
+694,amar bortoman order delivery check korun,takeaway_query
+2459,apni amake hassokor jinis bolte paren,general_joke
+164,amar ekta coffee dorkar,iot_coffee
+10328,amar sathe kandi krasher ekti turnamento,play_game
+12775,amake rangamati theke dinajpur porjonto ekti traffic manchitro dekhan,transport_traffic
+15694,onugroh kore obhijog korun je amar mobile onekdin dhore service sentare ache,social_post
+4027,halka rong lal korun,iot_hue_lightchange
+6401,ami ei elakay porota kothay pete pari,recommendation_locations
+13193,apni kibhabe tinti dui somadhan korben,qa_maths
+15226,facebook e notun ki,social_query
+10284,kandi krash chalu kor,play_game
+558,amar ki agamikaler jonno kono alarm set ache,alarm_query
+1568,playlist ti shuffle kore chalao,play_music
+9748,shrikanto chalate thako,play_audiobook
+236,amar ki shokaler flight er jonno alarm set ache,alarm_query
+4616,bengol in theke ham ebong mashrum soh ekti boro pan biriyani order korun,takeaway_order
+13715,apni amake bolte paren ekti gromet ki,qa_definition
+8529,amake bikal tintay borishaler jonno abohawa din,weather_query
+2853,ek diner jonno chup kore jan,audio_volume_mute
+1863,ami ki kono alarm set korechi,alarm_query
+1450,alo jaliye dao,iot_hue_lighton
+662,apni ki bolte paren dinajpur ebong dhaka moddhe koto ghontar parthokko,datetime_convert
+10594,ami ganer ekti notun playlist pete chai,lists_createoradd
+1574,vacuum sokriyo korun,iot_cleaning
+15037,olly eshiyay koto nodi ache,qa_factoid
+2764,ami takeaway order korte chai,takeaway_order
+16058,ami party te jogdan korbo bole onjonke uttor din,email_sendemail
+3058,ei notun maddhom theke sorboshesh shironam khobor ki,news_query
+17062,amar contact ei email e jog korun,email_addcontact
+1443,chup korun,audio_volume_mute
+12865,apni ki amake bogura theke kisorogonjo jawar train er somoy bolte paren,transport_query
+453,aj koto tarikh,datetime_query
+5388,kar gan bajche,music_query
+15490,tar bhoyonkor paroforommanso somporke tarek jiyar kache ekti obhijog tweet korechen,social_post
+14202,aj dau jonso ki,qa_stock
+9877,ami amar audiobook ti shunte chai,play_audiobook
+14586,shakib khaner jonmodin ki chil,qa_factoid
+881,dhaka kota baje,datetime_query
+13191,amake dui bochrer suder sathe sattir sorol sud bolun,qa_maths
+6919,ponchom march er shokal doshtay amar ekti daktarer appointment ache notification set korun,calendar_set
+12831,ekti sthaniyo cab book korun,transport_taxi
+7728,ami apnake agamikal dokane jete mone koriye dite chai,calendar_set
+1753,sob fok gan bajao,play_music
+9600,aleksa abc radio chalu korun,play_radio
+7589,amar ekti event ghori ache amake mone koriye deben,calendar_set
+2767,ekhon jazz gan bajao,play_music
+9608,pandora aplikeshon khulun ebong radio furti bajan,play_radio
+12323,utos ebong gontobbo sthane jan,transport_ticket
+8545,amar calendar muche din,calendar_remove
+6627,aka,general_quirky
+15984,amar kache ki sakiber jonno onno kon jogajoger phone number ache,email_querycontact
+14842,ekti tranjistor ki,qa_definition
+12749,apni ki amake ekti train er ticket kinte paren,transport_ticket
+6840,ami ki amar shukrobar amar dentisto sathe meeting korchi,calendar_query
+7796,shukrobar daktarer appointment kotota,calendar_query
+4010,doya kore alo ondhokar korun,iot_hue_lightdim
+10603,sob gan er talika korun,music_query
+135,star kabab delivery status,takeaway_query
+12601,jaygar diknirdesh,transport_query
+1706,doya kore shudhumatro dan pasher alo bondho korun,iot_hue_lightoff
+5675,set kora somosto alarm anset korun,alarm_remove
+14600,orth poriborton,qa_currency
+497,rong nil kina nishchit korun,iot_hue_lightchange
+5822,chalu korun,audio_volume_up
+13955,ami bish theke dui er folafol jante chai,qa_maths
+4015,amar ghum theke uthar alarm soriye dao,alarm_remove
+1747,plug in kora hole chalu korun onnotha bondho korun,iot_wemo_on
+3417,doya kore amar coffee bananor jontrotike bikel chartar jonno set korun,iot_coffee
+12188,dhaka kendrer charpashe traffic kemon,transport_traffic
+15715,aj ki twitter e uttejnapurn kichu ache,social_query
+15769,amar kache james er kon email ache,email_query
+5575,apni ki aj tarikh dite paren,datetime_query
+2907,kokhon food panda r theke order er maddhome bitoron kora hobe,takeaway_query
+12239,amar nanir barir drutotom route ki,transport_query
+10345,amar sathe ei khela khelun,play_game
+2926,iyo order choyotom ebhiniu soikter hasaner deli theke ber kore nin,takeaway_order
+76,kon je album theke bortoman songit ti,music_query
+12124,amake ekti cab olly book korun,transport_taxi
+12573,dhaka er ticket book korte amar relgari er ticket dorkar,transport_ticket
+17160,amar contact songrokkhon korun,email_addcontact
+5922,onugroh kore speaker er volume baran,audio_volume_up
+15114,ei porbot koto uchu,general_quirky
+11439,ami poroborti porbo chaliye jete chai,play_podcasts
+4996,amar speaker nihshobdo korte amake shahajyo korun,audio_volume_mute
+10211,recipe ki,cooking_recipe
+6943,ekti calendar event set korun,calendar_set
+13399,asun kichu popokorn toiri kori ebong eksathe ekti purano cinema dekhi,general_quirky
+8281,calendar theke somosto nirdharit event muche felun,calendar_remove
+3737,speaker er volume kom korun,audio_volume_down
+11400,ei porbo ti eriye jan,play_podcasts
+13763,mili khatuner boyosh koto,qa_factoid
+14598,binimoy har,qa_currency
+11864,polton nikotostho meksikan restaurant ki,recommendation_locations
+471,alo chole geche,iot_hue_lighton
+306,ami ekti biriyani khete chai apni amake ekti moddhahnobhoj order korte paren,takeaway_order
+44,olly ami klanto noi ami asle khushi,general_quirky
+3391,mone rekh ami gan pochondo kori na,music_dislikeness
+4281,ami klasik rock pochondo kori,music_likeness
+9845,amar samprotik audio boi punray shuru korun,play_audiobook
+12277,apni ki amake ekti teksi book korte paren,transport_taxi
+9419,kichu deshatno bodhok gan bajan,play_music
+4663,onugroh kore amake ei bander nam bolun,music_query
+160,aloguli mridu korun,iot_hue_lightdim
+3385,agamikal shokal sattay alarm bajbe,alarm_set
+1604,agamikal shokaler jonno kotota alarm set kora hoyeche,alarm_query
+9814,boi guli khulun ebong oddhay noy theke mostishker boi chitra,play_audiobook
+12754,ami dhaka sobcheye sosta train er ticket chai,transport_ticket
+12364,ekti taxi book korun jar dam sobcheye kom,transport_taxi
+14495,amake markin juktorashtrer dollar ebong japani yen er moddhe binimoy har din,qa_currency
+15241,porimni amake instagram e priya chopra dara update kora sorboshesh chobi somporke janan,social_query
+3896,eta ondhokar,iot_hue_lighton
+6143,dui soptahe abohawa kemon thakbe,weather_query
+602,shuru korte alarm set korun,alarm_set
+12701,ei shokale janojot koto kharap,transport_traffic
+1355,sistem onugroh kore alo nistej nil mridu kore dewa,iot_hue_lightdim
+1820,robot cleaner shuru korun,iot_cleaning
+9859,odibol on kor ebong ami je boiti shunchilam seta chalate thako,play_audiobook
+10671,ekti okkhor diye shuru howa app gulir talika soriye din,lists_remove
+3405,sob elomelo nirbachon korun,music_settings
+9523,radio furti te onushthan chalan,play_radio
+15913,amar ki snehar kon email ache,email_query
+930,ei ganti punrabritti korun,music_settings
+7742,robibar amar korniyo talika theke mudi kenakata soriye felun,lists_remove
+11756,silet ei soptahante ekti mod porikkha event er suparish korun,recommendation_events
+10880,mudir talika dekhan,lists_query
+6362,ami ki cinema dekha uchit,recommendation_movies
+13582,euro theke dollar er binimoy har koto,qa_currency
+690,eta khub jore volume komlo,audio_volume_down
+3315,amake ei muhurte bajano ganer nam dekhan,music_query
+5796,kon alo nei,iot_hue_lightoff
+12369,amake sumon ahmed er jaygay drutotom route bolun,transport_query
+11184,amar notun kajer somoysuchi talika,lists_createoradd
+14513,amake aj infosis projuktir shurur stock mullo din,qa_stock
+15737,olly ekti kompani somporke ekti netibachok porjalochna joma din,social_post
+14507,koyantam podarthobiddar sathe sadharon apekkhikta somadhaner bortoman obostha ki,qa_factoid
+1315,are apni ekhane nil korte paren,iot_hue_lightchange
+1367,volume kom korun,audio_volume_down
+4596,bosar ghorer alo jalao,iot_wemo_on
+14485,kanadiyan ek taka amader koto,qa_currency
+14878,mane,qa_definition
+13595,ek plus ek ei somikoronti somadhan korun,qa_maths
+1363,amar jonno socket upolobdho kora,iot_wemo_on
+705,amake kichu mojar bolun,general_joke
+1096,fri fayar chalan,play_music
+16339,amake samprotik email dekhao,email_query
+643,amar apnake proyojon vacuum cleaner chalu korte,iot_cleaning
+13860,takar ebong rupee r moddhe binimoy har ki,qa_currency
+8010,amar calendar update korun ebong poroborti event muchun,calendar_remove
+13200,ei ganitik proshner uttor dao,qa_maths
+8991,pop-up meeting,calendar_set
+853,alo ujjol,iot_hue_lightup
+2628,amar music player er volume bortoman storer ponchash shotangshe komiye din,audio_volume_up
+9405,ami radio shunte chai amar jonno eta chalu koro,play_radio
+16618,pore kaj somporke joyake ekti email khosra korun,email_sendemail
+4943,doya kore dhire kotha bolun,audio_volume_down
+11446,porer podcast jan,play_podcasts
+7864,jokhon du-to bajbe tokhon mek ki amke jante paro,calendar_set
+5583,sohkari onugroh kore miles er jala jala bajan,play_music
+3278,amar bosar ghore alo mlan,iot_hue_lightdim
+12726,dhaka traffic koto dhir,transport_traffic
+1748,jodi switch chalu thake tahle chalu korun onnothay bondho korun,iot_wemo_on
+16487,aj kotogulo email ache,email_query
+1062,ami arthik khobor proti ghontay bigyopti pete chai,news_query
+6934,kibhabe ei sobha shahajyo korboe,general_quirky
+6376,dui hajar shol theke ekti bhalo iraniyan cholochchitro ki,recommendation_movies
+16093,amake shesh ghontar jonno kono inkaming email janate doya kore,email_query
+14175,jama dekhte kemon,qa_definition
+6797,calendar theke amar poroborti meeting muche din,calendar_remove
+9636,ami ekshoo ek poyento tin gym ebong bob show shunte chai,play_radio
+3461,onugroh kore agamikal shokale shokal sattay ekti alarm set korun,alarm_set
+3038,olly prothom patar khobor nibondho doya kore,news_query
+12721,antohrajjo bish traffic koto bhari,transport_traffic
+8224,shukrobar pedikiurer jonno calendar e amar bonke jog korun,calendar_set
+14195,amar updeshtake jigyasa korun,qa_stock
+2301,ei bochrer sobcheye dirgh diner alo kon din,datetime_query
+6893,eti kotokkhon somoy lagbe,calendar_set
+11609,theatre cholman sorboshesh hit cinema ki,recommendation_movies
+13465,onnanno grohe ki jibon ache,general_quirky
+3960,somoy bolun,datetime_query
+13851,apni ki amake bornona korte paren anaros dekhte kemon,qa_definition
+2419,channel i theke ki ki khobor update ache,news_query
+8589,doya kore poyla april shokal doshtay riyajul jannahr sathe ekti meeting nirdharit korun,calendar_set
+16651,sakib amake kotbar email korechen,email_query
+15618,darazke tweet korun ebong bolun je tara baje,social_post
+10830,olly amar talikar poroborti ki,lists_query
+16653,ami got ghontay kono email peyechi ki,email_query
+4107,kon alarm guli phone e set kora ache,alarm_query
+3590,jore kotha bolun,audio_volume_up
+5561,amake diner jonno khobor porun,news_query
+13989,bangladesher bhouglik obosthan,qa_factoid
+6761,amar shokal noytar meeting muche felun,calendar_remove
+7438,ami amar poroborti somoysuchir biboron jante chai,calendar_query
+16829,rajibke ekti uttor pathan,email_sendemail
+7856,mas sheshe bigyan bibhager sathe ekti meeting set korun,calendar_set
+14001,sloth somporke apni ja janen ta amake bolun,qa_factoid
+16800,sneha somporke rahul theke kon email ache,email_query
+16241,kormokkhomta porjalochnar jonno dekha korte boske email pathan,email_sendemail
+13741,bangladesher mudra binimoy har ki,qa_currency
+15264,ajke amar twitter handele foloyarer sothik songkhya amake bolun,social_query
+6289,are ajker abohawa kemon,weather_query
+6744,agamikal shokal doshtar jonno munira rubi sathe dekha korun,calendar_set
+13869,onugroh kore maunto rashmorer obosthan ebong tothyo google korun,qa_factoid
+12557,amar jatayater kon bilommo ache ki,transport_traffic
+10627,ekti notun mudir talikay pensil rakhun,lists_createoradd
+806,onugroh kore speaker er somosto volume komiye din,audio_volume_down
+1838,onusondhan korun ebong asif akobor ganguli sobcheye bhalo ganguli chalan,play_music
+10260,amar sathe football khelun,play_game
+739,ajke tapmatra koto,weather_query
+9001,du-hajar soteror ekushe march tarikhe bibhagiyo rashtropti sathe ekti meeting nirdharon korun,calendar_set
+6031,hoichoi bondho korun,audio_volume_mute
+9857,amar pochondo prothom theke ekti audio chalanor jonno,play_audiobook
+6723,olly soptaher baki dingulote jonno amar ejenda ki,calendar_query
+526,amake elomelo koutuk bolun,general_joke
+12132,romna park park e poroborti train ki,transport_query
+10590,talika theke ditiyo sari soran,lists_remove
+4380,food panda r offer sorobrah kora hobe,takeaway_query
+7502,rohimer sathe bikal chartar mitingyer bishoyobostu ki,calendar_query
+3876,shighroi kon flip flop abohawa hote jacche,weather_query
+16991,jobbar ali theke email gulo check korun,email_query
+13570,koutuk mane ki,qa_definition
+3866,apni ki amay banglar mukh theke khobor dite paren,news_query
+11825,mohilader poshak jonno silet shopping mol sondhan korun,recommendation_locations
+8018,ei shonibarer jonno krishnonogor shohor ekti party jog korun,calendar_set
+9381,radio te lokal sportos tok show chalao,play_radio
+12767,ami ki train er ticket pete pari,transport_ticket
+4180,purb somoy doshta ki,datetime_query
+13980,notun binimoy har,qa_currency
+7121,apni ei ghotna punrabritti korte paren,calendar_set
+13605,apni kibhabe ekti tenis bol bornona korben,qa_definition
+5252,ami ki chata chara baire jete pari,weather_query
+5468,amar ki sanoglas nite hobe,weather_query
+68,amake sadhin music er tor premete ondho holam play koran,play_music
+3931,apni ki tithi dasher gan cholte paren,play_music
+2077,aro alokit korun,iot_hue_lightup
+9840,apni chenashona britto audiobook chaliye jete paren,play_audiobook
+11061,amar jogajoger talika tamim jog korun,email_addcontact
+16119,shikhake shudhumatro shahajyo pathan,email_sendemail
+9314,amar jonno radio chalao,play_radio
+14018,tarek mane ki,qa_definition
+17035,amar samprotik email kormokando ki,email_query
+10394,amar sathe football khel,play_game
+1777,poroborti gan,play_music
+14080,barmuda trayangole ki karne,qa_factoid
+14544,onugroh kore nasdake maikrosofter share er dam khuje ber korun,qa_stock
+3149,amar ki agamikal shokaler jonno kono alarm ache,alarm_query
+5763,artisto khela,play_music
+10477,nishchit korun je ruti amar mudir talikay ache,lists_query
+8381,unishshe march dupur duitar dike ki onushthan hoy,calendar_query
+7194,ami agamikal ekti meeting korchi eta set,calendar_set
+1090,apni ki ghore ujjolota barate paren,iot_hue_lightup
+12708,diknirdesh,transport_query
+3928,rajshahir bortoman abohawa songkranto ki purbabhas royeche,weather_query
+10435,ekti notun korniyo talika toiri korun,lists_createoradd
+12609,amar brihospotibar mitingyer por amake ekti taxi nirdharon korun,transport_taxi
+15345,onugroh kore twitter e trending bishoyguli porikkha korun,social_query
+15060,doya kore tirer shongga bolun,qa_definition
+3787,bangladesh taimar ki,datetime_query
+13020,ek hajar pachoshotke ekoshot shat diye bhag korun,qa_maths
+14885,markin jonoshonkhar koto shotangsh kono na konobhabe ingreji rajkiyo roktorekhar sathe somporkit,qa_factoid
+7032,amar meeting somporke agamikal shokaler jonno reminder set korun,calendar_set
+10457,amar party shopping talikay bhodka jog korun,lists_query
+7284,amar dater nijukti muche din,calendar_remove
+15062,lija begom somporke tothyo doya kore,qa_factoid
+5779,dhaka abohawa,weather_query
+10794,amar sob talika ki,lists_query
+11142,onugroh kore bokeya pementer ekti talika toiri korun jara dosh maser beshi panni,lists_createoradd
+5894,sufi gangulo bajan,play_music
+2425,amake bolo kota baje,datetime_query
+3979,ekhon ami rongpure achi baire ki abohawa gorom,weather_query
+7436,ami amar poroborti somoysuchi somporke bistarit proyojon,calendar_query
+1656,amake somosto nirdharit alarm dekhan,alarm_query
+15804,jonike sofotobol khela niye email pathao je jamal amader mukhmukhir howar age nasta kora dorkar,email_sendemail
+12452,uber amake bimanobondore niye jan,transport_taxi
+11248,talika out,lists_createoradd
+12665,bortoman traffic,transport_traffic
+774,amake channel i er sorboshesh songbad update dekhao,news_query
+14726,amake hamid ebong ibrahimer moddhe tulna bolun,general_quirky
+3389,silet abohawar purbabhas ki,weather_query
+17093,maisha email pathan,email_sendemail
+630,dakota paiplainer khobor thakle amake janan,news_query
+3888,doya kore food pandake call korun ebong pizza order korun,takeaway_order
+11111,ajker jonno amar talika porun,lists_query
+6488,notification,general_quirky
+2865,restaurant ki bitoron ache,takeaway_query
+3701,eta khubi ujjol,iot_hue_lightdim
+7009,porer soptahe amar somoysuchite ki ache,calendar_query
+16165,chishti sara diyechen,email_query
+14239,rupee bonam bangladeshi taka koto,qa_currency
+3264,rege songit bajan,play_music
+7131,amar calendar theke doshmite bibah muche felun,calendar_remove
+3404,ganti kibhabe punrabritti korben,music_query
+16189,bortoman abohawar poristhiti somporke amar chachake email pathan,email_sendemail
+13776,mudra kalkuletor rupantor,qa_currency
+12039,amar elakay ekti restaurant jigyasa korun,recommendation_locations
+6491,ami tar itihas jante chai,general_quirky
+8607,kaderke call korun ebong take boling korar jonno amake nite mone koriye din,calendar_set
+4689,apni ki abohawa janen,weather_query
+8784,ei event er tarikh ki thik,calendar_query
+5893,silet e ki roudromoy hobe,weather_query
+8534,dupur duitay amar dater appointment somporke amake sotork korun,calendar_set
+1692,amar jonne kichu smuth jazz khoj,play_music
+13938,amar ki kon notun tindar mil ache,calendar_query
+7085,pore mone koriye dio,calendar_set
+7814,amake ei elakay asonno ghotna dekhan,recommendation_events
+12736,sorok traffic,transport_traffic
+8023,ekhon theke tin soptah porer soptahante ki set kora hoyeche,calendar_query
+8698,ekush tarikh mongolbar doshta te munirar sathe meeting rakhun,calendar_set
+11836,kachakachi dokan pat sentar ache ki,recommendation_locations
+11894,apni ki amake kon sthaniyo ghotna asche somporke bolte paren,recommendation_events
+16746,ami mohirer kach theke ekti email peyechi,email_query
+4894,ajker khobor,news_query
+2946,alexa prodhan shobar ghor fan ti bondho korun,iot_wemo_off
+8095,apni ki amake ei soptaher jonno amar appointment bolte paren,calendar_query
+13682,shekh hasina ekhon ki korchen,qa_factoid
+5302,oke google du-hajar sotero saler kuri-i march abohawa kemon hobe,weather_query
+15027,faruk mahfuj anam koto gan likhechen,qa_factoid
+15058,amake tirer shongga bolun,qa_definition
+11517,olly hotasha mukto jibon podcast er poroborti porbe jao,play_podcasts
+4826,alo golapite kore dao,iot_hue_lightchange
+10117,shami kabab toiri korte kotokkhon lage,cooking_recipe
+3285,dhaka ki agamikal brishti hobe,weather_query
+10774,apni ki amar talika app ti khulte paren ebong onugroh kore mudikhana porikkha korte paren,lists_query
+2943,ajker koto tarikh,datetime_query
+16524,apni ki amake amar phone number bolun paren,email_querycontact
+1324,ei restoray ki tek out ache,takeaway_query
+11996,onugroh kore amake dui mile basardher somosto dokan nam din,recommendation_locations
+14243,byoktir upor bistarit,qa_factoid
+8984,amar calendar theke rohimer jonmodin muche felun,calendar_remove
+11229,amar kache pidie somporke somosto biboron ache,lists_query
+1807,ganer shironam,music_query
+10760,amake bolun je talika ami dui din age likhechilam,lists_query
+7254,ami kibhabe er jonno ticket kinob,general_quirky
+10588,amake talikar bishoyobostu dekhan,lists_query
+15334,facebook e chobi din,social_post
+8001,ami shukrobarer jonno nirdharit chul kata muchte pari,calendar_remove
+11101,ei talikay ekti entri din,lists_createoradd
+5477,olly alor rongguli chokrakar korun,iot_hue_lightchange
+7233,porer maser event gulo talikabhukto koro,calendar_query
+12367,rangamatir sera upay ki,transport_query
+7141,ei program ki siliul kora,calendar_query
+274,olly ganta ki,music_query
+788,ei muhurte tapmatra koto,weather_query
+7855,shukrobarer jonno amar cheler shikkhoker sathe ekti meeting set korun,calendar_set
+6844,robibar bikel chartay polasher sathe tenis khelar jonno onusmarok set korun,calendar_set
+7088,calendar khulun,calendar_set
+11424,radio today,play_podcasts
+9135,agami shombar somoysuchi ki,calendar_query
+15856,bortoman email thikanay email pathan,email_sendemail
+11310,pochonder podcast,play_podcasts
+1835,amake ei ganer gayok bolun,music_query
+12862,ekhane ki kon traffic ache,transport_traffic
+6072,jete jete food panda theke amar khabar nite amake koto minit opekkha korte hobe,takeaway_query
+4653,nihshobde speaker set korun,audio_volume_mute
+14797,sopno er stock tothyo ki,qa_stock
+10903,talikay dim pan,lists_createoradd
+3605,channel i nebhigeshon sorboshesh khobor ki,news_query
+569,teish tarikhe koyti jonmodin,datetime_query
+5031,tumi kibhabe pele,news_query
+2957,shokal doshtar jonno ki alarm ache,alarm_query
+10788,talika ullekh korun,lists_query
+16045,office kholar somoy sarnir jonno ismailke mail pathan,email_sendemail
+8135,agamikal bikel tintey amar meetinger char ghonta age amake mone koran,calendar_set
+5895,poroborti te jala jala bajan,play_music
+8907,onnoder sathe calendar e ghotna ullekh korun,calendar_set
+350,restaurant ti sorobrah order dey kina ta khuje ber korun,takeaway_query
+11608,shohor sobcheye nikotostho moder dokan pab kothay,recommendation_locations
+4067,tumi ki jano eta kon din,datetime_query
+11447,ei podcast er tritiyo porbe jao,play_podcasts
+3685,amake amar hindi songit playlist bajan doya kore,play_music
+4104,kumilla aj abohawa kemon hobe,weather_query
+9956,makhon korte pari,cooking_recipe
+16786,autluk meilobokser halnagad din,email_query
+8188,eta ki tarikh,calendar_query
+11463,amake shirsh rate kora podcast dekhan,play_podcasts
+12546,bare jatra korun,transport_taxi
+1042,food pandar app khulun doya kore,takeaway_order
+13823,surj koto dure,qa_factoid
+7748,amar calendar er amar somosto event ti muche felun,calendar_remove
+13238,somarthok shobdo,qa_definition
+16957,amar samike email shuru korun,email_sendemail
+15368,twitter e obhijog nothibhukto korun,social_post
+3918,ami shironamhiner sera hitgulo shunte chai,play_music
+16985,ami jadob er theke kon barta pete pari,email_query
+10451,ami aj ki korte jacchi,lists_query
+7572,ami pouchanor somoy amake mone koriye din,calendar_set
+783,premer gan bajan,play_music
+13286,mudrasfiti shonggayito korun ebong orthonitite er probhab bornona korun,general_quirky
+8179,apni calendar e amar somosto appointment muche dite paren,calendar_remove
+12910,dhaka ki aj bikele train asche,transport_query
+14293,amake euro te takar binimoy har bolun,qa_currency
+2626,ami amader notun prothom alo somporke ekti breaking news somporke shunechi doya kore khobor check korun ebong amake update korun,news_query
+9355,radio chalu,play_radio
+2984,purbonirdharit alarm guli muche felun,alarm_remove
+16893,bikel tintay ki email pathano hoyeche,email_query
+890,amar jonno kichu shanto kora gan bajan,play_music
+8219,amar calendar e kon jonmodin ache,calendar_query
+7518,brihospotibar sobha porichalna korun,calendar_set
+13133,jini siyam chiddiki,qa_factoid
+9229,radio bhumi radio channel ti bajao,play_radio
+11438,onugroh kore podcast er poroborti porbo jan,play_podcasts
+380,james er poddo patar jol bajao,play_music
+7970,ekti uphar kinte somoyomot bibaher kotha mone koriye din,calendar_set
+10634,songkhya soh upolobdho talika dekhan,lists_query
+7083,bikal pachtar meetinger jonno ekti reminder alarm set korun,alarm_set
+9886,habhen ij for riyal audiobook ti abar shuru kor,play_audiobook
+3610,amar order er obostha ki,takeaway_query
+15765,parbhejer email er uttor din,email_sendemail
+7573,amake jaygay smoron korao,calendar_set
+11763,rajshahi shohre ki korar ache,recommendation_events
+13141,jibner orth ki,general_quirky

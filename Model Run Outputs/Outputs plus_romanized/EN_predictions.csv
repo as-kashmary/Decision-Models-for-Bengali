@@ -1,0 +1,2001 @@
+﻿row_id,utt,intent,pred,conf
+0,play all my favorite latin songs,play_music,play_music,0.9026
+1,play football match for myself now,play_game,play_game,0.9673
+2,resume jaiho song audiobook,play_audiobook,play_audiobook,0.9886
+3,dismiss my next event,calendar_remove,calendar_remove,0.9909
+4,new updates,social_query,news_query,0.9195
+5,start play spider,play_game,play_audiobook,0.4972
+6,countdown for the birthday of my brother,calendar_query,datetime_query,0.3412
+7,show me podcasts,play_podcasts,play_podcasts,0.9952
+8,show latest email from mark,email_query,email_query,0.9927
+9,tell me the time,datetime_query,datetime_query,0.9883
+10,how many lists do i have,lists_query,lists_query,0.9679
+11,what is the capital of maryland,qa_factoid,qa_factoid,0.9257
+12,tell me the time in india,datetime_query,datetime_query,0.9986
+13,add that song to my top ten favorites list,music_likeness,music_likeness,0.9763
+14,olly cancel business meeting on wednesday,calendar_remove,calendar_remove,0.9331
+15,what was the subject of my last email to tom,email_query,email_query,0.9827
+16,give me the time in p. s. t.,datetime_query,datetime_query,0.9843
+17,can you send an email to my mother about the weekly weather,email_sendemail,email_sendemail,0.9984
+18,where is my girl friend right now,general_quirky,email_querycontact,0.7082
+19,add the item to the list,lists_createoradd,lists_createoradd,0.9899
+20,how many recent emails have this sender or subject line,email_query,email_query,0.9948
+21,olly what do i have planned next,calendar_query,calendar_query,0.5288
+22,what is going on today from two four p. m.,calendar_query,calendar_query,0.7255
+23,how is the stock going in general,qa_stock,qa_stock,0.9559
+24,find radio,play_radio,play_radio,0.9943
+25,olly tell me where the local shopping district is,recommendation_locations,recommendation_locations,0.9644
+26,tell me the time in japan,datetime_query,datetime_query,0.9979
+27,freezing,cooking_recipe,weather_query,0.5186
+28,add a five am alarm in place of my nine p. m. alarm,alarm_set,alarm_set,0.9885
+29,compose email to a new address,email_sendemail,email_sendemail,0.9473
+30,delete call newspaper from my vacation list,lists_remove,lists_remove,0.9819
+31,i would like to hear rush limbaugh on i heart radio,play_radio,play_radio,0.9947
+32,have i gotten any emails from amazon in the last two days,email_query,email_query,0.9966
+33,what are the latest tweets from the new york times,social_query,news_query,0.8404
+34,play me a radio channel for trance music,play_radio,play_radio,0.9328
+35,i need an alarm set for eight am,alarm_set,alarm_set,0.993
+36,what are meeting scheduled for today,calendar_query,calendar_query,0.9909
+37,remind me that i like that song,music_likeness,music_likeness,0.9944
+38,what are my alarms,alarm_query,alarm_query,0.9989
+39,set an alert for two p. m.,alarm_set,alarm_set,0.9826
+40,i can barely hear you,audio_volume_up,audio_volume_down,0.8417
+41,any cultural events in california,recommendation_events,recommendation_events,0.9139
+42,take that off there,lists_remove,lists_remove,0.6746
+43,do they deliver home,takeaway_query,takeaway_query,0.9642
+44,please tell me about the historic facts about india,qa_factoid,qa_factoid,0.9942
+45,play you are my sunshine,play_music,play_music,0.4287
+46,please turn on my wemo plug socket,iot_wemo_on,iot_wemo_on,0.9781
+47,did the yankees win last night,news_query,news_query,0.9578
+48,at the company on twitter and complain to customer service in the tweet,social_post,social_post,0.9282
+49,let me hear some pop music or a song,play_music,play_music,0.9048
+50,how tall was abraham lincoln,qa_factoid,qa_factoid,0.9562
+51,please let me know the dog shows events going on in my home town,recommendation_events,recommendation_events,0.7735
+52,could you please lower the tone,audio_volume_down,audio_volume_down,0.9802
+53,tell me if my alarm is set for the morning,alarm_query,alarm_query,0.9951
+54,change the colors please,iot_hue_lightchange,iot_hue_lightchange,0.9949
+55,mark my budget meeting down for every friday at two,calendar_set,calendar_set,0.9742
+56,what's the description for the alarm at eleven am,alarm_query,alarm_query,0.9901
+57,i want to tweet a complaint on apples phone issues,social_post,social_post,0.9904
+58,add event for meeting with james,calendar_set,calendar_set,0.9833
+59,what is the newest news right now,news_query,news_query,0.9953
+60,date of joining,calendar_set,email_querycontact,0.2039
+61,when i get home can you please order a pizza,takeaway_order,takeaway_order,0.9291
+62,play me an upbeat song through your speakers,play_music,play_music,0.7425
+63,are there any special events in my town,recommendation_events,recommendation_events,0.7338
+64,power up the plug socket one,iot_wemo_on,iot_wemo_on,0.9923
+65,what time do i have appointments today,calendar_query,calendar_query,0.9848
+66,what day is the meeting on,calendar_query,calendar_query,0.9055
+67,delete my christmas holiday list,lists_remove,lists_remove,0.9299
+68,how is the weather in utah right now,weather_query,weather_query,0.9992
+69,please activate my coffee pot for me,iot_coffee,iot_coffee,0.9974
+70,confirm to buy laptop,general_quirky,general_quirky,0.2958
+71,set meeting at seven p. m.,calendar_set,calendar_set,0.9473
+72,reply thank you to john,email_sendemail,email_sendemail,0.8717
+73,is eddie murphy still alive,qa_factoid,qa_factoid,0.6623
+74,play classical music,play_music,play_music,0.7611
+75,siri describe a rainbow,qa_definition,qa_definition,0.4502
+76,what will be the weather on monday this week,weather_query,weather_query,0.9993
+77,please play the song joy to the world,play_music,play_music,0.9038
+78,please scan my social media and tell me what's happening,social_query,social_query,0.9851
+79,what's the cheapest marathon to enter within fifty miles of here,general_quirky,recommendation_events,0.6819
+80,thursday at two p. m. i must meet with mr. forman please mark the calendar,calendar_set,calendar_set,0.9703
+81,after this song ends i want to hear hotel california next,play_music,play_music,0.5542
+82,can you tell me the temperature for saturday night,weather_query,weather_query,0.9967
+83,can you pull up a recipe for spaghetti,cooking_recipe,cooking_recipe,0.9815
+84,what is the hobby of ajay devgn,qa_factoid,qa_factoid,0.9111
+85,after this song put on metallica,play_music,play_music,0.8757
+86,how people are thinking in such a manner that they can hide everything from god,general_quirky,qa_factoid,0.7006
+87,i want to hear some modern rock,play_music,play_music,0.9193
+88,what day of the week is the twenty first of may,datetime_query,datetime_query,0.8988
+89,order pizza,takeaway_order,takeaway_order,0.922
+90,what is the temperature outside,weather_query,weather_query,0.9984
+91,make an alarm for the meeting with bob at seven today,alarm_set,alarm_set,0.9832
+92,notify me with news updates on nigeria,news_query,news_query,0.9985
+93,what is the latest traffic report for miami,transport_traffic,transport_traffic,0.9342
+94,please show me the exchange rate between the dollar and the yen,qa_currency,qa_currency,0.9983
+95,send hi in watsapp to vikki,email_querycontact,email_sendemail,0.7193
+96,check mail for anything from shelly,email_query,email_query,0.9962
+97,what does the weather look like this week,weather_query,weather_query,0.9996
+98,send mail to sil for cap,email_sendemail,email_sendemail,0.9981
+99,what is the weather near me,weather_query,weather_query,0.999
+100,save the email to my contact,email_addcontact,email_addcontact,0.9933
+101,give me the details on purchase order,lists_query,takeaway_query,0.6896
+102,is it hot or cold outside,weather_query,weather_query,0.9955
+103,what is the best recipe for a margarita,cooking_recipe,cooking_recipe,0.985
+104,set lights to full power,iot_hue_lightup,iot_hue_lightup,0.8603
+105,save this afternoon for my date,calendar_set,calendar_set,0.9695
+106,please resume this playback in audiobook,play_audiobook,play_audiobook,0.9909
+107,give details of rock sand,qa_definition,qa_definition,0.4461
+108,i don't want eggs,lists_remove,lists_remove,0.3268
+109,add event baseball practice five p. m. tonight,calendar_set,calendar_set,0.9857
+110,put on be warned by tech nine,play_music,alarm_set,0.781
+111,please write up a compliant,social_post,email_sendemail,0.4926
+112,open the calendar and create a new event,calendar_set,calendar_set,0.9704
+113,start radio channel eight hundred and eighty nine,play_radio,play_radio,0.9953
+114,is it better to invest or save,qa_factoid,general_quirky,0.3386
+115,hey order two wings with french fries from the chinese food store,takeaway_order,takeaway_order,0.9523
+116,show me the latest email of jack,email_query,email_query,0.9915
+117,get me top headlines,news_query,news_query,0.9974
+118,i want topics on music,music_query,play_music,0.547
+119,i'd like to hear queen's barcelona,play_music,play_music,0.5445
+120,please set an alarm for tomorrows meeting at seven am,alarm_set,alarm_set,0.9891
+121,give me the status on my available memory,general_quirky,lists_query,0.5551
+122,turn on the oldies playlist on my radio,play_radio,play_radio,0.8681
+123,lets listen to the playlist,play_music,play_music,0.9188
+124,what is the us dollar equivalent of one euro,qa_currency,qa_currency,0.992
+125,start playing american gods where i last stopped,play_audiobook,play_music,0.6627
+126,let's go through all pending reminders,calendar_query,calendar_query,0.7471
+127,i need all the local events for this area that are being held this weekend,recommendation_events,recommendation_events,0.7719
+128,what to do next on events,calendar_query,recommendation_events,0.4912
+129,what are examples of spicy cuisines,cooking_recipe,cooking_recipe,0.6388
+130,show me events that are going on right now,calendar_query,calendar_query,0.623
+131,play taylor swift music,play_music,play_music,0.9254
+132,noodles one pack make it as takeaway,takeaway_order,takeaway_order,0.9264
+133,when will my chinese food arrive,takeaway_query,takeaway_query,0.9646
+134,send an email to guy selling the boat telling him that i have the money,email_sendemail,email_sendemail,0.9989
+135,after this one play song,play_music,play_music,0.5117
+136,delete meeting,calendar_remove,calendar_remove,0.9801
+137,please tell me what lists i have made,lists_query,lists_query,0.9805
+138,clean my calendar,calendar_remove,calendar_remove,0.9463
+139,what is happening in the world today,news_query,news_query,0.9704
+140,i want you to analyze the pattern for me to buy lottery ticket which number will get the first prize,general_quirky,play_game,0.5401
+141,do i have anything scheduled for tomorrow,calendar_query,calendar_query,0.9779
+142,train tickets for two people from delhi to mumbai,transport_ticket,transport_ticket,0.9542
+143,do i need pants,weather_query,general_quirky,0.2184
+144,play new gaga playlist,play_music,play_music,0.9416
+145,what's my favorite music at the moment,music_query,music_query,0.9329
+146,olly cancel alarm,alarm_remove,alarm_remove,0.9986
+147,next play justin bieber's sorry,play_music,play_audiobook,0.4937
+148,tweet a customer complaint to the subway website,social_post,social_post,0.6146
+149,send a mail to mike tell him we will meet today seven p. m. for dinner at coffee house,email_sendemail,email_sendemail,0.9972
+150,olly change all lights to blue,iot_hue_lightchange,iot_hue_lightchange,0.9964
+151,pull up all emails from my friend cat vonstaragrabber,email_query,email_query,0.9751
+152,will it rain now,weather_query,weather_query,0.9995
+153,how is the spouse of obama,qa_factoid,qa_factoid,0.5859
+154,light up the lights in the kitchen,iot_hue_lighton,iot_hue_lightup,0.4882
+155,recent advice concerning google seo,general_quirky,news_query,0.38
+156,g. m. t. time,datetime_query,datetime_query,0.9906
+157,what day does easter fall on,datetime_query,datetime_query,0.8819
+158,stay quiet,audio_volume_mute,audio_volume_mute,0.8175
+159,play my country favorites playlist for me,play_podcasts,play_music,0.9297
+160,refresh email inbox,email_query,email_query,0.9828
+161,tweet consumer complaint,social_post,social_post,0.6611
+162,put on the god of small things,play_audiobook,general_quirky,0.1574
+163,what's around,recommendation_locations,recommendation_locations,0.7013
+164,olly have i gotten any emails from mom lately,email_query,email_query,0.9936
+165,the time the meeting start,calendar_query,calendar_query,0.926
+166,how many inches make one feet,qa_maths,qa_maths,0.8263
+167,email my mom,email_sendemail,email_sendemail,0.9852
+168,what's for today,calendar_query,calendar_query,0.3001
+169,please play some songs for kids,play_radio,play_music,0.8867
+170,please mute my speaker,audio_volume_mute,audio_volume_mute,0.9684
+171,book me a single train ticket traveling to new york city leaving after nine am,transport_ticket,transport_ticket,0.9949
+172,who sings the song about a long black train,music_query,music_query,0.8849
+173,how many seconds are left to complete this hour,datetime_query,datetime_query,0.8034
+174,please tell me a joke that i'll think is funny,general_joke,general_joke,0.9975
+175,report recent emails,email_query,email_query,0.9958
+176,is there a groomer in town for cats only,general_quirky,recommendation_locations,0.2634
+177,i'd like to listen to poker face by lady gaga,play_music,play_music,0.9184
+178,did you resolve,general_quirky,news_query,0.2284
+179,hi google play me playlist wacky in my gaana application,play_music,play_music,0.8947
+180,purchase ticket to new york city on train,transport_ticket,transport_ticket,0.992
+181,keanu reeves date of birth,qa_factoid,email_querycontact,0.7388
+182,open my contact list,email_querycontact,email_querycontact,0.8825
+183,i cup of joe would be nice right now,iot_coffee,music_likeness,0.2182
+184,tell me what the word organism means,qa_definition,qa_definition,0.9939
+185,what's going on around me,recommendation_events,recommendation_events,0.402
+186,play me the new podcast from n. p. r.,play_podcasts,play_podcasts,0.9895
+187,what is on november twenty,calendar_query,calendar_query,0.9374
+188,headlines from b. b. c. world,news_query,news_query,0.9991
+189,i want to reply to bob smith's email,email_sendemail,email_sendemail,0.9697
+190,call a car for me,transport_taxi,transport_taxi,0.996
+191,what's the stupidest question anyone ever asked you,general_quirky,qa_factoid,0.7371
+192,tell me the funniest joke that was ever told,general_joke,general_joke,0.9931
+193,what is the weather going to be like on march twentieth two thousand and seventeen,weather_query,weather_query,0.9981
+194,what events do i have scheduled today,calendar_query,calendar_query,0.9624
+195,i need something fun to do this weekend nearby can you give me ideas,recommendation_events,recommendation_events,0.7786
+196,please let me know new emails from michael,email_query,email_query,0.9933
+197,what is the weather in sydney now,weather_query,weather_query,0.9963
+198,olly how do i make meatloaf,cooking_recipe,cooking_recipe,0.9595
+199,where do i get my pet fixed,general_quirky,qa_factoid,0.4351
+200,what is my schedule for twelve p. m. to four p. m.,calendar_query,calendar_query,0.9375
+201,dolores how was your day,general_quirky,general_greet,0.8488
+202,change volume level to maximum,audio_volume_other,audio_volume_up,0.6353
+203,erase my next event,calendar_remove,calendar_remove,0.9906
+204,show me reviews of my nearest location food court,recommendation_locations,recommendation_locations,0.9219
+205,hey olly post my complaint to at microsoft on twitter,social_post,social_post,0.983
+206,find me the description of this object,qa_definition,qa_definition,0.9329
+207,moderate,general_quirky,audio_volume_up,0.3081
+208,what is the current weather in denver,weather_query,weather_query,0.9965
+209,find local shops,recommendation_locations,recommendation_locations,0.9777
+210,the second of next mont lands on what day,datetime_query,datetime_query,0.9656
+211,is there any upcoming events,calendar_query,calendar_query,0.7026
+212,please play a song by bruno mars,play_music,play_music,0.9425
+213,start a competitive crossword for us,play_game,play_game,0.8271
+214,i'm going to sleep now,iot_hue_lightoff,audio_volume_mute,0.6826
+215,will it be nice at the beach on friday,weather_query,weather_query,0.9617
+216,check time of kalka train from jodhpur station on monday,transport_query,transport_query,0.7688
+217,can i order out,takeaway_order,takeaway_query,0.6107
+218,show me painting exhibition in bay area,recommendation_events,recommendation_events,0.8611
+219,i do not know how to answer this question you left a word or two out,general_quirky,qa_definition,0.4381
+220,i want to hear some rap please,play_music,play_music,0.8549
+221,plants,general_quirky,qa_factoid,0.2178
+222,what events are on this month's schedule,calendar_query,calendar_query,0.9371
+223,what is the latest news for fashion,news_query,news_query,0.9941
+224,what's the latest trump controversy,news_query,news_query,0.9468
+225,how much yens per u. s. d. today,qa_currency,qa_currency,0.9968
+226,check for all emails from tom brady,email_query,email_query,0.996
+227,tweet mobile complaint to samsung,social_post,social_post,0.9836
+228,start playing bag of hammers,play_music,play_music,0.3778
+229,add john at gmail dot com to contacts,email_addcontact,email_addcontact,0.9981
+230,tube was super busy today,general_quirky,news_query,0.4061
+231,what is the forecast for today,weather_query,weather_query,0.9993
+232,tweet a complaint about potholes on road,social_post,social_post,0.9944
+233,have i received any email since five p. m.,email_query,email_query,0.9921
+234,find twitter handle of tom cruise,qa_factoid,email_querycontact,0.5773
+235,give me the recipe of steak,cooking_recipe,cooking_recipe,0.9674
+236,start audio book the two towers,play_audiobook,play_audiobook,0.9908
+237,what is arnold schwarzenegger's birthday,qa_factoid,qa_factoid,0.7843
+238,let me hear about some new devotional music,play_music,play_music,0.4743
+239,what movies are playing nearby,recommendation_movies,recommendation_movies,0.9892
+240,please keep tabs on how the presidential debates are going,news_query,news_query,0.959
+241,will i need sunblock this weekend,weather_query,weather_query,0.994
+242,delete trip scheduled july fourth,calendar_remove,calendar_remove,0.984
+243,olly remind me i need to be at the library a week from today at five,calendar_set,calendar_set,0.9873
+244,set music system to mute,audio_volume_mute,audio_volume_mute,0.9897
+245,show me the best podcast of folk songs having rating of above four star and play it,play_podcasts,play_podcasts,0.9637
+246,play album,play_music,play_music,0.7426
+247,i want some coffee now,iot_coffee,iot_coffee,0.9984
+248,remind me about meeting next week,calendar_set,calendar_set,0.9498
+249,i want the light in the kitchen powered off,iot_hue_lightoff,iot_hue_lightoff,0.9253
+250,any high priority emails,email_query,email_query,0.9867
+251,what is apple's stock price,qa_stock,qa_stock,0.9989
+252,how many likes i have got on my eggless cake post on youtube,social_query,social_query,0.7818
+253,give me the description of smartphone software,qa_definition,qa_definition,0.5596
+254,siri please check exchange rates,qa_currency,qa_currency,0.9992
+255,on tuesday what is the weather supposed to be,weather_query,weather_query,0.9992
+256,email work team this week's schedule,email_sendemail,calendar_query,0.703
+257,please tell me when i can become rich if i invested in dow stocks today and what will be the return after five years,qa_stock,qa_stock,0.9852
+258,can i see my work lists,lists_query,lists_query,0.9847
+259,weather in miami,weather_query,weather_query,0.9978
+260,i want to hear the bob cesca show,play_radio,news_query,0.3367
+261,play my favorite playlist,play_music,play_music,0.8765
+262,prepare a cup of coffee for me,iot_coffee,iot_coffee,0.9985
+263,give me recipes,cooking_recipe,cooking_recipe,0.9576
+264,change the lights to a different hue,iot_hue_lightchange,iot_hue_lightchange,0.9987
+265,may i have a list of five star hotels in paris,qa_factoid,recommendation_locations,0.3121
+266,help me set a list of,lists_createoradd,lists_createoradd,0.9079
+267,alexa send the email to this new email address,email_sendemail,email_sendemail,0.9951
+268,show geographic details of pyramids,qa_factoid,qa_factoid,0.9442
+269,tweet a customer complaint on the service at the long horn steak house alexa,social_post,social_post,0.8395
+270,olly brighten the lights,iot_hue_lightup,iot_hue_lightup,0.9476
+271,delete the birthday party tomorrow at two p. m.,calendar_remove,calendar_remove,0.9489
+272,set my calendar to remind me to buy groceries every friday,calendar_set,calendar_set,0.9826
+273,play the song which is in movie rangoon,play_music,play_music,0.632
+274,i like to listen to hindustani music,play_music,music_likeness,0.4393
+275,go to the event day and delete,calendar_remove,calendar_remove,0.9783
+276,schedule a meeting with the accounting department on two thirty p. m. on friday,calendar_set,calendar_set,0.9957
+277,show me the latest news about the elections,news_query,news_query,0.9991
+278,exchange rate i will get with foreign currency,qa_currency,qa_currency,0.9978
+279,am i busy this weekend,calendar_query,calendar_query,0.902
+280,what is the capital of nigeria,qa_factoid,qa_factoid,0.9412
+281,i'd like to cancel the trip to vegas next week,lists_remove,calendar_remove,0.9444
+282,where was bill clinton born,qa_factoid,qa_factoid,0.9057
+283,search for new jokes,general_joke,general_joke,0.9975
+284,schedule a meeting this monday with peter francis in the afternoon,calendar_set,calendar_set,0.9948
+285,are you smart,general_quirky,qa_factoid,0.4754
+286,remind me to go grocery shopping for the party on sunday,calendar_set,calendar_set,0.7698
+287,i went to the store,general_quirky,recommendation_locations,0.7532
+288,where is the closest bar,recommendation_locations,recommendation_locations,0.9803
+289,search the album name with katy perry,music_query,music_query,0.7146
+290,that song is my favorite,music_likeness,music_likeness,0.9762
+291,explain the geographical location of india,qa_factoid,qa_factoid,0.8315
+292,tell me the names on the list,lists_query,lists_query,0.9897
+293,please change the volume to mute,audio_volume_mute,audio_volume_mute,0.9638
+294,set a reminder for the meeting friday at three p. m.,calendar_set,calendar_set,0.9926
+295,i need you to get me up at six am,alarm_set,alarm_set,0.7094
+296,i want to make a note on my calendar for the event tomorrow at the library,calendar_set,calendar_set,0.9778
+297,what's my agenda for the remainder of the week,calendar_query,calendar_query,0.97
+298,what are the definitions of orange,qa_definition,qa_definition,0.9949
+299,what's on my calendar tomorrow,calendar_query,calendar_query,0.9756
+300,please check the traffic to the home,transport_traffic,transport_traffic,0.9969
+301,delete all details in event,calendar_remove,calendar_remove,0.9846
+302,add a wrist watch to the shopping list,lists_createoradd,lists_createoradd,0.9975
+303,olly how's the weather,weather_query,weather_query,0.998
+304,make a list of all the clothing range available on ralph and lauren,lists_query,lists_query,0.6222
+305,please send mom an email saying that i can make it next week,email_sendemail,email_sendemail,0.9985
+306,i want to hear i got you babe by sonny and cher can you play that,play_music,play_music,0.7904
+307,play new pop music,play_music,play_music,0.9075
+308,how much is twenty argentinian pesos in pounds,qa_currency,qa_currency,0.9875
+309,give me everything you know about bob dean,qa_factoid,qa_factoid,0.8527
+310,softer,audio_volume_down,iot_hue_lightdim,0.4855
+311,put on radio mango,play_radio,play_radio,0.9818
+312,i want to listen to some gospel music,play_music,play_music,0.8703
+313,upcoming events in calendar,calendar_set,calendar_query,0.9066
+314,what is six minus four,qa_maths,qa_maths,0.9946
+315,remind me tomorrow at two p. m.,calendar_set,calendar_set,0.982
+316,transition lights to blue to green to yellow,iot_hue_lightchange,iot_hue_lightchange,0.9903
+317,i would love to hear the playlist i created for my wedding,play_music,play_music,0.8846
+318,is the road in some particular area wide or narrow,transport_traffic,transport_traffic,0.5345
+319,which country would end up converting the most money out of a thousand dollars us,qa_factoid,qa_currency,0.8976
+320,do i need to wear boots,weather_query,weather_query,0.2397
+321,will you help me get better in studies,general_quirky,news_query,0.5131
+322,i want the status on my screen brightness,general_quirky,iot_hue_lightup,0.8462
+323,change light color,iot_hue_lightchange,iot_hue_lightchange,0.9872
+324,message at bobburgers they screwed up my order and i had to wait an extra hour,social_post,takeaway_order,0.68
+325,what is the circumference of the earth,qa_factoid,qa_factoid,0.8744
+326,please set a meeting for tomorrow on my calendar,calendar_set,calendar_set,0.986
+327,tell me where i should go for times,transport_ticket,recommendation_events,0.5077
+328,what activities are taking place in my area,recommendation_events,recommendation_events,0.8688
+329,my set alarms,alarm_query,alarm_query,0.995
+330,remove cheese from my list,lists_remove,lists_remove,0.9948
+331,olly how much can chris helmsworth bench press,qa_factoid,qa_factoid,0.9377
+332,will there be a world war four,general_quirky,qa_factoid,0.5621
+333,when am i supposed to meet barbara for lunch this week,calendar_query,calendar_query,0.8287
+334,set event on recurring,calendar_set,calendar_set,0.9869
+335,olly i need to hear some sad songs today,play_music,play_music,0.823
+336,remind me about my anniversary in advance,calendar_set,calendar_set,0.9856
+337,i need to know if mr. pizza delivers,takeaway_query,takeaway_query,0.9794
+338,who is barack obama,qa_factoid,qa_factoid,0.9154
+339,play taylor swift,play_music,play_music,0.8175
+340,did mom text me,email_querycontact,email_query,0.6102
+341,find tacos near my home,recommendation_locations,recommendation_locations,0.7493
+342,remove all from calendar,calendar_remove,calendar_remove,0.9916
+343,play the audiobook swan from first,play_audiobook,play_audiobook,0.9936
+344,what is my first appointment today,calendar_query,calendar_query,0.9748
+345,will you send an email to this new email address,email_sendemail,email_sendemail,0.9857
+346,which part of antarctica belongs to the us,qa_factoid,qa_factoid,0.9149
+347,can i order takeaway from spanish place,takeaway_order,takeaway_query,0.5921
+348,explain photosynthesis,qa_definition,qa_definition,0.7844
+349,please remind me to pickup john at school today at one p. m.,calendar_set,calendar_set,0.9862
+350,how much time it will take to prepare the order,takeaway_query,takeaway_query,0.9075
+351,send an email to margaret,email_sendemail,email_sendemail,0.9989
+352,what are the train times from san francisco to new york,transport_query,transport_query,0.9823
+353,remove the hip show from my schedule on april second,calendar_remove,calendar_remove,0.9833
+354,remind me of my meeting tomorrow at three p. m.,calendar_set,calendar_set,0.9845
+355,play the latest games,play_game,play_game,0.8395
+356,please remove tricep pull down from my workout list,lists_remove,lists_remove,0.9928
+357,send an email to scott asking what the weather will be like this week,email_sendemail,email_sendemail,0.9005
+358,vacuum the house,iot_cleaning,iot_cleaning,0.9996
+359,show reminders,calendar_query,calendar_query,0.7776
+360,can you find me a train ticket to southampton on memorial day weekend,transport_query,transport_ticket,0.9466
+361,enjoyment,play_music,music_likeness,0.7116
+362,recite the schedules of the list,lists_query,lists_query,0.9648
+363,remind me about my lunch date for monday,calendar_set,calendar_set,0.9643
+364,what's the current time in new york,datetime_query,datetime_query,0.999
+365,dance with me,general_quirky,play_game,0.5619
+366,tell me about the latest sports news,news_query,news_query,0.9988
+367,what is the weather in london,weather_query,weather_query,0.9974
+368,select the item,lists_createoradd,lists_query,0.7478
+369,when is the next train leaving for austin,transport_query,transport_query,0.9804
+370,olly what's the current weather,weather_query,weather_query,0.999
+371,set a meeting on the twentieth october ten thirty am,calendar_set,calendar_set,0.9871
+372,can you raise the lights for me please,iot_hue_lightup,iot_hue_lightup,0.8912
+373,automobiles,news_query,qa_factoid,0.6294
+374,can you recommend good stores in this area,recommendation_locations,recommendation_locations,0.9847
+375,how many bots are in a dollar,qa_currency,qa_factoid,0.3937
+376,what is the time in london,datetime_query,datetime_query,0.9975
+377,can you tell me the time in new york,datetime_query,datetime_query,0.9974
+378,play a country station,play_radio,play_radio,0.9764
+379,what is the current time in lagos nigeria,datetime_query,datetime_query,0.9991
+380,do i need to do anything today,calendar_query,lists_query,0.3862
+381,can you turn off my desk lamp,iot_hue_lightoff,iot_hue_lightoff,0.9127
+382,open bad religion folder,play_music,play_audiobook,0.1949
+383,cross out bread from shopping list,lists_remove,lists_remove,0.9931
+384,set up a reoccurring grocery store trip for every sunday,calendar_set,calendar_set,0.9171
+385,what events are scheduled for this weekend in me area,recommendation_events,calendar_query,0.6839
+386,can you read me my lists,lists_query,lists_query,0.9934
+387,when is the twenty second,datetime_query,qa_maths,0.5135
+388,olly what are some restaurants near me,recommendation_locations,recommendation_locations,0.9742
+389,post in twitter my visit to japan,social_post,social_post,0.9894
+390,what time is it in this city,datetime_query,datetime_query,0.9982
+391,what is the name of song,music_query,music_query,0.9897
+392,send an email to my manager,email_sendemail,email_sendemail,0.9994
+393,i would be happy if you update me the events going on our area,recommendation_events,recommendation_events,0.5294
+394,alexa i want to know the best super market in this local area,recommendation_locations,recommendation_locations,0.9897
+395,should i take a sweater or a coat to work today,weather_query,weather_query,0.8839
+396,make it red in here,iot_hue_lightchange,iot_hue_lightchange,0.9887
+397,tweet for me the complaint about drainage work,social_post,social_post,0.9783
+398,what video game should i play next,qa_factoid,play_game,0.9596
+399,time difference between u. k. and us,datetime_convert,datetime_convert,0.9156
+400,the song in background is cool,music_likeness,music_likeness,0.6849
+401,play me something pop,play_music,play_music,0.8905
+402,any news from agnes,email_query,news_query,0.9987
+403,new news tech,news_query,news_query,0.9967
+404,what is your age,general_quirky,datetime_query,0.7919
+405,tell me when there is new news about donald trump,news_query,news_query,0.9987
+406,set an alarm for six thirty am,alarm_set,alarm_set,0.996
+407,i feel like having soup for lunch order from wangs kitchen restaurant a chicken manchow soup,takeaway_order,takeaway_order,0.8769
+408,what is one plus one,qa_maths,qa_maths,0.9812
+409,i need a ride home,transport_taxi,transport_taxi,0.9995
+410,weather report now,weather_query,weather_query,0.9976
+411,list emails from jim for today,email_query,email_query,0.9919
+412,should i wear raincoat before getting out,weather_query,weather_query,0.9204
+413,what is the linear equation,qa_maths,qa_maths,0.7232
+414,what alarms are set in the house,alarm_query,alarm_query,0.9987
+415,what is the weather in austin,weather_query,weather_query,0.9981
+416,add grocery to list,lists_createoradd,lists_createoradd,0.9945
+417,can you get me a taxi home,transport_taxi,transport_taxi,0.9998
+418,olly i need a drink,iot_coffee,general_quirky,0.3266
+419,set a reminder every day at noon to take medication,calendar_set,calendar_set,0.9891
+420,where is johncena from,qa_factoid,email_querycontact,0.8226
+421,what are today's headlines,news_query,news_query,0.9983
+422,remind me of the meeting on the twenty second of january,calendar_set,calendar_set,0.9623
+423,olly change light color to blue,iot_hue_lightchange,iot_hue_lightchange,0.9991
+424,tell me a place that has snow now,general_quirky,weather_query,0.9242
+425,is it going to rain later,weather_query,weather_query,0.9995
+426,make a reminder of location a on calendar,calendar_set,calendar_set,0.9882
+427,ask trivia questions,general_quirky,qa_factoid,0.86
+428,who is the current us treasury secretary,qa_factoid,news_query,0.8188
+429,please show me weather on twenty seventh march two thousand seventeen,weather_query,weather_query,0.9987
+430,describe what a poltergeist is,qa_definition,qa_definition,0.9289
+431,what is going on with international news,news_query,news_query,0.9991
+432,play me this year's top ten k. pop songs,play_music,play_music,0.9398
+433,i want to go to mcdo,transport_query,transport_taxi,0.3923
+434,find game,play_game,play_game,0.9459
+435,olly what's happened in the news today,news_query,news_query,0.9969
+436,please tell me a shop where i can find books to buy,recommendation_locations,recommendation_locations,0.8582
+437,olly hot and sweet soy based,iot_coffee,cooking_recipe,0.6805
+438,can you tell me about today,calendar_query,news_query,0.6725
+439,how cold is today,weather_query,weather_query,0.9899
+440,lets play tic tac toe,play_game,play_game,0.9966
+441,find out if eddie richards has sent an email about the budget requests,email_query,email_query,0.9886
+442,what events are going on in the area,recommendation_events,recommendation_events,0.7775
+443,i don't want to take any more calls after five p. m.,general_quirky,calendar_remove,0.4828
+444,i want to listen arijit singh song once again,play_music,play_music,0.4634
+445,pull up trump stories,news_query,news_query,0.9804
+446,please delete this event,calendar_remove,calendar_remove,0.9926
+447,mute immediately,audio_volume_mute,audio_volume_mute,0.9867
+448,load spotify,play_music,play_music,0.8882
+449,find me a time for a meeting with allen on tomorrow,calendar_set,calendar_set,0.8046
+450,weather on tuesday,weather_query,weather_query,0.9993
+451,what events do i have coming up,calendar_query,calendar_query,0.8438
+452,please order me pizza and wings from papa johns now,takeaway_order,takeaway_order,0.9482
+453,what is the quickest way to grand central,transport_query,transport_query,0.8579
+454,let me know if i get a new email today,email_query,email_query,0.9968
+455,how do i make peanut butter cookies,cooking_recipe,cooking_recipe,0.9748
+456,define flabbergasted,qa_definition,qa_definition,0.992
+457,get local events,recommendation_events,recommendation_events,0.8556
+458,social info,social_query,social_query,0.9867
+459,olly how do i start making lobster bisque,cooking_recipe,cooking_recipe,0.9756
+460,set an alarm for five o'clock this evening labeled taxi,alarm_set,alarm_set,0.9819
+461,how is traffic in city,transport_traffic,transport_traffic,0.9973
+462,turn off bedroom lights in ten seconds,iot_hue_lightoff,iot_hue_lightoff,0.9638
+463,please dim the lights in the bedroom,iot_hue_lightdim,iot_hue_lightdim,0.9722
+464,weather like,weather_query,weather_query,0.9994
+465,what time is it in moscow now,datetime_query,datetime_query,0.9965
+466,what is the stock price of amazon,qa_stock,qa_stock,0.9989
+467,please find a contact number of rahul judawa,email_querycontact,email_querycontact,0.9964
+468,hey send email to john,email_sendemail,email_sendemail,0.9991
+469,i want to order some take-out food,takeaway_order,takeaway_order,0.927
+470,when is my train coming,transport_query,transport_query,0.9736
+471,is halloween on a friday this year,calendar_query,datetime_query,0.7404
+472,can you tell me the current traffic condition of my location,transport_traffic,transport_traffic,0.9928
+473,olly set up a daily reminder for me please,calendar_set,calendar_set,0.9784
+474,hey what time does the next train depart,transport_query,transport_query,0.9668
+475,i want to listen song one,play_music,play_music,0.8698
+476,will you please put something something at gmail dot com in my contacts,email_addcontact,email_addcontact,0.9966
+477,please tell kmart they sent the wrong item,social_post,takeaway_query,0.3952
+478,add oil change to my to do list,lists_createoradd,lists_createoradd,0.9949
+479,is today when my paper is due,calendar_query,datetime_query,0.5771
+480,what's in my inbox since we last looked,email_query,email_query,0.9866
+481,use this program,play_radio,play_audiobook,0.3626
+482,make a note of my doctor's appointment on wednesday next week,calendar_set,calendar_set,0.9562
+483,how old is kim kardashian,qa_factoid,qa_factoid,0.6285
+484,set an alarm for tomorrow monday at eight am,alarm_set,alarm_set,0.9948
+485,hey google hey its too hot outside what is the temperature this afternoon,weather_query,weather_query,0.9992
+486,is there a chili cook off this weekend,calendar_query,cooking_recipe,0.2239
+487,please delete all of my calendar events for the rest of the day,calendar_remove,calendar_remove,0.9966
+488,where is the nearest train to me,transport_query,transport_query,0.9579
+489,order me an uber ride please,transport_taxi,transport_taxi,0.9895
+490,hey olly please tell me the name of this song that is currently playing,music_query,music_query,0.9714
+491,play two thousand one hundred and twelve by rush,play_music,play_audiobook,0.6106
+492,inform me about meetings,calendar_query,calendar_query,0.9681
+493,activate silent,audio_volume_mute,audio_volume_mute,0.9599
+494,good food,cooking_recipe,takeaway_order,0.3756
+495,do i have anything scheduled tomorrow from noon to three p. m.,calendar_query,calendar_query,0.9756
+496,what store is having sales tomorrow,general_quirky,recommendation_locations,0.5566
+497,when new york train will arrive,transport_query,transport_query,0.9777
+498,tell me about the list,lists_query,lists_query,0.969
+499,when is the next touring,general_quirky,calendar_query,0.5117
+500,add a meeting in office at eleven am,calendar_set,calendar_set,0.9874
+501,i need a reminder at two hundred every day to check on my mother,calendar_set,calendar_set,0.9823
+502,when was justin bieber born,qa_factoid,qa_factoid,0.7602
+503,alexa please turn down the lights in the house,iot_hue_lightdim,iot_hue_lightdim,0.9511
+504,do i have a date for tonight,calendar_query,calendar_query,0.9588
+505,open parcheese game for you and i,play_game,play_game,0.9852
+506,look for this playback in audiobook and play for me,play_audiobook,play_audiobook,0.9922
+507,include this event in my calendar,calendar_set,calendar_set,0.8861
+508,shuffle and play all songs by gavenda artist,play_music,music_settings,0.5552
+509,please show me any articles related to weather in the morning news,news_query,news_query,0.7184
+510,i need to have better focus olly i couldn't concentrate on a single task,general_quirky,general_quirky,0.6181
+511,please tell me about a hour before thursday about my hair appointment,calendar_set,calendar_query,0.8525
+512,start my robot vacuum cleaner by ten to eleven am daily,iot_cleaning,iot_cleaning,0.9984
+513,search for all titles for huey lewis and play,play_music,play_audiobook,0.5868
+514,post to tumblr i'm having fun,social_post,social_post,0.9343
+515,what were the winning powerball numbers last night,news_query,calendar_query,0.2477
+516,remove the event from monday,calendar_remove,calendar_remove,0.9897
+517,inform me about the latest news of donald trump,news_query,news_query,0.9978
+518,cancel all appointments in my calendar,calendar_remove,calendar_remove,0.9951
+519,what's the best podcast,play_podcasts,play_podcasts,0.99
+520,send mail to someone,email_sendemail,email_sendemail,0.9978
+521,now i need to write an email to my colleague,email_sendemail,email_sendemail,0.9975
+522,find the latest disney podcast,play_podcasts,play_podcasts,0.9947
+523,i want to hear the radio turn it on please,play_radio,play_radio,0.9479
+524,send reply,email_sendemail,email_sendemail,0.9972
+525,open gallery post video name,social_post,social_query,0.6109
+526,google can you book me a ticket on the train for tomorrow,transport_ticket,transport_ticket,0.9897
+527,make a repeating reminder for my work tasks every day at eight am,calendar_set,calendar_set,0.9897
+528,continue playing my book of vitamins,play_audiobook,play_audiobook,0.9781
+529,add this new email with contact,email_addcontact,email_addcontact,0.993
+530,make five coffee tell the coffee machine,iot_coffee,iot_coffee,0.9997
+531,play my playlist party songs,play_music,play_music,0.8947
+532,who won the last five n. c. a. a. men's basketball tournament,qa_factoid,news_query,0.7443
+533,i would like to listen to celine dion,play_music,play_music,0.81
+534,add song to running list,music_likeness,lists_createoradd,0.9412
+535,please play justin bieber album,play_music,play_music,0.9436
+536,are there any recall news,news_query,news_query,0.9979
+537,tell me speed to go sun,general_quirky,transport_query,0.5422
+538,is there any email from my contacts,email_query,email_query,0.8428
+539,spelling,general_quirky,qa_definition,0.9675
+540,please save the current song to favorites,music_likeness,music_likeness,0.9942
+541,how do i get to the grocery store,transport_query,recommendation_locations,0.7744
+542,please play the radio,play_radio,play_radio,0.9616
+543,where should i go for dinner in san francisco tonight,recommendation_events,recommendation_locations,0.8905
+544,it is a sunny day today right,weather_query,weather_query,0.994
+545,notify me one hour before my meeting,calendar_set,calendar_set,0.96
+546,put a repeating event on the calendar,calendar_set,calendar_set,0.9871
+547,play hurt by johnny cash next,play_music,play_audiobook,0.4687
+548,what's going on lately with the europe,news_query,news_query,0.8248
+549,what is the weather in home town,weather_query,weather_query,0.9968
+550,away off from list,lists_remove,lists_remove,0.9901
+551,what does obama do in his day to day life,general_quirky,qa_factoid,0.6509
+552,please increase volume in music player,audio_volume_up,audio_volume_up,0.9782
+553,mail administrator,email_sendemail,email_query,0.8637
+554,add soup to my shopping list,lists_createoradd,lists_createoradd,0.994
+555,are there any latest news,news_query,news_query,0.9931
+556,add to my calendar daily call at five p. m.,calendar_set,calendar_set,0.9864
+557,set meeting for january twenty five,calendar_set,calendar_set,0.981
+558,speak all items for to day,lists_query,lists_query,0.7392
+559,tell me c. n. n. news for me right now,news_query,news_query,0.9996
+560,i want a meeting till three o'clock,calendar_set,calendar_set,0.8957
+561,what does the analysts say about the new immigration policies,news_query,news_query,0.9427
+562,how many times was richard nixon married,qa_factoid,qa_factoid,0.9442
+563,find and read to me world events happening today,news_query,news_query,0.9434
+564,what new movies are played in cinemas this week,recommendation_movies,recommendation_movies,0.9977
+565,olly what is this week's weather forecast,weather_query,weather_query,0.9997
+566,has cassie sent me any emails about tom,email_query,email_query,0.9921
+567,pdr am radio,play_radio,play_radio,0.9936
+568,add this song to my favorite list,music_likeness,music_likeness,0.6812
+569,turn off the smart plug,iot_wemo_off,iot_wemo_off,0.9849
+570,email naty for her birthday,email_sendemail,email_sendemail,0.8465
+571,what are the latest crime statistics for me area,news_query,news_query,0.8914
+572,what is the us dollar and euro exchange rate,qa_currency,qa_currency,0.9991
+573,can you please let me know the next four scheduled trains to chicago,transport_query,transport_query,0.8544
+574,what events are happening soon,recommendation_events,calendar_query,0.5367
+575,please stop talking,audio_volume_mute,audio_volume_mute,0.9621
+576,i needed to prepare for a meeting,calendar_query,calendar_set,0.737
+577,recent tech headlines,news_query,news_query,0.9854
+578,my favorite singer is shakira,music_likeness,music_likeness,0.9247
+579,what do pink ribbons support,qa_factoid,qa_definition,0.5606
+580,i want to book a train ticket,transport_ticket,transport_ticket,0.987
+581,i would like to talk about it,general_quirky,general_quirky,0.8019
+582,tell me the trains from california to new jersey after eleven p. m.,transport_query,transport_query,0.8358
+583,play recently added songs,play_music,play_music,0.9276
+584,display recent email from john,email_query,email_query,0.9933
+585,what is the departure time for the next train leaving new york city,transport_query,transport_query,0.9575
+586,please remind me to take off coffee off stove in ten minutes,calendar_set,iot_coffee,0.7141
+587,after swimming lessons what else is on my calendar on tuesday,calendar_query,calendar_query,0.9695
+588,send a replay email,email_sendemail,email_sendemail,0.9945
+589,what a sunny day,weather_query,weather_query,0.9921
+590,i want to order food,takeaway_order,takeaway_order,0.9291
+591,please remind this sunday to go to mass,calendar_set,calendar_set,0.9792
+592,can you show me a list of all my recent commands,general_quirky,lists_query,0.98
+593,all march events in rccg is to be added to my calendar,calendar_set,calendar_set,0.9201
+594,where does tar work currently,email_querycontact,qa_factoid,0.3839
+595,latest reminder about meeting,calendar_set,calendar_query,0.8724
+596,dim the lights in the living room,iot_hue_lightdim,iot_hue_lightdim,0.9173
+597,how many kilometers did i walk today,general_quirky,general_quirky,0.2579
+598,i want to start a new list of power tools on sale at true value,lists_createoradd,lists_createoradd,0.7325
+599,cleaning is good dust is so bad do now your magic clean my carpet,iot_cleaning,iot_cleaning,0.9886
+600,how he works perfectly,general_quirky,qa_factoid,0.338
+601,how long is the great wall of china,qa_factoid,qa_factoid,0.9839
+602,olly read back my grocery list to me,lists_query,lists_query,0.9886
+603,what is the current news today,news_query,news_query,0.9969
+604,what events are scheduled next tuesday between eleven am and three p. m.,calendar_query,calendar_query,0.883
+605,is there snow in the forecast,weather_query,weather_query,0.9997
+606,is it too hot for pants,weather_query,weather_query,0.9837
+607,off the speakers,audio_volume_mute,audio_volume_mute,0.6915
+608,i need you to have the volume louder,audio_volume_up,audio_volume_up,0.9641
+609,just set me reminders about pending bill payments,calendar_set,calendar_set,0.9731
+610,email form for regional v. p.,email_sendemail,email_sendemail,0.8907
+611,google who was the last president who didn't own a dog,qa_factoid,qa_factoid,0.9459
+612,what movies are showing in cinema today,recommendation_movies,recommendation_movies,0.9986
+613,alexa do need an umbrella today,weather_query,weather_query,0.8864
+614,play last libertarian podcast,play_podcasts,play_podcasts,0.9919
+615,how much wood could a woodchuck chuck if a woodchuck could chuck wood,general_quirky,qa_factoid,0.3826
+616,what is this thing,qa_definition,qa_definition,0.9408
+617,set alarm for eight am,alarm_set,alarm_set,0.9913
+618,how many words does it know,general_quirky,qa_definition,0.9315
+619,off all the lights on the right side,iot_hue_lightoff,iot_hue_lightoff,0.9626
+620,alexa increase the brightness of the light it is hard to see down here,iot_hue_lightup,iot_hue_lightup,0.9608
+621,what do i have to do tomorrow,calendar_query,calendar_query,0.5791
+622,i want you to go to hot one hundred and five on the radio,play_radio,play_radio,0.9948
+623,where is fallout boy performing next,calendar_query,music_query,0.7554
+624,are you aware this joke,general_joke,general_joke,0.9941
+625,give me a newspaper,news_query,news_query,0.9968
+626,what's on my calendar this month,calendar_query,calendar_query,0.9794
+627,what time should i go for a hike,weather_query,weather_query,0.2562
+628,can you give me the movie schedule,calendar_query,recommendation_movies,0.9924
+629,meaning of enthusiastic,qa_definition,qa_definition,0.9962
+630,what topic is the most talked about today,news_query,news_query,0.7961
+631,email george brown,email_sendemail,email_query,0.6246
+632,the radio should play only on nine hundred and ninety nine f. m.,play_radio,play_radio,0.9946
+633,what is the weather next week in pasadena ca,weather_query,weather_query,0.9993
+634,i can't hear just increase the volume,audio_volume_up,audio_volume_up,0.8783
+635,what is the exchange rate between pound sterling and the u. s. dollar,qa_currency,qa_currency,0.9982
+636,did bert write me today,email_query,email_query,0.1908
+637,send me links to news articles about the protest,news_query,news_query,0.9979
+638,send an email to peter that where he is now and if he is at the market text him to bring some wine,email_sendemail,email_sendemail,0.9992
+639,show me the best recipe for spaghetti,cooking_recipe,cooking_recipe,0.9647
+640,where can i get a shot of tequila and some to go mexican food,takeaway_query,recommendation_locations,0.8008
+641,what is the name of the best italian restaurant,general_quirky,recommendation_locations,0.8956
+642,play for me madonna song from audiobook,play_audiobook,play_audiobook,0.9819
+643,place family phone on instagram,social_post,social_post,0.9624
+644,add event on august twenty one at nine am,calendar_set,calendar_set,0.9764
+645,alexa tell me keywords about usain bolt,qa_factoid,qa_factoid,0.9575
+646,report weather for thirty three thousand seven hundred and seventy four,weather_query,weather_query,0.9907
+647,mention the time in canada now,datetime_query,datetime_query,0.9983
+648,did anybody email me today,email_query,email_query,0.9893
+649,load my playlist titled country favorites and play it,play_podcasts,play_music,0.9577
+650,post pic on my phone on facebook alexa,social_post,social_post,0.9914
+651,up coming events,calendar_query,calendar_query,0.5378
+652,make an alarm,alarm_set,alarm_set,0.9854
+653,has anyone follow me today on twitter today,social_query,social_query,0.9827
+654,set the mood please,iot_hue_lightchange,music_settings,0.4466
+655,olly make me a coffee,iot_coffee,iot_coffee,0.9993
+656,please send the email to jeff,email_sendemail,email_sendemail,0.9983
+657,will it rain saturday,weather_query,weather_query,0.9985
+658,what is the time train coming from sacramento,transport_query,transport_query,0.7979
+659,can you book a train ticket,transport_ticket,transport_ticket,0.9783
+660,listen to this song,music_query,play_music,0.8687
+661,can you set my coffee machine to make me coffee at seven am,iot_coffee,iot_coffee,0.9981
+662,i am busy tomorrow so delete all calendar events,calendar_remove,calendar_remove,0.9965
+663,check my facebook notification,social_query,social_query,0.9981
+664,what is the condition of traffic from work to home,transport_traffic,transport_traffic,0.9882
+665,let's play nine ball against me adapt with my skill level always let me win,play_game,play_game,0.986
+666,how did your day go,general_quirky,general_greet,0.5438
+667,mention the stock price of hdfc,qa_stock,qa_stock,0.9961
+668,please open my f. m. radio and play nine hundred and eighty seven,play_radio,play_radio,0.9934
+669,read me new emails,email_query,email_query,0.9973
+670,could you please play the song from the artist madonna,play_music,play_music,0.9114
+671,please clear my calendar for tomorrow,calendar_remove,calendar_remove,0.9895
+672,add an event to my calendar,calendar_set,calendar_set,0.9826
+673,find geographic details of this place,qa_factoid,recommendation_locations,0.4141
+674,what is currently breaking news,news_query,news_query,0.9977
+675,i need an alarm for nine p. m.,alarm_set,alarm_set,0.9858
+676,did you set the alarm for five am,alarm_query,alarm_query,0.7067
+677,is it monday today,datetime_query,datetime_query,0.9853
+678,put the item on the list,lists_createoradd,lists_createoradd,0.9775
+679,please show today meeting with clients,calendar_query,calendar_query,0.8723
+680,put that on facebook,social_post,social_post,0.9305
+681,do i have any new inbox message,email_query,email_query,0.9973
+682,tell me the time in another city in us,datetime_query,datetime_query,0.701
+683,what is the forecast for saturday,weather_query,weather_query,0.9992
+684,olly let me know if i get a message about the party from jane,email_query,email_query,0.7293
+685,i will attend lily's wedding next week with my boyfriend please add it to my calendar,calendar_set,calendar_set,0.9878
+686,please check my mail,email_query,email_query,0.9979
+687,don't respond for fifty seconds,audio_volume_mute,audio_volume_mute,0.8684
+688,please send an email to larry's new email at larrylarry at gmail dot com,email_sendemail,email_sendemail,0.9987
+689,please play only music of pop mix,play_music,play_music,0.8666
+690,play songs by nkotb,play_music,play_music,0.9387
+691,status of weather,weather_query,weather_query,0.9994
+692,hey olly what time is it in orlando florida,datetime_query,datetime_query,0.9949
+693,play music that i like,play_music,play_music,0.8474
+694,play the next episode of this series,play_podcasts,play_podcasts,0.9495
+695,compare price of a audio device from all websites with free shipping,general_quirky,general_quirky,0.1481
+696,open weather,weather_query,weather_query,0.9996
+697,please play this game,play_game,play_game,0.9339
+698,customer service complaint tweet the following,social_post,social_post,0.9884
+699,delete the last line,lists_remove,lists_remove,0.9768
+700,control lights turn off room lights,iot_hue_lightoff,iot_hue_lightoff,0.9402
+701,what is the estimated travel time for the train ride to orlando,transport_query,transport_query,0.9815
+702,google the word,qa_definition,qa_definition,0.9647
+703,remove this event from my calendar,calendar_remove,calendar_remove,0.9955
+704,resume the memorial songs,play_music,play_music,0.7289
+705,can you make the lights go out,iot_hue_lightoff,iot_hue_lightoff,0.9435
+706,what time does the acme meeting start on friday,calendar_query,calendar_query,0.9055
+707,am i free between six to seven p. m.,calendar_query,calendar_query,0.754
+708,it is very hot today is not it,weather_query,weather_query,0.8993
+709,remove all the events from my whole calendar,calendar_remove,calendar_remove,0.9927
+710,play the miami heat and warriors game,play_radio,play_game,0.9493
+711,topography melbourne,qa_factoid,qa_factoid,0.4955
+712,play my rock station on pandora,play_radio,play_radio,0.6861
+713,what is the last email i received,email_query,email_query,0.9943
+714,what do you want to do today,general_quirky,recommendation_events,0.373
+715,how long do i chill an icebox pie,cooking_recipe,cooking_recipe,0.8489
+716,what time zone is arizona in,qa_factoid,datetime_query,0.9843
+717,set up the following event in the calendar with the following people,calendar_set,calendar_set,0.9829
+718,what's the scoop,news_query,news_query,0.8559
+719,order me a byron from deliveroo,takeaway_order,takeaway_order,0.8586
+720,tweet complaint to american eagle customer service,social_post,social_post,0.8414
+721,remove mike stein from contacts list,lists_remove,lists_remove,0.8324
+722,show me news about trump,news_query,news_query,0.9993
+723,show me weather list for tomorrow,weather_query,weather_query,0.9996
+724,is it sunny outside,weather_query,weather_query,0.9993
+725,olly put dark colors instead of light ones in the house,iot_hue_lightchange,iot_hue_lightchange,0.8221
+726,hello google post my current status on twitter mentioning a great trip to paris with friends and family,social_post,social_post,0.9869
+727,play me a random song from my playlist,play_music,play_music,0.8399
+728,hey what has been happening interesting in sports lately,general_quirky,news_query,0.9584
+729,raju phone book,email_querycontact,email_querycontact,0.9899
+730,hey olly play the playlist,play_music,play_music,0.9043
+731,what's the easiest way to cook pasta,cooking_recipe,cooking_recipe,0.891
+732,what is happening with president trump,news_query,news_query,0.9028
+733,show me what time it is,datetime_query,datetime_query,0.9956
+734,tell me about my upcoming events,calendar_query,calendar_query,0.8892
+735,can you define a baster,qa_definition,qa_definition,0.9785
+736,turn off living room lights,iot_hue_lightoff,iot_hue_lightoff,0.9204
+737,what is planned today,calendar_query,calendar_query,0.7266
+738,do i need to be reminded of any meetings on monday,calendar_set,calendar_query,0.8594
+739,is it going to be windy tomorrow,weather_query,weather_query,0.9995
+740,what is the weather like,weather_query,weather_query,0.9992
+741,refresh email,email_query,email_query,0.8818
+742,what's the best day next week to go out for pizza,datetime_query,takeaway_order,0.3043
+743,set feeling happy status on facebook,social_post,social_post,0.9398
+744,answer this question what's the first boss in super mario brothers,general_quirky,qa_factoid,0.8943
+745,tweet bad service related to out local haskell mcdonalds,social_post,social_post,0.3144
+746,what is the population of russia,qa_factoid,qa_factoid,0.9759
+747,is the twenty third on the weekend,datetime_query,datetime_query,0.7464
+748,remove that event from list,lists_remove,lists_remove,0.6617
+749,what time does the train depart from downtown los angeles to santa barbara,transport_query,transport_query,0.97
+750,create a list of books to be ordered,lists_createoradd,lists_createoradd,0.8715
+751,today's closing price for google,qa_stock,qa_stock,0.7927
+752,if i was in the eastern time zone what time would it be,datetime_convert,datetime_convert,0.7139
+753,give me the definition of the word fondle,qa_definition,qa_definition,0.9968
+754,is there any event today in my calendar,calendar_query,calendar_query,0.9769
+755,tell me something interesting on the message list,lists_remove,lists_query,0.776
+756,play music by korn,play_music,play_music,0.8646
+757,play shane dawson podcast,play_podcasts,play_podcasts,0.9797
+758,remove deposit check from to do list,lists_remove,lists_remove,0.9889
+759,can you book an uber tomorrow,transport_taxi,transport_taxi,0.9996
+760,what is rock,qa_definition,qa_definition,0.9283
+761,remind me of the seven am sales meeting this thursday and add to calendar,calendar_set,calendar_set,0.9864
+762,locate address for myrtle beach state fair,calendar_query,recommendation_events,0.6789
+763,can you empty my calendar,calendar_remove,calendar_remove,0.9821
+764,remove the board meeting and reschedule for next wednesday,calendar_remove,calendar_set,0.7728
+765,i have a sales meeting this thursday at seven am please notify me and add to calendar,calendar_set,calendar_set,0.9895
+766,make a facebook post i'm home,social_post,social_post,0.9557
+767,how many runs did cheteshwar pujara scored yesterday,news_query,news_query,0.9497
+768,hey start an email to coworker,email_sendemail,email_sendemail,0.9967
+769,is mr. pizza on skip the dishes,takeaway_query,takeaway_query,0.2329
+770,yes i want to check,email_query,lists_query,0.2423
+771,play my downloaded music,play_music,play_music,0.9181
+772,turn up the sound,audio_volume_up,audio_volume_up,0.9771
+773,searching on holidays in my location,recommendation_events,recommendation_events,0.4004
+774,post a tweet as follows very bad follow up by a. b. c. company not satisfied in my account,social_post,social_post,0.9943
+775,let me know the alarm time,alarm_query,alarm_query,0.9958
+776,what time is the next event scheduled,calendar_query,calendar_query,0.9682
+777,explain how u. s. a. social status differs from the one in the u. k. now and in the past,general_quirky,qa_factoid,0.6181
+778,what shops are round here,recommendation_locations,recommendation_locations,0.9623
+779,when was benjamin franklin born,qa_factoid,qa_factoid,0.9192
+780,describe the empire state building,qa_definition,qa_factoid,0.9383
+781,read my to do list,lists_query,lists_query,0.9669
+782,i helped a poor needy today olly,iot_coffee,general_quirky,0.3333
+783,olly what movies are playing in columbia,recommendation_movies,recommendation_movies,0.991
+784,play enrique iglesias song after this one,play_music,play_music,0.8439
+785,can you backward an episode in the podcast,play_podcasts,play_podcasts,0.9924
+786,clear my day from meetings,calendar_remove,calendar_remove,0.8954
+787,olly what is the best tasting cut of beef,cooking_recipe,cooking_recipe,0.4734
+788,next episode of nyt podcast,play_podcasts,play_podcasts,0.9892
+789,call china king chinese restaurant,takeaway_order,recommendation_locations,0.6529
+790,turn on channel nine hundred and fifty one,play_radio,play_radio,0.6165
+791,what is my schedule like today,calendar_query,calendar_query,0.9831
+792,please play my music,play_music,play_music,0.8603
+793,where is my meeting at nine am,calendar_query,calendar_query,0.9521
+794,order one pizza from pizza hut,takeaway_order,takeaway_order,0.9678
+795,notify me an hour before my two p. m. appointment at the car dealership,calendar_set,calendar_set,0.9618
+796,i hate how long the traffic jams get,general_quirky,transport_traffic,0.998
+797,i need a event to be created with only these people,calendar_set,calendar_set,0.9767
+798,please start the coffee,iot_coffee,iot_coffee,0.996
+799,tell me about my alarms,alarm_query,alarm_query,0.9983
+800,olly i need to know if i have any new reminders,calendar_query,calendar_query,0.9552
+801,send a tweet to dominoes about bad delivery,social_post,social_post,0.9541
+802,send email to mommy that i'll be going the party,email_sendemail,email_sendemail,0.9992
+803,next month my brothers birthday,calendar_set,calendar_set,0.6218
+804,tuesday meeting noon,calendar_set,calendar_set,0.7042
+805,for facebook write newly promoted manager for hillstead,social_post,social_post,0.9529
+806,book me a taxi to leith in half an hour,transport_taxi,transport_taxi,0.9996
+807,how many meetings do i have tomorrow,calendar_query,calendar_query,0.9908
+808,could you please play the f. m. radio of one station for me,play_radio,play_radio,0.9968
+809,just idle chit chat,general_quirky,general_quirky,0.555
+810,what are the vietnamese restaurants in the area,recommendation_locations,recommendation_locations,0.9254
+811,find an uber driver available for tonight after ten p. m.,transport_taxi,transport_taxi,0.9996
+812,ok google what happened to katy perry,general_quirky,qa_factoid,0.8225
+813,can you please book a train ticket for next saturday to boston,transport_ticket,transport_ticket,0.9914
+814,read me the most updated news on b. b. c.,news_query,news_query,0.9974
+815,email mom about lunch,email_sendemail,email_query,0.5524
+816,find out for me what the topic is of each oswald chambers book,qa_factoid,qa_factoid,0.6558
+817,will i need a jacket today,weather_query,weather_query,0.993
+818,where is montana,qa_factoid,qa_factoid,0.7256
+819,put alarm at five am,alarm_set,alarm_set,0.9888
+820,location,qa_definition,recommendation_locations,0.3469
+821,best bar in local area,recommendation_locations,recommendation_locations,0.9796
+822,schedule a meeting with ri on april first at ten am,calendar_set,calendar_set,0.9963
+823,hey i want to know about your inception,general_quirky,qa_factoid,0.6862
+824,do i have any tasks today,calendar_query,lists_query,0.9473
+825,can you set up a meeting with me,calendar_set,calendar_set,0.9382
+826,hey check emails,email_query,email_query,0.9972
+827,play for me the game star wars,play_game,play_game,0.957
+828,set reminder for meeting tuesday with bill,calendar_set,calendar_set,0.993
+829,what is the latest news about obamacare,news_query,news_query,0.9989
+830,what's happening around the world,news_query,recommendation_events,0.6797
+831,change the station to eighty two point four,play_radio,play_radio,0.9796
+832,i need to delete the alarm for church on sundays at eleven am,alarm_remove,alarm_remove,0.9878
+833,hey please provide information about events by the end of the day,calendar_query,calendar_query,0.5563
+834,none,qa_factoid,audio_volume_mute,0.3617
+835,dictate new email,email_sendemail,email_sendemail,0.9187
+836,create a reminder for visa application on this thursday,calendar_set,calendar_set,0.9881
+837,where maradona lives now,qa_factoid,email_querycontact,0.5723
+838,how would you describe a happy birthday,qa_definition,qa_definition,0.7316
+839,read me the latest headlines from nytimescom,news_query,news_query,0.9993
+840,open company name and find forms,social_post,email_query,0.1548
+841,can you provide me with the contact information assigned to this person,email_querycontact,email_querycontact,0.9972
+842,tell me the recipe of,cooking_recipe,cooking_recipe,0.9542
+843,get ready for the meeting before the event starts,calendar_set,calendar_set,0.7686
+844,add event with these people,calendar_set,calendar_set,0.9041
+845,start playing jazz music,play_music,play_music,0.836
+846,i want to know what time it is,datetime_query,datetime_query,0.9946
+847,i am going to chinatown in half an hour book an uber for me,transport_taxi,transport_taxi,0.9996
+848,can you turn on the radio,play_radio,play_radio,0.9706
+849,send twitter to mattel that they need to stop making toys in china,social_post,social_post,0.9807
+850,how many grams are there for a cup of butter,qa_factoid,qa_maths,0.4271
+851,tell me more about my events,general_quirky,calendar_query,0.8822
+852,alarm if any new reply from the boss,email_query,email_query,0.6977
+853,if i could go anywhere in the world where should i travel,general_quirky,qa_factoid,0.6741
+854,add pencil to school supplies list,lists_createoradd,lists_createoradd,0.9954
+855,can you send a tweet to lif saying that their app crashed,social_post,social_post,0.9872
+856,first week of march meetings,calendar_query,calendar_query,0.6567
+857,reply to joes email,email_sendemail,email_sendemail,0.9517
+858,do i have messages in my inbox please,email_query,email_query,0.9965
+859,where is the hottest place on earth,qa_factoid,qa_factoid,0.6273
+860,please check email from matrimony,email_query,email_query,0.9901
+861,increase the volume please,audio_volume_up,audio_volume_up,0.9702
+862,where are the rocky mountains,qa_factoid,qa_factoid,0.9437
+863,remember dinner on thursday at bistro italia,calendar_set,calendar_set,0.909
+864,write this message to the coworker group,email_sendemail,social_post,0.6778
+865,i helped a poor needy today,general_quirky,general_quirky,0.2825
+866,remind me that i have to go see hannah about our math project next tuesday at ten p. m.,calendar_set,calendar_set,0.9787
+867,have i received any work emails from jeff,email_query,email_query,0.9941
+868,play list of music from avatar,play_music,play_music,0.9313
+869,olly what movies are playing right now,recommendation_movies,recommendation_movies,0.9917
+870,make alarm reminder for calendar,calendar_set,alarm_set,0.5434
+871,add meet with dave at subway on weber on four april at five p. m.,calendar_set,calendar_set,0.9784
+872,find an interesting podcast about last pritzker price winners,play_podcasts,play_podcasts,0.9908
+873,play michael buble save the last dance,play_music,music_likeness,0.3953
+874,make sure to remind about tomorrows afternoon meeting,calendar_set,calendar_set,0.9857
+875,how are you feeling lately,general_quirky,general_greet,0.8408
+876,read the contact number of alex from phone book,email_querycontact,email_querycontact,0.9944
+877,send a text to alice,email_querycontact,email_sendemail,0.9709
+878,what did she just sing,music_query,music_query,0.8758
+879,who should i expect to be at the meeting today,calendar_query,calendar_query,0.9648
+880,what's my next scheduled alarm,alarm_query,alarm_query,0.9972
+881,please post this message to my facebook page,social_post,social_post,0.9727
+882,are you real,general_quirky,general_greet,0.3772
+883,run indian folk song,play_music,play_music,0.8786
+884,alexa is traffic heavy on route eighty today,transport_traffic,transport_traffic,0.9787
+885,play old-fashioned christmas music,play_music,play_music,0.8415
+886,compose an email to parisa,email_sendemail,email_sendemail,0.9982
+887,create a meeting event in my calendar,calendar_set,calendar_set,0.9809
+888,hey olly what will the weather be like to today in los angeles california,weather_query,weather_query,0.9985
+889,remove stand-up on friday at ten am,calendar_remove,calendar_remove,0.7255
+890,does the robot vacuum cleaner have to be plugged in,iot_cleaning,iot_cleaning,0.9197
+891,contact walmart customer service with a complaint via tweet,social_post,social_post,0.9711
+892,what is the shallowest piece of land,qa_factoid,qa_factoid,0.6897
+893,did mike send me an email,email_query,email_query,0.984
+894,what are the news headlines,news_query,news_query,0.9992
+895,where is the train station,transport_query,transport_query,0.96
+896,what does oscillate mean,qa_definition,qa_definition,0.9961
+897,is it sunny in gonbad now,weather_query,weather_query,0.9979
+898,what's the address for alex,email_querycontact,email_querycontact,0.9885
+899,can you tell me the date today,datetime_query,datetime_query,0.9933
+900,give me the stock price of sony,qa_stock,qa_stock,0.9982
+901,do i have alarms set for today,alarm_query,alarm_query,0.9976
+902,setting repeating event in calendar,calendar_set,calendar_set,0.9731
+903,the song makes me remember certain memories,music_likeness,music_likeness,0.99
+904,today is monday is it,datetime_query,datetime_query,0.9874
+905,may i know what is trending in social media,social_query,social_query,0.9954
+906,turn up the brightness,iot_hue_lightup,iot_hue_lightup,0.8957
+907,did any emails come for me in the last five hours,email_query,email_query,0.9956
+908,buy me today train ticket to city leeds,transport_ticket,transport_ticket,0.992
+909,commence coffee making,iot_coffee,iot_coffee,0.9991
+910,i'm looking for reasonably priced tapas in miami beach,recommendation_locations,recommendation_locations,0.8885
+911,i intended to do it,general_quirky,lists_createoradd,0.2424
+912,book me a train ticket to new york city on the third i don't care what time,transport_ticket,transport_ticket,0.9901
+913,please tell me what is the election result today happened,news_query,news_query,0.9566
+914,alter lunch event to repeat every friday,calendar_set,calendar_set,0.9622
+915,hey siri clear all my calendar appoints for today,calendar_remove,calendar_remove,0.9906
+916,who sings the song that i am listening to right now,music_query,music_query,0.9894
+917,calculate the costs of cable and internet providers in my area where can i save the most,general_quirky,recommendation_locations,0.3437
+918,what year did this song come out,music_query,music_query,0.976
+919,set an alarm for seven thirty am,alarm_set,alarm_set,0.9957
+920,is the weather going to be nice this weekend,weather_query,weather_query,0.9994
+921,resume the last played audiobook,play_audiobook,play_audiobook,0.9972
+922,make a meeting with friend,calendar_set,calendar_set,0.9067
+923,can you please add my dinner reservations to my calendar,calendar_set,calendar_set,0.9366
+924,compare weather home and san antonio texas,weather_query,weather_query,0.986
+925,what high school did halley barry go to,qa_factoid,qa_factoid,0.9368
+926,read back what i put on my to do list for this week,lists_query,lists_query,0.9848
+927,now what,general_quirky,news_query,0.3529
+928,can you tell me what kind of show can i go tonight in miami,recommendation_events,recommendation_movies,0.8006
+929,hi can you please turn lower the lights,iot_hue_lightdim,iot_hue_lightdim,0.978
+930,i think i can travel the whole world in a day,general_quirky,transport_query,0.4483
+931,what's the word orange mean,qa_definition,qa_definition,0.9983
+932,what's the current temperature outside,weather_query,weather_query,0.9976
+933,make lights brightener,iot_hue_lightup,iot_hue_lightup,0.9518
+934,record what happened today,general_quirky,news_query,0.9203
+935,how can i find tickets to the super bowl for under dollars each,general_quirky,recommendation_movies,0.4582
+936,show me the time now in boston,datetime_query,datetime_query,0.9984
+937,what is a monitor,qa_definition,qa_definition,0.9703
+938,make an event reminder for a meeting with mona on tuesday,calendar_set,calendar_set,0.9937
+939,notify me when trump is in the news,news_query,news_query,0.9988
+940,find me a podcast about animals,play_podcasts,play_podcasts,0.9939
+941,is there any new vegan news on facebook,social_query,social_query,0.8272
+942,send chris an email say do you have plans tonight want to go to dinner,email_sendemail,email_sendemail,0.9984
+943,what will be the highest temperature this week,weather_query,weather_query,0.9991
+944,open the davinci code where i left off,play_audiobook,play_audiobook,0.7938
+945,tell me the train arrival time to new york,transport_query,transport_query,0.972
+946,please sent this email to my friend,email_sendemail,email_sendemail,0.9945
+947,is the largest ocean in the world the pacific,qa_factoid,qa_factoid,0.883
+948,how many hours ahead is n. y. c.,datetime_query,datetime_query,0.9229
+949,please play the last two episodes of the gilmore guys,play_podcasts,play_podcasts,0.9183
+950,how do you make sunny side up eggs,cooking_recipe,cooking_recipe,0.9635
+951,show me the meetings for the day,calendar_query,calendar_query,0.985
+952,switch lights to red tone,iot_hue_lightchange,iot_hue_lightchange,0.9752
+953,play my favorite song from last year,play_music,play_music,0.8288
+954,list all the events in my march calendar,calendar_query,calendar_query,0.8998
+955,can you play music by pink floyd,play_music,play_music,0.927
+956,how many months in a year,qa_factoid,datetime_query,0.8458
+957,person by birthday,qa_factoid,email_querycontact,0.4248
+958,remove the item from list,lists_remove,lists_remove,0.9933
+959,alexa please turn down the lights in the living room,iot_hue_lightdim,iot_hue_lightdim,0.9738
+960,reply to name,email_sendemail,email_sendemail,0.4309
+961,how you know me,general_quirky,email_querycontact,0.4384
+962,what's happening this weekend,calendar_query,weather_query,0.364
+963,show me the list of alarms,alarm_query,alarm_query,0.9756
+964,report complaint to samsung by tweet,social_post,social_post,0.9843
+965,mike and jack should be added to festival calendar,calendar_set,calendar_set,0.9507
+966,please play the mark levin podcast,play_podcasts,play_podcasts,0.9662
+967,lights to fifty percent,iot_hue_lightchange,iot_hue_lightdim,0.9563
+968,show me current exchange rate between euros and other currencies,qa_currency,qa_currency,0.997
+969,turn the lights off now,iot_hue_lightoff,iot_hue_lightoff,0.9309
+970,have john join me on the tenth at the fifth floor meeting,calendar_set,calendar_set,0.9148
+971,refer local current events,recommendation_events,news_query,0.9974
+972,delete event from calendar,calendar_remove,calendar_remove,0.9947
+973,did ben and jen get back together,news_query,social_query,0.2565
+974,cancel all events in the next two days,calendar_remove,calendar_remove,0.9867
+975,do i have appointments today,calendar_query,calendar_query,0.9817
+976,set a repeating reminder alarm for the facebook event i have to attend on seventh april,alarm_set,calendar_set,0.6542
+977,is there a five p. m. train on wednesday to rockville,transport_query,transport_query,0.8371
+978,has anything happened to mass effect,news_query,news_query,0.6222
+979,give me today's market trends for panasonic,qa_stock,news_query,0.8601
+980,spotify,play_music,music_query,0.6171
+981,play it again please,play_music,music_settings,0.4719
+982,remove the alarm set for four hundred am,alarm_remove,alarm_remove,0.993
+983,do we have morgan's office's number,email_querycontact,email_querycontact,0.9932
+984,what time is the next train to boise,transport_query,transport_query,0.9589
+985,how do i dial sarah,email_querycontact,email_querycontact,0.9928
+986,how soon can we expect rain,weather_query,weather_query,0.9985
+987,just let me know the important meetings with my boss over the week,calendar_set,calendar_query,0.9269
+988,post my current location on instagram,social_post,social_post,0.96
+989,schedule a sales meeting for wednesday at eleven am,calendar_set,calendar_set,0.9964
+990,new list please,lists_createoradd,lists_createoradd,0.7958
+991,please clean my calendar,calendar_remove,calendar_remove,0.89
+992,will you mark that i have a meeting with tom at three tomorrow,calendar_set,calendar_set,0.9567
+993,tell me where i can go shopping in this area,recommendation_locations,recommendation_locations,0.9395
+994,remove this list from the others,lists_remove,lists_remove,0.9964
+995,has it been a busy day,general_quirky,calendar_query,0.5338
+996,is tonight the full moon,calendar_query,datetime_query,0.5668
+997,let me know up and down in stock price of this company stock,qa_stock,qa_stock,0.9971
+998,nearest restaurants available at this time,recommendation_locations,recommendation_locations,0.8884
+999,what would be a good romantic dinner,general_quirky,general_quirky,0.4624
+1000,open up and play music from my jogging playlist,play_music,play_music,0.9402
+1001,what is a googleplex,qa_definition,qa_definition,0.7262
+1002,what is the time in the eastern time zone,datetime_query,datetime_query,0.9897
+1003,don't let me forget rover's vet appointment on the twenty fifth,calendar_set,calendar_set,0.7962
+1004,turn on hot ninety seven,play_radio,iot_wemo_on,0.427
+1005,what appointments do i have between one p. m. till three p. m.,calendar_query,calendar_query,0.9667
+1006,olly what's the sum of the two numbers four and six,qa_maths,qa_maths,0.9978
+1007,play song from my trance list,play_music,play_music,0.9137
+1008,hey did i get any new emails,email_query,email_query,0.9966
+1009,i want an alarm for three today,alarm_set,alarm_set,0.9912
+1010,selection of restaurants,takeaway_order,recommendation_locations,0.9494
+1011,are there any special events near me this weekend,recommendation_events,recommendation_events,0.7942
+1012,play games,play_game,play_game,0.9537
+1013,please delete everything from my calendar,calendar_remove,calendar_remove,0.9947
+1014,is there any salon in babaji nagar,recommendation_locations,recommendation_locations,0.8576
+1015,what happened to the dow jones today,qa_stock,news_query,0.6534
+1016,what is the event agenda,calendar_query,calendar_query,0.9014
+1017,create an email to toby at tobytoday dot com,email_sendemail,email_sendemail,0.9964
+1018,what was the weather report for today,weather_query,weather_query,0.9988
+1019,i want to eat some spicy thing,takeaway_order,takeaway_order,0.4231
+1020,please send an email to sally regarding tomorrows meeting,email_sendemail,email_sendemail,0.9986
+1021,i'd like a coffee now,iot_coffee,iot_coffee,0.9989
+1022,gather all my songs from madonna,play_music,music_likeness,0.5089
+1023,post a new status on facebook saying that i am enjoying the nice weather,social_post,social_post,0.9931
+1024,i want to hear more audiobook,play_audiobook,play_audiobook,0.9906
+1025,call the nearest pizza place that offers buffalo pizza,takeaway_order,recommendation_locations,0.6584
+1026,move to next section,play_podcasts,play_podcasts,0.3906
+1027,olly if any new news comes out about the flood can you let me know right away,news_query,news_query,0.9967
+1028,start irobot,iot_cleaning,iot_wemo_on,0.5118
+1029,shopping,general_quirky,lists_query,0.6489
+1030,information on dolly parton,general_quirky,music_query,0.4167
+1031,make sure there is no events on my calendar,calendar_remove,calendar_remove,0.8778
+1032,play music composed by some one giving short hint about the album,play_music,play_music,0.7405
+1033,what is the status on my latest order,takeaway_query,takeaway_query,0.9583
+1034,tweet a complaint to apple about my iphone seven,social_post,social_post,0.9898
+1035,from four to six when do i have a free break,calendar_query,qa_maths,0.3601
+1036,what is my next event,calendar_query,calendar_query,0.9515
+1037,give me the opening stock price of sony,qa_stock,qa_stock,0.9976
+1038,what is the meaning of,qa_definition,qa_definition,0.9907
+1039,send email to mom want to go shopping tomorrow,email_sendemail,email_sendemail,0.9995
+1040,google calendar,calendar_set,calendar_query,0.9096
+1041,where is the best vacation spot in california,qa_factoid,recommendation_locations,0.6488
+1042,what time zone is arizona,datetime_query,datetime_query,0.9824
+1043,are jello shots calorie free,qa_factoid,cooking_recipe,0.3985
+1044,turn on notification for all news on the stock market,qa_stock,news_query,0.9289
+1045,then tap ok,alarm_query,general_quirky,0.1085
+1046,check for emails from my boss,email_query,email_query,0.9956
+1047,what's my to do list for today,lists_query,lists_query,0.9794
+1048,add wedding to my calendar,calendar_set,calendar_set,0.9673
+1049,how much is a stock of apple worth,qa_stock,qa_stock,0.9987
+1050,tell me how to make tacos,cooking_recipe,cooking_recipe,0.9661
+1051,is it raining right now,weather_query,weather_query,0.9993
+1052,turn off the alarm for tomorrow morning,alarm_remove,alarm_remove,0.959
+1053,post a status using the latest notes i made in my notepad,social_post,social_post,0.9602
+1054,please submit status to facebook,social_post,social_post,0.8864
+1055,time and date of today,datetime_query,datetime_query,0.9979
+1056,who is doing facebook live right now,social_query,social_query,0.9889
+1057,will i need an umbrella for today,weather_query,weather_query,0.9969
+1058,i want to know could an extra item be added to my grocery list,lists_createoradd,lists_createoradd,0.7029
+1059,could you please find me the latest news from a source that i do not usually go to,news_query,news_query,0.9973
+1060,when is taco bell going to arrive,takeaway_query,takeaway_query,0.9789
+1061,i want the smart socket off now,iot_wemo_off,iot_wemo_off,0.9892
+1062,explain it,general_quirky,qa_definition,0.9679
+1063,how many kilometers are in a mile,qa_factoid,qa_maths,0.9141
+1064,are there unread emails in my inbox,email_query,email_query,0.9947
+1065,play bob dylan playlist,play_music,play_music,0.9614
+1066,shall i get an umbrella tomorrow,weather_query,weather_query,0.9978
+1067,play new radio channel,play_radio,play_radio,0.9941
+1068,are there any free events on in my area today,recommendation_events,recommendation_events,0.8531
+1069,neat,music_query,qa_definition,0.1877
+1070,give me a geographic fact about vilnius,qa_factoid,qa_factoid,0.9937
+1071,play racing,play_game,play_game,0.8853
+1072,delete my workout from today,calendar_remove,calendar_remove,0.5454
+1073,play a mi song of rap and rock one after the other,play_music,play_music,0.9335
+1074,describe about the computer hard disk,qa_definition,qa_factoid,0.8029
+1075,send a sorry for your loss email to pat,email_sendemail,email_sendemail,0.9987
+1076,give me some bowie,music_query,play_audiobook,0.1971
+1077,turn room light off,iot_hue_lightoff,iot_hue_lightoff,0.9293
+1078,what is the location of moldova,qa_factoid,qa_factoid,0.5347
+1079,put an alarm and wake me up at six am tomorrow morning,alarm_set,alarm_set,0.9934
+1080,what do i need to make lamb pathia,cooking_recipe,cooking_recipe,0.8314
+1081,when is the train arriving today,transport_query,transport_query,0.9409
+1082,tell me the date,datetime_query,datetime_query,0.9875
+1083,please delete bananas from my shopping list,lists_remove,lists_remove,0.9949
+1084,open the two towers,play_audiobook,iot_wemo_on,0.6292
+1085,it's very different,general_quirky,general_quirky,0.7485
+1086,please delete my grocery list in entirety,lists_remove,lists_remove,0.997
+1087,will it be sunny,weather_query,weather_query,0.9993
+1088,check emails for last two hours,email_query,email_query,0.9976
+1089,what character does chris evans play,qa_factoid,qa_factoid,0.7835
+1090,start the pop radio station,play_radio,play_radio,0.9896
+1091,remind me to send that email later,calendar_set,email_sendemail,0.55
+1092,this is a good tune please notate file accordingly,music_likeness,music_likeness,0.9196
+1093,move to the next episode of hipsterhood,play_podcasts,play_podcasts,0.9155
+1094,turn on some n. p. r. and play them out of my speakers,play_radio,play_audiobook,0.3887
+1095,what is the home city of the bolshoi theater,qa_factoid,qa_factoid,0.8278
+1096,add practice to calendar on feb four at king's park at two p. m.,calendar_set,calendar_set,0.9901
+1097,what's trending on twitter,social_query,social_query,0.9774
+1098,tomorrow is a sunny day right,weather_query,weather_query,0.9931
+1099,africa info,qa_factoid,qa_factoid,0.7855
+1100,it's too bright in here can you turn a light off,iot_hue_lightoff,iot_hue_lightoff,0.8597
+1101,remove shopping list,lists_remove,lists_remove,0.989
+1102,how many times has adel gone diamond,qa_factoid,qa_factoid,0.8935
+1103,tweet walmart customer service,social_post,takeaway_query,0.4561
+1104,up,audio_volume_up,audio_volume_up,0.9724
+1105,today i ran into my old friend bob,general_quirky,email_querycontact,0.5263
+1106,how long do you cook a whole chicken on three hundred and fifty,cooking_recipe,cooking_query,0.6863
+1107,give me international news,news_query,news_query,0.9995
+1108,please start an email to jesse,email_sendemail,email_sendemail,0.9951
+1109,play good mythical morning podcast,play_podcasts,play_podcasts,0.9683
+1110,remind me to pick up more dog food at petco tomorrow at seven twenty p. m.,calendar_set,calendar_set,0.9389
+1111,i had a bad day,general_quirky,general_quirky,0.648
+1112,please tell me the latest news of world,news_query,news_query,0.9984
+1113,find me all music for classical music,play_music,play_music,0.463
+1114,create an empty calendar event for next saturday at ten am,calendar_set,calendar_set,0.9508
+1115,how old are you,general_quirky,general_greet,0.4617
+1116,can you tell me how gravity works,general_quirky,qa_factoid,0.8707
+1117,is it still going to be rainy and cold on wednesday,weather_query,weather_query,0.998
+1118,what time does the dinner party start tonight,calendar_query,calendar_query,0.7163
+1119,how did michael jackson die,qa_factoid,qa_factoid,0.9664
+1120,what new movies available today,recommendation_movies,recommendation_movies,0.9907
+1121,please make a coffee for me,iot_coffee,iot_coffee,0.9994
+1122,i want to do funny thing every day please set a reminder,calendar_set,calendar_set,0.9658
+1123,is jimmie's party on friday canceled,calendar_query,calendar_remove,0.5682
+1124,what will the weather be for the next week,weather_query,weather_query,0.9996
+1125,would much wood could a woodchuck chuck if a woodchuck could chuck wood,general_quirky,qa_factoid,0.5007
+1126,what is the exchange rate of u. s. d. to cad,qa_currency,qa_currency,0.9976
+1127,tell me what lists i currently have,lists_query,lists_query,0.9865
+1128,give the stock price details of motorolla,qa_stock,qa_stock,0.996
+1129,what's happening in town tonight,recommendation_events,recommendation_events,0.657
+1130,let me know the day before my trip to california,calendar_set,datetime_query,0.4832
+1131,remove car insurance from bills list,lists_remove,lists_remove,0.9965
+1132,look at my email,email_query,email_query,0.9951
+1133,will the restaurant deliver the order,takeaway_query,takeaway_query,0.9357
+1134,what is the total number of islands in the united states,qa_factoid,qa_factoid,0.9648
+1135,show me a video about new mobile launches this year,general_quirky,news_query,0.3705
+1136,i have to be in hawaii for this upcoming event can you add this,calendar_set,calendar_set,0.926
+1137,what is the time for the eastern time zone,datetime_query,datetime_query,0.9885
+1138,open c. n. n. app,news_query,iot_wemo_on,0.1908
+1139,is it gonna be cloudy,weather_query,weather_query,0.9993
+1140,i don't want to carry an umbrella will we have rain today,weather_query,weather_query,0.9973
+1141,when will the match start,calendar_query,calendar_query,0.5614
+1142,is black sea real,qa_factoid,qa_factoid,0.7998
+1143,can you make dinner for me,general_quirky,cooking_recipe,0.6188
+1144,remove the latest alarm,alarm_remove,alarm_remove,0.9957
+1145,play ella fitzgerals get happy,play_music,play_music,0.3246
+1146,do i have any appointments coming up,calendar_query,calendar_query,0.9796
+1147,open the weather app,weather_query,weather_query,0.9997
+1148,remind me an email to my sister,calendar_set,email_addcontact,0.8582
+1149,mute yourself until i say otherwise,audio_volume_mute,audio_volume_mute,0.9842
+1150,set notification for news on the stock market,qa_stock,news_query,0.653
+1151,please email to my wife about next week weather,email_sendemail,email_sendemail,0.9979
+1152,tell my facebook group that i've arrived,social_post,social_post,0.7017
+1153,remember to fix a meeting between me and the players tomorrow evening by seven,calendar_set,calendar_set,0.9929
+1154,list the shops near me,recommendation_locations,recommendation_locations,0.9876
+1155,put milk on the shopping list,lists_createoradd,lists_createoradd,0.9822
+1156,please summarize the latest george r. r. martin ice and fire book,qa_factoid,qa_factoid,0.4191
+1157,send an email to my boss saying i will be late,email_sendemail,email_sendemail,0.9996
+1158,is there any traffic on my way to work,transport_traffic,transport_traffic,0.9906
+1159,notify me of the meeting on tuesday,calendar_set,calendar_set,0.6852
+1160,can i order olive garden to go,takeaway_query,takeaway_query,0.6708
+1161,is today a sunscreen day,weather_query,weather_query,0.962
+1162,next episode,play_podcasts,play_podcasts,0.9504
+1163,where does janet jackson live,qa_factoid,email_querycontact,0.8482
+1164,what's the closing price of apple,qa_stock,qa_stock,0.9939
+1165,olly i need to hear notorious thugs by bone thugs now,play_music,play_audiobook,0.7487
+1166,book me a train ticket to chicago for tomorrow morning before ten,transport_ticket,transport_ticket,0.9944
+1167,spell and define oscillate,qa_definition,qa_definition,0.9958
+1168,i want to play the next episode of this podcast,play_podcasts,play_podcasts,0.9839
+1169,turn down lights,iot_hue_lightdim,iot_hue_lightdim,0.9622
+1170,music on,play_music,play_music,0.4167
+1171,lower lights please,iot_hue_lightdim,iot_hue_lightdim,0.9727
+1172,lets hear the united states of anxiety podcast,play_podcasts,play_podcasts,0.9934
+1173,olly switch to red colored lights,iot_hue_lightchange,iot_hue_lightchange,0.9859
+1174,play playlist number seven,play_music,play_music,0.8559
+1175,add pastries to the christmas list,lists_createoradd,lists_createoradd,0.9924
+1176,where is my food,takeaway_query,takeaway_query,0.9301
+1177,put william it's my birthday in next,play_music,calendar_set,0.94
+1178,find the latest article from chris hedges on truthdig,news_query,news_query,0.9973
+1179,play kari jobe for me,play_music,play_audiobook,0.4659
+1180,go to channel one hundred and six point nine,play_radio,play_podcasts,0.261
+1181,could you delete this event,calendar_remove,calendar_remove,0.992
+1182,can you turn up your volume,audio_volume_up,audio_volume_up,0.9715
+1183,lets solve the puzzle,play_game,play_game,0.9047
+1184,find me some celebrities that are capricorns,qa_factoid,qa_factoid,0.9522
+1185,book me a flight to mars next year,qa_factoid,transport_ticket,0.9271
+1186,send alert mail to sandy,email_sendemail,email_sendemail,0.9923
+1187,what temperature is it,weather_query,weather_query,0.9367
+1188,get me up in half an hour,alarm_set,alarm_set,0.7637
+1189,please put this photo on my instagram,social_post,social_post,0.9768
+1190,i want a lower light,iot_hue_lightdim,iot_hue_lightdim,0.9863
+1191,play all my favorite songs,play_music,play_music,0.9031
+1192,play some old school rap,play_music,play_music,0.917
+1193,search for emails from my boss michael,email_query,email_query,0.9894
+1194,this is a five star song,music_likeness,music_likeness,0.9426
+1195,play the current playlist,play_music,play_music,0.888
+1196,post a facebook status update,social_post,social_post,0.9506
+1197,let's have a warm glow in the front room,iot_hue_lightchange,iot_hue_lightup,0.7105
+1198,down the speaker volume at the end of level,audio_volume_mute,audio_volume_down,0.9348
+1199,what's the time in china right now,datetime_query,datetime_query,0.9987
+1200,can you check if i got an email from john,email_query,email_query,0.9947
+1201,make an alarm for the morning,alarm_set,alarm_set,0.9934
+1202,remove sample meeting from calendar app,calendar_remove,calendar_remove,0.9895
+1203,check to see if i have new emails please,email_query,email_query,0.9979
+1204,i need a nap,general_quirky,alarm_set,0.2979
+1205,how tall is roraima mount,qa_factoid,qa_factoid,0.954
+1206,check unread emails from amy,email_query,email_query,0.9975
+1207,olly i would like a cup of coffee with one cream and three sugars,iot_coffee,iot_coffee,0.9946
+1208,do i need to put a jacket on when i go outside,weather_query,weather_query,0.9452
+1209,set on twenty second march badminton match in merita square,calendar_set,calendar_set,0.4297
+1210,play random music,play_music,music_settings,0.4865
+1211,tune in to nine hundred and thirty five on radio,play_radio,play_radio,0.9951
+1212,were any new emails received,email_query,email_query,0.9964
+1213,kindly switch off the light in the drawing hall,iot_hue_lightoff,iot_hue_lightoff,0.9327
+1214,what can i cook with broccoli and chicken,cooking_recipe,cooking_recipe,0.7635
+1215,delete item from my list,lists_remove,lists_remove,0.9942
+1216,current world news,news_query,news_query,0.9986
+1217,buy me a ticket to boston,transport_ticket,transport_ticket,0.9957
+1218,in the past two hours have i gotten any new emails,email_query,email_query,0.9974
+1219,remind my friend to get the assignment tomorrow,calendar_set,calendar_set,0.9602
+1220,riddles,general_quirky,general_joke,0.8033
+1221,is it raining outside,weather_query,weather_query,0.9994
+1222,please remind me about the eleven am business meet,calendar_set,calendar_set,0.9501
+1223,read about the latest new about this world,news_query,news_query,0.9912
+1224,what things can't you do,general_quirky,lists_query,0.3745
+1225,open papa pear saga,play_game,play_audiobook,0.8239
+1226,what time is my appointment tomorrow,calendar_query,calendar_query,0.9466
+1227,should i wear galoshes today,weather_query,weather_query,0.7503
+1228,the nature of artificial intelligence,general_quirky,qa_definition,0.5687
+1229,can you find the dave ramsey podcast that aired earlier today,play_podcasts,play_podcasts,0.9881
+1230,what time does the first metrolink arrive in the morning,transport_query,transport_query,0.9184
+1231,date with love the next day,calendar_set,calendar_set,0.7051
+1232,please pull up the article in the new york times,news_query,news_query,0.9984
+1233,my vacuum cleaner should start between ten to eleven am everyday,iot_cleaning,iot_cleaning,0.9952
+1234,recent conroe news,news_query,news_query,0.9987
+1235,i would need to be notified of church services on sundays at eleven am,calendar_set,calendar_set,0.956
+1236,can you send email to my friend rohit which says i am busy tomorrow,email_sendemail,email_sendemail,0.9984
+1237,create a playlist,lists_createoradd,play_music,0.8095
+1238,what are the latest updates with regard to trump's ties to russia,news_query,news_query,0.9358
+1239,play my country playlist,play_music,play_music,0.9433
+1240,i need to email susan and metion,email_sendemail,email_sendemail,0.9875
+1241,remove all upcoming events please,calendar_remove,calendar_remove,0.9895
+1242,tweet lfi and let them know my app crashed,social_post,social_post,0.9857
+1243,nine hundred and ninety nine f. m. is currently playing what music,music_query,music_query,0.8988
+1244,when is the next holiday,datetime_query,calendar_query,0.7394
+1245,hey share me some joke to make me happy,general_joke,general_joke,0.9957
+1246,tell me the weather this week,weather_query,weather_query,0.9996
+1247,what's the ratio of value of the indian rupee and a u. s. dollar,qa_currency,qa_currency,0.9913
+1248,tune in to ryan seacrest on the living room radio,play_radio,play_radio,0.9956
+1249,what is the latest gossip of hollywood going on,news_query,news_query,0.9573
+1250,how old is j. k. rowling,qa_factoid,qa_factoid,0.881
+1251,what is the exchange rate between u. s. d. and inr,qa_currency,qa_currency,0.9981
+1252,list out the upcoming meeting,calendar_set,calendar_query,0.9226
+1253,what is the square root of thirty four,qa_maths,qa_maths,0.9928
+1254,what time zone is in cuba,qa_factoid,datetime_query,0.9861
+1255,how is weather on such and such day,weather_query,weather_query,0.9993
+1256,who is the most frequently called person in my phone book,email_querycontact,email_querycontact,0.9596
+1257,how much does one euro cost in rupees,qa_currency,qa_currency,0.9902
+1258,check my email inboxes and tell me about new mails,email_query,email_query,0.9971
+1259,please tell me if july has sent me any emails,email_query,email_query,0.9972
+1260,what's the schedule for today,lists_query,calendar_query,0.9603
+1261,will the temperature be above freezing on wednesday,weather_query,weather_query,0.9941
+1262,make an alarm to wake me up after five hours,alarm_set,alarm_set,0.9944
+1263,what year was this song recorded,music_query,music_query,0.9838
+1264,please turn the station to one hundred and seven point four,play_radio,play_radio,0.9883
+1265,hey do you have home delivery,takeaway_query,takeaway_query,0.9205
+1266,what and how is india's economy at the moment,news_query,news_query,0.9047
+1267,is my work alarm set for tomorrow,alarm_query,alarm_query,0.986
+1268,play my morning playlist,play_music,play_music,0.9195
+1269,what day is december thirteenth,datetime_query,datetime_query,0.9191
+1270,what stations are playing good music this morning,play_radio,music_query,0.5263
+1271,tell me the name of the radio station that i want played,play_radio,play_radio,0.9925
+1272,que song let it burn,play_music,music_query,0.5378
+1273,add my doctor appointment for the fifteenth,calendar_set,calendar_set,0.8761
+1274,definition for object name,qa_definition,qa_definition,0.9968
+1275,find train tickets for manchester train station for today,transport_query,transport_ticket,0.7712
+1276,i'd like a cappuccino please,iot_coffee,iot_coffee,0.9937
+1277,how much is the euro versus the canadian dollar,qa_currency,qa_currency,0.9976
+1278,rate between these currencies,qa_currency,qa_currency,0.9944
+1279,i'd like to listen to hear a music of dance and country,play_music,play_music,0.9412
+1280,should i close the window before i leave this afternoon,weather_query,weather_query,0.5242
+1281,please check my gmail for new mail,email_query,email_query,0.9979
+1282,can you find the newest song from mgk,play_music,music_query,0.5822
+1283,is everyone on my facebook list watching the game,social_query,social_query,0.8834
+1284,give me a company for playing football,play_game,play_game,0.8295
+1285,what is the name of the lead singer in this band,music_query,music_query,0.9808
+1286,reply this mail,email_sendemail,email_sendemail,0.9134
+1287,alexa write email,email_sendemail,email_sendemail,0.995
+1288,delete all events in calendar,calendar_remove,calendar_remove,0.9928
+1289,play a retro song in my playlist,play_music,play_music,0.9094
+1290,are there morning shows available,calendar_query,recommendation_movies,0.5835
+1291,what is the traffic like today,transport_traffic,transport_traffic,0.9934
+1292,set event in calendar repeat event every day,calendar_set,calendar_set,0.989
+1293,what jacket should i wear,weather_query,weather_query,0.9394
+1294,check for me new emails received from sara,email_query,email_query,0.9964
+1295,where does brad pitt live,qa_factoid,qa_factoid,0.4939
+1296,do i have any new emails from paul,email_query,email_query,0.9938
+1297,can you describe to me a bike,qa_definition,qa_definition,0.6957
+1298,i would like to hear some rap music,play_music,play_music,0.9407
+1299,i want to play the song again,play_music,music_settings,0.5894
+1300,ask me easy questions about a subject i know and tell me when i'm wrong,general_quirky,qa_maths,0.4932
+1301,olly find out if kfc delivers please,takeaway_query,takeaway_query,0.9263
+1302,desk lamp one off,iot_hue_lightoff,iot_hue_lightoff,0.9193
+1303,are there any events going on at the library this week,recommendation_events,calendar_query,0.7163
+1304,tomorrow my mother birthday,calendar_set,calendar_set,0.629
+1305,scan my inbox for any new emails from robert,email_query,email_query,0.9973
+1306,find a taxi for me,transport_taxi,transport_taxi,0.9998
+1307,recipe for meal,cooking_recipe,cooking_recipe,0.9445
+1308,how me my last two emails,email_query,email_query,0.9932
+1309,remind me about my meeting with joe at ten on monday,calendar_set,calendar_set,0.9753
+1310,hey,general_greet,general_greet,0.938
+1311,is it too cold to go swimming,weather_query,weather_query,0.9527
+1312,what else is missing in the diary,lists_query,lists_query,0.439
+1313,today was a tiring day,general_quirky,general_quirky,0.5775
+1314,i need help making pancakes,cooking_recipe,cooking_recipe,0.9446
+1315,earthquake prediction,general_quirky,weather_query,0.8059
+1316,is it someones birthday or anniversary today,calendar_query,calendar_query,0.4688
+1317,play prairie home companion on the car radio,play_radio,play_radio,0.8759
+1318,get rid of all my scheduled events,calendar_remove,calendar_remove,0.9941
+1319,what events do i have between twelve p. m. and four p. m.,calendar_query,calendar_query,0.9263
+1320,facebook,social_query,social_query,0.9743
+1321,play me some pop,play_music,play_music,0.8669
+1322,can you tell me the contact information of jo,email_querycontact,email_querycontact,0.9979
+1323,what is a hypothesis,qa_definition,qa_definition,0.9788
+1324,let's play global thermonuclear war,play_game,play_game,0.5337
+1325,please check email contain job listing,email_query,email_query,0.9951
+1326,make a new shopping list,lists_createoradd,lists_createoradd,0.972
+1327,list the current price of microsoft shares,qa_stock,qa_stock,0.9996
+1328,is it raining outside olly,weather_query,weather_query,0.999
+1329,forward this one,play_podcasts,audio_volume_up,0.4595
+1330,remove new year from calendar,calendar_remove,calendar_remove,0.9921
+1331,make some noise,play_music,audio_volume_up,0.6196
+1332,turn off the shed light,iot_hue_lightoff,iot_hue_lightoff,0.9229
+1333,tell me what's on my list,lists_query,lists_query,0.9888
+1334,what are the synonyms of placid,qa_definition,qa_definition,0.9922
+1335,tune a radio channel for good jokes,play_radio,play_radio,0.8524
+1336,i eat breakfast at eight am,general_quirky,calendar_set,0.4453
+1337,i want the email to be sent to my new email address a. b. c. at gmail dot com,email_sendemail,email_sendemail,0.995
+1338,what is hair made up of,qa_factoid,qa_factoid,0.6533
+1339,what is happening in my area,recommendation_events,recommendation_events,0.6644
+1340,play my favorite book,play_audiobook,play_audiobook,0.9392
+1341,remind me what i am doing on sunday afternoon,calendar_set,calendar_set,0.5571
+1342,ricky matin,play_music,general_joke,0.2016
+1343,when does panama city mall open,recommendation_events,recommendation_locations,0.3777
+1344,is it true the gym is seven miles away,qa_factoid,transport_query,0.4353
+1345,list all set alarms,alarm_query,alarm_query,0.9908
+1346,when is my mortgage due,calendar_query,calendar_query,0.3928
+1347,set the reminder for upcoming meeting,calendar_set,calendar_set,0.9815
+1348,list things on my list,lists_query,lists_query,0.977
+1349,add remember to call mom to my reminders,calendar_set,calendar_set,0.8536
+1350,what's happening in pop industry,news_query,news_query,0.8233
+1351,tweet rude salesperson,social_post,social_post,0.9693
+1352,what is the distance to the grand canyon,qa_factoid,qa_factoid,0.855
+1353,tell interesting news,news_query,news_query,0.9956
+1354,send email to jerry about the meeting,email_sendemail,email_sendemail,0.999
+1355,play all by the beatles,play_music,play_music,0.928
+1356,tell me when martin luther king junior was born,qa_factoid,qa_factoid,0.9339
+1357,tweet insight cable's customer service and tell them i have been waiting on hold for thirty minutes,social_post,social_post,0.5297
+1358,launch game,play_game,play_game,0.9736
+1359,give me the definition for the word pontificate,qa_definition,qa_definition,0.9935
+1360,should i wear a coat to the pool,weather_query,weather_query,0.8356
+1361,what are the measurements of a rubix cube,qa_factoid,qa_definition,0.45
+1362,find today's wapo articles about trump,news_query,news_query,0.9978
+1363,i want you to remind me to take my rain coat because it may rain,calendar_set,calendar_set,0.8106
+1364,play some soft rock,play_radio,play_music,0.8897
+1365,remove meeting reminder for tuesday,calendar_remove,calendar_remove,0.9847
+1366,wake me at six am thursday so i have time for the meeting,calendar_set,calendar_set,0.8897
+1367,start my play list,play_music,play_music,0.7385
+1368,is the mail from chris about work,email_query,email_query,0.988
+1369,remove table from furniture,lists_remove,lists_remove,0.9413
+1370,what is a caftan,qa_definition,qa_definition,0.9682
+1371,alert me in three hours,alarm_set,alarm_set,0.8559
+1372,give me some lavender toned light,iot_hue_lightchange,iot_hue_lightchange,0.8502
+1373,new scenario time or calendar to new list,lists_createoradd,lists_createoradd,0.7399
+1374,what's the highest mountain range in the world,qa_factoid,qa_factoid,0.9919
+1375,olly can you remind me about the gym class in two hours,calendar_set,calendar_set,0.9856
+1376,play classical music playlist,play_music,play_music,0.9045
+1377,tweet consumer service,social_post,social_query,0.775
+1378,what is the remainder when five hundred and twenty one is divided by three,qa_maths,qa_maths,0.9978
+1379,what's on for this week,calendar_query,calendar_query,0.4363
+1380,set on second january about soccer match of manchester,calendar_set,calendar_set,0.522
+1381,can i check my lists,lists_query,lists_query,0.9881
+1382,send an email to jesse,email_sendemail,email_sendemail,0.9991
+1383,new notification for meeting in two hours,calendar_set,calendar_set,0.9148
+1384,is there any carnival in our place today,recommendation_events,recommendation_events,0.8882
+1385,latest news feed from facebook,social_query,social_query,0.8184
+1386,shoot dale an email response warning him about the gulls at the beach,email_sendemail,email_sendemail,0.9971
+1387,include this,lists_createoradd,lists_createoradd,0.4426
+1388,could you please check the traffic to our home,transport_traffic,transport_traffic,0.9964
+1389,tell what the definition of the word massive,qa_definition,qa_definition,0.9939
+1390,should i wear gloves tonight,weather_query,weather_query,0.5925
+1391,what is going for tomorrow,news_query,weather_query,0.7428
+1392,create repeating event john's birthday on calendar,calendar_set,calendar_set,0.9892
+1393,is mothers day on a sunday,calendar_query,datetime_query,0.9458
+1394,listen to radio,play_radio,play_radio,0.9907
+1395,how far is walmart from here,transport_query,recommendation_locations,0.7975
+1396,email the message hi come down for dinner tonight to bro,email_sendemail,email_sendemail,0.9975
+1397,is it snowing in seattle,weather_query,weather_query,0.9976
+1398,please remove the doctor appointment in my calendar for february twelfth at nine am,calendar_remove,calendar_remove,0.9869
+1399,is there any traffic to work,transport_traffic,transport_traffic,0.997
+1400,i want to make a list and this should be automatically saved as a text file with the title list,lists_createoradd,lists_createoradd,0.9927
+1401,if it is raining i will not go for job,weather_query,weather_query,0.9204
+1402,i need a taxi ride now,transport_taxi,transport_taxi,0.9998
+1403,book me a train ticket to barcelona please,transport_ticket,transport_ticket,0.9913
+1404,what is the most convenient hour to catch a train to york on saturday,transport_query,transport_query,0.7257
+1405,forget this list,lists_remove,lists_remove,0.9845
+1406,tell me the time in this time zone,datetime_query,datetime_query,0.9944
+1407,do you like my girlfriend,general_quirky,general_quirky,0.4966
+1408,please play classical music,play_music,play_music,0.732
+1409,i want you to schedule a meeting with bryce jessie and carol for tomorrow at nine am,calendar_set,calendar_set,0.9979
+1410,create a new list for me please,lists_createoradd,lists_createoradd,0.9877
+1411,can you tell me how many stomachs a cow has,qa_factoid,qa_factoid,0.8203
+1412,mute audio,audio_volume_mute,audio_volume_mute,0.9591
+1413,could you please set an alarm at six am,alarm_set,alarm_set,0.9961
+1414,what time does the train arrive,transport_query,transport_query,0.9676
+1415,olly how old is tom cruise,qa_factoid,qa_factoid,0.6536
+1416,please cook me a hamburger,cooking_recipe,cooking_recipe,0.6375
+1417,can you please tell me the time,datetime_query,datetime_query,0.9897
+1418,i went to walmart today,general_quirky,recommendation_locations,0.8884
+1419,where in d. c. is that meeting at one p. m. on friday,calendar_query,calendar_query,0.5743
+1420,what's the latest headline,news_query,news_query,0.9819
+1421,what is the residing place of cricketer dhoni,qa_factoid,qa_factoid,0.6805
+1422,how long should i boil the eggs,cooking_recipe,cooking_recipe,0.6703
+1423,tell me about lisa ann,qa_factoid,qa_factoid,0.5422
+1424,general health tips,general_quirky,general_quirky,0.2728
+1425,i have to done it on the post important music file,music_likeness,music_likeness,0.8155
+1426,where to buy cannon cameras,recommendation_locations,qa_factoid,0.5239
+1427,resume my audiobook from the beginning of the last chapter i started,play_audiobook,play_audiobook,0.9977
+1428,tell me what is the nicest place to go,recommendation_locations,recommendation_locations,0.6808
+1429,what time is it in central time zone,datetime_query,datetime_query,0.9883
+1430,tell me my meetings this wednesday morning,calendar_query,calendar_query,0.9869
+1431,what is my most played song,music_query,music_query,0.8893
+1432,play bhuli bisri yaadien program on ninety one point three f. m.,play_radio,play_radio,0.4375
+1433,resume harry potter book four,play_audiobook,play_audiobook,0.9559
+1434,new gadgets,general_quirky,general_quirky,0.3629
+1435,what are you,general_quirky,general_greet,0.8915
+1436,set an alarm for two hours from now,alarm_set,alarm_set,0.9961
+1437,how do i get to poughkeepsie from new york city,transport_query,transport_query,0.9567
+1438,it should spices,cooking_recipe,cooking_recipe,0.462
+1439,completely clear my calendar please,calendar_remove,calendar_remove,0.9942
+1440,resume the song from the audiobook by michael jackson,play_audiobook,play_audiobook,0.985
+1441,what is the birthday of adam gilchrist,qa_factoid,email_querycontact,0.5147
+1442,what is the capital of washington,qa_factoid,qa_factoid,0.9332
+1443,read my lists to me,lists_query,lists_query,0.9858
+1444,how many calories in an orange,qa_factoid,qa_factoid,0.6027
+1445,play me a random song,play_music,play_music,0.7602
+1446,please remove my alarm,alarm_remove,alarm_remove,0.997
+1447,what events are going on in new york city,recommendation_events,recommendation_events,0.6176
+1448,please play jazz music,play_music,play_music,0.8669
+1449,olly how do you barbecue chicken,cooking_recipe,cooking_recipe,0.9295
+1450,cancel all my appointments after three p. m. today and inform me the details,calendar_remove,calendar_remove,0.9824
+1451,may i know the time in london,datetime_query,datetime_query,0.9969
+1452,send an email to grandma saying we are dropping by on saturday see you then,email_sendemail,email_sendemail,0.9992
+1453,where did amal clooney go to college,qa_factoid,qa_factoid,0.9349
+1454,pull up the complaint website for starbucks,social_post,takeaway_query,0.6107
+1455,when will the world end,general_quirky,qa_factoid,0.5818
+1456,can you tell me what hypertrophy means,qa_definition,qa_definition,0.9754
+1457,alexa create a new list,lists_createoradd,lists_createoradd,0.9941
+1458,can you set the coffee machine to make coffee at three p. m. time every week day,iot_coffee,iot_coffee,0.9941
+1459,shuffle the current album of songs,music_settings,music_settings,0.958
+1460,what is next on my calendar,calendar_query,calendar_query,0.9803
+1461,i can't hear you,audio_volume_up,audio_volume_mute,0.6226
+1462,please remind me about this tomorrow,calendar_set,calendar_set,0.9458
+1463,where is laos located,qa_factoid,qa_factoid,0.7534
+1464,i need to get a ticket via train to orlando from hwood,transport_ticket,transport_ticket,0.944
+1465,drop a message to jan write i will be late,email_sendemail,email_sendemail,0.9646
+1466,do you sell any of my information to advertisers,general_quirky,social_query,0.4215
+1467,what is the exchange rate between the us and canada,qa_currency,qa_currency,0.9989
+1468,what are the latest photos on my instagram account,social_query,social_query,0.9981
+1469,check when the show starts,calendar_query,recommendation_movies,0.6175
+1470,give us president's election news,news_query,news_query,0.9981
+1471,add to my calendar mom's fashion dinner for may fifth,calendar_set,calendar_set,0.9821
+1472,what time is my alarm set for,alarm_query,alarm_query,0.9965
+1473,turn the living room lights to one percent,iot_hue_lightchange,iot_hue_lightdim,0.8752
+1474,is soft cheese better than hard,cooking_recipe,qa_factoid,0.307
+1475,when does the super bowl officially start,qa_factoid,calendar_query,0.5774
+1476,what is a workhouse,qa_definition,qa_definition,0.8544
+1477,let's reply this email,email_sendemail,email_sendemail,0.9732
+1478,what time is it right now in pacific time,datetime_query,datetime_query,0.9963
+1479,post picture to facebook,social_post,social_post,0.9868
+1480,order me something online,general_quirky,takeaway_order,0.9512
+1481,olly tell me what lists i currently have,lists_query,lists_query,0.9898
+1482,play hungry eyes,play_music,play_audiobook,0.5034
+1483,send an uber to me right now,transport_taxi,transport_taxi,0.9995
+1484,find and make a playlist of all the latest dancing tracks,play_music,play_music,0.8788
+1485,set an eight hundred am alarm for next tuesday,alarm_set,alarm_set,0.9969
+1486,can you give me train times for ann arbor,transport_query,transport_query,0.9677
+1487,please describe that object for me,qa_definition,qa_definition,0.8968
+1488,please tell me the news headlines,news_query,news_query,0.999
+1489,book for me an uber taxi to bardonia,transport_taxi,transport_taxi,0.9998
+1490,what are the subject line and sender from today's email inbox,email_query,email_query,0.9943
+1491,what time is it in cleveland,datetime_query,datetime_query,0.9961
+1492,play me a song of adele,play_music,play_music,0.9382
+1493,set calendar for date and time with this person,calendar_set,calendar_set,0.9573
+1494,olly search events and meetups for central park west,recommendation_events,recommendation_events,0.8786
+1495,get me the time in london now,datetime_query,datetime_query,0.9968
+1496,keep me up to date with the world news,news_query,news_query,0.9887
+1497,do not play rock metal,music_dislikeness,music_dislikeness,0.4403
+1498,is there any new unread yahoo email,email_query,email_query,0.996
+1499,what does word mean,qa_definition,qa_definition,0.999
+1500,what is price of dollar,qa_currency,qa_currency,0.9895
+1501,what is the latest poll on the public view of president trump,news_query,news_query,0.7385
+1502,if it's ten p. m. in california what time is it in alabama,datetime_convert,datetime_convert,0.8264
+1503,list,lists_query,lists_query,0.8766
+1504,next thursday i need to be reminded to call the bank,calendar_set,calendar_set,0.9696
+1505,please check the exchange rates of the us dollar versus the euro,qa_currency,qa_currency,0.9989
+1506,what is a fjord,qa_factoid,qa_definition,0.8805
+1507,why did gotse shoot mahatma gandhi,qa_factoid,qa_factoid,0.9472
+1508,don't forget to remind me of my brother's birthday on april twenty,calendar_set,calendar_set,0.9751
+1509,history,general_quirky,qa_factoid,0.6184
+1510,what's the news,news_query,news_query,0.9977
+1511,clear my calendar for the rest of the day,calendar_remove,calendar_remove,0.9945
+1512,tell me about hugh lourie,qa_factoid,qa_factoid,0.9409
+1513,please list active alarms,alarm_query,alarm_query,0.995
+1514,convert time zone,datetime_convert,datetime_convert,0.9608
+1515,what is the my upcoming events,calendar_query,calendar_query,0.9054
+1516,remind me at work to take a meeting with dave on friday,calendar_set,calendar_set,0.988
+1517,say a good joke for me right now,general_joke,general_joke,0.9952
+1518,tell me about new emails,email_query,email_query,0.9932
+1519,set a meeting with mr. forman for thursday at two p. m.,calendar_set,calendar_set,0.9883
+1520,detail for stock price,qa_stock,qa_stock,0.9962
+1521,i want to know if i have any emails with the subject line budget from eddie richards,email_query,email_query,0.975
+1522,can i get the time,datetime_query,datetime_query,0.9905
+1523,can you give me details on john,email_querycontact,email_querycontact,0.6295
+1524,what is the date for next tuesday,datetime_query,datetime_query,0.9554
+1525,recommend me a restaurant in west chester,recommendation_locations,recommendation_locations,0.9852
+1526,play anything from metallica,play_music,play_music,0.9141
+1527,search for new stuff on that subject,news_query,news_query,0.8224
+1528,can you turn down the volume please and tell me what is the title of this song,music_query,audio_volume_down,0.9292
+1529,let wendy's know i hate them,social_post,music_dislikeness,0.8096
+1530,climate,weather_query,weather_query,0.9966
+1531,what is the definition of a home run,qa_definition,qa_definition,0.9813
+1532,what's the news from c. n. n.,news_query,news_query,0.9987
+1533,what is the exchange rate with in one british pound,qa_currency,qa_currency,0.9991
+1534,check my email for the last hour,email_query,email_query,0.9967
+1535,play me the latest podcast about online surveys,play_podcasts,play_podcasts,0.9962
+1536,please turn off the smart plug socket,iot_wemo_off,iot_wemo_off,0.9885
+1537,do you know jessica snout's phone number,qa_factoid,email_querycontact,0.9942
+1538,turn my lights to some random color,iot_hue_lightchange,iot_hue_lightchange,0.9965
+1539,what is the plot of the most recent will smith movie,qa_factoid,recommendation_movies,0.8927
+1540,please show me the list that i have,lists_query,lists_query,0.983
+1541,what is the time in another city,datetime_query,datetime_convert,0.5126
+1542,it seems cold,weather_query,weather_query,0.9571
+1543,add new event named anna to calendar,calendar_set,calendar_set,0.9847
+1544,schedule lunch at tomo in arcata california tomorrow at noon,calendar_set,calendar_set,0.9285
+1545,in this country what is the exchange rate,qa_currency,qa_currency,0.9984
+1546,is umbrella necessary for my outing,weather_query,weather_query,0.9355
+1547,olly tweet google customer service their products are inferior,social_post,social_post,0.7714
+1548,find events near by,recommendation_events,recommendation_events,0.8211
+1549,how is iron made,qa_factoid,qa_factoid,0.96
+1550,get me resume of best seller audio book this month,play_audiobook,play_audiobook,0.9817
+1551,is my meeting with bob tomorrow at three p. m.,calendar_query,calendar_query,0.8365
+1552,send me alert on any new topic on politics,news_query,news_query,0.9938
+1553,play music playlist,play_music,play_music,0.905
+1554,change color of lights,iot_hue_lightchange,iot_hue_lightchange,0.9956
+1555,play the client by john grisham,play_audiobook,play_audiobook,0.6603
+1556,any new mail from jack,email_query,email_query,0.9933
+1557,write a reply to my mother's email,email_sendemail,email_sendemail,0.9905
+1558,alexa i've got dollars for the month how much can i spend every day this month,qa_maths,qa_currency,0.3074
+1559,i'm unhappy with tesco please help me,social_post,takeaway_order,0.3484
+1560,will the weather be less than ten degree in paris,weather_query,weather_query,0.9979
+1561,list out my upcoming events,calendar_query,calendar_query,0.8585
+1562,who am i meeting today,calendar_query,calendar_query,0.8042
+1563,what's the closing price of a. b. c.,qa_stock,qa_stock,0.7486
+1564,tweet about cold pizza to papa johns,social_post,social_post,0.9756
+1565,i would like my robot to feed and pet my dog when i'm not home,general_quirky,calendar_set,0.6525
+1566,current time new york,datetime_query,datetime_query,0.9974
+1567,play the next podcast,play_podcasts,play_podcasts,0.9905
+1568,olly what is the traffic like,transport_traffic,transport_traffic,0.9969
+1569,note down important event in this week,calendar_set,calendar_set,0.6826
+1570,do i have any meetings scheduled the weekend after next,calendar_query,calendar_query,0.9848
+1571,are there any emails i haven't read yet,email_query,email_query,0.9948
+1572,may i ask you to remove next event from my calendar,calendar_remove,calendar_remove,0.9801
+1573,what list did i make today,lists_query,lists_query,0.8674
+1574,i need a train ticket to cambridge from here,transport_ticket,transport_ticket,0.9243
+1575,go to the event year and delete,calendar_remove,calendar_remove,0.9846
+1576,who is the music director of this song,music_query,music_query,0.9921
+1577,launch the rooster teeth podcast,play_podcasts,play_podcasts,0.9925
+1578,remind me about calendar,calendar_set,calendar_set,0.6822
+1579,what day does my birthday fall on this year,datetime_query,datetime_query,0.9637
+1580,what is the size of a small cub,qa_factoid,qa_definition,0.8523
+1581,set rotating event,calendar_set,calendar_set,0.9551
+1582,find the correct temperature for frying a whole turkey,cooking_recipe,cooking_recipe,0.5949
+1583,olly you need to find an alternate route to my destination,transport_query,transport_query,0.8006
+1584,clear my activities list for today,lists_remove,lists_remove,0.9526
+1585,what is the best chili there is,cooking_recipe,cooking_recipe,0.255
+1586,compose reply,email_sendemail,email_sendemail,0.9815
+1587,when will tesla come to my town,qa_factoid,transport_query,0.6612
+1588,find funny jokes,general_joke,general_joke,0.9946
+1589,is there a need for sun glasses,weather_query,weather_query,0.7337
+1590,store opinion on song,music_likeness,music_likeness,0.783
+1591,play previous song,play_music,play_music,0.7536
+1592,delete everything on the menu,lists_remove,lists_remove,0.9967
+1593,please respond,email_sendemail,general_greet,0.633
+1594,what is the increase in stock value over the past week of disney,qa_stock,qa_stock,0.9967
+1595,any events this weekend in pondichery,recommendation_events,recommendation_events,0.563
+1596,can you start my saved podcast,play_podcasts,play_podcasts,0.9902
+1597,please skip to the next podcast episode,play_podcasts,play_podcasts,0.9932
+1598,is it sunny,weather_query,weather_query,0.999
+1599,book me a train ride,transport_ticket,transport_ticket,0.9112
+1600,what do i have scheduled for next week,calendar_query,calendar_query,0.9644
+1601,is it currently raining,weather_query,weather_query,0.9994
+1602,remind me about the meeting tomorrow at two p. m.,calendar_set,calendar_set,0.9816
+1603,set a meeting with hongbin,calendar_set,calendar_set,0.9736
+1604,overall day,general_quirky,datetime_query,0.8703
+1605,remind me daily at eleven am for meeting with boss,calendar_set,calendar_set,0.9936
+1606,delete my meeting event for march nineteen at one p. m.,calendar_remove,calendar_remove,0.9659
+1607,how can i cook pasta,cooking_recipe,cooking_recipe,0.8915
+1608,show me where the nearest restaurant is,recommendation_locations,recommendation_locations,0.9337
+1609,add lee's birthday to the calendar on twenty two june,calendar_set,calendar_set,0.9766
+1610,what causes if i had junk food and alcohols,general_quirky,qa_factoid,0.5741
+1611,review all alarms,alarm_query,alarm_query,0.9643
+1612,is weather cloudy,weather_query,weather_query,0.9997
+1613,let me know when you hear about france,news_query,news_query,0.4779
+1614,play music from the playlist,play_music,play_music,0.9189
+1615,can you play my favorite audio book of tarzan,play_audiobook,play_audiobook,0.9969
+1616,erase the lawn care appointment next month,calendar_remove,calendar_remove,0.9896
+1617,hold,play_audiobook,audio_volume_up,0.1952
+1618,set a reminder for this,calendar_set,calendar_set,0.9842
+1619,please set work meeting at twelve p. m. for every thursday in february,calendar_set,calendar_set,0.9872
+1620,give me the description of a laptop circuit,qa_definition,qa_factoid,0.5776
+1621,what movies are going around me,recommendation_movies,recommendation_movies,0.9882
+1622,give me a list of lists,lists_query,lists_query,0.5564
+1623,add paav bhaji in menu card,lists_createoradd,takeaway_order,0.6567
+1624,give me the release date of this song,music_query,music_query,0.9827
+1625,what is the highest mountain in the world,qa_factoid,qa_factoid,0.9938
+1626,please play my top music playlist,play_music,play_music,0.9308
+1627,explanation of the song,music_query,music_query,0.9532
+1628,c. n. n. world news,news_query,news_query,0.998
+1629,please remove that event,calendar_remove,calendar_remove,0.9921
+1630,how many yen for each dollar,qa_currency,qa_currency,0.985
+1631,add light,iot_hue_lightup,iot_hue_lightup,0.5762
+1632,please indicate the opening price of fra stock,qa_stock,qa_stock,0.9985
+1633,what is a mango,qa_definition,qa_definition,0.9401
+1634,what is eastern standard time right noe,datetime_query,datetime_query,0.9921
+1635,find information on today's stocks,news_query,qa_stock,0.9144
+1636,what day does my birthday fall on this year june twenty seventh,datetime_query,datetime_query,0.8773
+1637,search the contact,email_querycontact,email_querycontact,0.9912
+1638,what time is the last train headed to chicago,transport_query,transport_query,0.9288
+1639,how many mega pixel is listed in the description of the canon,qa_factoid,qa_factoid,0.8907
+1640,save opinion,music_likeness,music_likeness,0.9187
+1641,what meetings are available in march,calendar_query,calendar_query,0.9804
+1642,tell me how many inches of snow did new york city get today,weather_query,weather_query,0.9929
+1643,olly play a good movie on my television,play_radio,recommendation_movies,0.6488
+1644,what's the weather like in new york city,weather_query,weather_query,0.9983
+1645,remind me that i have a meeting with cassy for an ola event happening tomorrow,calendar_set,calendar_set,0.9775
+1646,has derek logged into facebook today,social_query,social_query,0.99
+1647,remind me of the following event,calendar_set,calendar_set,0.9623
+1648,forecast rates,general_quirky,weather_query,0.9901
+1649,what are the train schedules to new york,transport_query,transport_query,0.96
+1650,what is the definition of subjegant,qa_definition,qa_definition,0.9932
+1651,display all unread messages from my gmail account,email_query,email_query,0.9974
+1652,what are some restaurants near me,recommendation_locations,recommendation_locations,0.9674
+1653,send a request to martin,email_sendemail,email_sendemail,0.9451
+1654,is keith richards dead,qa_factoid,qa_factoid,0.7747
+1655,olly recommend a wine tasting event this weekend in chicago,recommendation_events,recommendation_events,0.9934
+1656,what does my calendar look like for the next week,calendar_query,calendar_query,0.9802
+1657,open calendar remove all events,calendar_remove,calendar_remove,0.9952
+1658,show b. b. c. news of migration,news_query,news_query,0.9988
+1659,email my friend about our plans tonight,email_sendemail,email_sendemail,0.9921
+1660,art exhibitions in california,recommendation_events,recommendation_events,0.9345
+1661,can you bright the lights please,iot_hue_lightup,iot_hue_lightup,0.8562
+1662,turn off all alarms,alarm_remove,alarm_remove,0.9862
+1663,what is the current temperature,weather_query,weather_query,0.986
+1664,i need to wake up make me the strongest coffee you can make,iot_coffee,iot_coffee,0.9966
+1665,repeat song,music_settings,music_settings,0.921
+1666,please play jocko's podcast,play_podcasts,play_podcasts,0.9856
+1667,let me know about election new,news_query,news_query,0.9824
+1668,start next podcast episode,play_podcasts,play_podcasts,0.9858
+1669,open calendar and make an event reminder,calendar_set,calendar_set,0.9625
+1670,i want to start war and peace where i left off,play_audiobook,play_audiobook,0.8152
+1671,my calendar to be added with bola birthday of twelveth july,calendar_set,calendar_set,0.9761
+1672,call pf chang's to order me egg foo young,takeaway_order,takeaway_order,0.8393
+1673,send a tweet to company,social_post,social_post,0.9645
+1674,what is the highest mountain in the us,qa_factoid,qa_factoid,0.9925
+1675,who is the artist that sings this song,music_query,music_query,0.9897
+1676,twelveth july is bola's birthday and my calendar to be updated with this date,calendar_set,calendar_set,0.9578
+1677,what music is playing now nine hundred and ninety nine f. m.,music_query,music_query,0.9194
+1678,are there any fun events in la today,recommendation_events,recommendation_events,0.9046
+1679,book me a train ticket in any train to bombay for tomorrow,transport_ticket,transport_ticket,0.9902
+1680,look up someone,qa_factoid,email_querycontact,0.8072
+1681,is there more traffic in canal street,transport_traffic,transport_traffic,0.9986
+1682,send ashmit his latest tech topics available,email_sendemail,news_query,0.9802
+1683,play imagine dragons,play_music,play_audiobook,0.544
+1684,bring me the latest tech news,news_query,news_query,0.9962
+1685,what's going on in the world right now,news_query,news_query,0.9418
+1686,search earliest trains to brooklyn ny weekends and holidays,transport_query,transport_ticket,0.5125
+1687,send an email to sjobs at apple dot com,email_sendemail,email_sendemail,0.999
+1688,add a tab to the shopping list,lists_createoradd,lists_createoradd,0.9882
+1689,show me my events for the month,calendar_query,calendar_query,0.9246
+1690,what is the weather for the next seven days,weather_query,weather_query,0.9996
+1691,what is the five days forecast looking like in new york city,weather_query,weather_query,0.9987
+1692,show new emails from katey,email_query,email_query,0.9936
+1693,alexa i would like to have a sushi can you order me a lunch,takeaway_order,takeaway_order,0.9791
+1694,hello google take me to google calendar please,calendar_set,calendar_query,0.7185
+1695,which day is friday the thirteenth this year,datetime_query,datetime_query,0.9449
+1696,hey olly how is the weather in long island new york,weather_query,weather_query,0.9982
+1697,tell me the news,news_query,news_query,0.9984
+1698,resume audio book history of rome,play_audiobook,play_audiobook,0.9892
+1699,please check my emails and notify me if exists any new email,email_query,email_query,0.9977
+1700,can you play kxly for me,play_radio,play_music,0.3915
+1701,i need to arrange a meeting with jack,calendar_set,calendar_set,0.9376
+1702,play poker face by lady gaga,play_music,play_music,0.6845
+1703,tune into my selected station,play_radio,play_radio,0.9787
+1704,what does the traffic look like headed to la,transport_traffic,transport_traffic,0.9895
+1705,what is the time in perth,datetime_query,datetime_query,0.9984
+1706,convert current time from ist to e. s. t.,datetime_convert,datetime_query,0.5098
+1707,meaning of,qa_definition,qa_definition,0.9959
+1708,catch a ride,transport_taxi,transport_taxi,0.9995
+1709,show last mail from john,email_query,email_query,0.9947
+1710,what reminders did i set,calendar_query,calendar_query,0.8539
+1711,remind me to wash the windows,calendar_set,calendar_set,0.7123
+1712,what is the location of my work project meeting,calendar_query,calendar_query,0.9296
+1713,is it raining today,weather_query,weather_query,0.9994
+1714,create an alarm at four o'clock tomorrow morning,alarm_set,alarm_set,0.9954
+1715,what is the traffic situation at the bazaar highway,transport_traffic,transport_traffic,0.9968
+1716,thirteen minutes from now remind me to drive to the park,calendar_set,calendar_set,0.9824
+1717,get me the most recent news,news_query,news_query,0.9933
+1718,give me the definition of carion,qa_definition,qa_definition,0.9902
+1719,can you really see russia from alaska,qa_factoid,qa_factoid,0.6784
+1720,add lunch appointment with lisa to january second at twelve thirty p. m.,calendar_set,calendar_set,0.9779
+1721,olly please check my email for me,email_query,email_query,0.9948
+1722,where seth lives,email_querycontact,email_querycontact,0.8124
+1723,read email from julia,email_query,email_query,0.9778
+1724,invite people to the calendar event,calendar_set,calendar_set,0.9394
+1725,today i,general_quirky,datetime_query,0.3364
+1726,start a new shopping list,lists_createoradd,lists_createoradd,0.9888
+1727,how has your life been changed by me,general_quirky,general_quirky,0.6559
+1728,tweet to the bbb that burger king is too expensive,social_post,social_post,0.993
+1729,who was the last person to email me,email_query,email_query,0.9633
+1730,what's the weather report for bangalore today,weather_query,weather_query,0.9992
+1731,how to cook,cooking_recipe,cooking_recipe,0.8846
+1732,describe the new football game rules,general_quirky,news_query,0.2549
+1733,get me a taxi to the airport right now,transport_taxi,transport_taxi,0.9996
+1734,is the data prefers any problems in objects,general_quirky,lists_query,0.7984
+1735,get me a recipe for cookies,cooking_recipe,cooking_recipe,0.963
+1736,put that song in my favorite list,music_likeness,music_likeness,0.5918
+1737,how much is the canadian dollar worth versus u. s. dollar,qa_currency,qa_currency,0.9983
+1738,event reminder mona tuesday,calendar_set,calendar_set,0.9117
+1739,open my most recent email and reply,email_sendemail,email_query,0.8102
+1740,send an email to george brown,email_sendemail,email_sendemail,0.9991
+1741,what's next in my schedule,calendar_query,calendar_query,0.9748
+1742,send an email to my family asking how they're doing,email_sendemail,email_sendemail,0.9987
+1743,play videos,general_quirky,play_music,0.4343
+1744,notify me with all events in the next one week,calendar_set,calendar_query,0.704
+1745,olly has mom sent me any emails,email_query,email_query,0.9929
+1746,design the chemical compounds necessary to create sugar that doesn't cause diabetes or weight gain but doesn't provide a chemical taste,qa_factoid,general_quirky,0.2889
+1747,olly turn the lights down to seven,iot_hue_lightdim,iot_hue_lightdim,0.9721
+1748,send me a reminder of my meeting with tom next friday,calendar_set,calendar_set,0.966
+1749,tell me the locations of my meetings for today,calendar_query,calendar_query,0.9864
+1750,can you tell me what date it is,datetime_query,datetime_query,0.9953
+1751,olly hackernews,news_query,news_query,0.9907
+1752,book a train ticket for one one way for this tuesday at nine am,transport_ticket,transport_ticket,0.993
+1753,what's going on in the world these days,news_query,news_query,0.8859
+1754,i want to see each of my pending reminders,calendar_query,calendar_query,0.7385
+1755,add event for this evening meeting with jake,calendar_set,calendar_set,0.9902
+1756,how do i bake a potato,cooking_recipe,cooking_recipe,0.9572
+1757,please tell me the closest convenience store to my house,recommendation_locations,recommendation_locations,0.9902
+1758,how do you activate the robot vacuum cleaner,iot_cleaning,iot_cleaning,0.9968
+1759,facebook launches disputed tag to crack down on fake news,news_query,news_query,0.5578
+1760,do i have any emails from jo,email_query,email_query,0.9934
+1761,current song playing what is it,music_query,music_query,0.9694
+1762,train schedule,transport_query,transport_query,0.9385
+1763,is it true the hanging tree really had someone hung from it,general_quirky,qa_factoid,0.6656
+1764,is it going to warm up soon,weather_query,weather_query,0.926
+1765,what day of the week is the twenty second march,datetime_query,datetime_query,0.7702
+1766,set alarm at nine am on next sunday,alarm_set,alarm_set,0.982
+1767,please tweet at pizzahut i've been waiting for my delivery for now number nothappy,social_post,social_post,0.8108
+1768,how much is the dollar worth in canada,qa_currency,qa_currency,0.9968
+1769,brighten the lights a little bit,iot_hue_lightup,iot_hue_lightup,0.8698
+1770,also a pleasure,general_quirky,general_quirky,0.3957
+1771,what is the weekly weather report,weather_query,weather_query,0.9992
+1772,find an oscar nominee movie,recommendation_movies,recommendation_movies,0.9915
+1773,is it the twenty ninth already,datetime_query,datetime_query,0.7429
+1774,i want to check julia's available dates so would you send her mail and ask about it,email_sendemail,email_query,0.5597
+1775,do i have class on monday,calendar_query,calendar_query,0.9594
+1776,what is on my playlist,lists_query,music_query,0.7089
+1777,do i have a party planned this weekend,calendar_query,calendar_query,0.926
+1778,i want an alarm for six am everyday,alarm_set,alarm_set,0.9882
+1779,define organism,qa_definition,qa_definition,0.9774
+1780,book a ticket for today in irctc site for the stored information,transport_ticket,transport_ticket,0.9906
+1781,olly how do i cook a pasta,cooking_recipe,cooking_recipe,0.9143
+1782,tell me what's going on tomorrow,calendar_query,weather_query,0.4167
+1783,add on my calendar for today joe smith at one p. m.,calendar_set,calendar_set,0.9757
+1784,when is saint patrick's day,qa_factoid,qa_factoid,0.607
+1785,olly play a good track from my favorite jazz player,play_music,play_music,0.862
+1786,please resume my audiobook,play_audiobook,play_audiobook,0.9922
+1787,will it rain on friday,weather_query,weather_query,0.9984
+1788,thirty minute reminder on meeting for tuesday,calendar_set,calendar_set,0.9797
+1789,i want to play rock paper scissors let's play,play_game,play_game,0.9764
+1790,has my stock increased in value,qa_stock,qa_stock,0.9983
+1791,how to eat healthy,general_quirky,cooking_recipe,0.701
+1792,plan for tomorrow,calendar_query,calendar_query,0.4303
+1793,hey what's a head cheese,qa_definition,qa_definition,0.6603
+1794,put this event in a repeating pattern on my calendar,calendar_set,calendar_set,0.9845
+1795,set up a date for just you and me,general_quirky,calendar_set,0.9558
+1796,play all songs from blue genre,play_music,play_music,0.9466
+1797,read me my calendar for the month,calendar_query,calendar_query,0.9628
+1798,what will be the time now in washington,datetime_query,datetime_query,0.9976
+1799,give me a reminder at eight p. m. for the game,calendar_set,calendar_set,0.9886
+1800,display my lists,lists_query,lists_query,0.9789
+1801,let me know when three hours have passed,calendar_set,datetime_query,0.933
+1802,olly find my food,takeaway_query,takeaway_query,0.5629
+1803,give the latest updates on narendra modi,news_query,news_query,0.9758
+1804,delete apples from my shopping list,lists_remove,lists_remove,0.9941
+1805,i need to get up at ten tomorrow,alarm_set,alarm_set,0.65
+1806,directions to disney world,transport_query,recommendation_movies,0.5847
+1807,date,datetime_query,datetime_query,0.9482
+1808,delete day after event,calendar_remove,calendar_remove,0.9917
+1809,who sells the cheapest netbooks in south austin,recommendation_locations,recommendation_locations,0.1979
+1810,is there takeaway at papa john's,takeaway_query,takeaway_query,0.8685
+1811,go to the end of the podcast,play_podcasts,play_podcasts,0.9868
+1812,what do i need to complete first from the list,lists_query,lists_query,0.9473
+1813,play crystal lewis's beauty of the cross for me,play_music,play_audiobook,0.5828
+1814,why is the sky blue,qa_factoid,qa_factoid,0.6139
+1815,tell me form whom i got the last email,email_query,email_query,0.974
+1816,when can i pick up my chinese food,takeaway_query,takeaway_query,0.9658
+1817,skip to next podcast,play_podcasts,play_podcasts,0.9934
+1818,the last friday of the month lands on what day,datetime_query,datetime_query,0.9772
+1819,siri what does obstacle mean,qa_definition,qa_definition,0.9972
+1820,set alarm for eight am tomorrow,alarm_set,alarm_set,0.9872
+1821,is it too warm to wear my wooly sweater today,weather_query,weather_query,0.945
+1822,can i know what i on the list,lists_query,lists_query,0.9894
+1823,i need a taxi to take me to the airport please,transport_taxi,transport_taxi,0.9994
+1824,send email to enalen i'm going to send the files the next day,email_sendemail,email_sendemail,0.9992
+1825,delete list,lists_remove,lists_remove,0.992
+1826,play some lady gaga,play_music,play_music,0.9011
+1827,my calendar is to be updated with all rccg event in march,calendar_set,calendar_set,0.7995
+1828,how do i make a turkey,cooking_recipe,cooking_recipe,0.9385
+1829,what were the last five lists i made,lists_query,lists_query,0.9656
+1830,vacuum the kitchen,iot_cleaning,iot_cleaning,0.9993
+1831,start my playlist on i heart radio,play_radio,play_radio,0.8767
+1832,play my second playlist,play_music,play_music,0.8885
+1833,what are my reminders today,calendar_query,calendar_query,0.898
+1834,what's this week's weather,weather_query,weather_query,0.9995
+1835,please schedule a hair cutting appointment for one p. m. on saturday,calendar_set,calendar_set,0.9901
+1836,i'm tired of pandora please turn on the radio,play_radio,play_radio,0.9882
+1837,open the new york times app,news_query,news_query,0.989
+1838,i want to know more about the upcoming commonwealth games,general_quirky,recommendation_events,0.558
+1839,turn to station one hundred and two point seven ally,play_radio,play_radio,0.9578
+1840,compose email for robert,email_sendemail,email_sendemail,0.9958
+1841,tune me song in radio,play_radio,play_radio,0.9506
+1842,start the radio now,play_radio,play_radio,0.9887
+1843,what day of the week is my birthday this year,calendar_query,datetime_query,0.9512
+1844,are trains on schedule at ten,transport_query,transport_query,0.5121
+1845,put on the vacuum on now and clean the living room,iot_cleaning,iot_cleaning,0.9987
+1846,olly where is my food,takeaway_query,takeaway_query,0.9153
+1847,it would be tasty,cooking_recipe,general_quirky,0.3342
+1848,remove all the events on my calendar,calendar_remove,calendar_remove,0.9942
+1849,start vacuum bot,iot_cleaning,iot_cleaning,0.9991
+1850,top news on international women's day,news_query,news_query,0.9984
+1851,do i have any events today,calendar_query,calendar_query,0.951
+1852,remind me of dinner with mom tonight on my calendar,calendar_set,calendar_set,0.986
+1853,what is the location of kentucky,qa_factoid,qa_factoid,0.439
+1854,turn off the six am alarm for wednesday,alarm_remove,alarm_remove,0.9894
+1855,please play workout playlist,play_music,play_music,0.9102
+1856,read me the newest article on the new solar system,news_query,news_query,0.9953
+1857,find brad pitt's age,qa_factoid,qa_factoid,0.8387
+1858,lights off,iot_hue_lightoff,iot_hue_lightoff,0.8801
+1859,where is mcdo,recommendation_locations,email_querycontact,0.7068
+1860,send an email for me,email_sendemail,email_sendemail,0.9983
+1861,please play only sad song in music player,play_music,play_music,0.7988
+1862,play music now please,play_music,play_music,0.7525
+1863,what does blank mean,qa_definition,qa_definition,0.998
+1864,are there any takeaways around here,takeaway_query,recommendation_locations,0.4763
+1865,hi play me playlist of a r. rehman songs released current year,play_music,play_music,0.9688
+1866,do i have an appointment for lunch tomorrow,calendar_query,calendar_query,0.9381
+1867,go to sleep,audio_volume_mute,alarm_set,0.2986
+1868,delete my meeting for two o'clock p. m. today,calendar_remove,calendar_remove,0.9879
+1869,tell me what job i should take,general_quirky,general_quirky,0.3339
+1870,find the ways of travel for the same,transport_query,transport_query,0.9495
+1871,show me news from c. n. n.,news_query,news_query,0.9991
+1872,repeat reminder for my schedule for christmas,calendar_set,calendar_set,0.9665
+1873,play previous episode,play_podcasts,play_podcasts,0.7217
+1874,area of north america,qa_factoid,qa_factoid,0.7322
+1875,alarm set for time,alarm_set,alarm_set,0.8944
+1876,could you give me the exact rate for dow nifty futures,qa_stock,qa_stock,0.8155
+1877,what is on my list today,lists_query,lists_query,0.975
+1878,please continue reading audiobook,play_audiobook,play_audiobook,0.9944
+1879,tell me the time of train vf,transport_query,transport_query,0.8463
+1880,intel company stock price,qa_stock,qa_stock,0.9945
+1881,set the music volume to ninety,audio_volume_up,audio_volume_other,0.5323
+1882,describe heaven,qa_definition,qa_factoid,0.5071
+1883,where is the best mechanic in eagle point,recommendation_locations,recommendation_locations,0.5714
+1884,please tell me the weather for washington d. c.,weather_query,weather_query,0.9978
+1885,tell me the contact details of my brother,email_querycontact,email_querycontact,0.9971
+1886,please turn off all the lights outdoor,iot_hue_lightoff,iot_hue_lightoff,0.9614
+1887,when do i have that test,calendar_query,calendar_query,0.8084
+1888,does artificial intelligence have consciousness,general_quirky,qa_factoid,0.796
+1889,when is my anniversary,calendar_query,datetime_query,0.5599
+1890,is there anything on my calendar,calendar_query,calendar_query,0.9712
+1891,let me hear my list,lists_query,lists_query,0.9921
+1892,what are the things make a woman happy,general_quirky,qa_factoid,0.8313
+1893,what are jalapenos,cooking_recipe,qa_definition,0.4623
+1894,show all the received emails recently with time stamp,email_query,email_query,0.9955
+1895,remove apple from list,lists_remove,lists_remove,0.9951
+1896,add shopping to my calendar for tomorrow,calendar_set,calendar_set,0.9418
+1897,make wednesday evening at five p. m. always be a meeting with phil on my calendar,calendar_set,calendar_set,0.9852
+1898,give me a recipe for meatballs,cooking_recipe,cooking_recipe,0.9656
+1899,have i received any mail in the last hour,email_query,email_query,0.9959
+1900,play this radio channel for me,play_radio,play_radio,0.9898
+1901,how many reminders do i have pending,calendar_query,calendar_query,0.844
+1902,please invite kim marc and julian to a meeting on thursday at three p. m.,calendar_set,calendar_set,0.9609
+1903,does louie's do take out,takeaway_query,takeaway_query,0.9622
+1904,can you tell me the weather for monday,weather_query,weather_query,0.9994
+1905,ok google mute sound on speakers please,audio_volume_mute,audio_volume_mute,0.9743
+1906,put on the next song in five minutes,play_music,alarm_set,0.3874
+1907,i'd like to set a date for this week,calendar_set,calendar_set,0.9517
+1908,how does merriam webster define ultra,qa_definition,qa_definition,0.9934
+1909,please play me the madonna song again,play_music,play_music,0.6821
+1910,change the lights to red,iot_hue_lightchange,iot_hue_lightchange,0.9176
+1911,what alarms will wake me up tomorrow,alarm_query,alarm_query,0.9988
+1912,play the radio channel ninety three point two five,play_radio,play_radio,0.9949
+1913,please subscribe me to updates about us breaking news,news_query,news_query,0.996
+1914,remove,calendar_remove,lists_remove,0.6721
+1915,how do i cook butter chicken,cooking_recipe,cooking_recipe,0.9343
+1916,did erin send me any emails,email_query,email_query,0.9929
+1917,what's the time in chicago,datetime_query,datetime_query,0.9982
+1918,how many alarms are listed,alarm_query,alarm_query,0.9978
+1919,what shops are within ten miles,recommendation_locations,recommendation_locations,0.9808
+1920,please help me turn on the robot vacuum cleaner,iot_cleaning,iot_cleaning,0.9945
+1921,can you please disregard the party that i will be going to this weekend on my calendar,calendar_remove,calendar_remove,0.994
+1922,i need to know all of the emails from contact pertaining to subject,email_query,email_query,0.9644
+1923,can you reserve a ticket to grand rapids by train,transport_query,transport_ticket,0.9746
+1924,would you please turn on the am radio,play_radio,play_radio,0.9893
+1925,how do you make steel,general_quirky,qa_factoid,0.9234
+1926,google please be extra quiet the baby is sleeping,audio_volume_mute,audio_volume_mute,0.8502
+1927,turn my bedroom lights off,iot_hue_lightoff,iot_hue_lightoff,0.9487
+1928,play adele,play_music,play_music,0.8313
+1929,delete all events and information,calendar_remove,calendar_remove,0.9782
+1930,i need to figure out this percentage,qa_maths,qa_maths,0.8505
+1931,what is the exchange rate between us and france,qa_currency,qa_currency,0.9992
+1932,check most current emails,email_query,email_query,0.9949
+1933,go to my favorite radio channel,play_radio,play_radio,0.9941
+1934,do i have any new email,email_query,email_query,0.9957
+1935,play rein in blood by slayer at five am tomorrow to make sure i actually wake up,play_music,play_audiobook,0.4574
+1936,get rid of everything on my calendar,calendar_remove,calendar_remove,0.9875
+1937,what the singer meant by the title of the song bohemian rhapsody,music_query,qa_definition,0.6921
+1938,create a new list for my birthday plans,lists_createoradd,lists_createoradd,0.9685
+1939,remind me i have a meeting at seven p. m.,calendar_set,calendar_set,0.9774
+1940,what is two hundred divided by ten,qa_maths,qa_maths,0.9946
+1941,my review,music_likeness,social_query,0.2217
+1942,do you think i should see a movie or go out to dinner,general_quirky,recommendation_movies,0.6788
+1943,tell me today's sports news headlines,news_query,news_query,0.9994
+1944,initiate celine dion music,play_music,play_music,0.7926
+1945,hi i will need my coffee brewed at seven am today,general_quirky,iot_coffee,0.9964
+1946,what kind of weather should i expect this week,weather_query,weather_query,0.9995
+1947,tag this song with five stars,music_likeness,music_likeness,0.993
+1948,add selected song,play_music,music_likeness,0.7465
+1949,what is your mood today,general_quirky,weather_query,0.6383
+1950,play next episode of harry potter by j. k. rowling,play_audiobook,play_podcasts,0.6425
+1951,play anything new from my podcast subscriptions,play_podcasts,play_podcasts,0.991
+1952,can you play emo music please,play_music,play_music,0.9388
+1953,when the meeting start,calendar_query,calendar_query,0.9458
+1954,what do i need to make french toast,cooking_recipe,cooking_recipe,0.9743
+1955,my day was stressful,general_quirky,general_quirky,0.6895
+1956,am i booked for something,calendar_query,calendar_query,0.9739
+1957,is there any email with subject,email_query,email_query,0.9873
+1958,clear list,lists_remove,lists_remove,0.969
+1959,turn off any morning alarms after friday,alarm_remove,alarm_remove,0.991
+1960,clear all events from calendar,calendar_remove,calendar_remove,0.9945
+1961,what are they saying about donald trump on this topic,news_query,news_query,0.776
+1962,buy me a ticket to take the train to atlanta,transport_ticket,transport_ticket,0.9928
+1963,give me the latest updates,news_query,news_query,0.9169
+1964,alexa define television,qa_definition,qa_definition,0.9414
+1965,is there any program for tomorrow evening,calendar_query,calendar_query,0.924
+1966,can you enter an event to my calendar,calendar_set,calendar_set,0.7768
+1967,go to the washington post website,news_query,news_query,0.9927
+1968,please send the email to my mom,email_sendemail,email_sendemail,0.9988
+1969,six am,calendar_set,alarm_set,0.3072
+1970,can i know the breaking news from c. n. n.,news_query,news_query,0.9989
+1971,please check your calendar i have done somethings,calendar_query,calendar_query,0.9499
+1972,pink nobody knows,play_music,general_quirky,0.2667
+1973,beach,qa_factoid,recommendation_events,0.2386
+1974,i need you to set twelve noon prayer for every friday,calendar_set,calendar_set,0.8079
+1975,try out in wikipedia,qa_definition,qa_factoid,0.7995
+1976,change the speaker volume to sixty five percent,audio_volume_up,audio_volume_other,0.4701
+1977,increase the volume,audio_volume_up,audio_volume_up,0.973
+1978,start playing kids by mgmt,play_music,play_music,0.5446
+1979,what is the composition of our nails,qa_factoid,general_quirky,0.2917
+1980,what's a good present for a girlfriend,general_quirky,general_quirky,0.6497
+1981,change your colors to green,iot_hue_lightchange,iot_hue_lightchange,0.9933
+1982,send me directions to the police department,transport_query,transport_query,0.6957
+1983,should i take my raincoat with me now,weather_query,weather_query,0.8764
+1984,why are women so mysterious,general_quirky,qa_factoid,0.9599
+1985,run radio program,play_radio,play_radio,0.9873
+1986,play for me the music by the beatles,play_music,play_music,0.9437
+1987,update me,news_query,social_query,0.5048
+1988,post the picture i just took on twitter,social_post,social_post,0.9323
+1989,order two medium cheese and one medium pepperoni pizza from dominoes,takeaway_order,takeaway_order,0.9767
+1990,post that i am going to mcdonalds at manhattan,social_post,takeaway_order,0.7287
+1991,add to calendar an office meeting for the next three days,calendar_set,calendar_set,0.9927
+1992,can you recommend any pub in milligrams road,recommendation_locations,recommendation_locations,0.9731
+1993,i would like it to be able to tell if something is starting to burn and turn off the oven stove or microwave,general_quirky,iot_wemo_off,0.4737
+1994,remind me every year on this date of,calendar_set,calendar_set,0.9808
+1995,how free am i this week,calendar_query,weather_query,0.575
+1996,what are the list of things i need to buy today,lists_query,lists_query,0.9642
+1997,what has been the best selling product on sports category in amazon for the last three days,general_quirky,news_query,0.9016
+1998,set the alarm for five am,alarm_set,alarm_set,0.993
+1999,have you heard any good music lately,general_quirky,music_query,0.8006

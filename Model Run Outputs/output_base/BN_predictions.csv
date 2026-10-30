@@ -1,0 +1,2001 @@
+﻿row_id,utt,intent,pred,conf
+0,আমার সব পছন্দের ফোক গান চালান,play_music,play_music,0.019
+1,আমার জন্যে ফুটবল ম্যাচ চালাও,play_game,play_music,0.0188
+2,ময়মনসিংহ গীতিকা অডিওবুকটি রিজিউম কর,play_audiobook,play_music,0.0189
+3,আমার পরবর্তী ঘটনা খারিজ,calendar_remove,iot_wemo_on,0.0187
+4,নতুন আপডেট,social_query,play_music,0.0188
+5,মুক্তি কাম্প খেলা শুরু করুন,play_game,play_music,0.0187
+6,আমার ভাইয়ের জন্মদিনের কাউন্টডাউন,calendar_query,iot_wemo_on,0.0187
+7,আমাকে পডকাস্ট দেখান,play_podcasts,play_music,0.0188
+8,রাজু থেকে সর্বশেষ ইমেল দেখান,email_query,play_music,0.0186
+9,আমাকে বলুন সময়,datetime_query,iot_wemo_on,0.0187
+10,আমার কত তালিকা আছে,lists_query,play_music,0.0187
+11,বান্দরবানর রাজধানী কি,qa_factoid,iot_wemo_on,0.0185
+12,আমাকে বাংলাদেশে সময় বলুন,datetime_query,play_music,0.0187
+13,আমার প্রিয় দশ পছন্দের তালিকায় সেই গানটি যোগ করুন,music_likeness,play_music,0.0191
+14,অলি বুধবার ব্যবসায়িক মিটিং বাতিল করেছে,calendar_remove,play_music,0.0187
+15,রাজুকে আমার শেষ ইমেইলের বিষয় কী ছিল,email_query,play_music,0.0186
+16,আমাকে p. s. t. সময় দিন,datetime_query,play_music,0.0187
+17,আপনি কি আমার মাকে সাপ্তাহিক আবহাওয়া সম্পর্কে একটি ইমেল পাঠাতে পারেন,email_sendemail,play_music,0.0185
+18,আমার গার্ল ফ্রেন্ড এখন কোথায়,general_quirky,play_music,0.0187
+19,তালিকায় আইটেম যোগ করুন,lists_createoradd,play_music,0.0188
+20,কত সাম্প্রতিক ইমেল এই প্রেরক বা বিষয় লাইন আছে,email_query,play_music,0.0187
+21,ওলি আমি পরের জন্য কি প্লান করেছি,calendar_query,iot_wemo_on,0.0187
+22,দুইটা চল্লিশ p. m. থেকে আজ কি হচ্ছে,calendar_query,iot_wemo_on,0.0187
+23,সাধারণভাবে স্টক কেমন চলছে,qa_stock,play_music,0.0187
+24,রেডিও খোঁজ,play_radio,play_music,0.0188
+25,অলি আমাকে বলুন স্থানীয় শপিং জেলা কোথায়,recommendation_locations,play_music,0.0187
+26,আমাকে বাংলাদেশ সময় বলুন,datetime_query,play_music,0.0187
+27,জমে যাওয়া,cooking_recipe,play_music,0.0188
+28,আমার রাত নয়টা অ্যালার্মের জায়গায় সকাল পাচটা অ্যালার্ম যোগ করুন,alarm_set,iot_wemo_on,0.0188
+29,একটি নতুন ঠিকানায় ইমেইল রচনা করুন,email_sendemail,play_music,0.0187
+30,আমার ছুটির তালিকা থেকে কল সংবাদপত্র মুছুন,lists_remove,iot_wemo_on,0.0187
+31,আমি রেডিও টুডে রাশ লিমবাঘ শুনতে চাই,play_radio,play_music,0.0188
+32,আমি কি গত দুই দিনে এ্যামাজন থেকে কোন ইমেইল পেয়েছি,email_query,iot_wemo_on,0.0186
+33,প্রথম আলোর চলমান চুইট গুলি কি কি,social_query,play_music,0.0186
+34,আমার জন্যে ট্র্যান্স গানের রেডিও চ্যানেল বাজাও,play_radio,play_music,0.0189
+35,আমার সকাল আটটার জন্য একটা অ্যালার্ম সেট দরকার,alarm_set,iot_wemo_on,0.0187
+36,আজকের জন্য কি মিটিং নির্ধারিত হয়,calendar_query,play_music,0.0187
+37,আমাকে মনে করিয়ে দিন যে আমি সেই গানটি পছন্দ করি,music_likeness,play_music,0.0191
+38,আমার অ্যালার্ম কি,alarm_query,iot_wemo_on,0.0187
+39,দুপুর দুইটা জন্য একটি সতর্কতা সেট. মি,alarm_set,iot_wemo_on,0.0188
+40,আমি খুব কমই আপনাকে শুনতে পাচ্ছি,audio_volume_up,play_music,0.0187
+41,চট্টগ্রামের কোনো সাংস্কৃতিক ইভেন্ট হচ্ছে কি,recommendation_events,play_music,0.0186
+42,সেখানে এটা তুলে নাও,lists_remove,play_music,0.0188
+43,তারা কি বাড়িতে বিতরণ দেয়,takeaway_query,play_music,0.0187
+44,আমাকে বাংলাদেশ সম্পর্কিত ঐতিহাসিক তথ্য বলুন,qa_factoid,play_music,0.0187
+45,ও প্রিয়া তুমি কোথায় বাজাও,play_music,iot_wemo_on,0.0187
+46,আমার উইমো প্লাগ সকেট চালু করুন,iot_wemo_on,play_music,0.0188
+47,গত রাতে কি ইয়াঙ্কিরা জিতেছে,news_query,play_music,0.0187
+48,টুইটারে কোম্পানিতে এবং টুইটে গ্রাহক পরিষেবার কাছে অভিযোগ করুন,social_post,iot_wemo_on,0.0187
+49,আমাকে কিছু পপ সঙ্গীত বা একটি গান শুনতে দিন,play_music,play_music,0.019
+50,শেখ মুজিবুর রহমান কত লম্বা ছিলেন,qa_factoid,play_music,0.0187
+51,অনুগ্রহ করে আমার জানান যে কুকুর প্রদর্শনী আমার নিজ শহর চলছে এমন ঘটনা দেখায়,recommendation_events,play_music,0.0187
+52,আপনি কণ্ঠস্বর কম করতে পারেন,audio_volume_down,play_music,0.0188
+53,আমার এলার্ম সকালের জন্য সেট করা আছে কিনা তা আমাকে বলুন,alarm_query,iot_wemo_on,0.0188
+54,অনুগ্রহ করে রং পরিবর্তন করুন,iot_hue_lightchange,play_music,0.0188
+55,প্রতি শুক্রবার দুইটায় আমার জয়বাংলা নিচে চিহ্নিত করুন,calendar_set,play_music,0.0188
+56,সকাল এগোরোটা অ্যালার্মের বর্ণনা কী,alarm_query,play_music,0.0187
+57,আমি আপেল ফোন সমস্যা নিয়ে একটি অভিযোগ টুইট করতে চাই,social_post,play_music,0.0186
+58,সাকিব খানের সাথে দেখা করার জন্য ইভেন্ট যোগ করুন,calendar_set,play_music,0.0187
+59,এই মুহূর্তে নতুন খবর কি,news_query,play_music,0.0187
+60,নিযুক্ত হওয়ার দিন,calendar_set,play_music,0.0187
+61,আমি যখন বাড়ি ফিরব আপনি কি দয়া করে পিঁজা অর্ডার করতে পারবেন,takeaway_order,iot_wemo_on,0.0187
+62,আপনার স্পিকার এর মাধ্যমে আমাকে একটি প্রফুল্ল গান বাজান,play_music,play_music,0.019
+63,আমার শহরে কোন বিশেষ ঘটনা আছে,recommendation_events,iot_wemo_on,0.0187
+64,প্লাগ সকেট এক শক্তি আপ,iot_wemo_on,play_music,0.0188
+65,আজকে আমার অ্যাপয়েন্টমেন্টগুলি কত সময়ে আছে,calendar_query,iot_wemo_on,0.0187
+66,কোন দিন মিটিং হবে,calendar_query,play_music,0.0187
+67,আমার ক্রিসমাস ছুটির তালিকা মুছে দিন,lists_remove,play_music,0.0186
+68,এই মুহূর্তে রাজশাহি আবহাওয়া কেমন,weather_query,iot_wemo_on,0.0186
+69,আমার জন্য আমার কফি পাত্র সক্রিয় করুন,iot_coffee,play_music,0.0186
+70,ল্যাপটপ কেনা নিশ্চিত করুন,general_quirky,play_music,0.0187
+71,সন্ধ্যা সাতটায় মিটিং সেট করুন,calendar_set,play_music,0.0187
+72,প্রতিউত্তর দেওয়ার জন্য ধন্যবাদ তাইজুল,email_sendemail,play_music,0.0186
+73,রিয়াজ কি এখনও জীবিত,qa_factoid,iot_wemo_on,0.0187
+74,ক্লাসিক্যাল গান বাজান,play_music,play_music,0.019
+75,সিরি একটি রংধনু বর্ণনা করে,qa_definition,play_music,0.0187
+76,এই সপ্তাহের সোমবার আবহাওয়া কেমন থাকবে,weather_query,iot_wemo_on,0.0187
+77,দয়া করে বিশ্বের আনন্দের গান চালান,play_music,play_music,0.0189
+78,আমার সোশ্যাল মিডিয়া স্ক্যান করুন এবং আমাকে বলুন কি ঘটছে,social_query,play_music,0.0187
+79,এখান থেকে পঞ্চাশ মাইলের মধ্যে প্রবেশ করার জন্য সবচেয়ে সস্তা ম্যারাথন কি,general_quirky,play_music,0.0188
+80,বৃহস্পতিবার দুপুর পৌনে দুইটায় আমাকে mr. forman এর সাথে দেখা করতে হবে অনুগ্রহ করে ক্যালেন্ডার চিহ্নিত করুন,calendar_set,iot_wemo_on,0.0186
+81,এই গানটি শেষ হওয়ার পরে আমি পরবর্তী উদ্দেশ্য নেই শুনতে চাই,play_music,play_music,0.0191
+82,আপনি কি আমাকে শনিবার রাতের তাপমাত্রা বলতে পারেন,weather_query,iot_wemo_on,0.0187
+83,আপনি পিঁজা জন্য একটি রেসিপি টান আপ করতে পারেন,cooking_recipe,play_music,0.0188
+84,আজাদ ছিদ্দিকী শখ কি,qa_factoid,iot_wemo_on,0.0187
+85,এই গান এর পর metallica চালাও,play_music,play_music,0.0192
+86,মানুষ কিভাবে এমনভাবে চিন্তা করে যে তারা ঈশ্বরের কাছ থেকে সবকিছু লুকাতে পারে,general_quirky,play_music,0.0186
+87,আমি কিছু মডার্ন রকগান শুনতে চাই,play_music,play_music,0.019
+88,একুশে মে সপ্তাহের কোন দিন,datetime_query,iot_wemo_on,0.0186
+89,বিরিয়ানি অর্ডার দাও,takeaway_order,play_music,0.0187
+90,বাইরে তাপমাত্রা কত,weather_query,iot_wemo_on,0.0187
+91,আজ সাতটায় রাফিত সাথে মিটিংয়ের জন্য একটি অ্যালার্ম তৈরি করুন,alarm_set,play_music,0.0187
+92,বাংলাদেশের খবর আপডেটের সাথে আমাকে অবহিত করুন,news_query,play_music,0.0187
+93,কসবার জন্য সর্বশেষ ট্রাফিক রিপোর্ট কি,transport_traffic,play_music,0.0186
+94,দয়া করে আমাকে টাকা এবং রুপির মধ্যে বিনিময় হার দেখান,qa_currency,play_music,0.0186
+95,মিজানকে হোয়াটসঅ্যাপে হাই পাঠান,email_querycontact,play_music,0.0187
+96,রাম থেকে যে কোনও কিছুর জন্য মেইল পরীক্ষা করুন,email_query,play_music,0.0187
+97,এই সপ্তাহে আবহাওয়া কেমন দেখাচ্ছে,weather_query,iot_wemo_on,0.0186
+98,সুমন এর জন্য সিমা থেকে মেইল ​​পাঠান,email_sendemail,play_music,0.0186
+99,আমার কাছাকাছি আবহাওয়া কি,weather_query,iot_wemo_on,0.0187
+100,আমার কন্ট্যাক্ট ইমেইল সংরক্ষণ করুন,email_addcontact,iot_wemo_on,0.0187
+101,আমাকে ক্রয় আদেশ বিস্তারিত দিন,lists_query,play_music,0.0187
+102,বাইরে গরম নাকি ঠান্ডা,weather_query,iot_wemo_on,0.0188
+103,ফিজ আপ জন্য সেরা রেসিপি কি,cooking_recipe,play_music,0.0187
+104,পূর্ণ ক্ষমতায় লাইট সেট করুন,iot_hue_lightup,iot_wemo_on,0.0188
+105,আমার তারিখের জন্য এই বিকেল সংরক্ষণ করুন,calendar_set,iot_wemo_on,0.0187
+106,এই অডিওবুকটি রিজিউম কর,play_audiobook,play_music,0.0189
+107,শিলা বালির বিবরণ দিন,qa_definition,play_music,0.0188
+108,আমি ডিম চাই না,lists_remove,play_music,0.0187
+109,ইভেন্ট যোগ করুন বেসবল অনুশীলন আজ রাতে বিকাল পাঁচটায়,calendar_set,play_music,0.0188
+110,অর্থহীনের অদ্ভুত সেই ছেলেটি চালু কর,play_music,play_music,0.0188
+111,দয়া করে একটি অভিযোগ লিখুন,social_post,play_music,0.0187
+112,ক্যালেন্ডার খুলুন এবং একটি নতুন ইভেন্ট তৈরি করুন,calendar_set,iot_wemo_on,0.0187
+113,রেডিও চ্যানেল রেডিও আমার শুরু করুন,play_radio,play_music,0.0189
+114,বিনিয়োগ বা সংরক্ষণ কোনটি ভালো,qa_factoid,play_music,0.0186
+115,আরে ফুড পাণ্ডার দোকান থেকে বিরিয়ানির সাথে গোসত অর্ডার করুন,takeaway_order,play_music,0.0186
+116,আমাকে অভ্রর সর্বশেষ ইমেল দেখান,email_query,iot_wemo_on,0.0187
+117,শীর্ষ হেডলাইনগুলি দিন,news_query,play_music,0.0187
+118,আমি গানের বিষয় চাই,music_query,play_music,0.0189
+119,আর্টসেলের অলস অনুভুতির দেয়াল শুনতে চাই,play_music,play_music,0.0189
+120,দয়া করে আগামীকাল মিটিং-এর জন্য সকাল সাতটার একটি অ্যালার্ম সেট করে দিন,alarm_set,iot_wemo_on,0.0187
+121,আমার উপলব্ধ স্মৃতিতে আমাকে স্ট্যাটাস দিন,general_quirky,iot_wemo_on,0.0187
+122,আমার রেডিও পুরানো প্লেলিস্ট চালু করুন,play_radio,play_music,0.0188
+123,প্লেলিস্টটি শোনা যাক,play_music,play_music,0.0189
+124,এক টাকার সমতুল্য টাকা কি,qa_currency,iot_wemo_on,0.0186
+125,আমি একাত্তরের দিনগুলি যেখানে বন্ধ করেছিলাম সেখান থেকে চালানো শুরু কর,play_audiobook,iot_wemo_on,0.0187
+126,সব বাকি থাকা অনুস্মারক দেখান,calendar_query,play_music,0.0188
+127,আমি এই সপ্তাহন্ত অনুষ্ঠিত এই এলাকা জন্য সমস্ত স্থানীয় ইভেন্ট প্রয়োজন,recommendation_events,play_music,0.0186
+128,ইভেন্টের পরে কি করতে হবে,calendar_query,iot_wemo_on,0.0187
+129,মশলাদার রান্নার উদাহরণ কি,cooking_recipe,play_music,0.0186
+130,আমাকে ইভেন্ট দেখান যা এখন চলছে,calendar_query,play_music,0.0187
+131,মমতাজের গান বাজাও,play_music,play_music,0.0189
+132,নুডলস্ গুলি এক প্যাক এটি নেওয়া হিসাবে তৈরি করুন,takeaway_order,play_music,0.0188
+133,আমার চাইনিজ খাবার কখন আসবে,takeaway_query,play_music,0.0187
+134,নৌকা বিক্রি করা লোকটিকে একটি ইমেইল পাঠান যাতে তাকে বলা হয় যে আমার কাছে টাকা আছে,email_sendemail,play_music,0.0186
+135,এর পরে একটি গান বাজানো,play_music,play_music,0.0189
+136,meeting মুছে ফেলা,calendar_remove,play_music,0.0186
+137,অনুগ্রহ করে আমাকে বলুন আমি কি তৈরি করেছি,lists_query,play_music,0.0187
+138,ক্যালেন্ডার ক্লিন কর,calendar_remove,play_music,0.0186
+139,আজ বিশ্বে যা ঘটছে,news_query,play_music,0.0187
+140,আমি চাই আপনি আমার জন্য লটারির টিকিট কেনার প্যাটার্ন বিশ্লেষণ করুন কোন নম্বরটি প্রথম পুরস্কার পাবে,general_quirky,play_music,0.0189
+141,আমার কি আগামীকালের জন্য নির্ধারিত কিছু আছে,calendar_query,play_music,0.0187
+142,ঢাকা থেকে চট্টগ্রাম পর্যন্ত দুই জনের ট্রেনের টিকিট,transport_ticket,play_music,0.0186
+143,আমার কি প্যান্ট লাগবে,weather_query,play_music,0.0187
+144,নতুন গাগা প্লেলিস্ট বাজান,play_music,play_music,0.0188
+145,এই মুহূর্তে আমার প্রিয় সঙ্গীত কি,music_query,play_music,0.019
+146,olly alarm বাতিল করুন,alarm_remove,play_music,0.0187
+147,পরবর্তী নাটক ইমরান মাহমুদুলের বলব তকে আজ,play_music,play_music,0.0188
+148,sony-কে টুইট করুন তাদের পরিষেবার অভিযোগ জানতে,social_post,play_music,0.0188
+149,আজ সন্ধ্যা সাতটায় কফি হাউসে রাতের খাবারের জন্য জাফরকে একটা মেইল ​​পাঠাও,email_sendemail,iot_wemo_on,0.0186
+150,সব আলোকে নীলে পরিবর্তন করুন,iot_hue_lightchange,play_music,0.0187
+151,আমার বন্ধু মুনির হুসেনর থেকে সমস্ত ইমেল টানুন,email_query,iot_wemo_on,0.0186
+152,এখন কি বৃষ্টি হবে,weather_query,iot_wemo_on,0.0186
+153,তারেকের স্ত্রী কেমন আছেন,qa_factoid,play_music,0.0187
+154,রান্নাঘরের উপরের আলো জ্বালান,iot_hue_lighton,play_music,0.0186
+155,সাম্প্রতিক মাইলস,general_quirky,play_music,0.0187
+156,g. m. t. সময়,datetime_query,play_music,0.0187
+157,বড় দিন কোন দিন পড়ে,datetime_query,iot_wemo_on,0.0187
+158,শান্ত থাকুন,audio_volume_mute,iot_wemo_on,0.0187
+159,আমার জন্য আমার কান্ট্রি ফ্যাভোরিটস প্লেলিস্ট খেলুন,play_podcasts,play_music,0.0189
+160,ইমেইল ইনবক্স সতেজ করুন,email_query,play_music,0.0187
+161,tweet গ্রাহক অভিযোগ,social_post,iot_wemo_on,0.0186
+162,চলে যায় বসন্তের দিন চালু কর,play_audiobook,iot_wemo_on,0.0187
+163,চারপাশে কি,recommendation_locations,play_music,0.0187
+164,olly আমি ইদানীং মা কাছ থেকে কোনো ইমেল পেয়েছি,email_query,play_music,0.0187
+165,মিটিং শুরু হওয়ার সময়,calendar_query,play_music,0.0188
+166,এক ফুট কত ইঞ্চি করে,qa_maths,iot_wemo_on,0.0186
+167,আমার মাকে ইমেইল দিন,email_sendemail,play_music,0.0187
+168,আজকের জন্য কি,calendar_query,iot_wemo_on,0.0186
+169,বাচ্চাদের জন্য কিছু গান চালাও,play_radio,play_music,0.019
+170,আমার স্পিকার নিঃশব্দ করুন,audio_volume_mute,play_music,0.0188
+171,আমাকে ঢাকা শহরে যাওয়ার জন্য একটি ট্রেনের টিকিট বুক করুন যা সকাল নয়টার পর ছেড়ে যায়,transport_ticket,play_music,0.0187
+172,একটি long black train সম্পর্কে কে গান গেয়েছিল,music_query,play_music,0.0189
+173,ঘন্টা পূর্ণ হতে কত সেকেন্ড বাকি আছে,datetime_query,play_music,0.0187
+174,অনুগ্রহ করে আমাকে একটি কৌতুক বলুন যা আমি মজার মনে করব,general_joke,play_music,0.0188
+175,বর্তমান ইমেইলগুলোর রিপোর্ট,email_query,iot_wemo_on,0.0187
+176,বিড়ালদের জন্য শহরে কি একজন গ্রুমার আছেন,general_quirky,iot_wemo_on,0.0187
+177,আমি লেডি গাগা পোকার ফেস শুনতে চাই,play_music,play_music,0.0188
+178,আপনি কি সমাধান করেছেন,general_quirky,play_music,0.0186
+179,hi google আমার খেপাটে playlist বাজান,play_music,play_music,0.0188
+180,ট্রেনে রাজশাহী শহরের টিকিট কিনুন,transport_ticket,iot_wemo_on,0.0186
+181,সাকিব আল হাসানের জন্মদিনের তারিখ কত,qa_factoid,play_music,0.0185
+182,আমার কন্টাক্ট লিস্ট খুলুন,email_querycontact,play_music,0.0187
+183,আমার এক কাপ চা এখন ভালোই হবে,iot_coffee,play_music,0.0186
+184,জীব শব্দের অর্থ কি বলুন,qa_definition,play_music,0.0187
+185,আমার চারপাশে কি ঘটছে,recommendation_events,play_music,0.0187
+186,এন. পি. আর. এর আমাকে নতুন পডকাস্ট বাজাও,play_podcasts,play_music,0.0187
+187,বিশ নভেম্বর কি আছে,calendar_query,play_music,0.0187
+188,চ্যানেল আই থেকে শিরোনাম,news_query,play_music,0.0189
+189,আমি তো প্রত্যুষ মজুমদারের ইমেইলের উত্তর দিতে চাই,email_sendemail,iot_wemo_on,0.0186
+190,আমার জন্য একটি গাড়ি ডাকুন,transport_taxi,play_music,0.0188
+191,কেউ আপনাকে জিজ্ঞাসা করা সবচেয়ে বোকা প্রশ্ন কি,general_quirky,iot_wemo_on,0.0187
+192,আমাকে সবচেয়ে মজার কৌতুক বলুন যা কখনও বলা হয়েছিল,general_joke,play_music,0.0188
+193,কুড়ি-ই মার্চ দুই হাজার সতেরো সালের আবহাওয়া কেমন হবে,weather_query,iot_wemo_on,0.0186
+194,আমি আজকে কি কি ইভেন্টগুলি নির্ধারণ করেছি,calendar_query,play_music,0.0187
+195,আমার কাছে এই সপ্তাহান্তে কিছু মজা করতে হবে আপনি কি আমাকে ধারনা দিতে পারেন,recommendation_events,play_music,0.0187
+196,অনুগ্রহ করে আমাকে সাকিব এর নতুন ইমেইলগুলি জানান,email_query,play_music,0.0186
+197,এখন নাগপুরের আবহাওয়া কেমন,weather_query,iot_wemo_on,0.0187
+198,অলি আমি কিভাবে মাংসের লোফ বানাবো,cooking_recipe,play_music,0.0188
+199,আমি আমার পোষা প্রাণী ঠিক কোথায় পেতে পারি,general_quirky,iot_wemo_on,0.0187
+200,দুপুর বারোটা থেকে বিকাল চারটায় আমার কি সিডিউল করা আছে,calendar_query,iot_wemo_on,0.0187
+201,তোমার দিন কেমন ছিল,general_quirky,iot_wemo_on,0.0186
+202,সর্বোচ্চ ভলিউমের স্তর পরিবর্তন করুন,audio_volume_other,iot_wemo_on,0.0186
+203,আমার পরবর্তী ঘটনা মুছে ফেলুন,calendar_remove,iot_wemo_on,0.0187
+204,আমাকে আমার নিকটের স্থান অবস্থানের রেস্তোরা রিভিউ দেখান,recommendation_locations,iot_wemo_on,0.0186
+205,হেই অলি টুইটারে মাইক্রোসফ্টে আমার অভিযোগ পোস্ট করুন,social_post,play_music,0.0187
+206,আমাকে এই বস্তুর বর্ণনা খুঁজুন,qa_definition,play_music,0.0188
+207,মধ্যপন্থী,general_quirky,play_music,0.0188
+208,দিনাজপুর বর্তমান আবহাওয়া কি,weather_query,iot_wemo_on,0.0186
+209,স্থনীয় দোকান খুঁজুন,recommendation_locations,iot_wemo_on,0.0187
+210,পরবর্তি ভালবাসা দিবস কোন দিনে অবতরণ করবে,datetime_query,iot_wemo_on,0.0188
+211,কোন আসন্ন ঘটনা আছে,calendar_query,iot_wemo_on,0.0187
+212,দয়া করে তাহসান একটি গান বাজান,play_music,play_music,0.0189
+213,আমাদের জন্য একটি প্রতিযোগিতামূলক ওরা এগার জন শুরু করুন,play_game,play_music,0.0187
+214,আমি এখন ঘুমাতে যাচ্ছি,iot_hue_lightoff,iot_wemo_on,0.0187
+215,শুক্রবার সমুদ্র সৈকতে এটি কি সুন্দর হবে,weather_query,iot_wemo_on,0.0186
+216,সোমবার চাদঁপুর স্টেশন থেকে হানিফ ট্রেনের সময় পরীক্ষা করুন,transport_query,iot_wemo_on,0.0186
+217,আমি কি অর্ডার করতে পারি,takeaway_order,play_music,0.0187
+218,আমাকে উপসাগরীয় অঞ্চলে চিত্র প্রদর্শনী দেখান,recommendation_events,play_music,0.0187
+219,আমি জানি না কিভাবে এই প্রশ্নের উত্তর দেব আপনি একটি বা দুটি শব্দ রেখে গেছেন,general_quirky,play_music,0.0188
+220,আমি কিছু র‍্যাপ শুনতে চাই,play_music,play_music,0.0188
+221,গাছপালা,general_quirky,play_music,0.0187
+222,এই মাসের সময়সূচীতে কি ইভেন্ট আছে,calendar_query,play_music,0.0187
+223,fashion জন্য সর্বশেষ খবর কি,news_query,play_music,0.0187
+224,খালেদা জিয়া বিতর্ক কি,news_query,iot_wemo_on,0.0186
+225,আজ আমেরিকান ডলার এর পরিবর্তে ইয়েন কতো,qa_currency,iot_wemo_on,0.0186
+226,তিতাস থেকে পাওয়া সকল ইমেইল চেক করুন,email_query,iot_wemo_on,0.0186
+227,ওয়াল্টনকে মোবাইলের অভিযোগ tweet করুন,social_post,iot_wemo_on,0.0188
+228,অনেক সাধনার পরে আমি বাজানো শুরু করুন,play_music,play_music,0.0189
+229,পরিচিতিতে sufal at gmail dot com এ জন যোগ করুন,email_addcontact,play_music,0.0186
+230,টিউব আজ সুপার ব্যস্ত ছিল,general_quirky,play_music,0.0187
+231,আজকের পূর্বাভাস কি,weather_query,iot_wemo_on,0.0186
+232,রাস্তায় গর্ত সম্পর্কে একটি অভিযোগ টুইট,social_post,play_music,0.0186
+233,আমি বিকেল পাচঁটা থেকে কোন ইমেইল পেয়েছি,email_query,iot_wemo_on,0.0186
+234,অপুর্ব সরকার এর টুইটার বড় ছেলে খুঁজুন,qa_factoid,play_music,0.0187
+235,আমাকে পিঁজা রেসিপি দিন,cooking_recipe,play_music,0.0187
+236,গল্পকথন অডিও বুক শুরু করুন,play_audiobook,play_music,0.0188
+237,ওবায়েদ হাসান ইয়াকিনের জন্মদিন ক,qa_factoid,iot_wemo_on,0.0186
+238,আমাকে কিছু নতুন প্রেমের সম্পর্কে শুনতে দিন,play_music,play_music,0.0186
+239,কাছাকাছি কি বইগুলি চলছে,recommendation_movies,play_music,0.0187
+240,সভাপতিত্ব সংক্রান্ত বিতর্ক কিভাবে যাচ্ছে দয়া করে ট্যাব রাখুন,news_query,play_music,0.0186
+241,আমার কি এই সপ্তাহান্তে সানব্লক লাগবে,weather_query,iot_wemo_on,0.0187
+242,চৌঠা জুলাই নির্ধারিত ট্রিপ মুছে ফেলুন,calendar_remove,play_music,0.0186
+243,olly আমাকে মনে করাও আজ থেকে এক সপ্তাহ পাঁচটায় লাইব্রেরিতে থাকতে হবে,calendar_set,play_music,0.0188
+244,music system mute করুন,audio_volume_mute,play_music,0.0192
+245,ফোক গানের রেটিং চার তারার উপরে লোকগানের সেরা পডকাস্ট দেখান এবং i প্লে করুন,play_podcasts,play_music,0.0189
+246,অ্যালবাম চালান,play_music,play_music,0.0188
+247,আমার এখন কিছু কফি চাই,iot_coffee,play_music,0.0186
+248,পরের সপ্তাহে মিটিংয়ের জন্য মনে করিয়ে দিন,calendar_set,play_music,0.0187
+249,আমি বসার ঘরের আলো বন্ধ করতে চাই,iot_hue_lightoff,iot_wemo_on,0.0187
+250,কোনো হাই পায়রিটি ইমেইল আছে,email_query,iot_wemo_on,0.0186
+251,বিকাশ এর স্টক মূল্য কি,qa_stock,play_music,0.0186
+252,youtube এ আমার ডিমহীন কেক পোস্টে কত লাইক পেয়েছি,social_query,play_music,0.0189
+253,আমাকে স্মার্টফোন সফটওয়্যারের বর্ণনা দিন,qa_definition,play_music,0.0187
+254,siri বিনিময় হার চেক করুন,qa_currency,iot_wemo_on,0.0186
+255,মঙ্গলবার আবহাওয়া কেমন থাকার কথা,weather_query,play_music,0.0186
+256,এই সপ্তাহের সময়সূচী ওয়াক টিমকে ইমেইল করুন,email_sendemail,play_music,0.0186
+257,দয়া করে আমাকে বলুন আমি যদি আজকে ডাউ স্টকে বিনিয়োগ করি তাহলে আমি কখন ধনী হতে পারব এবং পাঁচ বছর পর রিটার্ন কী হবে,qa_stock,iot_wemo_on,0.0186
+258,আমি কি আমার কাজের তালিকা দেখতে পারি,lists_query,play_music,0.0187
+259,চট্টগ্রামের আবহাওয়া,weather_query,iot_wemo_on,0.0186
+260,আমি ভুত এফ এম প্রদর্শন শুনতে চাই,play_radio,play_music,0.0187
+261,আমার প্রিয় প্লেলিস্ট বাজান,play_music,play_music,0.0189
+262,আমার জন্য এক কাপ কফি প্রস্তুত করুন,iot_coffee,play_music,0.0187
+263,আমাকে রেসিপি দিন,cooking_recipe,play_music,0.0188
+264,ভিন্ন রঙে আলো পরিবর্তন করুন,iot_hue_lightchange,iot_wemo_on,0.0188
+265,আমার কাছে ঢাকার পাঁচ তারকা হোটেলের তালিকা থাকতে পারে,qa_factoid,play_music,0.0187
+266,আমাকে একটি তালিকা সেট করতে সাহায্য করুন,lists_createoradd,play_music,0.0187
+267,এ্যালেক্সা এই নতুন ইমেইল ঠিকানায় ইমেইল পাঠান,email_sendemail,iot_wemo_on,0.0187
+268,সিলেটের ভৌগলিক বিবরণ দেখান,qa_factoid,play_music,0.0186
+269,দারাজের আলেক্সায় পরিষেবার বিষয়ে একটি গ্রাহকের অভিযোগ tweet করুন৷,social_post,play_music,0.0186
+270,অলি আলো উজ্জ্বল,iot_hue_lightup,play_music,0.0187
+271,আগামীকাল দুপুর দুইটায় জন্মদিনের পার্টি মুছে ফেলুন,calendar_remove,play_music,0.0186
+272,প্রত্যেক শুক্রবার আমাকে মুদিসামগ্রী কেনার কথা মনে করিয়ে দিতে আমার ক্যালেন্ডার সেট করুন,calendar_set,iot_wemo_on,0.0186
+273,বেদের মেয়ে জোসনা সিনেমার বেদের মেয়ে জোসনা আমায় কথা দিয়েছে গানটি বাজান,play_music,play_music,0.0189
+274,আমি বাংলা গান শুনতে পছন্দ করব,play_music,play_music,0.019
+275,ইভেন্ট এর দিন গিয়ে মুছে ফেলুন,calendar_remove,iot_wemo_on,0.0187
+276,শুক্রবার দুপুর দুইটা ত্রিশে হিসাব বিভাগের সাথে একটি মিটিং নির্ধারণ করুন,calendar_set,play_music,0.0187
+277,আমাকে নির্বাচনের সর্বশেষ খবর দেখান,news_query,play_music,0.0186
+278,বিনিময় হার আমি বৈদেশিক মুদ্রার সাথে পাব,qa_currency,play_music,0.0187
+279,আমি কি এই সপ্তাহান্তে ব্যস্ত,calendar_query,iot_wemo_on,0.0186
+280,বাংলাদেশ রাজধানী কি,qa_factoid,play_music,0.0186
+281,আমি আগামী সপ্তাহে কক্সবাজার ট্রিপ বাতিল করতে চাই,lists_remove,iot_wemo_on,0.0186
+282,সুমন আহমেদ কোথায় জন্মগ্রহণ করেন,qa_factoid,play_music,0.0186
+283,নতুন জোকস অনুসন্ধান করুন,general_joke,play_music,0.0187
+284,এই সোমবার বিকেলে অমিত বসু সাথে একটি মিটিং নির্ধারণ করুন,calendar_set,play_music,0.0187
+285,তুমি কি আধুনিক,general_quirky,iot_wemo_on,0.0187
+286,রবিবার পার্টির জন্য মুদিখানার জিনিস কেনাকাটায় যেতে আমাকে মনে করিয়ে দেবেন,calendar_set,play_music,0.0186
+287,আমি দোকান গিয়েছিলাম,general_quirky,play_music,0.0186
+288,সবচেয়ে কাছে bar কোথায়,recommendation_locations,play_music,0.0187
+289,তাহসান এর সাথে অ্যালবাম এর নাম অনুসন্ধান করুন,music_query,play_music,0.0187
+290,ওই গানটি আমার প্রিয়,music_likeness,play_music,0.019
+291,ভারতের ভৌগলিক অবস্থান ব্যাখ্যা কর,qa_factoid,iot_wemo_on,0.0186
+292,আমাকে তালিকার নাম বলুন,lists_query,play_music,0.0188
+293,নিঃশব্দে ভলিউম পরিবর্তন করুন,audio_volume_mute,play_music,0.0187
+294,শুক্রবার মিটিংয়ের জন্য একটি অনুস্মারক সেট করুন বিকেল তিনটায়,calendar_set,play_music,0.0187
+295,আমাকে সকাল ছ-টায় তুলে দাও,alarm_set,iot_wemo_on,0.0187
+296,আমি লাইব্রেরিতে আগামীকালের ইভেন্টের জন্য আমার ক্যালেন্ডারে একটি নোট করতে চাই,calendar_set,play_music,0.0187
+297,সপ্তাহের বাকি দিনগুলির জন্য আমার এজেন্ডা কি,calendar_query,play_music,0.0186
+298,কমলার সংজ্ঞা কি,qa_definition,play_music,0.0186
+299,আগামীকাল আমার ক্যালেন্ডারে কি আছে,calendar_query,iot_wemo_on,0.0186
+300,বাড়িতে ট্রাফিক চেক করুন,transport_traffic,iot_wemo_on,0.0187
+301,ইভেন্টের সব তথ্য মুছে ফেলুন,calendar_remove,play_music,0.0187
+302,কেনাকাটার তালিকায় একটি হাত ঘড়ি যোগ করুন,lists_createoradd,play_music,0.0187
+303,অলি আবহাওয়া কেমন,weather_query,play_music,0.0187
+304,সোলাইমান সুখন উপলব্ধ সমস্ত পোশাক পরিসরের একটি তালিকা তৈরি করুন,lists_query,iot_wemo_on,0.0187
+305,অনুগ্রহ করে মাকে একটি ইমেল পাঠান যাতে বলা হয় যে আমি পরের সপ্তাহে এটি তৈরি করতে পারব,email_sendemail,play_music,0.0187
+306,জেমসের বাবা গানটি শুনতে চাই,play_music,play_music,0.0189
+307,নতুন pop সঙ্গীত প্লে করুন,play_music,play_music,0.019
+308,পাউন্ডে বিশটি আর্জেন্টিনীয় পেসোর মূল্য কত,qa_currency,play_music,0.0186
+309,রাকিব হাসান সম্পর্কে আপনি যা জানেন তা আমাকে দিন,qa_factoid,play_music,0.0186
+310,নমনীয়,audio_volume_down,play_music,0.0188
+311,রেডিও টুডে চালু করুন,play_radio,play_music,0.0188
+312,আমি কিছু gospel গান শুনতে চাই,play_music,play_music,0.0189
+313,ক্যালেন্ডারে আসন্ন ঘটনা,calendar_set,play_music,0.0187
+314,ছয় বিয়োগ চার কি,qa_maths,play_music,0.0187
+315,আগামীকাল দুপুর দুইটায় আমাকে মনে করিয়ে দেবেন,calendar_set,play_music,0.0187
+316,আলোগুলি নীল থেকে হলুদ থেকে সবুজে পরিবর্তন করতে থাকুন,iot_hue_lightchange,play_music,0.0188
+317,আমি আমার বিয়ের জন্য তৈরি করা প্লেলিস্টটি শুনতে চাই,play_music,play_music,0.0188
+318,প্রশস্ত বা সংকীর্ণ কোন নির্দিষ্ট এলাকায় রাস্তা,transport_traffic,play_music,0.0187
+319,কোন দেশ আমাদের হাজার ডলারের মধ্যে সবচেয়ে বেশি অর্থ রূপান্তর করবে,qa_factoid,play_music,0.0187
+320,আমার কি বুট জুতা পরতে হবে,weather_query,iot_wemo_on,0.0186
+321,তুমি কি আমাকে পড়াশোনায় ভালো করতে সাহায্য করবে,general_quirky,play_music,0.0186
+322,আমি আমার পর্দার উজ্জ্বলতায় স্ট্যাটাস চাই,general_quirky,play_music,0.0187
+323,হালকা রঙ পরিবর্তন করুন,iot_hue_lightchange,iot_wemo_on,0.0187
+324,ভূতের বাড়ি বার্তা তারা আমার অর্ডার নষ্ট করেছে এবং আমাকে অতিরিক্ত এক ঘন্টা অপেক্ষা করতে হয়েছিল,social_post,iot_wemo_on,0.0187
+325,পৃথিবীর পরিধি কত,qa_factoid,iot_wemo_on,0.0186
+326,আমার ক্যালেন্ডারে আগামীকালের জন্য একটি মিটিং সেট করুন,calendar_set,play_music,0.0187
+327,আমাকে বলুন কোথায় যেতে হবে,transport_ticket,iot_wemo_on,0.0187
+328,আমার এলাকায় কি কার্যক্রম চলছে,recommendation_events,play_music,0.0187
+329,আমার সেট অ্যালার্ম,alarm_query,play_music,0.0188
+330,আমার তালিকা থেকে পনির সরান,lists_remove,play_music,0.0187
+331,অলি কত ক্রিস হেলমসওয়ার্থ কত বেঞ্চ প্রেস করতে পারেন,qa_factoid,play_music,0.0188
+332,চতুর্থ বিশ্বযুদ্ধ হবে,general_quirky,play_music,0.0186
+333,এই সপ্তাহে মধ্যাহ্নভোজনের জন্য আমার কখন বারবারা'র সাথে দেখা করার কথা,calendar_query,play_music,0.0187
+334,পুনরাবৃত্ত উপর ইভেন্ট সেট,calendar_set,play_music,0.0187
+335,অলি আমার আজ কিছু দুঃখের গান শুনতে হবে,play_music,play_music,0.019
+336,আমার বার্ষিকী অনুষ্ঠানের জন্য আমাকে আগে থেকে মনে করান,calendar_set,play_music,0.0187
+337,আমার জানা দরকার যদি ফুড পাণ্ডা বিতরণ,takeaway_query,play_music,0.0186
+338,যিনি আব্দুল হামিদ,qa_factoid,play_music,0.0187
+339,কণার গান বাজাও,play_music,play_music,0.0189
+340,মা আমাকে টেক্সট করেছেন,email_querycontact,play_music,0.0187
+341,আমার বাড়ির কাছাকাছি এগরোল কোথায় পাওয়া যায় খুঁজুন,recommendation_locations,iot_wemo_on,0.0188
+342,ক্যালেন্ডার থেকে সব সরান,calendar_remove,iot_wemo_on,0.0187
+343,শুরু থেকে মিসির আলির চশমা অডিওবুকটি বাজাও,play_audiobook,play_music,0.0189
+344,আজ আমার প্রথম অ্যাপয়েন্টমেন্ট কি,calendar_query,iot_wemo_on,0.0186
+345,আপনি কি এই নতুন ইমেল ঠিকানায় একটি ইমেল পাঠাবেন,email_sendemail,play_music,0.0187
+346,ঢাকার কোন অংশ ঢাকা অন্তর্গত,qa_factoid,play_music,0.0186
+347,আমি কি পিঁজা জায়গা থেকে সরবরাহ অর্ডার করতে পারি,takeaway_order,iot_wemo_on,0.0186
+348,সালোকসংশ্লেষণ ব্যাখ্যা কর,qa_definition,play_music,0.0187
+349,দয়া করে আজকে দুপুর একটায় স্কুলে জনকে নিতে মনে করাও,calendar_set,iot_wemo_on,0.0187
+350,অর্ডার প্রস্তুত করতে কত সময় লাগবে,takeaway_query,play_music,0.0187
+351,রাকিবাকে একটি ইমেল পাঠান,email_sendemail,play_music,0.0186
+352,ঢাকা থেকে ঢাকা পর্যন্ত ট্রেনের সময় কি,transport_query,iot_wemo_on,0.0185
+353,দ্বিতীয় এপ্রিলে আমার সময়সূচী থেকে মাজিক শো সরিয়ে দিন,calendar_remove,iot_wemo_on,0.0187
+354,আগামীকাল বিকেল তিনটায় আমার মিটিং সম্পর্কে আমাকে মনে করান,calendar_set,play_music,0.0187
+355,সর্বশেষ গেম খেলুন,play_game,play_music,0.0188
+356,দয়া করে আমার ওয়ার্কআউট তালিকা থেকে ট্রাইসেপ পুল ডাউন সরিয়ে দিন,lists_remove,iot_wemo_on,0.0187
+357,এই সপ্তাহে আবহাওয়া কেমন হবে তা জানতে রাজীবকে একটি ইমেইল পাঠান,email_sendemail,play_music,0.0186
+358,ঘরটি vaccum করুন,iot_cleaning,iot_wemo_on,0.0186
+359,রিমাইন্ডারগুলি দেখাও,calendar_query,play_music,0.0187
+360,আপনি কি সপ্তাহান্তের স্মারক দিবস এ ঢাকা যাওয়ার রেলগাড়ী এর টিকিট খুঁজে পেতে পারেন,transport_query,iot_wemo_on,0.0186
+361,উপভোগ,play_music,play_music,0.0187
+362,তালিকার সময়সূচী আবৃত্তি করুন,lists_query,play_music,0.0187
+363,সোমবার এর জন্য আমার দুপুরের খাবারের তারিখ সম্পর্কে আমাকে মনে করিয়ে দিন,calendar_set,play_music,0.0186
+364,ঢাকার বর্তমান সময় কি,datetime_query,iot_wemo_on,0.0185
+365,আমার সাথে নাচুন,general_quirky,play_music,0.0189
+366,সর্বশেষ খেলার খবর সম্পর্কে আমাকে বলুন,news_query,play_music,0.0187
+367,ঢাকায় আবহাওয়া কেমন,weather_query,iot_wemo_on,0.0186
+368,আইটেম নির্বাচন করুন,lists_createoradd,play_music,0.0187
+369,পরের ট্রেন কখন চট্টগ্রাম উদ্দেশ্যে ছাড়বে,transport_query,iot_wemo_on,0.0186
+370,অলি বর্তমান আবহাওয়া কেমন,weather_query,play_music,0.0186
+371,বিংশ অক্টোবর দশটা ত্রিশ a. m. একটি মিটিং সেট করুন,calendar_set,play_music,0.0187
+372,আপনি কি আমার জন্য আলো বাড়াতে পারেন,iot_hue_lightup,play_music,0.0187
+373,আটোমোবাইলগুলি,news_query,iot_wemo_on,0.0187
+374,আপনি এই এলাকায় ভাল দোকান সুপারিশ করতে পারেন,recommendation_locations,play_music,0.0186
+375,ডলারে কত টাকা হয়,qa_currency,play_music,0.0186
+376,ঢাকা সময় কি,datetime_query,play_music,0.0186
+377,আপনি কি আমাকে ঢাকা সময় বলতে পারেন,datetime_query,iot_wemo_on,0.0186
+378,লোকসঙ্গীতের স্টেশন প্লে করুন,play_radio,play_music,0.0191
+379,ঢাকাতে বর্তমান সময় কি,datetime_query,iot_wemo_on,0.0185
+380,আমাকে কি আজ কিছু করতে হবে,calendar_query,iot_wemo_on,0.0187
+381,আপনি কি আমার ডেস্ক বাতি বন্ধ করতে পারেন,iot_hue_lightoff,iot_wemo_on,0.0187
+382,মাইলস এর ফোল্ডার খুলুন,play_music,play_music,0.0187
+383,কেনাকাটার তালিকা থেকে রুটি ক্রস আউট,lists_remove,play_music,0.0187
+384,প্রতি রবিবারের জন্য একটি পুনরাবৃত্ত মুদিখানার দোকানে ট্রিপ সেট আপ করুন,calendar_set,iot_wemo_on,0.0187
+385,কি ঘটনা আমার এলাকায় এই সপ্তাহান্তে জন্য নির্ধারিত হয়,recommendation_events,play_music,0.0187
+386,আপনি আমাকে আমার তালিকা পড়তে পারেন,lists_query,play_music,0.0187
+387,যখন বাইশ সেকেন্ড,datetime_query,play_music,0.0188
+388,অলি আমার কাছাকাছি কিছু রেস্তোরা আছে কি,recommendation_locations,play_music,0.0187
+389,অনিকেত বাংলাদেশ প্রান্তর টুইটারে পোস্ট করুন,social_post,play_music,0.0187
+390,এই শহরে এখন কয়টা বাজে,datetime_query,play_music,0.0187
+391,গানের নাম কি,music_query,play_music,0.019
+392,আমার ম্যানেজারকে একটি ইমেল পাঠান,email_sendemail,play_music,0.0186
+393,আপনি আমাকে আমাদের এলাকায় ঘটছে এমন ঘটনাগুলি আপডেট দিলে আমি খুশি হবো,recommendation_events,iot_wemo_on,0.0187
+394,alexa আমি এই স্থানীয় এলাকার সেরা সুপার মার্কেট জানতে চাই,recommendation_locations,play_music,0.0186
+395,আজকে কাজে কি আমি একটি সোয়েটার অথবা কোট নিয়ে যাব,weather_query,iot_wemo_on,0.0186
+396,এখানে এটা লাল করে দাও,iot_hue_lightchange,play_music,0.0188
+397,আমার জন্য ড্রেনেজ কাজ সম্পর্কে অভিযোগ tweet,social_post,iot_wemo_on,0.0186
+398,আমি পরবর্তী কোন ভিডিও গেম খেলতে পারি,qa_factoid,play_music,0.0189
+399,বাংলাদেশ ও ভারতের মধ্যে সময়ের পার্থক্য,datetime_convert,play_music,0.0186
+400,ব্যাকগ্রাউন্ডের গান টি দুর্দান্ত,music_likeness,play_music,0.019
+401,আমাকে কিছু pop বাজাও,play_music,play_music,0.0189
+402,জেরিন থেকে যে কোনো খবর,email_query,play_music,0.0187
+403,নতুন সংবাদ প্রযুক্তি,news_query,play_music,0.0188
+404,তোমার বয়স কত,general_quirky,play_music,0.0186
+405,খালেদা জিয়া সম্পর্কে নতুন খবর কখন আসবে আমাকে বলুন,news_query,play_music,0.0186
+406,সাড়ে ছয়টার জন্য একটি অ্যালার্ম সেট করুন,alarm_set,iot_wemo_on,0.0188
+407,ফুড পাণ্ডা রেঁস্তোরা থেকে মধ্যাহ্নভোজ এ জন্য বিরিয়ানি খাব,takeaway_order,play_music,0.0186
+408,এক যোগ এক কি হয়,qa_maths,play_music,0.0188
+409,আমার বাসায় রাইড দরকার,transport_taxi,play_music,0.0187
+410,এখনকার আবহাওয়ার প্রতিবেদন,weather_query,iot_wemo_on,0.0187
+411,আজকের জন্য সাকিব থেকে ইমেইল তালিকা করুন,email_query,iot_wemo_on,0.0186
+412,বের হওয়ার আগে রেইনকোট পরতে হবে,weather_query,play_music,0.0187
+413,রৈখিক সমীকরণ কি,qa_maths,play_music,0.0186
+414,বাড়িতে কি অ্যালার্ম সেট করা হয়,alarm_query,iot_wemo_on,0.0187
+415,শিলং আবহাওয়া কি,weather_query,iot_wemo_on,0.0187
+416,তালিকায় মুদি যোগ করুন,lists_createoradd,play_music,0.0187
+417,তুমি কি আমাকে একটা ট্যাক্সি বাড়ি দিতে পারবে,transport_taxi,iot_wemo_on,0.0188
+418,সাবিনা আমার একটা পানীয় দরকার,iot_coffee,play_music,0.0186
+419,প্রতিদিন দুপুরে আমাকে ওষুধ নেওয়ার জন্য একটি রিমাইন্ডয়ার সেট করুন,calendar_set,iot_wemo_on,0.0187
+420,জাহানারা কোথা থেকে,qa_factoid,play_music,0.0187
+421,আজকের শিরোনাম কি,news_query,play_music,0.0187
+422,আমাকে বাইশে জানুয়ারি বৈঠকের কথা মনে করিয়ে দিন,calendar_set,play_music,0.0187
+423,হালকা লাইট রঙকে নীলে পরিবর্তন করুন,iot_hue_lightchange,iot_wemo_on,0.0188
+424,আমাকে এখন বরফ পড়ে এমন একটি জায়গা বলুন,general_quirky,iot_wemo_on,0.0187
+425,পরে কি বৃষ্টি হবে,weather_query,iot_wemo_on,0.0186
+426,ক্যালেন্ডারে অবস্থানের একটি অনুস্মারক তৈরি করুন,calendar_set,play_music,0.0187
+427,ট্রিভিয়াকে প্রশ্ন জিজ্ঞাসা করুন,general_quirky,iot_wemo_on,0.0187
+428,যিনি বর্তমান মার্কিন ট্রেজারি সেক্রেটারি,qa_factoid,play_music,0.0187
+429,আমাকে সাতাইশে মার্চ দুই হাজার সতেরো আবহাওয়া দেখান,weather_query,iot_wemo_on,0.0187
+430,একটি মাটির ময়না কী তা বর্ণনা করুন,qa_definition,play_music,0.0187
+431,আন্তর্জাতিক সংবাদের সাথে কি ঘটছে,news_query,play_music,0.0186
+432,আমাকে এই বছরের সেরা দশ খেলুন কে পপ,play_music,play_music,0.0188
+433,আমি ঢাকা যেতে চাই,transport_query,iot_wemo_on,0.0186
+434,গেম খোঁজ,play_game,play_music,0.0188
+435,অলি আজ খবর কি হয়েছে,news_query,play_music,0.0187
+436,অনুগ্রহ করে আমাকে একটি দোকান বলুন যেখানে আমি বই কিনতে পাব,recommendation_locations,play_music,0.0188
+437,olly মিষ্টি এবং টক ধরনের সয়া,iot_coffee,play_music,0.0188
+438,আপনি আমাকে আজকের সম্পর্কে বলতে পারেন,calendar_query,play_music,0.0186
+439,আজকে কতটা ঠান্ডা,weather_query,iot_wemo_on,0.0188
+440,টিক ট্যাক কানামাছি খেলতে দিন,play_game,play_music,0.0187
+441,রাসেদ খান বাজেট অনুরোধ সম্পর্কে একটি ইমেল পাঠিয়েছেন কিনা তা খুঁজে বের করুন,email_query,play_music,0.0186
+442,এলাকায় কি কি ঘটনা ঘটছে,recommendation_events,play_music,0.0187
+443,আমি পাঁচটার পর আর কোনো কল করতে চাই না। মি,general_quirky,play_music,0.0186
+444,আমি বাপ্পা মজুমদারের গান আবার শুনে চাই,play_music,play_music,0.019
+445,শেখ হাসিনার গল্প টানুন,news_query,play_music,0.0187
+446,এই ঘটনা মুছে দিন,calendar_remove,play_music,0.0187
+447,অবিলম্বে নিঃশব্দ,audio_volume_mute,play_music,0.0188
+448,spotify চালাও,play_music,play_music,0.0191
+449,আগামীকাল নজরুল ইসলামের সাথে একটি মিটিং করার জন্য আমাকে একটি সময় বের করুন,calendar_set,play_music,0.0187
+450,মঙ্গলবারের আবহাওয়া,weather_query,iot_wemo_on,0.0187
+451,আমার আসন্ন ইভেন্টগুলো কি কি,calendar_query,play_music,0.0187
+452,দয়া করে আমাকে এখনই ফুড পাণ্ডার কাছ থেকে বিরিয়ানি এবং উইংস অর্ডার করুন,takeaway_order,play_music,0.0186
+453,আহসান মঞ্জিল দ্রুততম উপায় কি,transport_query,play_music,0.0186
+454,আমি আজ একটি নতুন ইমেল পেতে হলে আমাকে জানান,email_query,play_music,0.0186
+455,আমি কিভাবে চিনাবাদাম মাখন কুকিজ করতে পারি,cooking_recipe,play_music,0.0187
+456,হতবাক সংজ্ঞায়িত করুন,qa_definition,play_music,0.0187
+457,স্থানীয় ঘটনা পান,recommendation_events,iot_wemo_on,0.0187
+458,সামাজিক তথ্য,social_query,play_music,0.0187
+459,অলি আমি কিভাবে বিরিয়ানি বিস্ক তৈরি শুরু করব,cooking_recipe,play_music,0.0188
+460,এই সময় সন্ধ্যায় পাঁচটার জন্য একটি অ্যালার্ম সেট করুন লেবেলযুক্ত ট্যাক্সি,alarm_set,iot_wemo_on,0.0188
+461,শহরে যানজট কেমন,transport_traffic,play_music,0.0187
+462,দশ সেকেন্ডের মধ্যে বসার ঘরের আলো বন্ধ করুন,iot_hue_lightoff,iot_wemo_on,0.0188
+463,বসার ঘরের আলো জ্বালিয়ে দিন,iot_hue_lightdim,iot_wemo_on,0.0187
+464,আবহাওয়া মত,weather_query,iot_wemo_on,0.0188
+465,বগুড়ায় বর্তমান সময় কত,datetime_query,iot_wemo_on,0.0186
+466,amazon এর স্টক মূল্য কত,qa_stock,play_music,0.0186
+467,দয়াকরে রাহুল দাসের কনট্রাক্ট নম্বর খুঁজুন,email_querycontact,play_music,0.0187
+468,আরে বোরহান ইমেইল পাঠান,email_sendemail,play_music,0.0187
+469,আমি কিছু টেক-আউট খাবার নেওয়া করতে চাই,takeaway_order,play_music,0.0186
+470,আমার রেলগাড়ি কখন আসছে,transport_query,play_music,0.0187
+471,এই বছর একটি শুক্রবার হ্যালোইন হয়,calendar_query,iot_wemo_on,0.0186
+472,আপনি কি আমাকে আমার অবস্থানের বর্তমান ট্রাফিক অবস্থা বলতে পারেন,transport_traffic,iot_wemo_on,0.0186
+473,olly দয়া করে আমার জন্য একটি প্রতিদিনের রিমাইন্ডার সেট করুন,calendar_set,play_music,0.0188
+474,এই যে পরবর্তী রেলগাড়ি কখন প্রস্থান করবে,transport_query,play_music,0.0187
+475,আমি একটা গান শুনতে চাই,play_music,play_music,0.019
+476,আপনি কি দয়াকরে আমার কন্ট্যাক্টে কিছু rahul at hotmail dot com রাখবেন,email_addcontact,play_music,0.0186
+477,অনুগ্রহ করে সুমনকে বলুন তারা ভুল আইটেম পাঠিয়েছে,social_post,play_music,0.0187
+478,আমার করণীয় তালিকায় তেল পরিবর্তন যোগ করুন,lists_createoradd,iot_wemo_on,0.0186
+479,আজকে যখন আমার পেপার শেষ,calendar_query,play_music,0.0187
+480,শেষবার দেখার পর থেকে আমার ইনবক্সে কী আছে,email_query,play_music,0.0187
+481,এই প্রোগ্রাম ব্যবহার করুন,play_radio,play_music,0.0187
+482,আগামী সপ্তাহে বুধবার আমার ডাক্তারের অ্যাপয়েন্টমেন্টের একটি নোট করুন,calendar_set,play_music,0.0187
+483,রিদোয়ানুল করিমের বয়স কত,qa_factoid,play_music,0.0185
+484,আগামীকাল সোমবার সকাল আটটার জন্য একটি অ্যালার্ম সেট করুন,alarm_set,iot_wemo_on,0.0188
+485,ওরে গুগল আরে বাইরে খুব গরম আজ বিকেলের তাপমাত্রা কত,weather_query,iot_wemo_on,0.0187
+486,এই সপ্তাহন্তে আমার কি করা উচিত,calendar_query,play_music,0.0187
+487,বাকি দিনগুলির জন্য আমার সমস্ত ইভেন্টগুলি মুছে ফেলুন,calendar_remove,play_music,0.0187
+488,আমার কাছের ট্রেন কোথায়,transport_query,iot_wemo_on,0.0187
+489,দয়া করে আমাকে একটি উবার রাইড অর্ডার করুন,transport_taxi,play_music,0.0187
+490,ey olly দয়া করে আমাকে বলুন এই গানটির নাম যা বর্তমানে চলছে,music_query,play_music,0.0191
+491,আসিফ আকবর করে ও প্রিয়া তুমি কোথায় বাজান,play_music,play_music,0.0187
+492,মিটিং সম্পর্কে আমাকে অবহিত করুন,calendar_query,play_music,0.0187
+493,নীরবে সক্রিয় করুন,audio_volume_mute,play_music,0.0187
+494,ভাল খাবার,cooking_recipe,iot_wemo_on,0.0187
+495,আমার কি আগামীকাল দুপুর থেকে তিনটা পর্যন্ত কিছু নির্ধারিত আছে,calendar_query,iot_wemo_on,0.0186
+496,কি দোকান আগামীকাল বিক্রি হচ্ছে,general_quirky,play_music,0.0186
+497,যখন ঢাকা রেলগাড়ী আসবে,transport_query,play_music,0.0187
+498,তালিকা সম্পর্কে আমাকে বলুন,lists_query,play_music,0.0187
+499,পরের সফর কখন,general_quirky,iot_wemo_on,0.0187
+500,এগারোটায় অফিসে একটি মিটিং যোগ করুন,calendar_set,play_music,0.0187
+501,প্রতিদিন দুপুর দুইটায় আমার মাকে খেয়াল রাখার জন্য আমার একটি রিমাইন্ডার দরকার,calendar_set,iot_wemo_on,0.0187
+502,ইমরান কখন জন্মগ্রহণ করেন,qa_factoid,play_music,0.0186
+503,alexa অনুগ্রহ করে ঘরের আলো নিভিয়ে দিন,iot_hue_lightdim,iot_wemo_on,0.0188
+504,আমার কি আজ রাতে কোন ডেট আছে,calendar_query,iot_wemo_on,0.0187
+505,তোমার এবং আমার জন্য ফুটবল খেলা চালু কর,play_game,play_music,0.0188
+506,আমার জন্যে অডিওবুকে এই প্লেব্যাকটি খোঁজ এবং চালাও,play_audiobook,play_music,0.019
+507,আমার ক্যালেন্ডারে এই ঘটনাটি অন্তর্ভুক্ত করুন,calendar_set,play_music,0.0187
+508,সাকিব শিল্পী এর সব গানগুলি অদলবদল করুন এবং প্লে করুন,play_music,play_music,0.019
+509,প্রথম আলো আবহাওয়া সম্পর্কিত কোনো নিবন্ধ আমাকে দেখান,news_query,iot_wemo_on,0.0186
+510,আমার আরও ভাল ফোকাস থাকা দরকার অলি আমি একটি একক কাজে মনোনিবেশ করতে পারিনি,general_quirky,play_music,0.0187
+511,আমার চুলের অ্যাপয়েন্টমেন্ট সম্পর্কে বৃহস্পতিবার আমাকে প্রায় এক ঘন্টা আগে বলুন,calendar_set,iot_wemo_on,0.0187
+512,প্রতিদিন দশটা থেকে এগারোটার মধ্যে আমার রোবট ভ্যাকুয়াম ক্লিনার চালু করুন,iot_cleaning,iot_wemo_on,0.0188
+513,ফিলিংস এবং খেলার জন্য সমস্ত শিরোনাম অনুসন্ধান করুন,play_music,play_music,0.0188
+514,আমি মজা করছি tumblr পোস্ট,social_post,play_music,0.0187
+515,গত রাতে বিজয়ী পাওয়ারবল সংখ্যা কি ছিল,news_query,play_music,0.0186
+516,সোমবার থেকে ইভেন্ট সরান,calendar_remove,iot_wemo_on,0.0187
+517,নরেন্দ্রের সর্বশেষ খবর সম্পর্কে আমাকে অবহিত করুন,news_query,play_music,0.0187
+518,আমার ক্যালেন্ডারে সমস্ত অ্যাপয়েন্টমেন্ট বাতিল করুন,calendar_remove,iot_wemo_on,0.0186
+519,রেডিও টুডে এর স্বাধীন মিউজিক কি,play_podcasts,play_music,0.019
+520,কাউকে মেইল পাঠান,email_sendemail,play_music,0.0187
+521,এখন আমার সহকর্মীকে একটি ইমেল লিখতে হবে,email_sendemail,play_music,0.0186
+522,সর্বশেষ গল্প কথন পডক্যাস্টটি খোঁজ,play_podcasts,play_music,0.0188
+523,আমি রেডিও টি চালু করে শুনতে চাই দয়া করে,play_radio,play_music,0.0188
+524,উত্তর পাঠান,email_sendemail,play_music,0.0187
+525,গ্যালারি খোলো এবং ভিডিওর নাম post করো,social_post,play_music,0.0188
+526,google আপনি কি আমাকে আগামীকালের জন্য ট্রেনে একটি টিকিট বুক করতে পারেন,transport_ticket,play_music,0.0187
+527,প্রতিদিন সকাল আটটা আমার কাজের জন্য একটি পুনরাবৃত্তি রিমাইন্ডার সেট তৈরি করুন,calendar_set,iot_wemo_on,0.0187
+528,আমার শেষের কবিতা বাজিয়ে যাও যান,play_audiobook,play_music,0.0188
+529,যোগাযোগের সাথে এই নতুন ইমেল যোগ করুন,email_addcontact,play_music,0.0187
+530,পাঁচটি কফি তৈরি করুন কফি মেশিনকে বলুন,iot_coffee,play_music,0.0186
+531,আমার প্লেলিস্ট পার্টি সং চালান,play_music,play_music,0.0188
+532,কে শেষ পাঁচটি এন. সি. এ. এ. পুরুষদের বাস্কেটবল টুর্নামেন্ট জিতেছেন,qa_factoid,play_music,0.0188
+533,আমি শাফিন আহমেদ কথা শুনতে চাই,play_music,play_music,0.0187
+534,চলমান তালিকায় গান যোগ করুন,music_likeness,play_music,0.019
+535,বাপ্পা মজুমদারের অ্যালবাম বাজাও,play_music,play_music,0.0188
+536,কোন প্রত্যাহার খবর আছে,news_query,play_music,0.0187
+537,আমাকে রোদে যাওয়ার গতি বলুন,general_quirky,play_music,0.0187
+538,আমার কন্ট্যাক্ট থেকে কোনো ইমেইল আছে কি,email_query,iot_wemo_on,0.0186
+539,বানান,general_quirky,play_music,0.0188
+540,বর্তমান গান প্রিয়তে সংরক্ষণ করুন,music_likeness,play_music,0.019
+541,আমি কিভাবে মুদি দোকানে যেতে পারি,transport_query,play_music,0.0186
+542,অনুগ্রহ করে রেডিও বাজান,play_radio,play_music,0.0189
+543,আজকে রাতের ডিনারের জন্য আমার চিটাগংয়ের কোথায় যাওয়া উচিত,recommendation_events,iot_wemo_on,0.0187
+544,আজকে একটি রোদ ঝলমলে দিন তাই না,weather_query,iot_wemo_on,0.0187
+545,আমার বৈঠকের এক ঘন্টা আগে আমাকে অবহিত করুন,calendar_set,play_music,0.0187
+546,ক্যালেন্ডারে একটি পুনরাবৃত্তিমূলক ঘটনা রাখুন,calendar_set,iot_wemo_on,0.0187
+547,পরবর্তী তিথি দাশের তোর প্রেমেতে অন্ধ হলাম গানটি চালান,play_music,play_music,0.0189
+548,সম্প্রতি বাংলাদেশে কি ঘটছে,news_query,play_music,0.0186
+549,শহরের আবহাওয়া কেমন,weather_query,iot_wemo_on,0.0187
+550,তালিকা থেকে দূরে,lists_remove,play_music,0.0187
+551,আবরার তার দৈনন্দিন জীবনে কি করেন,general_quirky,iot_wemo_on,0.0187
+552,অনুগ্রহ করে মিউজিক প্লেয়ারে ভলিউম বাড়ান,audio_volume_up,play_music,0.0191
+553,প্রশাসককে মেইল করুন,email_sendemail,play_music,0.0186
+554,আমার কেনাকাটার তালিকায় স্যুপ যোগ করুন,lists_createoradd,play_music,0.0187
+555,কোন সর্বশেষ খবর আছে,news_query,play_music,0.0187
+556,আমার ক্যালেন্ডারে প্রতিদিন বিকালে পাঁচটায় কল যোগ করুন।,calendar_set,play_music,0.0187
+557,পঁচিশ জানুয়ারির জন্য মিটিং সেট করুন,calendar_set,play_music,0.0186
+558,আজকের জন্য সব আইটেম কথা বলুন,lists_query,play_music,0.0187
+559,এই মুহূর্তে আমার জন্য প্রথম আলো এর খবর বলুন,news_query,play_music,0.0187
+560,আমি তিনটা পর্যন্ত মিটিং চাই,calendar_set,play_music,0.0187
+561,নতুন অভিবাসন নীতি সম্পর্কে বিশ্লেষকরা কি বলছেন,news_query,play_music,0.0186
+562,মিজানুর রহমান কতবার বিয়ে করেছিলেন,qa_factoid,play_music,0.0186
+563,আজ বিশ্বের ঘটনাগুলি খুঁজুন এবং পড়ুন,news_query,play_music,0.0187
+564,এই সপ্তাহে প্রেক্ষাগৃহে কোন নতুন সিনেমা দেখা যাবে,recommendation_movies,play_music,0.0189
+565,চলতি সপ্তাহের আবহাওয়া সংক্রান্ত পূর্বাভাস কি,weather_query,play_music,0.0186
+566,সুমি কি আমাকে তমাল সম্পর্কে কোন ইমেইল পাঠিয়েছে,email_query,play_music,0.0186
+567,বাংলাদেশ বেতার,play_radio,play_music,0.0187
+568,আমার ফেভারিটের তালিকায় এই গানটি যোগ করো,music_likeness,play_music,0.0191
+569,স্মার্ট প্লাগ বন্ধ করুন,iot_wemo_off,iot_wemo_on,0.0189
+570,প্রিয়াঙ্কাকে তার জন্মদিনের জন্য ইমেইল করুন,email_sendemail,iot_wemo_on,0.0186
+571,আমার এলাকার জন্য সর্বশেষ অপরাধের পরিসংখ্যান কি,news_query,play_music,0.0186
+572,মার্কিন টাকা এবং টাকা বিনিময় হার কি,qa_currency,play_music,0.0185
+573,আপনি কি দয়া করে আমাকে চট্টগ্রামের পরবর্তী চারটি নির্ধারিত ট্রেন জানাতে পারেন,transport_query,play_music,0.0186
+574,কি ঘটনা শীঘ্রই ঘটছে,recommendation_events,play_music,0.0187
+575,অনুগ্রহ করে কথা বলা বন্ধ করুন,audio_volume_mute,play_music,0.0187
+576,আমার মিটিং-য়ের জন্য প্রস্তুত হওয়া দরকার,calendar_query,play_music,0.0187
+577,সাম্প্রতিক প্রযুক্তির শিরোনাম,news_query,play_music,0.0188
+578,আমার প্রিয় গায়িকা জেমস,music_likeness,play_music,0.0189
+579,গোলাপী ফিতা কি সমর্থন করে,qa_factoid,play_music,0.0186
+580,আমি ট্রেনের টিকিট বুক করতে চাই,transport_ticket,play_music,0.0187
+581,আমি এটা সম্পর্কে কথা বলতে চাই,general_quirky,play_music,0.0187
+582,আমাকে এগারোটার পর ঢাকা থেকে দিনাজপুর পর্যন্ত ট্রেন বলুন। মি,transport_query,iot_wemo_on,0.0186
+583,সম্প্রতি যোগ করা গান চালান,play_music,play_music,0.019
+584,সুনিত থেকে সাম্প্রতিক ইমেল প্রদর্শন করুন,email_query,play_music,0.0187
+585,ঢাকা শহর ছেড়ে পরবর্তী ট্রেনের ছাড়ার সময় কয়টা,transport_query,iot_wemo_on,0.0186
+586,দয়া করে আমাকে দশ মিনিটের মধ্যে চুলা থেকে কফি খুলে ফেলতে মনে করিয়ে দিন,calendar_set,iot_wemo_on,0.0186
+587,সাঁতারের পাঠের পর মঙ্গলবার আমার ক্যালেন্ডারে আর কি আছে,calendar_query,play_music,0.0187
+588,রিপ্লে ইমেইল পাঠান,email_sendemail,play_music,0.0187
+589,কি একটি রৌদ্রোজ্জ্বল দিন,weather_query,play_music,0.0187
+590,আমি খাবার অর্ডার করতে চাই,takeaway_order,play_music,0.0186
+591,দয়া করে এই রবিবার মনে করিয়ে দিন কনসার্টে যেতে,calendar_set,iot_wemo_on,0.0187
+592,আপনি কি আমাকে আমার সকল সাম্প্রতিক নির্দেশনার একটি তালিকা দেখাতে পারেন,general_quirky,play_music,0.0186
+593,ঢাকা -এর সমস্ত মার্চ ইভেন্ট আমার ক্যালেন্ডারে যোগ করতে হবে,calendar_set,play_music,0.0186
+594,বর্তমানে রাহুল কোথায় কাজ করে,email_querycontact,iot_wemo_on,0.0187
+595,মিটিং সম্পর্কে সর্বশেষ অনুস্মারক,calendar_set,play_music,0.0188
+596,রান্না ঘরের আলো নিভিয়ে দাও,iot_hue_lightdim,play_music,0.0187
+597,আমি আজ কত কিলোমিটার হেঁটেছি,general_quirky,iot_wemo_on,0.0187
+598,আমি প্রকৃত মূল্যে বিক্রয়ের জন্য পাওয়ার সরঞ্জামগুলির একটি নতুন তালিকা শুরু করতে চাই,lists_createoradd,iot_wemo_on,0.0187
+599,ধুলোবালি খারাপ জিনিস পরিষ্কার করে রাখা ভাল তাই আমার কার্পেটটি পরিষ্কার করে ফেলুন,iot_cleaning,play_music,0.0186
+600,তিনি কিভাবে নিখুঁতভাবে কাজ করে,general_quirky,play_music,0.0187
+601,বাংলাদেশের মহান প্রাচীর কত দীর্ঘ,qa_factoid,iot_wemo_on,0.0187
+602,অলি আমার মুদিখানার তালিকা আমাকে আবার পড়ুন,lists_query,play_music,0.0187
+603,আজকের বর্তমান খবর কি,news_query,iot_wemo_on,0.0186
+604,আগামী মঙ্গলবার সকাল এগারোটা থেকে বিকেল তিনটা এর মধ্যে কি কি অনুষ্ঠান হবে,calendar_query,play_music,0.0187
+605,পূর্বাভাসে তুষারপাত আছে কি,weather_query,iot_wemo_on,0.0186
+606,এই আবহাওয়াটা কি প্যান্ট পরার জন্য খুব গরম,weather_query,iot_wemo_on,0.0186
+607,স্পিকারগুলো বন্ধ করুন,audio_volume_mute,iot_wemo_on,0.0187
+608,আমি আপনার ভলিউম জোরে প্রয়োজন,audio_volume_up,play_music,0.0187
+609,বাকি থাকা বিল পরিশোধ সম্পর্কে আমাকে অনুস্মারক সেট করুন,calendar_set,play_music,0.0187
+610,স্থানীয় অফিসার এর জন্য ইমেইল ফর্ম,email_sendemail,play_music,0.0187
+611,google কে শেষ রাষ্ট্রপতি যিনি একটি কুকুরের মালিক ছিলেন না,qa_factoid,play_music,0.0186
+612,আজ সিনেমায় কি কি সিনেমা দেখানো হচ্ছে,recommendation_movies,play_music,0.0188
+613,আলেক্সার আজ একটা ছাতা দরকার,weather_query,play_music,0.0187
+614,একাত্তরের চিঠি পডকাস্ট চালাও,play_podcasts,play_music,0.0187
+615,কত কাঠ একটি woodchuck চক পারে যদি একটি woodchuck কাঠ চক করতে পারে,general_quirky,play_music,0.0186
+616,এই জিনিসটি কি,qa_definition,play_music,0.0187
+617,সকাল আটটার জন্য অ্যালার্ম সেট করুন,alarm_set,iot_wemo_on,0.0187
+618,এটা কত শব্দ জানে,general_quirky,play_music,0.0188
+619,ডান দিকে আলো সব আলো বন্ধ করুন,iot_hue_lightoff,play_music,0.0187
+620,আলেক্সা আলোর উজ্জ্বলতা বৃদ্ধি করুন এখানে নিচে দেখা কঠিন,iot_hue_lightup,play_music,0.0188
+621,আমি আগামীকাল কি করতে হবে,calendar_query,iot_wemo_on,0.0186
+622,আমি যেতে চাই রেডিও আমার রেডিওতে,play_radio,play_music,0.0188
+623,পারদর্শী ছেলে কি পারফর্ম করছে,calendar_query,play_music,0.0187
+624,আপনি কি এই কৌতুক জানেন,general_joke,play_music,0.0187
+625,আমাকে একটা সংবাদপত্র দাও,news_query,play_music,0.0187
+626,এই মাসে আমার ক্যালেন্ডারে কি আছে,calendar_query,play_music,0.0186
+627,কোন সময়ে আমি একটি হাইক করতে যেতে হবে,weather_query,iot_wemo_on,0.0187
+628,আপনি কি আমাকে মুভির সময়সূচীটি দিতে পারেন,calendar_query,play_music,0.0187
+629,উত্সাহী এর অর্থ,qa_definition,play_music,0.0186
+630,আজ সবচেয়ে আলোচিত বিষয় কি,news_query,iot_wemo_on,0.0187
+631,ইমেল দীপঙ্কর বসু,email_sendemail,iot_wemo_on,0.0187
+632,রেডিও শুধুমাত্র ঊননব্বই দশমিক দুই এফ.এম. -এ বাজানো উচিত,play_radio,play_music,0.0188
+633,ঢাকা সিএ-তে আগামী সপ্তাহে আবহাওয়া কেমন থাকবে,weather_query,iot_wemo_on,0.0186
+634,ভলিউম বাড়াতে আমি শুনতে পাচ্ছি না,audio_volume_up,play_music,0.0187
+635,টাকার এবং টাকার মধ্যে বিনিময় হার কি,qa_currency,play_music,0.0186
+636,আজকে আমাকে লিখলেন সোহান,email_query,play_music,0.0187
+637,প্রতিবাদ সম্পর্কে সংবাদ নিবন্ধের লিঙ্ক আমাকে পাঠান,news_query,play_music,0.0187
+638,পত্রককে একটি ইমেল টেক্সট যে তিনি এখন কোথায় আছেন এবং যদি তিনি বাজারে থাকেন তবে তাকে কিছু ওয়াইন আনতে টেক্সট করুন,email_sendemail,play_music,0.0186
+639,আমাকে বার্গার সেরা রেসিপি দেখান,cooking_recipe,play_music,0.0187
+640,কোথায় আমি বিরিয়ানি এবং কিছু বাংলাদেশী খাবারের শট পেতে পারি,takeaway_query,play_music,0.0186
+641,সেরা বাংলাদেশী রেঁস্তোরার নাম কি,general_quirky,play_music,0.0187
+642,অডিওবুক থেকে আমার জন্য রুনা লায়লা গান চালান,play_audiobook,play_music,0.0191
+643,ইনস্টাগ্রামে পারিবারিক ফোন রাখুন,social_post,iot_wemo_on,0.0187
+644,একুশে আগস্ট সকাল ন-টার একটি ইভেন্ট যুক্ত করুন,calendar_set,iot_wemo_on,0.0187
+645,alexa আমাকে কাজী হারুন সম্পর্কে কীওয়ার্ড বলুন,qa_factoid,play_music,0.0186
+646,তেত্রিশ হাজার তিনশত চুয়াত্তরের আবহাওয়ার প্রতিবেদন,weather_query,iot_wemo_on,0.0187
+647,এখন বাংলাদেশ সময় উল্লেখ করুন,datetime_query,play_music,0.0187
+648,কেউ আজকে আমাকে ইমেল করেছেন,email_query,iot_wemo_on,0.0186
+649,আমার দেশের পছন্দের playlist লোড করুন এবং এটা প্লে করুন,play_podcasts,play_music,0.0191
+650,ফেসবুক অ্যালেক্সায় আমার ফোনে ছবি পোস্ট করুন,social_post,play_music,0.0187
+651,আসন্ন ঘটনাবলী,calendar_query,play_music,0.0187
+652,একটি অ্যালার্ম তৈরি করুন,alarm_set,play_music,0.0188
+653,কেউ কি আমাকে আজ টুইটারে অনুসরণ করেছেন,social_query,iot_wemo_on,0.0187
+654,মোডটি সেট করুন,iot_hue_lightchange,play_music,0.0187
+655,সাবিনা আমাকে একটা কফি বানিয়ে দাও,iot_coffee,play_music,0.0186
+656,অনুগ্রহ করে জেনিকে ইমেলটি পাঠান,email_sendemail,play_music,0.0187
+657,শনিবার বৃষ্টি হবে,weather_query,iot_wemo_on,0.0187
+658,উত্তরা থেকে ট্রেন আসার সময় কি,transport_query,iot_wemo_on,0.0186
+659,আপনি কি রেলগাড়ির টিকিট বুক করতে পারেন,transport_ticket,play_music,0.0186
+660,এই গান শুনতে,music_query,play_music,0.019
+661,আপনি কি আমার কফি মেশিন সেট করতে পারেন আমাকে সকাল সাতটায় কফি বানানোর জন্য,iot_coffee,iot_wemo_on,0.0186
+662,আমি আগামীকাল ব্যস্ত তাই সব ক্যালেন্ডার ইভেন্ট মুছে দিন,calendar_remove,iot_wemo_on,0.0186
+663,আমার facebook বিজ্ঞপ্তি চেক করুন,social_query,play_music,0.0186
+664,কর্মস্থল থেকে বাড়িতে যানজটের অবস্থা কি,transport_traffic,iot_wemo_on,0.0186
+665,আমার সাথে আমার স্কিল অনুযায়ী নাইন বল খেলা যাক যাতে আমি জিততে পারি,play_game,play_music,0.0188
+666,তোমার দিন কেমন কাটলো,general_quirky,iot_wemo_on,0.0186
+667,hdfc এর স্টক মূল্য উল্লেখ করুন,qa_stock,play_music,0.0186
+668,আমার এফ. এম. রেডিও এবং রেডিও আমার,play_radio,play_music,0.0188
+669,আমাকে নতুন ইমেইলগুলি পড়ুন পড়ে শোনান,email_query,iot_wemo_on,0.0186
+670,আপনি শিল্পী মিলা গান প্লে করতে পারেন,play_music,play_music,0.019
+671,আগামীকালের জন্য আমার ক্যালেন্ডার সাফ করুন,calendar_remove,play_music,0.0186
+672,আমার ক্যালেন্ডারে একটি ইভেন্ট যোগ করুন,calendar_set,play_music,0.0187
+673,এই স্থানের ভৌগলিক বিবরণ খুঁজুন,qa_factoid,iot_wemo_on,0.0187
+674,যা বর্তমানে ব্রেকিং নিউজ,news_query,play_music,0.0188
+675,রাত নয়টার জন্য আমার একটি অ্যালার্ম দরকার,alarm_set,iot_wemo_on,0.0187
+676,আপনি কি পাঁচটার জন্য অ্যালার্ম সেট করেছেন,alarm_query,iot_wemo_on,0.0187
+677,আজ সোমবার,datetime_query,iot_wemo_on,0.0187
+678,তালিকায় আইটেম রাখুন,lists_createoradd,play_music,0.0188
+679,ক্লায়েন্টদের সাথে আজ মিটিং দেখান দয়া করে,calendar_query,play_music,0.0187
+680,এটা ফেইসবুকে দিন,social_post,play_music,0.0188
+681,আমার কি কোন নতুন ইনবক্স বার্তা আছে,email_query,play_music,0.0188
+682,বাংলাদেশের অন্য শহরের সময় বলুন,datetime_query,play_music,0.0187
+683,শনিবারের পূর্বাভাস কি,weather_query,iot_wemo_on,0.0186
+684,স্নেহার পক্ষ থেকে অনুষ্ঠান সম্পর্কে কোনো বার্তা পেলে অলি আমাকে জানান,email_query,play_music,0.0187
+685,আমি আমার প্রেমিকের সাথে আগামী সপ্তাহে লীলির বিয়েতে যোগ দেব দয়া করে এটি আমার ক্যালেন্ডারে যোগ করুন,calendar_set,play_music,0.0186
+686,আমার মেইল ​​চেক করুন,email_query,play_music,0.0186
+687,পঞ্চাশ সেকেন্ডের জন্য সাড়া দেবেন না,audio_volume_mute,iot_wemo_on,0.0186
+688,দয়া করে রনির নতুন ইমেইল ronyrony at gmail dot com এ একটি ইমেইল পাঠান,email_sendemail,play_music,0.0186
+689,অনুগ্রহ করে শুধুমাত্র পপ মিক্সের মিউজিক চালান,play_music,play_music,0.0191
+690,জেমস এর গান সমূহ বাজান,play_music,play_music,0.019
+691,আবহাওয়ার অবস্থা,weather_query,iot_wemo_on,0.0187
+692,হে অলি উত্তরা ঢাকায় কটা বাজে,datetime_query,play_music,0.0187
+693,আমার পছন্দ মতো গান বাজান,play_music,play_music,0.019
+694,এই সিরিজের পরবর্তী পর্ব চালান,play_podcasts,play_music,0.0188
+695,বিনামূল্যে শিপিংয়ের সাথে সমস্ত ওয়েবসাইট থেকে একটি অডিও ডিভাইসের মূল্য তুলনা করুন,general_quirky,play_music,0.0189
+696,আবহাওয়া খুলুন,weather_query,iot_wemo_on,0.0188
+697,এই গেমটি চালাও,play_game,play_music,0.0189
+698,গ্রাহক সেবা অভিযোগ নিম্নলিখিত tweet,social_post,play_music,0.0186
+699,শেষ লাইন মুছে দিন,lists_remove,play_music,0.0187
+700,নিয়ন্ত্রণ আলোগুলি ঘরের আলো বন্ধ করে দাও,iot_hue_lightoff,iot_wemo_on,0.0188
+701,ঢাকা যাওয়ার ট্রেনে ভ্রমণের আনুমানিক সময় কত,transport_query,iot_wemo_on,0.0186
+702,শব্দটি গুগল করুন,qa_definition,play_music,0.0188
+703,আমার ক্যালেন্ডার থেকে এই ইভেন্ট ডিলিট করুন,calendar_remove,play_music,0.0186
+704,স্মারক গান আবার শুরু,play_music,play_music,0.0189
+705,আপনি কি আলো নিভিয়ে দিতে পারেন,iot_hue_lightoff,play_music,0.0188
+706,শুক্রবারে অ্যাকমে মিটিং কখন শুরু হয়,calendar_query,play_music,0.0187
+707,আমি সন্ধ্যা ছটা থেকে সাতটার মধ্যে কি ফ্রী আছি,calendar_query,iot_wemo_on,0.0186
+708,আজ খুব গরম তাই না,weather_query,iot_wemo_on,0.0187
+709,আমার পুরো ক্যালেন্ডার থেকে সমস্ত ইভেন্টগুলি মুছে ফেলুন,calendar_remove,iot_wemo_on,0.0186
+710,ঢাকা ওয়ারিওরস এবং চিটাগং ভাইকিংসের খেলাটা চালাও,play_radio,play_music,0.0188
+711,ঢাকার সত্ত্বা কি,qa_factoid,play_music,0.0186
+712,প্যান্ডোরায় আমার রক স্টেশন বাজাও,play_radio,play_music,0.0187
+713,আমার প্রাপ্ত শেষ ইমেইল কোনটি,email_query,play_music,0.0186
+714,তুমি আজকে কি করতে চাও,general_quirky,iot_wemo_on,0.0187
+715,কতক্ষণ আমি কেকটি ঠান্ডা করব,cooking_recipe,play_music,0.0187
+716,মধুপুর কোন সময় অঞ্চলে,qa_factoid,play_music,0.0186
+717,নিম্নলিখিত ব্যক্তিদের সাথে ক্যালেন্ডারে নিম্নলিখিত ইভেন্ট সেট আপ করুন,calendar_set,iot_wemo_on,0.0187
+718,স্কুপ কি,news_query,play_music,0.0187
+719,আমাকে ফুড পাণ্ডার থেকে একটি বিরিয়ানি অর্ডার করুন,takeaway_order,play_music,0.0187
+720,দারাজের গ্রাহক সেবায় অভিযোগ tweet করুন,social_post,iot_wemo_on,0.0187
+721,পরিচিতি তালিকা থেকে অসিম বসু সরান,lists_remove,play_music,0.0187
+722,আমাকে হাসিনা খবর দেখান,news_query,play_music,0.0186
+723,আমাকে আগামীকালের আবহাওয়ার তালিকা দেখান,weather_query,iot_wemo_on,0.0187
+724,বাইরে কি রোদ আছে,weather_query,iot_wemo_on,0.0187
+725,অলি ঘরে হালকা রঙের পরিবর্তে গাঢ় রং রাখুন,iot_hue_lightchange,iot_wemo_on,0.0187
+726,হ্যালো গুগল টুইটারে আমার বর্তমান স্ট্যাটাস পোস্ট করুন যাতে বন্ধু এবং পরিবারের সাথে ঢাকায় একটি দুর্দান্ত ভ্রমণের কথা উল্লেখ করা হয়,social_post,iot_wemo_on,0.0187
+727,আমার প্লেলিস্ট থেকে আমাকে একটি এলোমেলো গান বাজাও,play_music,play_music,0.0191
+728,এই যে ইদানীং খেলাধুলায় কি আকর্ষণীয় ঘটনা ঘটছে,general_quirky,play_music,0.0189
+729,রাজু ফোন বুক,email_querycontact,play_music,0.0187
+730,আরে অলি প্লেলিস্ট চালাও,play_music,play_music,0.0188
+731,পাস্তা রান্না করার সবচেয়ে সহজ উপায় কি,cooking_recipe,play_music,0.0186
+732,প্রেসিডেন্ট শেখ হাসিনার সাথে কি ঘটছে,news_query,play_music,0.0185
+733,এখন সময় কত তা আমাকে দেখান,datetime_query,play_music,0.0187
+734,আমার আসন্ন ইভেন্টগুলি সম্পর্কে আমাকে বলো,calendar_query,play_music,0.0187
+735,আপনি একটি baster সংজ্ঞায়িত করতে পারেন,qa_definition,play_music,0.0188
+736,রান্নার ঘরের আলো বন্ধ করুন,iot_hue_lightoff,iot_wemo_on,0.0186
+737,আজকের পরিকল্পনা কি আছে,calendar_query,iot_wemo_on,0.0187
+738,আমাকে কি সোমবার কোন মিটিং মনে করিয়ে দিতে হবে,calendar_set,play_music,0.0186
+739,আগামীকাল কি আবহাওয়া ঝড়ো থাকবে,weather_query,iot_wemo_on,0.0187
+740,আবহাওয়া কেমন,weather_query,iot_wemo_on,0.0187
+741,ইমেইল রিফ্রেশ করুন,email_query,play_music,0.0186
+742,পিজ্জা খাওয়ার জন্য পরবর্তী সপ্তাহে সবচেয়ে ভালো দিন কোনটি,datetime_query,iot_wemo_on,0.0186
+743,ফেসবুকে খুশির স্ট্যাটাস দিন,social_post,play_music,0.0187
+744,এই প্রশ্নের উত্তর দিন সুপার মারিও ব্রাদার্স এর প্রথম বস কী,general_quirky,play_music,0.0187
+745,স্থানীয় হাসকেল চিলক্স সম্পর্কিত খারাপ পরিষেবা টুইট করুন,social_post,iot_wemo_on,0.0187
+746,বাংলাদেশ জনসংখ্যা কত,qa_factoid,play_music,0.0186
+747,উইকেন্ডে কি তেইশ তারিখ,datetime_query,play_music,0.0186
+748,তালিকা থেকে যে ঘটনা সরান,lists_remove,play_music,0.0187
+749,ডাউনটাউন ঢাকা থেকে দিনাজপুর বারবারার উদ্দেশ্যে ট্রেনটি কখন ছাড়বে,transport_query,play_music,0.0186
+750,অর্ডার করা বইগুলির একটি তালিকা তৈরি করুন,lists_createoradd,play_music,0.0189
+751,গুগলের জন্য আজকের শেষ মূল্,qa_stock,play_music,0.0187
+752,আমি যদি eastern টাইম জোনে থাকতাম তাহলে কি সময় হবে,datetime_convert,iot_wemo_on,0.0186
+753,আমাকে fondle শব্দের সংজ্ঞা দিন,qa_definition,play_music,0.0187
+754,আমার ক্যালেন্ডারে আজ কোন ঘটনা আছে,calendar_query,iot_wemo_on,0.0186
+755,বার্তা তালিকায় আমাকে কিছু আকর্ষণীয় বলুন,lists_remove,play_music,0.0187
+756,জেমসের দ্বারা সঙ্গীত বাজান,play_music,play_music,0.0189
+757,আর জে রাসেলের পডক্যাস্ট চালাও,play_podcasts,play_music,0.0188
+758,করণীয় তালিকা থেকে আমানত চেক সরান,lists_remove,play_music,0.0186
+759,আপনি কি আগামীকাল একটি পাঠাও বুক করতে পারেন,transport_taxi,play_music,0.0186
+760,শিলা কি,qa_definition,play_music,0.0188
+761,এই বৃহস্পতিবার সকাল সাতটা সেলস মিটিং এর কথা মনে করিয়ে দিন এবং ক্যালেন্ডারে যোগ করুন,calendar_set,play_music,0.0186
+762,জয়বাংলা স্টেট ফেয়ারের ঠিকানা খুঁজে বের করুন,calendar_query,play_music,0.0188
+763,আপনি কি আমার ক্যালেন্ডার খালি করতে পারেন,calendar_remove,iot_wemo_on,0.0186
+764,বোর্ড মিটিং অপসারণ করুন এবং পরবর্তী বুধবারের জন্য পুনঃনির্ধারণ করুন,calendar_remove,iot_wemo_on,0.0187
+765,আজ বৃহস্পতিবার সাতটায় আমার একটি বিক্রয় মিটিং আছে দয়া করে আমাকে অবহিত করুন এবং ক্যালেন্ডারে যোগ করুন,calendar_set,iot_wemo_on,0.0186
+766,আমি বাড়িতে আছি একটি ফেসবুক পোস্ট করুন,social_post,iot_wemo_on,0.0188
+767,গতকাল কত রান করেছেন শাহিন,news_query,play_music,0.0187
+768,হেই সহকর্মীকে একটি ইমেল শুরু করুন,email_sendemail,iot_wemo_on,0.0186
+769,ফুড পাণ্ডার পিজ্জা কি খাবারগুলি এড়িয়ে যান,takeaway_query,play_music,0.0186
+770,হ্যাঁ আমি চেক করতে চাই,email_query,play_music,0.0186
+771,আমার ডাউনলোড করা গানগুলো বাজাও,play_music,play_music,0.0191
+772,শব্দ চালু,audio_volume_up,play_music,0.0188
+773,আমার অবস্থানে ছুটির দিন অনুসন্ধান,recommendation_events,play_music,0.0187
+774,আমার টুইটার থেকে sony-কে একটি টুইট post করুন যে আমি সন্তুষ্ট নয়,social_post,play_music,0.0188
+775,আমাকে এলার্ম সময় জানতে দিন,alarm_query,iot_wemo_on,0.0188
+776,পরের ইভেন্ট এর সিলিউল কোন সময়,calendar_query,play_music,0.0186
+777,আমেরিকা এর সামাজিক মর্যাদা এখন এবং অতীতে যুক্তরাজ্য এর থেকে কীভাবে আলাদা তা ব্যাখ্যা করুন,general_quirky,play_music,0.0185
+778,কি দোকান আছে এখানে,recommendation_locations,play_music,0.0186
+779,সুমন আহমেদ কখন জন্মগ্রহণ করেন,qa_factoid,play_music,0.0186
+780,রানা প্লাজা বর্ণনা করুন,qa_definition,play_music,0.0187
+781,আমার করণীয় তালিকা পড়ুন,lists_query,play_music,0.0188
+782,অলি আমি আজ একজন দরিদ্র অভাবীকে সাহায্য করেছি,iot_coffee,play_music,0.0187
+783,olly বরিশালে কোন কোন নতুন মুভি চলছে,recommendation_movies,play_music,0.0189
+784,এটার পরে আলো আলো গান বাজান,play_music,play_music,0.0189
+785,তুমি কি পডক্যাস্টের একটি পর্ব পিছনে যেতে পারো,play_podcasts,play_music,0.0187
+786,মিটিংগুলি থেকে আমার দিন পরিষ্কার করুন,calendar_remove,play_music,0.0187
+787,অলি গরুর মাংসের সেরা স্বাদের কাট কি,cooking_recipe,play_music,0.0187
+788,রেডিও আমার পডকাস্টের পরবর্তী পর্ব,play_podcasts,play_music,0.0188
+789,বার্গার কিং চাইনিজ রেঁস্তোরায় কল করুন,takeaway_order,play_music,0.0186
+790,চ্যানেল নয়শো একান্ন চালু করুন,play_radio,play_music,0.0188
+791,আমার আজকের সময়সূচী কেমন,calendar_query,iot_wemo_on,0.0187
+792,দয়া করে আমার গান চালান,play_music,play_music,0.019
+793,সকাল নয়টায় আমার মিটিং কোথায়,calendar_query,play_music,0.0186
+794,ফুড পাণ্ডা থেকে একটি বিরিয়ানি অর্ডার করুন,takeaway_order,play_music,0.0186
+795,গাড়ির ডিলারশিপে আমার দুপুর দু টায় অ্যাপয়েন্টমেন্টের এক ঘণ্টা আগে আমাকে অবহিত করুন,calendar_set,play_music,0.0186
+796,আমি ট্রাফিক জ্যাম পেতে দীর্ঘ ঘৃণা,general_quirky,iot_wemo_on,0.0187
+797,আমার শুধু এই মানুষদের সঙ্গে একটি ইভেন্ট তৈরি করা প্রয়োজন,calendar_set,play_music,0.0187
+798,অনুগ্রহ করে কফি শুরু করুন,iot_coffee,play_music,0.0187
+799,আমাকে আমার alarm গুলো সম্পর্কে বলুন,alarm_query,iot_wemo_on,0.0188
+800,olly আমি জানতে চাই আমার কি কোনো নতুন মনে করানোর মতো বিষয় আছে,calendar_query,play_music,0.0188
+801,খারাপ ডেলিভারি সম্পর্কে চিলক্সকে একটি tweet পাঠান,social_post,play_music,0.0186
+802,আমি পার্টিতে যাচ্ছি মাকে ইমেইল পাঠান,email_sendemail,play_music,0.0187
+803,পরের মাসে আমার ভাইদের জন্মদিন,calendar_set,play_music,0.0186
+804,মঙ্গলবার দুপুরে meeting,calendar_set,play_music,0.0186
+805,ফেসবুকের জন্য লিখুন যে নতুন ম্যানেজার পদোন্নতি করেছে,social_post,play_music,0.0187
+806,আধা ঘন্টার মধ্যে আমাকে ঢাকার একটি ট্যাক্সি বুক করুন,transport_taxi,iot_wemo_on,0.0186
+807,আমার আগামীকাল কত মিটিং আছে,calendar_query,play_music,0.0187
+808,রেডিও টুডে এর এফ. এম. রেডিও স্টেশন কি আমার জন্য বাজাতে পারবেন,play_radio,play_music,0.0188
+809,শুধু অলস চিট চ্যাট,general_quirky,play_music,0.0188
+810,এলাকায় ভিয়েতনামি রেস্তোরা আছে,recommendation_locations,play_music,0.0187
+811,আজ রাত দশটার পরে একজন উবার ড্রাইভার পাওয়া যায় কিনা দেখুন,transport_taxi,iot_wemo_on,0.0187
+812,ঠিক আছে গুগল আসিফ ইকবালের কি হয়েছে,general_quirky,play_music,0.0186
+813,আপনি কি অনুগ্রহ করে আগামী শনিবার সিলেট ট্রেনের টিকিট বুক করতে পারেন,transport_ticket,play_music,0.0186
+814,আমাকে চ্যানেল আই সবচেয়ে আপডেট হওয়া খবর পড়ুন,news_query,play_music,0.0188
+815,দুপুরের খাবার সম্পর্কে মাকে ইমেইল করুন,email_sendemail,iot_wemo_on,0.0187
+816,প্রতিটি অসওয়াল্ড চেম্বার বইয়ের বিষয় কী তা আমার জন্য খুঁজে বের করুন,qa_factoid,play_music,0.0187
+817,আমার কি আজ একটি জ্যাকেটের দরকার হবে,weather_query,iot_wemo_on,0.0187
+818,সুমন কোথায়,qa_factoid,play_music,0.0186
+819,পাঁচটায় এলার্ম দিন,alarm_set,play_music,0.0187
+820,অবস্থান,qa_definition,play_music,0.0188
+821,স্থানীয় এলাকার সেরা বার,recommendation_locations,play_music,0.0187
+822,প্রথম এপ্রিল সকাল দশটায় স্নেহা এর সাথে একটি মিটিং নির্ধারণ করুন,calendar_set,iot_wemo_on,0.0186
+823,আরে আমি আপনার সূচনা সম্পর্কে জানতে চাই,general_quirky,play_music,0.0187
+824,আমার কি আজ কোন কাজ আছে,calendar_query,play_music,0.0187
+825,আপনি কি আমার সাথে একটি মিটিং সেট আপ করতে পারেন,calendar_set,play_music,0.0187
+826,আরে ইমেইল চেক করুন,email_query,play_music,0.0186
+827,আমার জন্য গেম star wars খেলুন,play_game,play_music,0.0188
+828,মঙ্গলবার রহমানের সাথে মিটিং-য়ের জন্য একটি রিমাইন্ডার সেট করুন,calendar_set,play_music,0.0188
+829,ওবামাকেয়ার সম্পর্কে সর্বশেষ খবর কি,news_query,play_music,0.0186
+830,বিশ্ব জুড়ে কি ঘটছে,news_query,play_music,0.0187
+831,স্টেশন পরিবর্তন করে বিরাশি পয়েন্ট চার,play_radio,iot_wemo_on,0.0187
+832,আমি রবিবার সকাল এগারোটায় চার্চে যাওয়ার জন্য অ্যালার্মটি মুছে ফেলতে চাই,alarm_remove,iot_wemo_on,0.0187
+833,আরে দিন শেষে ঘটনা সম্পর্কে তথ্য প্রদান করুন,calendar_query,iot_wemo_on,0.0186
+834,কিছু নয়,qa_factoid,play_music,0.0188
+835,নতুন ইমেল লিখুন,email_sendemail,play_music,0.0187
+836,এই বৃহস্পতিবার ভিসা আবেদনের জন্য একটি অনুস্মারক তৈরি করুন,calendar_set,play_music,0.0187
+837,জামাল ভূইয়া এখন কোথায় থাকেন,qa_factoid,play_music,0.0187
+838,আপনি কিভাবে একটি শুভ জন্মদিন বর্ণনা করবেন,qa_definition,play_music,0.0187
+839,আমাকে nytimescom থেকে সর্বশেষ শিরোনাম পড়ুন,news_query,play_music,0.0188
+840,কোম্পানির নাম খুলুন এবং ফর্ম খুঁজুন,social_post,play_music,0.0187
+841,আপনি কি আমাকে এই ব্যক্তির জন্য নির্ধারিত যোগাযোগের তথ্য দিতে পারেন,email_querycontact,play_music,0.0187
+842,এর রেসিপিটি আমাকে বলুন,cooking_recipe,play_music,0.0187
+843,ইভেন্ট শুরু হওয়ার আগে মিটিংয়ের জন্য প্রস্তুত হন,calendar_set,play_music,0.0187
+844,এই লোকেদের সাথে ঘটনা যোগ করুন,calendar_set,play_music,0.0187
+845,জ্যাজ গান বাজেতে শুরু কর,play_music,play_music,0.0189
+846,জানতে চাই কতটা বাজে,datetime_query,play_music,0.0187
+847,আমি আধা ঘন্টার মধ্যে ঢাকা যাচ্ছি আমার জন্য একটি উবার বুক করুন,transport_taxi,play_music,0.0187
+848,আপনি রেডিও চালু করতে পারেন,play_radio,play_music,0.0188
+849,দারাজের টুইটার পাঠান যে তাদের চীনে খেলনা তৈরি বন্ধ করতে হবে,social_post,iot_wemo_on,0.0188
+850,এক কাপ মাখনের জন্য কত গ্রাম আছে,qa_factoid,play_music,0.0186
+851,আমার ঘটনা সম্পর্কে আমাকে আরো বলুন,general_quirky,play_music,0.0187
+852,বস থেকে কোনো নতুন উত্তর হলে অ্যালার্ম দিন,email_query,iot_wemo_on,0.0188
+853,আমি যদি বিশ্বের কোথাও যেতে পারি তাহলে আমার কোথায় ভ্রমণ করা উচিত,general_quirky,play_music,0.0187
+854,স্কুল সরবরাহ তালিকায় পেন্সিল যোগ করুন,lists_createoradd,iot_wemo_on,0.0186
+855,আপনি কি একটি টুইট টুইট পাঠাতে পারেন যে তাদের দারাজের ক্র্যাশ হয়েছে,social_post,play_music,0.0187
+856,মার্চের প্রথম সপ্তাহের মিটিংগুলি,calendar_query,play_music,0.0187
+857,চন্দন এর ইমেইলের উত্তর দিন,email_sendemail,play_music,0.0186
+858,আমার মেসেজে ইনবক্স আছে আমার দয়া করে,email_query,play_music,0.0188
+859,পৃথিবীর উষ্ণতম স্থান কোথায়,qa_factoid,iot_wemo_on,0.0186
+860,আশিক থেকে আসা ইমেইল চেক করুন,email_query,play_music,0.0186
+861,দয়া করে মাত্রা বাড়ান,audio_volume_up,iot_wemo_on,0.0187
+862,কোথায় বিলাইছড়ি,qa_factoid,iot_wemo_on,0.0187
+863,বৃহস্পতিবার আরসালানে ডিনারের জন্য মনে করান,calendar_set,play_music,0.0187
+864,সহকর্মী গ্রুপে এই বার্তাটি লিখুন,email_sendemail,play_music,0.0187
+865,আমি আজ একজন গরীব অভাবীকে সাহায্য করেছি,general_quirky,play_music,0.0187
+866,আমাকে মনে করিয়ে দিন যে আমাকে আগামী মঙ্গলবার আমাদের গণিত প্রকল্প সম্পর্কে আসমা সাথে দেখা করতে হবে রাত দশটায়,calendar_set,play_music,0.0186
+867,আমি কি রাকিবুলের কাছ থেকে কোন কাজের ইমেল পেয়েছি,email_query,play_music,0.0186
+868,এভাটারের গানের প্লেলিস্টটি বাজাও,play_music,play_music,0.019
+869,অলি এখন কি সিনেমা চলছে,recommendation_movies,play_music,0.0189
+870,ক্যালেন্ডারের জন্য অ্যালার্ম অনুস্মারক তৈরি করুন,calendar_set,play_music,0.0187
+871,চৌঠা এপ্রিল বিকেল পাঁচটায় ডায়মন্ড প্লাজা নালেঝোলেতে রাজেশের সাথে দেখা যোগ করুন।,calendar_set,play_music,0.0186
+872,একুশে পদক বিষয়ক একটি ইন্টারেস্টিং পডক্যাস্ট খোঁজ এবং চালাও,play_podcasts,play_music,0.0187
+873,শিরোনামহীনের ইচ্ছেঘুড়ি বাজাও,play_music,play_music,0.0188
+874,আগামীকাল বিকেলের মিটিং সম্পর্কে মনে করিয়ে দিতে ভুলবেন না,calendar_set,play_music,0.0187
+875,ইদানীং আপনি কেমন অনুভব করছেন,general_quirky,play_music,0.0187
+876,ফোন বুক থেকে বাবলুকে যোগাযোগ নম্বর পড়ুন,email_querycontact,play_music,0.0188
+877,প্রতিমাকে একটি টেক্সট পাঠান,email_querycontact,play_music,0.0187
+878,সে এই মুহূর্তে কি গান গেয়েছে,music_query,play_music,0.019
+879,আমি আজ মিটিং এ কে হতে আশা করা উচিত,calendar_query,play_music,0.0186
+880,কখন আমার পরবর্তী নির্ধারিত অ্যালার্ম,alarm_query,play_music,0.0187
+881,দয়া করে আমার ফেসবুক পেইজে এই বার্তাটি post করুন,social_post,play_music,0.0186
+882,তুমি কি আসল,general_quirky,iot_wemo_on,0.0187
+883,ভারতীয় লোক গান চালান,play_music,play_music,0.0188
+884,alexa আজ আশি রুটে ট্রাফিক ভারী,transport_traffic,iot_wemo_on,0.0187
+885,পুরানো দিনের ক্রিসমাস গান বাজাও,play_music,play_music,0.0188
+886,পারমিতা একটি ইমেইল রচনা করুন,email_sendemail,play_music,0.0186
+887,আমার ক্যালেন্ডারে একটি মিটিং ইভেন্ট তৈরি করুন,calendar_set,play_music,0.0187
+888,হে অলি মিরপুর ঢাকা আজকের আবহাওয়া কেমন হবে,weather_query,iot_wemo_on,0.0186
+889,শুক্রবারে সকাল দশটায় stand-up মুছে ফেলুন,calendar_remove,iot_wemo_on,0.0187
+890,রোবট ভ্যাকুয়াম ক্লিনার কি প্লাগ ইন করতে হবে,iot_cleaning,play_music,0.0186
+891,টুইটের মাধ্যমে অভিযোগের সাথে দারাজের গ্রাগক সেবা সাথে যোগাযোগ করুন,social_post,iot_wemo_on,0.0188
+892,জমির অগভীর অংশ কি,qa_factoid,iot_wemo_on,0.0186
+893,রফিউল কি আমাকে একটি ইমেইল পাঠিয়েছে,email_query,play_music,0.0186
+894,খবর শিরোনাম কি,news_query,play_music,0.0187
+895,রেল ষ্টেশন কোথায়,transport_query,play_music,0.0186
+896,দোদুল্যমান মানে কি,qa_definition,play_music,0.0186
+897,বগুড়া কি এখন রোদ আছে,weather_query,iot_wemo_on,0.0186
+898,আলীর ঠিকানা কি,email_querycontact,play_music,0.0187
+899,আজকের তারিখ কি,datetime_query,iot_wemo_on,0.0185
+900,আমাকে ওয়াল্টনের স্টকের দাম দিন,qa_stock,play_music,0.0186
+901,আমি কি আজকের জন্য অ্যালার্ম সেট করেছি,alarm_query,iot_wemo_on,0.0188
+902,ক্যালেন্ডারে পুনরাবৃত্তি ঘটনা সেট করা,calendar_set,iot_wemo_on,0.0186
+903,গান টি আমাকে কিছু স্মৃতি মনে করিয়ে দেয়,music_likeness,play_music,0.019
+904,আজ কি সোমবার,datetime_query,iot_wemo_on,0.0187
+905,আমি কি জানতে পারি গণ মাধ্যম কি প্রবণতা চলছে,social_query,play_music,0.0185
+906,উজ্জ্বলতা চালু করুন,iot_hue_lightup,iot_wemo_on,0.0187
+907,শেষ পাঁচ ঘন্টার মধ্যে আমার জন্য কোনো ইমেইল এসেছে,email_query,iot_wemo_on,0.0187
+908,আজকে ঢাকা রেলগাড়ির টিকিট কিনুন,transport_ticket,iot_wemo_on,0.0186
+909,কফি তৈরি করা শুরু করুন,iot_coffee,play_music,0.0186
+910,আমি কক্সবাজার যুক্তিসঙ্গত মূল্যের তাপস খুঁজছি,recommendation_locations,play_music,0.0186
+911,আমি এটা করতে মনস্থ করেছি,general_quirky,play_music,0.0187
+912,তৃতীয় তারিখে আমাকে ঢাকা এর রেলগাড়ী এর টিকিট বুক করুন কোন সময় আমি পাত্তা দিই না,transport_ticket,play_music,0.0186
+913,আজকে নির্বাচনের ফলাফল কি হয়েছে বলুন,news_query,play_music,0.0185
+914,প্রত্যেক শুক্রবার পুনরাবৃত্তি লাঞ্চের ইভেন্ট পরিবর্তন,calendar_set,play_music,0.0187
+915,হেই স্যার আজকের জন্য আমার সমস্ত ক্যালেন্ডার অ্যাপয়েন্টমেন্ট সাফ করুন,calendar_remove,iot_wemo_on,0.0186
+916,আমি এই মুহূর্তে যে গানটি শুনছি তার গায়ক কে,music_query,play_music,0.0191
+917,আমার এলাকায় কেবল এবং ইন্টারনেট প্রদানকারীর খরচ গণনা করুন যেখানে আমি সবচেয়ে বেশি সঞ্চয় করতে পারি,general_quirky,play_music,0.0186
+918,এই গানটি কত সালে প্রকাশিত হয়েছিল,music_query,play_music,0.0191
+919,সকাল সাড়ে সাতটার একটা অ্যালার্ম সেট করুন,alarm_set,iot_wemo_on,0.0187
+920,এই সপ্তাহান্তে আবহাওয়া কি সুন্দর হবে,weather_query,iot_wemo_on,0.0186
+921,শেষ শোনা অডিওবুকটি আবার চালু কর,play_audiobook,play_music,0.0189
+922,বন্ধুর সাথে মিটিং করুন,calendar_set,play_music,0.0187
+923,আপনি কি আমার ক্যালেন্ডারে আমার ডিনার রিজার্ভেশন যোগ করতে পারেন,calendar_set,play_music,0.0186
+924,বাড়ির সাথে চট্টগ্রামের আবহাওয়া তুলনা করুন,weather_query,iot_wemo_on,0.0187
+925,আনিছ রহমান কোন হাই স্কুলে গিয়েছিলেন,qa_factoid,play_music,0.0186
+926,এই সপ্তাহের জন্য আমার করণীয় তালিকায় আমি কী রেখেছি তা পড়ুন,lists_query,play_music,0.0187
+927,এখন কি,general_quirky,play_music,0.0186
+928,আপনি কি আমাকে বলতে পারেন আমি আজ রাতে রংপুর কি ধরনের বই করতে পারি,recommendation_events,play_music,0.0188
+929,হাই আপনি কি আলো কম করতে পারেন,iot_hue_lightdim,play_music,0.0187
+930,আমি মনে করি আমি একদিনে পুরো বিশ্ব ভ্রমণ করতে পারি,general_quirky,iot_wemo_on,0.0186
+931,কমলা শব্দের মানে কি,qa_definition,play_music,0.0186
+932,বাইরে বর্তমান তাপমাত্রা কত,weather_query,iot_wemo_on,0.0187
+933,আলো আরও উজ্জ্বল করুন,iot_hue_lightup,play_music,0.0187
+934,আজ যা ঘটেছে তা রেকর্ড করুন,general_quirky,play_music,0.0187
+935,আমি কিভাবে প্রতিটি ডলারের নিচে সুপার বাউলের ​​টিকিট পেতে পারি,general_quirky,iot_wemo_on,0.0186
+936,আমাকে এখন ঢাকা সময় দেখান,datetime_query,iot_wemo_on,0.0187
+937,একটি মনিটর কি,qa_definition,play_music,0.0188
+938,মঙ্গলবার সাকিব সাথে দেখা করার জন্য একটি ইভেন্ট রিমাইন্ডার তৈরি করুন,calendar_set,play_music,0.0187
+939,হাসিনা যখন খবরে আছেন তখন আমাকে অবহিত করুন,news_query,play_music,0.0187
+940,পশু বিষয়ক পডক্যাস্ট খোঁজ,play_podcasts,play_music,0.0187
+941,facebook কোন নতুন নিরামিষ খবর আছে কি,social_query,play_music,0.0187
+942,কমলকে একটি ইমেইল পাঠান বলুন যে আজ রাতে আপনার কি রাতের খাবারে যাওয়ার পরিকল্পনা আছে,email_sendemail,iot_wemo_on,0.0186
+943,এই সপ্তাহে সর্বোচ্চ তাপমাত্রা কত হবে,weather_query,iot_wemo_on,0.0186
+944,দা ভিঞ্চি কোড যেখানে যেখানে শেষ করেছিলাম সেখান থেকে চালু কর,play_audiobook,play_music,0.0188
+945,আমাকে ঢাকার রেলগাড়ী আসার সময় বলুন,transport_query,iot_wemo_on,0.0187
+946,ইজারা আমার বন্ধুকে এই ইমেইলটি পাঠিয়েছে,email_sendemail,play_music,0.0187
+947,বিশ্বের বৃহত্তম মহাসাগর প্রশান্ত মহাসাগর,qa_factoid,iot_wemo_on,0.0187
+948,দিনাজপুর কত ঘন্টা এগিয়ে,datetime_query,iot_wemo_on,0.0186
+949,ফুর ফুর ফুর্তির শেষ দুই পর্ব চালু করো,play_podcasts,play_music,0.0187
+950,আপনি কিভাবে রৌদ্রোজ্জ্বল সাইড আপ ডিম করবেন,cooking_recipe,play_music,0.0187
+951,আজকের দিনের মিটিংগুলো দেখান,calendar_query,play_music,0.0187
+952,লাল টোনে আলো স্যুইচ করুন,iot_hue_lightchange,play_music,0.0188
+953,আমার গত বছরের পছন্দের গানটি বাজাও,play_music,play_music,0.019
+954,আমার মার্চের ক্যালেন্ডারে সমস্ত ইভেন্টগুলি তালিকা করুন,calendar_query,play_music,0.0186
+955,আপনি কি পিংক ফ্লয়েড এর গান চালাতে পারবেন,play_music,play_music,0.0189
+956,বছরে কত মাস,qa_factoid,play_music,0.0186
+957,জন্মদিন দ্বারা ব্যক্তি,qa_factoid,play_music,0.0187
+958,তালিকা থেকে আইটেম সরান,lists_remove,play_music,0.0188
+959,alexa অনুগ্রহ করে বসার ঘরে আলো নিভিয়ে দাও,iot_hue_lightdim,iot_wemo_on,0.0187
+960,নামের উত্তর,email_sendemail,play_music,0.0189
+961,আপনি কিভাবে আপনার সম্পর্কে জানি,general_quirky,play_music,0.0187
+962,এই সপ্তাহান্তে কি ঘটছে,calendar_query,play_music,0.0186
+963,আমাকে অ্যালার্মের তালিকা দেখাও,alarm_query,play_music,0.0188
+964,টুইট করে ওয়াল্টনের অভিযোগ জানান,social_post,iot_wemo_on,0.0188
+965,উত্সব ক্যালেন্ডারে শুভ এবং রহমান যোগ করা উচিত,calendar_set,iot_wemo_on,0.0186
+966,ভুত এফ এম পডক্যাস্টটি চালাও,play_podcasts,play_music,0.0187
+967,পঞ্চাশ শতাংশ পর্যন্ত আলো বৃদ্ধি করুন,iot_hue_lightchange,play_music,0.0187
+968,আমাকে টাকা এবং অন্যান্য মুদ্রার মধ্যে বর্তমান বিনিময় হার দেখান,qa_currency,play_music,0.0185
+969,এখন আলো বন্ধ করুন,iot_hue_lightoff,play_music,0.0188
+970,পঞ্চম তলার মিটিং এ দশম তারিখে শান্তনু শুভ আমার সাথে যোগ দিন,calendar_set,play_music,0.0187
+971,স্থানীয় বর্তমান ঘটনা উল্লেখ করুন,recommendation_events,iot_wemo_on,0.0187
+972,ক্যালেন্ডার থেকে ইভেন্ট মুছুন,calendar_remove,iot_wemo_on,0.0187
+973,রহিম এবং করিম একসাথে ফিরে এসেছেন,news_query,play_music,0.0186
+974,পরবর্তী দুই দিন মধ্যে সব ইভেন্ট বাতিল করুন,calendar_remove,iot_wemo_on,0.0187
+975,আমার কি আজ অ্যাপয়েন্টমেন্ট আছে,calendar_query,play_music,0.0187
+976,ফেসবুক ইভেন্টের জন্য একটি পুনরাবৃত্তি অনুস্মারক অ্যালার্ম সেট করুন আমাকে সপ্তম এপ্রিলে উপস্থিত হতে হবে,alarm_set,iot_wemo_on,0.0186
+977,বুধবার বিকেল পাচঁটা এর রাজশাহী যাওয়ার কি কোন রেলগাড়ী আছে,transport_query,play_music,0.0186
+978,জলবায়ু সম্পর্কিত কিছু ঘটেছে,news_query,play_music,0.0187
+979,আমাকে ওয়াল্টনের জন্য আজকের বাজারের প্রবণতা দিন,qa_stock,play_music,0.0187
+980,স্পটিফাই,play_music,play_music,0.0187
+981,এটা আবার বাজান,play_music,play_music,0.0188
+982,ভোর চারটার অ্যালার্মটি রিমুভ করুন,alarm_remove,iot_wemo_on,0.0188
+983,আমাদের কি করিমের অফিসের নাম্বার আছে,email_querycontact,play_music,0.0187
+984,কলকাতা যাওয়ার পরের ট্রেন কয়টা বাজে,transport_query,play_music,0.0187
+985,সারাহ কিভাবে ডায়াল করব,email_querycontact,play_music,0.0186
+986,আমরা কবে বৃষ্টির হওয়ার আশা রাখতে পারি,weather_query,iot_wemo_on,0.0186
+987,সপ্তাহ জুড়ে আমার বসের সাথে গুরুত্বপূর্ণ মিটিং সম্পর্কে আমাকে জানান,calendar_set,play_music,0.0187
+988,ইনস্টাগ্রামে আমার বর্তমান অবস্থান পোস্ট করুন,social_post,iot_wemo_on,0.0187
+989,সকাল এগারোটায় এ বুধবারের জন্য একটি বিক্রয় মিটিং নির্ধারণ করুন,calendar_set,iot_wemo_on,0.0186
+990,নতুন তালিকা দয়া করে,lists_createoradd,play_music,0.0187
+991,আমার ক্যালেন্ডার পরিষ্কার করুন,calendar_remove,play_music,0.0186
+992,আপনি কি চিহ্নিত করবেন যে আগামীকাল তিনটায় পাবেলের সাথে আমার একটি মিটিং আছে,calendar_set,play_music,0.0187
+993,এই এলাকায় আমি কোথায় কেনাকাটা করতে পারি বলুন,recommendation_locations,iot_wemo_on,0.0187
+994,অন্যদের থেকে এই তালিকা সরান,lists_remove,play_music,0.0188
+995,এটা কি একটি ব্যস্ত দিন হয়েছে,general_quirky,play_music,0.0186
+996,আজ রাতে পূর্ণিমা,calendar_query,iot_wemo_on,0.0188
+997,আমাকে এই কোম্পানির স্টকের স্টক মূল্যের উপরে এবং নিচের বিষয়ে জানান,qa_stock,play_music,0.0186
+998,এই সময়ে উপলব্ধ নিকটস্থ রেস্তোরা,recommendation_locations,play_music,0.0187
+999,একটি ভাল রোমান্টিক ডিনার কি হবে,general_quirky,play_music,0.0187
+1000,আমার জগিং প্লেলিস্টটি ওপেন কর এবং গান বাজাও,play_music,play_music,0.019
+1001,একটি গুগল প্লেক্স কি,qa_definition,play_music,0.0187
+1002,eastern অঞ্চলে সময় কি,datetime_query,iot_wemo_on,0.0186
+1003,আমাকে পঁচিশ তম আদরের পশুচিকিত্সক নিয়োগ ভুলে যেতে দেবেন না,calendar_set,iot_wemo_on,0.0186
+1004,রেডিও ভূমি বিরানব্বই দশমিক আট চালু করো,play_radio,play_music,0.0187
+1005,রাত একটা থেকে তিনটার মধ্যে আমার কী অ্যাপয়েন্টমেন্ট আছে,calendar_query,play_music,0.0187
+1006,olly দুইটি সংখ্যা চার এবং ছয়ের যোগফল কত,qa_maths,play_music,0.0188
+1007,আমার ট্রান্স লিস্ট থেকে কিছু গান বাজাও,play_music,play_music,0.019
+1008,আমার আমি কোন নতুন ইমেল পেতে পারি,email_query,play_music,0.0187
+1009,আমি আজকে তিনটার একটি অ্যালার্ম চাই,alarm_set,iot_wemo_on,0.0187
+1010,রেঁস্তোরা নির্বাচন,takeaway_order,play_music,0.0187
+1011,এই সপ্তাহান্তে আমার কাছাকাছি কোন বিশেষ ঘটনা আছে,recommendation_events,iot_wemo_on,0.0186
+1012,গেম খেলা,play_game,play_music,0.0188
+1013,আমার ক্যালেন্ডার থেকে সবকিছু মুছে দিন,calendar_remove,play_music,0.0187
+1014,রংপুর নগরে কি কোন সেলুন আছে,recommendation_locations,play_music,0.0188
+1015,আজ ডাও জোন্সের কি হয়েছে,qa_stock,play_music,0.0186
+1016,event বিষয়বস্তু কি,calendar_query,play_music,0.0187
+1017,দিবাকর dibakartoday dot com একটি ইমেইল তৈরি করুন,email_sendemail,play_music,0.0186
+1018,আজকের আবহাওয়ার প্রতিবেদন কি ছিল,weather_query,iot_wemo_on,0.0186
+1019,আমি কিছু বিরিয়ানি জিনিস খেতে চাই,takeaway_order,play_music,0.0186
+1020,অনুগ্রহ করে আগামীকালের মিটিং সম্পর্কিত সাকিবকে একটি ইমেইল পাঠান,email_sendemail,play_music,0.0187
+1021,আমার এখন এক কাপ কফি চাই,iot_coffee,play_music,0.0186
+1022,আমার আইয়ুব বাচ্চু এর সব গানগুলি একত্রিত করুন,play_music,play_music,0.0191
+1023,ফেসবুকে একটি নতুন স্ট্যাটাস পোস্ট করুন যে আমি চমৎকার আবহাওয়া উপভোগ করছি,social_post,play_music,0.0187
+1024,আমি আরো অডিওবুক শুনতে চাই,play_audiobook,play_music,0.0189
+1025,মহিষের বিরিয়ানি অফার করে এমন নিকটতম ফুড পাণ্ডা কল করুন,takeaway_order,play_music,0.0186
+1026,পরের অংশে চলে যাও,play_podcasts,play_music,0.0188
+1027,অলি যদি বন্যা সম্পর্কে নতুন কোন খবর আসে তাহলে আমাকে এক্ষুনি জানাতে পারেন,news_query,play_music,0.0188
+1028,irobot চালু করুন,iot_cleaning,iot_wemo_on,0.0187
+1029,কেনাকাটা,general_quirky,play_music,0.0187
+1030,কানিজ ফাতেমা পার্টনের তথ্য,general_quirky,play_music,0.0187
+1031,আমার ক্যালেন্ডারে কোন ইভেন্ট নেই তা নিশ্চিত করুন,calendar_remove,iot_wemo_on,0.0186
+1032,মাহতাম সাকিব যে গানে সুরারোপ করেছেন সেট album টি বাজান,play_music,play_music,0.0191
+1033,আমার সর্বশেষ অর্ডারের স্ট্যাটাস কি,takeaway_query,play_music,0.0186
+1034,আমার আইফোন সেভেন সম্পর্কে apple কাছে একটি অভিযোগ টুইট করুন,social_post,iot_wemo_on,0.0187
+1035,চারটে থেকে ছয়টা পর্যন্ত কখন আমার একটি বিনামূল্যে বিরতি আছে,calendar_query,play_music,0.0187
+1036,আমার পরবর্তী ঘটনা কি,calendar_query,iot_wemo_on,0.0186
+1037,আমাকে সোনির উদ্বোধনী স্টক মূল্য দিন,qa_stock,play_music,0.0187
+1038,মানে কি,qa_definition,play_music,0.0187
+1039,মাকে ইমেল পাঠান আগামীকাল কেনাকাটা করতে যেতে চান,email_sendemail,play_music,0.0186
+1040,google calender,calendar_set,iot_wemo_on,0.0187
+1041,ঢাকার সেরা অবকাশের জায়গা কোথায়,qa_factoid,play_music,0.0186
+1042,আমাকে ঢাকার সময় দাও,datetime_query,iot_wemo_on,0.0187
+1043,জেলো শট ক্যালোরি মুক্ত,qa_factoid,iot_wemo_on,0.0187
+1044,শেয়ার বাজারের সমস্ত খবরের জন্য বিজ্ঞপ্তি চালু করুন,qa_stock,play_music,0.0187
+1045,তারপরে ok টিপুন,alarm_query,play_music,0.0187
+1046,আমার বস হতে ইমেইল চেক করুন,email_query,play_music,0.0186
+1047,আজকের জন্য আমার করণীয় তালিকা,lists_query,play_music,0.0187
+1048,আমার ক্যালেন্ডারে বিবাহ যোগ করুন,calendar_set,play_music,0.0186
+1049,apple এর মূল্য কত,qa_stock,play_music,0.0187
+1050,আমাকে বল কিভাবে বিরিয়ানি বানাতে হয়,cooking_recipe,play_music,0.0187
+1051,এখন কি বৃষ্টি হচ্ছে,weather_query,iot_wemo_on,0.0186
+1052,আগামীকাল সকালের জন্য অ্যালার্ম বন্ধ করুন,alarm_remove,iot_wemo_on,0.0188
+1053,আমার নোটপ্যাডে তৈরি সর্বশেষ নোট ব্যবহার করে একটি স্ট্যাটাস পোস্ট করুন,social_post,play_music,0.0187
+1054,ফেসবুকে স্ট্যাটাস জমা দিন,social_post,play_music,0.0187
+1055,আজকের তারিখ এবং সময়,datetime_query,iot_wemo_on,0.0187
+1056,যিনি এখন ফেসবুক লাইভ করছেন,social_query,play_music,0.0187
+1057,আমার কি আজকের জন্য একটা ছাতা লাগবে,weather_query,iot_wemo_on,0.0186
+1058,আমি জানতে চাই আমার মুদির তালিকায় একটি অতিরিক্ত আইটেম যোগ করা যেতে পারে,lists_createoradd,play_music,0.0187
+1059,আপনি কি অনুগ্রহ করে আমাকে এমন একটি উত্স থেকে সর্বশেষ খবর পেতে পারেন যেখানে আমি সাধারণত যাই না,news_query,play_music,0.0187
+1060,কখন ফুড পাণ্ডার বেল আসতে চলেছে,takeaway_query,play_music,0.0186
+1061,আমি তো এখন স্মার্ট সকেট বন্ধ করতে চাই,iot_wemo_off,iot_wemo_on,0.0188
+1062,এটা ব্যাখ্যা কর,general_quirky,play_music,0.0188
+1063,এক মাইলে কত কিলোমিটার,qa_factoid,iot_wemo_on,0.0187
+1064,আমার ইনবক্সে অপঠিত ইমেইল আছে কি,email_query,play_music,0.0186
+1065,অর্ণবের প্লেলিস্ট বাজাও,play_music,play_music,0.0188
+1066,আমি কি আগামীকাল একটা ছাতা পাব,weather_query,play_music,0.0186
+1067,নতুন রেডিও চ্যানেল প্লে করো,play_radio,play_music,0.019
+1068,আমার এলাকায় আজকে কোন বিনামূল্যে আয়োজন আছে কি,recommendation_events,play_music,0.0187
+1069,পরিষ্কার,music_query,play_music,0.0187
+1070,আমাকে ঢাকা সম্পর্কে একটি ভৌগলিক তথ্য দিন,qa_factoid,iot_wemo_on,0.0185
+1071,দৌড় খেলা,play_game,play_music,0.0188
+1072,আজ থেকে আমার ওয়ার্কআউট মুছে দিন,calendar_remove,iot_wemo_on,0.0187
+1073,একটার পর একটা র‍্যাপ এবং রক গান চালাও,play_music,play_music,0.019
+1074,computer hard disk সম্পর্কে বর্ণনা কর,qa_definition,play_music,0.0187
+1075,সাকিবকে ইমেইল পাঠান আপনার ক্ষতির জন্য দুঃখিত,email_sendemail,play_music,0.0186
+1076,আমাকে কিছু জেমস দাও,music_query,play_music,0.0187
+1077,রুমের আলো বন্ধ করুন রুমের,iot_hue_lightoff,play_music,0.0187
+1078,মোল্দোভার অবস্থান কি,qa_factoid,iot_wemo_on,0.0186
+1079,অ্যালার্ম দিন এবং আগামীকাল সকাল ছয়টায় আমাকে জাগিয়ে দিন,alarm_set,iot_wemo_on,0.0187
+1080,পিঁজা বানাতে আমার কি দরকার,cooking_recipe,play_music,0.0186
+1081,রেলগাড়ী আজ কখন আসবে,transport_query,play_music,0.0186
+1082,আমাকে তারিখ বলুন,datetime_query,iot_wemo_on,0.0186
+1083,আমার কেনাকাটা তালিকা থেকে কলা মুছে দিন,lists_remove,play_music,0.0187
+1084,স্বামী কেন আসামি চালু করো,play_audiobook,iot_wemo_on,0.0186
+1085,এটা খুব আলাদা,general_quirky,play_music,0.0188
+1086,সম্পূর্ণভাবে আমার মুদি তালিকা মুছে দিন,lists_remove,play_music,0.0186
+1087,এটা কি রোদ হবে,weather_query,play_music,0.0186
+1088,গত দুই ঘন্টার জন্য ইমেইল চেক করুন,email_query,iot_wemo_on,0.0186
+1089,আফরান শুভ কোন চরিত্রে অভিনয় করেন,qa_factoid,play_music,0.0188
+1090,পপ রেডিও স্টেশন শুরু করুন,play_radio,play_music,0.0187
+1091,পরে সেই ইমেল পাঠাতে আমাকে মনে করিয়ে দিন,calendar_set,play_music,0.0186
+1092,এটি একটি ভাল টিউন অনুগ্রহ করে সেই অনুযায়ী ফাইল নোটেট করুন,music_likeness,play_music,0.0187
+1093,বিবিসি জানালা এর পরের পর্বে যাও,play_podcasts,iot_wemo_on,0.0188
+1094,কিছু এন পি আর এবং আমার স্পীকার থেকে তাদের বাজান,play_radio,play_music,0.0188
+1095,জয়পুরহাটের হোম সিটি কি,qa_factoid,play_music,0.0187
+1096,মিরপুর পার্কে চৌঠা ফেব্রুয়ারী দুপুর দুটোয় ক্যালেন্ডারে অনুশীলন যোগ করুন,calendar_set,play_music,0.0186
+1097,টুইটারে কী চলমান,social_query,iot_wemo_on,0.0188
+1098,আগামীকাল রৌদ্রময় দিন তাই না,weather_query,iot_wemo_on,0.0186
+1099,এশিয়া তথ্য,qa_factoid,play_music,0.0187
+1100,এটা এখানে খুব উজ্জ্বল আপনি একটি আলো বন্ধ করতে পারেন,iot_hue_lightoff,play_music,0.0188
+1101,কেনাকাটার তালিকা সরান,lists_remove,play_music,0.0187
+1102,কতবার আদেল গেছে হীরা,qa_factoid,play_music,0.0187
+1103,walmart customer service-কে টুইট করুন,social_post,iot_wemo_on,0.0186
+1104,উপরে,audio_volume_up,play_music,0.0187
+1105,আমার পুরানো বন্ধু আলী কাছে আজকে আমি দৌড়ে গেলাম,general_quirky,play_music,0.0187
+1106,আপনি কতক্ষণ আস্ত মুরগি সাড়ে তিনশোতে রান্না করেন,cooking_recipe,play_music,0.0186
+1107,আমাকে আন্তর্জাতিক খবর দিন,news_query,play_music,0.0187
+1108,অনুগ্রহ করে সুমনকে একটি ইমেইল শুরু করুন,email_sendemail,play_music,0.0187
+1109,হিমু পডকাস্ট বাজাও,play_podcasts,play_music,0.0187
+1110,আমাকে মনে করিয়ে দিন আগামীকাল সন্ধ্যা সাতটা বিশ পেটকোতে আরও কুকুরের খাবার নাও । মি,calendar_set,iot_wemo_on,0.0185
+1111,আমার একটি খারাপ দিন ছিল,general_quirky,play_music,0.0187
+1112,আমাকে বিশ্বের সর্বশেষ খবর বলুন,news_query,play_music,0.0187
+1113,শাস্ত্রীয় সঙ্গীত এর জন্য আমার সমস্ত সঙ্গীত খুঁজুন,play_music,play_music,0.019
+1114,পরের শনিবার সকাল দশটায় একটি খালি ক্যালেন্ডার ইভেন্ট তৈরি করুন,calendar_set,iot_wemo_on,0.0187
+1115,আপনার বয়স কত,general_quirky,play_music,0.0186
+1116,আপনি আমাকে বলতে পারেন কিভাবে মহাকর্ষ কাজ করে,general_quirky,iot_wemo_on,0.0186
+1117,বুধবারেও কি ঠান্ডা বা বাদলা থাকবে,weather_query,iot_wemo_on,0.0187
+1118,আজ রাতে কখন ডিনার পার্টি আছে,calendar_query,play_music,0.0187
+1119,মাণ্ণা দে কিভাবে মারা গেল,qa_factoid,play_music,0.0187
+1120,কি নতুন বইগুলি আজকে উপলব্ধ,recommendation_movies,play_music,0.0187
+1121,আমার জন্য একটি কফি তৈরি করুন,iot_coffee,play_music,0.0187
+1122,আমি প্রতিদিন মজার জিনিস করতে চাই দয়া করে একটি রিমাইন্ডার যোগ করুন,calendar_set,play_music,0.0188
+1123,শুক্রবারের রহমানের পার্টি কি বাতিল হয়েছে,calendar_query,play_music,0.0186
+1124,আগামী সপ্তাহে আবহাওয়া কেমন হবে,weather_query,iot_wemo_on,0.0186
+1125,অনেক কাঠ একটি woodchuck চক পারে যদি একটি woodchuck কাঠ চক করতে পারে,general_quirky,play_music,0.0187
+1126,ক্যানাদিয়ান ডলার এর সাথে টাকার বিনিময় হার কি,qa_currency,iot_wemo_on,0.0185
+1127,আমার বর্তমানে কি তালিকা আছে আমাকে বলুন,lists_query,play_music,0.0187
+1128,ওয়াল্টনের স্টক মূল্যের বিবরণ দিন,qa_stock,play_music,0.0187
+1129,আজ রাত শহর কি হচ্ছে,recommendation_events,iot_wemo_on,0.0187
+1130,বাংলাদেশ যাত্রার আগের দিন আমাকে জানান,calendar_set,play_music,0.0187
+1131,বিল তালিকা থেকে গাড়ী বীমা সরান,lists_remove,play_music,0.0186
+1132,আমার ইমেইল দেখুন,email_query,play_music,0.0187
+1133,রেস্তোরাঁ কি বিতরণ দেবে,takeaway_query,play_music,0.0187
+1134,বাংলাদেশের মোট দ্বীপের সংখ্যা কত,qa_factoid,play_music,0.0186
+1135,এই বছরের নতুন মোবাইল লঞ্চ সম্পর্কে আমাকে একটি ভিডিও দেখান,general_quirky,play_music,0.0188
+1136,আমি এই আসন্ন ইভেন্টের জন্য ঢাকা হতে হবে আপনি এটি যোগ করতে পারেন,calendar_set,play_music,0.0187
+1137,eastern সময় অঞ্চলের জন্য সময় কি,datetime_query,iot_wemo_on,0.0187
+1138,সিএনএন অ্যাপ খুলুন,news_query,play_music,0.0187
+1139,এটা কি মেঘলা হতে চলেছে,weather_query,play_music,0.0187
+1140,আমি ছাতা নিয়ে যেতে চাই না আজ কি বৃষ্টি হবে,weather_query,iot_wemo_on,0.0186
+1141,ম্যাচ কখন শুরু হবে,calendar_query,play_music,0.0189
+1142,পদ্মা সেতু বাস্তব,qa_factoid,play_music,0.0187
+1143,আপনি কি আমার জন্য ডিনার করতে পারেন,general_quirky,play_music,0.0186
+1144,সর্বশেষ অ্যালার্মটি সরান,alarm_remove,iot_wemo_on,0.0187
+1145,ফিলিংসের খেলো বাবা কতো দিন দেখি নি তোমাই,play_music,play_music,0.0188
+1146,আমার কি কোন অ্যাপয়েন্টমেন্ট আসছে সামনে,calendar_query,play_music,0.0188
+1147,আবহাওয়ার এপ-টি খুলুন,weather_query,play_music,0.0188
+1148,আমার বোনকে একটি ইমেইল পাঠাতে মনে করান,calendar_set,play_music,0.0187
+1149,আমি অন্যথা না বলা পর্যন্ত নিজেকে নিঃশব্দ,audio_volume_mute,play_music,0.0188
+1150,শেয়ার বাজার খবরের জন্য notification সেট করুন,qa_stock,play_music,0.0188
+1151,আগামী সপ্তাহের আবহাওয়া সম্পর্কে আমার স্ত্রীকে ইমেইল করুন,email_sendemail,iot_wemo_on,0.0186
+1152,আমার ফেসবুক গ্রুপকে বলুন যে আমি এসেছি,social_post,play_music,0.0187
+1153,আগামীকাল সন্ধ্যা সাতটায় আমার সাথে খেলোয়াড়দের একটি মিটিং স্থির করুন,calendar_set,play_music,0.0188
+1154,আমার কাছাকাছি দোকান তালিকা,recommendation_locations,play_music,0.0187
+1155,কেনাকাটার তালিকায় দুধ রাখুন,lists_createoradd,play_music,0.0187
+1156,অনুগ্রহ করে সর্বশেষ জর্জ আর এর সংক্ষিপ্ত বিবরণ দিন। r মার্টিন আইস এবং ফায়ার বই,qa_factoid,play_music,0.0188
+1157,আমার বসকে একটি ইমেইল পাঠান যে আমার দেরি হবে,email_sendemail,play_music,0.0187
+1158,আমার কাজের পথে কোন ট্রাফিক আছে,transport_traffic,play_music,0.0187
+1159,মঙ্গলবার মিটিং-য়ের জন্য আমাকে অবহিত করুন,calendar_set,play_music,0.0187
+1160,আমি কি জলপাই বাগানে যেতে অর্ডার দিতে পারি,takeaway_query,play_music,0.0187
+1161,আজ কি সানস্ক্রীন-এর দিন,weather_query,iot_wemo_on,0.0186
+1162,পরের পর্ব,play_podcasts,play_music,0.0188
+1163,সাদ আলম কোথায় থাকেন,qa_factoid,play_music,0.0187
+1164,apple শেষ দাম কত,qa_stock,play_music,0.0187
+1165,ওলি আমার তো এখন শ্রীকান্ত আচারিয়ার আমার সারাটা দিন শুনতে হবে,play_music,play_music,0.0187
+1166,আগামীকাল সকাল দশটার আগে আমাকে ঢাকা যাওয়ার ট্রেনের টিকিট বুক করুন,transport_ticket,iot_wemo_on,0.0186
+1167,oscillate বানান এবং সংজ্ঞায়িত করুন,qa_definition,play_music,0.0188
+1168,আমি এই পডকাস্টের পরবর্তী পর্বটি খেলতে চাই,play_podcasts,play_music,0.0188
+1169,নিচে আলো বন্ধ করুন,iot_hue_lightdim,play_music,0.0188
+1170,গান চালু,play_music,play_music,0.019
+1171,কম আলো দয়া করে,iot_hue_lightdim,play_music,0.0187
+1172,ঢাকা পোস্ট পডকাস্ট শোনাও,play_podcasts,play_music,0.0187
+1173,অলি লাল রঙের আলোতে বন্ধ কর,iot_hue_lightchange,play_music,0.0188
+1174,সাত নম্বর প্লে লিস্ট বাজান,play_music,play_music,0.0189
+1175,ক্রিসমাস তালিকায় প্যাস্ট্রি যোগ করুন,lists_createoradd,play_music,0.0187
+1176,আমার খাবার কই,takeaway_query,play_music,0.0187
+1177,এর পরে মাইলস এর জ্বালা জ্বালা রাখুন,play_music,iot_wemo_on,0.0188
+1178,প্রথম আলো -এ খালেদা জিয়া সম্পর্কে সর্বশেষ নিবন্ধটি খুঁজুন,news_query,play_music,0.0186
+1179,আমার জন্যে কড়ি মাইলস খেলা,play_music,play_music,0.0188
+1180,একশো ছয় দশমিক নয় চ্যানেলে যান,play_radio,play_music,0.0188
+1181,আপনি এই ইভেন্ট মুছে দিতে পারেন,calendar_remove,play_music,0.0187
+1182,আপনি আপনার ভলিউম চালু করতে পারেন,audio_volume_up,play_music,0.0187
+1183,মুক্তি কাম্প সমাধান করা যাক,play_game,iot_wemo_on,0.0186
+1184,আমাকে মকর রাশির কিছু সেলিব্রিটি খুঁজে দিন,qa_factoid,play_music,0.0188
+1185,পরের বছর আমাকে মঙ্গল গ্রহে একটি ফ্লাইট বুক করুন,qa_factoid,play_music,0.0187
+1186,সানিকে সতর্কতা মেইল ​​পাঠান,email_sendemail,play_music,0.0187
+1187,এটা কি তাপমাত্রা,weather_query,iot_wemo_on,0.0186
+1188,আধ ঘন্টার মধ্যে আমাকে উঠাও,alarm_set,iot_wemo_on,0.0187
+1189,এই ছবিটি আমার ইনস্টাগ্রামে রাখুন,social_post,play_music,0.0188
+1190,আমি কম আলো চাই,iot_hue_lightdim,play_music,0.0187
+1191,আমার পছন্দের সব গানগুলো বাজান,play_music,play_music,0.0191
+1192,কিছু আধুনিক বাংলা স্কুল র্যাপ চালু করুন,play_music,play_music,0.0187
+1193,আমার বস রায়হানের থেকে ইমেইলগুলি অনুসন্ধান করুন,email_query,play_music,0.0186
+1194,অনেক সাধনার পরে আমি তারকা গান,music_likeness,play_music,0.019
+1195,কারেন্ট প্লেলিস্টটি বাজাও,play_music,play_music,0.0189
+1196,একটি ফেসবুক স্ট্যাটাস আপডেট পোস্ট করুন,social_post,play_music,0.0187
+1197,সামনের ঘরে উষ্ণ আভা দেখা যাক,iot_hue_lightchange,play_music,0.0186
+1198,স্পিকারের ভলিউম নিচের শেষ স্তরে,audio_volume_mute,play_music,0.0188
+1199,বাংলাদেশে এখন সময় কত,datetime_query,play_music,0.0186
+1200,আমি সৌরভ থেকে একটি ইমেইল পেয়েছি কিনা আপনি কি চেক করতে পারেন,email_query,iot_wemo_on,0.0186
+1201,সকালের জন্য একটি এলার্ম তৈরি করুন,alarm_set,play_music,0.0188
+1202,ক্যালেন্ডার অ্যাপ থেকে নমুনা মিটিং সরান,calendar_remove,play_music,0.0187
+1203,আমার কাছে নতুন ইমেল আছে তা দেখতে চেক করুন,email_query,play_music,0.0186
+1204,আমার একটা ঘুম দরকার,general_quirky,iot_wemo_on,0.0187
+1205,বান্দরবন কত লম্বা,qa_factoid,play_music,0.0187
+1206,ইমন থেকে অপঠিত ইমেইল চেক করুন,email_query,play_music,0.0186
+1207,অলি আমি একটি ক্রিম এবং তিনটি চিনি সহ এক কাপ কফি চাই,iot_coffee,play_music,0.0187
+1208,আমি যখন বাইরে যাই তখন কি আমাকে জ্যাকেট পরতে হবে,weather_query,iot_wemo_on,0.0186
+1209,বাইশে মার্চ খেলার মাঠে badminton match টি যোগ করুন,calendar_set,iot_wemo_on,0.0188
+1210,এলোমেলো সঙ্গীত বাজান,play_music,play_music,0.019
+1211,রেডিওতে ঢাকা রেডিও টিউন করুন,play_radio,play_music,0.0188
+1212,কোন নতুন ইমেইল প্রাপ্ত হয়েছে কি,email_query,iot_wemo_on,0.0186
+1213,অনুগ্রহ করে ড্রয়িং হলের আলো নিভিয়ে দিন,iot_hue_lightoff,play_music,0.0189
+1214,আমি ব্রকলি এবং মুরগির সাথে কি রান্না করতে পারি,cooking_recipe,play_music,0.0186
+1215,আমার তালিকা থেকে আইটেম মুছুন,lists_remove,play_music,0.0187
+1216,বর্তমান বিশ্বের খবর,news_query,play_music,0.0187
+1217,আমাকে কোলকাতা এর টিকিট কিনে দাও,transport_ticket,iot_wemo_on,0.0186
+1218,গত দুই ঘন্টায় আমি কোন নতুন ইমেইল পেয়েছি কি,email_query,iot_wemo_on,0.0186
+1219,আমার বন্ধুকে আগামীকাল এসাইনমেন্ট পেতে মনে করিয়ে দিন,calendar_set,play_music,0.0187
+1220,ধাঁধা,general_quirky,play_music,0.0187
+1221,বাইরে কি বৃষ্টি পড়ছে,weather_query,iot_wemo_on,0.0186
+1222,অনুগ্রহ করে আমাকে মনে করিয়ে দিন সকাল এগারোটার ব্যবসায়ীক সম্মেলন,calendar_set,play_music,0.0186
+1223,এই বিশ্বের সর্বশেষ নতুন সম্পর্কে পড়ুন,news_query,play_music,0.0187
+1224,কি জিনিস আপনি করতে পারবেন না,general_quirky,iot_wemo_on,0.0187
+1225,papa pear saga খোলো,play_game,play_music,0.0185
+1226,আগামীকাল কখন আমার অ্যাপয়েন্টমেন্ট আছে,calendar_query,iot_wemo_on,0.0186
+1227,আমি কি আজকে হাতমোজাগুলি পরবো,weather_query,iot_wemo_on,0.0187
+1228,কে সে জন্মদিন প্রকৃতি,general_quirky,play_music,0.0187
+1229,আজ ফারহানের রেডিও আমার পডকাস্ট খুঁজে দাও,play_podcasts,play_music,0.0187
+1230,সকালে প্রথম সিটি সার্ভিস কখন পৌঁছায়,transport_query,iot_wemo_on,0.0186
+1231,আগামী দিন ভালোবাসার মানুষের সাথে ডেট,calendar_set,iot_wemo_on,0.0187
+1232,অনুগ্রহ করে প্রথম আলো নিবন্ধটি টানুন,news_query,play_music,0.0188
+1233,আমার ভ্যাকুয়াম ক্লিনার প্রতিদিন দশটা থেকে এগারোটার মধ্যে শুরু করা উচিত,iot_cleaning,iot_wemo_on,0.0186
+1234,সাম্প্রতিক ঢাকা খবর,news_query,play_music,0.0186
+1235,আমাকে রবিবার সকাল এগারোটায় গির্জার পরিষেবার বিষয়ে অবহিত করতে হবে,calendar_set,iot_wemo_on,0.0186
+1236,আপনি কি আমার বন্ধু রাজীবকে ইমেইল পাঠাতে পারেন বলবেন যে আমি আগামীকাল ব্যস্ত আছি,email_sendemail,play_music,0.0186
+1237,একটি প্লেলিস্ট তৈরি করুন,lists_createoradd,play_music,0.0189
+1238,ভারতের সাথে হাসিনার সম্পর্কের বিষয়ে সর্বশেষ আপডেট কি,news_query,iot_wemo_on,0.0185
+1239,আমার লোকসঙ্গীত playlist বাজান,play_music,play_music,0.0191
+1240,আমাকে স্নেহা এবং রাজীবকে ইমেইল করতে হবে,email_sendemail,iot_wemo_on,0.0186
+1241,সমস্ত আসন্ন ঘটনা অপসারণ করুন,calendar_remove,iot_wemo_on,0.0187
+1242,ইভেলিতে টুইট করুন এবং জানান যে আমার app খারাপ হয়ে গেছে,social_post,play_music,0.0188
+1243,নয় হাজার নিরানব্বই এফ. এম. এখন কি সঙ্গীত বাজাচ্ছে,music_query,play_music,0.0189
+1244,পরের ছুটি কখন,datetime_query,play_music,0.0187
+1245,আরে আমাকে খুশি করতে কিছু কৌতুক শেয়ার করুন,general_joke,play_music,0.0187
+1246,এই সপ্তাহের আবহাওয়া সম্পর্কে বলুন,weather_query,iot_wemo_on,0.0186
+1247,বাংলাদেশি টাকার মূল্যের অনুপাত কত এবং কুয়েতি দিরহাম,qa_currency,iot_wemo_on,0.0186
+1248,বসার ঘর এর রেডিওতে রায়ান সিক্রেস্ট চালু করুন,play_radio,play_music,0.0187
+1249,হলিউডের সর্বশেষ গসিপ কি চলছে,news_query,play_music,0.0187
+1250,হুমায়ুন আহমেদের বয়স কত,qa_factoid,play_music,0.0186
+1251,আপনার মধ্যে বিনিময় হার কি ডলার এবং টাকা,qa_currency,play_music,0.0185
+1252,আসন্ন মিটিং-গুলির তালিকা বের করুন,calendar_set,play_music,0.0188
+1253,চৌত্রিশের বর্গমূল কত,qa_maths,play_music,0.0186
+1254,বাংলাদেশ কোন টাইম জোনে,qa_factoid,play_music,0.0187
+1255,অমুক দিনে আবহাওয়া কেমন হয়,weather_query,play_music,0.0187
+1256,আমার ফোন বইয়ে কে সর্বাধিক ঘন ঘন ডাকা ব্যক্তি,email_querycontact,play_music,0.0187
+1257,টাকার এক রুপির দাম কত,qa_currency,play_music,0.0187
+1258,আমার ইমেইল ইনবক্স চেক করুন এবং আমাকে নতুন মেইল সম্পর্কে বলুন,email_query,iot_wemo_on,0.0186
+1259,অনুগ্রহ করে আমাকে বলুন যদি স্নেহার আমাকে কোনো ইমেল পাঠিয়ে থাকে,email_query,play_music,0.0187
+1260,আজকের জন্য সময়সূচী কি,lists_query,iot_wemo_on,0.0186
+1261,বুধবার তাপমাত্রা কি হিমাঙ্কের উপরে থাকবে,weather_query,iot_wemo_on,0.0187
+1262,পাঁচ ঘন্টা পর আমাকে জাগানোর জন্য একটি অ্যালার্ম করুন,alarm_set,iot_wemo_on,0.0187
+1263,এই গানটি কত সালে রেকর্ড করা হয়েছিল,music_query,play_music,0.0191
+1264,একশ দুই দশমিক সাত স্টেশন এ যান,play_radio,play_music,0.0187
+1265,আরে তোমার কি হোম সরবরাহ আছে,takeaway_query,iot_wemo_on,0.0187
+1266,এই মুহুর্তে বাংলাদেশের অর্থনীতি কি এবং কিভাবে,news_query,play_music,0.0187
+1267,আগামীকালের জন্য আমার কাজের অ্যালার্মটা কি সেট করা হয়ে গেছে,alarm_query,iot_wemo_on,0.0187
+1268,আমার সকালের প্লেলিস্ট চালাও,play_music,play_music,0.0188
+1269,তেরোই ডিসেম্বর কোন দিন,datetime_query,iot_wemo_on,0.0186
+1270,এই সকাল এ কোন স্টেশন এ ভালো গান বাজছে,play_radio,play_music,0.0189
+1271,আমি যে রেডিও স্টেশনটি চালাতে চাই তার নাম বলুন,play_radio,play_music,0.0188
+1272,জ্বালা জ্বালা গান সারিবদ্ধভাবে বাজান,play_music,play_music,0.0189
+1273,পঞ্চদশের জন্য আমার ডাক্তারের অ্যাপয়েন্টমেন্ট যোগ করুন,calendar_set,play_music,0.0186
+1274,বস্তুর নামের সংজ্ঞা,qa_definition,play_music,0.0188
+1275,আজকে চট্টগ্রাম রেলওয়ে স্টেশনের জন্য রেলগাড়ীর টিকিট খুঁজুন,transport_query,iot_wemo_on,0.0186
+1276,আমি একটি ক্যাপুচিনো চাই,iot_coffee,play_music,0.0188
+1277,টাকা বনাম রুপির কত,qa_currency,play_music,0.0186
+1278,এই মুদ্রার মধ্যে হার,qa_currency,play_music,0.0187
+1279,আমি কিছু ফোক শুনতে পছন্দ করব,play_music,play_music,0.0188
+1280,আজ আমি বিকেলে যাওয়ার আগে কি জানালা বন্ধ করে দেব,weather_query,iot_wemo_on,0.0188
+1281,নতুন মেইলের জন্য আমার জিমেইল চেক করুন,email_query,play_music,0.0187
+1282,তুমি কি আর্কের সবচেয়ে নতুন গানটি খুঁজতে পারো,play_music,play_music,0.0189
+1283,আমার ফেসবুক লিস্টে সবাই কি খেলা দেখছে,social_query,play_music,0.0188
+1284,আমাকে ফুটবল খেলার জন্য একটি কোম্পানি দিন,play_game,play_music,0.0188
+1285,এই ব্যান্ডের প্রধান গায়কের নাম কি,music_query,play_music,0.019
+1286,এই মেইলের উত্তর দিন,email_sendemail,play_music,0.0187
+1287,অ্যালেক্সা ইমেইল লিখুন,email_sendemail,play_music,0.0188
+1288,ক্যালেন্ডারের সমস্ত ইভেন্ট মুছুন,calendar_remove,iot_wemo_on,0.0186
+1289,আমার প্লেলিস্টের একটা রেট্রো গান শোনাও,play_music,play_music,0.0191
+1290,সেখানে কি সকালের শো-গুলি পাওয়া যায়,calendar_query,play_music,0.0187
+1291,আজকের মত ট্রাফিক কি,transport_traffic,iot_wemo_on,0.0186
+1292,প্রতিদিন ক্যালেন্ডারে ইভেন্ট সেট করুন,calendar_set,iot_wemo_on,0.0187
+1293,আমার কোন jacket পরা উচিত,weather_query,iot_wemo_on,0.0188
+1294,আমার জন্য সোনালী থেকে প্রাপ্ত নতুন ইমেল চেক করুন,email_query,play_music,0.0186
+1295,রিয়াজ কোথায় থাকেন,qa_factoid,play_music,0.0187
+1296,আমার কাছে কি প্রান্ত থেকে কোনো নতুন ইমেইল আছে,email_query,iot_wemo_on,0.0186
+1297,আপনি আমাকে একটি বাইক বর্ণনা করতে পারেন,qa_definition,play_music,0.0188
+1298,আমি কিছু র‍্যাপ মিউজিক শুনতে চাই,play_music,play_music,0.0191
+1299,আমি আবার গানটি শুনতে চাই,play_music,play_music,0.019
+1300,আমার জানা বিষয় সম্পর্কে আমাকে সহজ প্রশ্ন জিজ্ঞাসা করুন এবং যখন আমি ভুল করি তখন আমাকে বলুন,general_quirky,iot_wemo_on,0.0187
+1301,olly খুঁজে বের করুন যদি ফুড পাণ্ডা বিতরণ করে,takeaway_query,play_music,0.0187
+1302,ডেস্ক বাতি এক বন্ধ,iot_hue_lightoff,play_music,0.0187
+1303,এই সপ্তাহে লাইব্রেরিতে কি কোন ঘটনা ঘটছে,recommendation_events,play_music,0.0187
+1304,আগামীকাল আমার মায়ের জন্মদিন,calendar_set,play_music,0.0186
+1305,দিলিপের নতুন ইমেলের জন্য আমার ইনবক্স কোনও স্ক্যান করুন,email_query,play_music,0.0187
+1306,আমার জন্য একটি ট্যাক্সি খুঁজুন,transport_taxi,iot_wemo_on,0.0187
+1307,খাবারের জন্য রেসিপি,cooking_recipe,play_music,0.0187
+1308,কিভাবে আমি আমার শেষ দুটি ইমেইল,email_query,play_music,0.0186
+1309,সোমবার দশ টায় কাদেরের সাথে আমার মিটিং এর কথা মনে করিয়ে দিও,calendar_set,play_music,0.0187
+1310,হে,general_greet,play_music,0.0187
+1311,সাঁতার কাটতে যাওয়া কি খুব ঠান্ডা,weather_query,iot_wemo_on,0.0186
+1312,ডায়েরিতে আর কি নেই,lists_query,play_music,0.0187
+1313,আজ একটি ক্লান্তিকর দিন ছিল,general_quirky,iot_wemo_on,0.0187
+1314,আমার পাটিসাপটা বানাতে সাহায্য দরকার,cooking_recipe,play_music,0.0187
+1315,ভূমিকম্পের পূর্বাভাস,general_quirky,iot_wemo_on,0.0187
+1316,আজ কি কারো জন্মদিন বা বার্ষিকী,calendar_query,play_music,0.0186
+1317,গাড়ির রেডিও প্রেইরি হোম সঙ্গী বাজান,play_radio,play_music,0.0187
+1318,আমার সমস্ত নির্ধারিত ঘটনা পরিত্রাণ পেতে,calendar_remove,play_music,0.0187
+1319,দুপুর বারোটা এবং বিকেল চারটে মাঝে আমার কি ইভেন্ট আছে,calendar_query,iot_wemo_on,0.0188
+1320,ফেসবুক,social_query,play_music,0.0188
+1321,আমাকে কিছু pop বাজান,play_music,play_music,0.0189
+1322,আপনি আমাকে ইমরান এর যোগাযোগের তথ্য বলতে পারেন,email_querycontact,play_music,0.0187
+1323,একটি হাইপোথিসিস কি,qa_definition,play_music,0.0187
+1324,আসুন কানামাছি খেলি,play_game,play_music,0.0188
+1325,ইমেইল চেক করুন কাজের তালিকা আছে,email_query,play_music,0.0186
+1326,একটি নতুন কেনাকাটার তালিকা তৈরি করুন,lists_createoradd,iot_wemo_on,0.0186
+1327,microsoft শেয়ারের বর্তমান মূল্য তালিকাভুক্ত করুন,qa_stock,play_music,0.0187
+1328,ঢাকার বাইরে কি বৃষ্টি হচ্ছে,weather_query,iot_wemo_on,0.0185
+1329,এটা ফরোয়ার্ড কর,play_podcasts,play_music,0.0188
+1330,ক্যালেন্ডার থেকে নতুন বছর সরান,calendar_remove,iot_wemo_on,0.0186
+1331,কিছু শব্দ কর,play_music,play_music,0.0188
+1332,চালার আলো বন্ধ কর,iot_hue_lightoff,play_music,0.0186
+1333,আমার তালিকায় কি আছে বলুন,lists_query,play_music,0.0187
+1334,শান্ত এর প্রতিশব্দ কি,qa_definition,play_music,0.0186
+1335,বেতরা তরঙ্গ জন্য একটি রেডিও চ্যানেল টিউন করুন,play_radio,play_music,0.0188
+1336,আমি সকালের নাস্তা আটটায় খাই,general_quirky,play_music,0.0187
+1337,আমি ইমেলটি আমার নতুন ইমেইল ঠিকানা a. b. c. at gmail dot com এ প্রেরণ করতে চাই,email_sendemail,play_music,0.0186
+1338,চুল কি দিয়ে তৈরি,qa_factoid,play_music,0.0187
+1339,আমার এলাকায় কি ঘটছে,recommendation_events,iot_wemo_on,0.0186
+1340,আমার পছন্দের বইটি বাজাও,play_audiobook,play_music,0.0188
+1341,রবিবার বিকেলে আমি কি করছি তা আমাকে মনে করিয়ে দিন,calendar_set,play_music,0.0187
+1342,রিকি মার্টিন,play_music,play_music,0.0187
+1343,নিউমার্কেট কখন খোলে,recommendation_events,play_music,0.0186
+1344,এটা কি সত্য যে জিমটি সাত মাইল দূরে,qa_factoid,iot_wemo_on,0.0186
+1345,সব সেট অ্যালার্ম তালিকা,alarm_query,play_music,0.0188
+1346,আমার বন্ধকী কখন,calendar_query,play_music,0.0187
+1347,আসন্ন মিটিংয়ের জন্য অনুস্মারক সেট করুন,calendar_set,play_music,0.0188
+1348,আমার তালিকায় জিনিসগুলি তালিকাভুক্ত করুন,lists_query,play_music,0.0187
+1349,মা কে কল করতে আমাকে মনে করিয়ে দিবেন,calendar_set,play_music,0.0187
+1350,পপ শিল্পে কি ঘটছে,news_query,play_music,0.0186
+1351,রাজমিস্ত্রীকে টুইট করো,social_post,play_music,0.0187
+1352,বাংলাদেশের দূরত্ব কত,qa_factoid,iot_wemo_on,0.0186
+1353,আকর্ষণীয় খবর বলুন,news_query,play_music,0.0188
+1354,মিটিং সম্পর্কে রোশনিকে ইমেইল পাঠান,email_sendemail,play_music,0.0187
+1355,সব মাইলস বাজাও,play_music,play_music,0.0187
+1356,শেখ মুজিব কখন জন্মগ্রহণ করেছিলেন তা আমাকে বলুন,qa_factoid,play_music,0.0186
+1357,টুইট বি আর বি ক্যাবলস গ্রাহক পরিষেবা এবং তাদের বলুন আমি ত্রিশ মিনিট ধরে অপেক্ষা করছি,social_post,iot_wemo_on,0.0187
+1358,গেম চালু করুন,play_game,play_music,0.0188
+1359,আমাকে pontificate শব্দের সংজ্ঞা দিন,qa_definition,iot_wemo_on,0.0187
+1360,আমার কি pool coat পরা উচিত,weather_query,play_music,0.0186
+1361,রুবিক্স কিউবের পরিমাপ কি,qa_factoid,play_music,0.0187
+1362,হাসিনা সম্পর্কে আজকের প্রথম আলো নিবন্ধগুলি খুঁজুন,news_query,play_music,0.0187
+1363,আমি চাই আপনি আমাকে মনে করবেন যে আমার রেইন কোট নাও কারণ বৃষ্টি হতে পারে,calendar_set,play_music,0.0186
+1364,কিছু সফট রক বাজান,play_radio,play_music,0.0188
+1365,মঙ্গলবারের জন্য মিটিং-য়ের রিমাইন্ডারগুলি মুছে ফেলুন,calendar_remove,play_music,0.0187
+1366,আমাকে বৃহস্পতিবার সকাল ছয়টা জাগিয়ে তুলুন যাতে আমি মিটিংয়ের জন্য সময় পাই,calendar_set,play_music,0.0187
+1367,আমার গানের তালিকা চালু করুন,play_music,play_music,0.019
+1368,কাজ সম্পর্কে রাফি থেকে মেইল ​​হয়,email_query,play_music,0.0186
+1369,আসবাবপত্র থেকে টেবিল সরান,lists_remove,play_music,0.0188
+1370,একটি ক্যাফটান কি,qa_definition,play_music,0.0186
+1371,তিন ঘন্টার মধ্যে আমাকে সতর্ক করুন,alarm_set,play_music,0.0186
+1372,আমাকে কিছু ল্যাভেন্ডার টোনড আলো দিন,iot_hue_lightchange,play_music,0.0188
+1373,নতুন পরিস্থিতির সময় বা ক্যালেন্ডার নতুন তালিকায়,lists_createoradd,play_music,0.0187
+1374,পৃথিবীর সর্বোচ্চ পর্বতশ্রেণী কি,qa_factoid,iot_wemo_on,0.0185
+1375,olly আপনি কি আমাকে দু-ঘণ্টার মধ্যে জিম ক্লাসের জন্য মনে করিয়ে দিতে পারবেন,calendar_set,play_music,0.0188
+1376,ক্লাসিকাল সঙ্গীতের প্লেলিস্ট বাজান,play_music,play_music,0.0191
+1377,tweet ভোক্তা পরিষেবা,social_post,iot_wemo_on,0.0187
+1378,পাঁচশ একুশকে তিন দিয়ে ভাগ করলে বাকি কত,qa_maths,play_music,0.0186
+1379,এই সপ্তাহের জন্য কি আছে,calendar_query,play_music,0.0186
+1380,ঢাকায় ব্যাডমিন্টন ম্যাচ এর বিষয়ে দোসরা জানুয়ারি সেট করুন,calendar_set,play_music,0.0187
+1381,আমি কি আমার তালিকা চেক করতে পারি,lists_query,play_music,0.0187
+1382,জারিনকে একটি ইমেইল পাঠান,email_sendemail,play_music,0.0186
+1383,দুই ঘণ্টার মধ্যে মিটিংয়ের জন্য নতুন বিজ্ঞপ্তি,calendar_set,play_music,0.0187
+1384,আমাদের জায়গায় আজকে কোন মেলা আছে,recommendation_events,play_music,0.0188
+1385,ফেসবুকে থেকে সর্বশেষ সংবাদ ফিড,social_query,play_music,0.0187
+1386,শ্যুট ডেল একটি ইমেইল প্রতিক্রিয়া তাকে সৈকতে গল সম্পর্কে সতর্ক করে,email_sendemail,play_music,0.0187
+1387,এটি অন্তর্ভুক্ত করো,lists_createoradd,play_music,0.0188
+1388,আপনি কি আমাদের বাড়ির ট্রাফিক পরীক্ষা করতে পারেন,transport_traffic,iot_wemo_on,0.0187
+1389,বিশাল শব্দের সংজ্ঞা কি বলুন,qa_definition,play_music,0.0187
+1390,আজ রাতে কি আমাকে হাত-মোজাগুলি পরতে হবে,weather_query,iot_wemo_on,0.0187
+1391,আগামীকাল কি হচ্ছে,news_query,iot_wemo_on,0.0186
+1392,ক্যালেন্ডারে জন এর জন্মদিনের পুনরাবৃত্তিমূলক ইভেন্ট তৈরি করুন,calendar_set,iot_wemo_on,0.0186
+1393,মাতৃ দিবস কি রবিবার,calendar_query,iot_wemo_on,0.0186
+1394,রেডিও শুনুন,play_radio,play_music,0.0189
+1395,এখানে থেকে দারাজ কত দূরে,transport_query,iot_wemo_on,0.0187
+1396,বার্তাটি ইমেল করুন হাই ভাই আজ রাতে ডিনারের জন্য নিচে আসুন,email_sendemail,play_music,0.0187
+1397,দার্জিলিং কি তুষারপাত হচ্ছে,weather_query,iot_wemo_on,0.0186
+1398,দয়া করে বারোই ফেব্রুয়ারী সকাল ন-টায় ডাক্তারের অ্যাপয়েন্টমেন্টটি আমার ক্যালেন্ডার থেকে মুছে ফেলুন,calendar_remove,iot_wemo_on,0.0186
+1399,কাজের জন্য কোন ট্রাফিক আছে,transport_traffic,play_music,0.0187
+1400,আমি একটি তালিকা তৈরি করতে চাই এবং এটি শিরোনাম তালিকার সাথে একটি পাঠ্য ফাইল হিসাবে স্বয়ংক্রিয়ভাবে সংরক্ষণ করা উচিত,lists_createoradd,play_music,0.0188
+1401,বৃষ্টি হলে আমি চাকরিতে যাব না,weather_query,iot_wemo_on,0.0186
+1402,আমার এখন একটা ট্যাক্সি রাইড দরকার,transport_taxi,iot_wemo_on,0.0187
+1403,দয়া করে আমাকে ঢাকা ট্রেনের টিকিট বুক করুন,transport_ticket,play_music,0.0186
+1404,শনিবার নীলা যাওয়ার ট্রেন ধরার জন্য সবচেয়ে সুবিধাজনক সময় কোনটি,transport_query,play_music,0.0187
+1405,এই তালিকা ভুলে যান,lists_remove,play_music,0.0188
+1406,এই টাইম জোন অনুসারে সময় বলুন,datetime_query,iot_wemo_on,0.0187
+1407,আপনি কি আমার বান্ধবীকে পছন্দ করেন,general_quirky,play_music,0.0186
+1408,অনুগ্রহ করে শাস্ত্রীয় গান বাজান,play_music,play_music,0.0189
+1409,আমি চাই আপনি আগামীকাল সকাল নয়টায় নিথর রঞ্জন মধু এবং সুদীপ্ত রহমান জেসি এবং ক্যারলের সাথে একটি মিটিং শিডিউল করুন,calendar_set,play_music,0.0186
+1410,আমার জন্য একটি নতুন তালিকা তৈরি করুন,lists_createoradd,play_music,0.0188
+1411,আপনি কি আমাকে বলতে পারেন একটি গাভীর পাকস্থলী কয়টি,qa_factoid,play_music,0.0186
+1412,অডিও নিঃশব্দ করুন,audio_volume_mute,play_music,0.0191
+1413,আপনি কি অনুগ্রহ করে ছয়টায় অ্যালার্ম সেট করতে পারেন,alarm_set,iot_wemo_on,0.0186
+1414,ট্রেন কখন আসে,transport_query,play_music,0.0187
+1415,আব্দুল হকের বয়স কত,qa_factoid,play_music,0.0186
+1416,আমাকে একটি পিঁজা রান্না করুন,cooking_recipe,play_music,0.0186
+1417,আপনি আমাকে সময় বলতে পারেন,datetime_query,play_music,0.0187
+1418,আমি আজকে ঢাকা গেয়েছিলাম,general_quirky,iot_wemo_on,0.0186
+1419,শুক্রবার দুপুর একটায় রামপুরা এর কোথায় সেই মিটিং,calendar_query,play_music,0.0186
+1420,সর্বশেষ শিরোনাম কি,news_query,play_music,0.0188
+1421,ক্রিকেটার মাশরাফি থাকার জায়গা কি,qa_factoid,play_music,0.0187
+1422,কতক্ষণ ডিম সেদ্ধ করতে হবে,cooking_recipe,play_music,0.0186
+1423,আমাকে কানিজ ফাতেমা সম্পর্কে বলুন,qa_factoid,play_music,0.0186
+1424,general health tipsসাধারণ স্বাস্থ্য টিপস,general_quirky,iot_wemo_on,0.0187
+1425,আমি গুরুত্বপূর্ণ মিউজিক ফাইল এ এটা করেছি,music_likeness,play_music,0.019
+1426,ক্যাননের ক্যামেরাগুলি কোথায় কিনতে পাওয়া যাবে,recommendation_locations,play_music,0.0187
+1427,আমার শুরু করা শেষ চ্যাপ্টার থেকে আমার অডিওবুকটি আবার চালাও,play_audiobook,play_music,0.0188
+1428,আমাকে বলুন যেতে সবচেয়ে সুন্দর জায়গা কি,recommendation_locations,iot_wemo_on,0.0187
+1429,কেন্দ্রীয় টাইম জোনে কতটা বাজে,datetime_query,play_music,0.0187
+1430,এই বুধবার সকালে আমার মিটিং গুলো আমাকে বলো,calendar_query,play_music,0.0187
+1431,আমার সবচেয়ে বাজানো গান কি,music_query,play_music,0.019
+1432,এবিসি রেডিও ঊননব্বই দশমিক দুই এফ.এম. এ ভুলি বিসরি ইয়াদিন অনুষ্ঠান চালান,play_radio,play_music,0.0188
+1433,মধ্যাহ্ন-২ পুনরায় রিজিউম করুন,play_audiobook,play_music,0.0187
+1434,নতুন গ্যাজেট,general_quirky,play_music,0.0188
+1435,আপনার কি,general_quirky,play_music,0.0187
+1436,এখন থেকে দুই ঘন্টার জন্য একটি অ্যালার্ম সেট করুন,alarm_set,iot_wemo_on,0.0188
+1437,আমি কিভাবে ঢাকা শহর থেকে চট্টগ্রাম যেতে পারি,transport_query,iot_wemo_on,0.0185
+1438,এটিতে মশলা থাকা উচিত,cooking_recipe,play_music,0.0187
+1439,সম্পূর্ণরূপে আমার ক্যালেন্ডার পরিষ্কার করুন,calendar_remove,play_music,0.0186
+1440,মাইকেল জ্যাকসনের অডিও বুক থেকে গানটি রিজিউম করুন,play_audiobook,play_music,0.019
+1441,অ্যাডাম গিলক্রিস্টের জন্মদিন কি,qa_factoid,play_music,0.0186
+1442,ঢাকা রাজধানী কি,qa_factoid,iot_wemo_on,0.0186
+1443,আমার লিস্ট করে আমায় দিন,lists_query,play_music,0.0188
+1444,কমলালেবুতে কত ক্যালোরি আছে,qa_factoid,play_music,0.0186
+1445,আমাকে একটা র‍্যান্ডম গান বাজাও,play_music,play_music,0.019
+1446,দয়া করে আমার অ্যালার্ম বাতিল করুন,alarm_remove,iot_wemo_on,0.0187
+1447,ফেনি কি ঘটনা ঘটছে,recommendation_events,play_music,0.0187
+1448,দয়া করে জ্যাজ মিউজিক চালান,play_music,play_music,0.0189
+1449,অলি আপনি কিভাবে মুরগীর কাবাব চিকেন করবেন,cooking_recipe,play_music,0.0187
+1450,আজ তিনটার পর আমার সমস্ত অ্যাপয়েন্টমেন্ট বাতিল করুন এবং আমাকে বিস্তারিত জানান,calendar_remove,iot_wemo_on,0.0186
+1451,আমি কি ঢাকায় সময় জানতে পারি,datetime_query,iot_wemo_on,0.0186
+1452,ঠাকুমাকে একটি ইমেল পাঠান যে আমরা শনিবারের মধ্যে ড্রপ করছি তারপর দেখা হবে,email_sendemail,play_music,0.0187
+1453,কামাল হোসেন কলেজে কোথায় গিয়েছিল,qa_factoid,play_music,0.0186
+1454,starbucks এর জন্য অভিযোগের ওয়েবসাইট টানুন,social_post,play_music,0.0187
+1455,কখন পৃথিবী শেষ হবে,general_quirky,iot_wemo_on,0.0186
+1456,আপনি কি আমাকে বলতে পারেন হাইপারট্রফি মানে কি,qa_definition,play_music,0.0187
+1457,alexa একটি নতুন তালিকা তৈরি করুন,lists_createoradd,play_music,0.0188
+1458,আপনি কি প্রতি সপ্তাহের দিনে তিন p. m. সময়ে কফি তৈরির জন্য কফি মেশিন সেট করতে পারেন,iot_coffee,iot_wemo_on,0.0186
+1459,গানের বর্তমান অ্যালবাম এলোমেলো করুন,music_settings,play_music,0.019
+1460,আমার ক্যালেন্ডারে পরবর্তী কি,calendar_query,iot_wemo_on,0.0186
+1461,আমি তোমাকে শুনতে পাচ্ছি না,audio_volume_up,play_music,0.0187
+1462,আগামীকাল এই সম্পর্কে আমাকে মনে করিয়ে দিন,calendar_set,play_music,0.0186
+1463,মালদ্বীপ কোথায় অবস্থিত,qa_factoid,play_music,0.0186
+1464,আমাকে রাঙ্গামাটি থেকে কুমিল্লার রেলগাড়ী এর টিকিট পেতে হবে,transport_ticket,play_music,0.0186
+1465,রোহণকে লিখুন একটি বার্তা লিখুন যে আমার দেরী হবে,email_sendemail,play_music,0.0187
+1466,আপনি কি বিজ্ঞাপনদাতাদের কাছে আমার কোন তথ্য বিক্রি করেন,general_quirky,play_music,0.0186
+1467,টাকা এবং রুপির পরিবর্তন হার কত,qa_currency,play_music,0.0186
+1468,আমার ইনস্টাগ্রাম অ্যাকাউন্টে সর্বশেষ ফটোগুলি কি কি,social_query,play_music,0.0187
+1469,যখন শো শুরু হয় তা চেক করো,calendar_query,play_music,0.0188
+1470,আমাদের রাষ্ট্রপতি নির্বাচনের খবর দিন,news_query,play_music,0.0186
+1471,পঞ্চম মে আমার ক্যালেন্ডারে মায়ের ফ্যাশন ডিনার যোগ করুন,calendar_set,play_music,0.0186
+1472,আমার অ্যালার্মটি কখনের জন্য সেট করা হয়েছে,alarm_query,play_music,0.0188
+1473,রান্না ঘরের আলো এক শতাংশে চালু করুন,iot_hue_lightchange,play_music,0.0186
+1474,নরম পনির শক্ত থেকে ভাল,cooking_recipe,play_music,0.0187
+1475,বঙ্গবন্ধু গোল্ড কাপ আনুষ্ঠানিকভাবে কখন শুরু হয়,qa_factoid,play_music,0.0187
+1476,একটি কারখানা কি,qa_definition,play_music,0.0187
+1477,আসুন এই ইমেইলের উত্তর দিই,email_sendemail,play_music,0.0187
+1478,pacific সময়ে এখন কতটা বাজে,datetime_query,play_music,0.0185
+1479,ফেসবুকে ছবি পোস্ট করুন,social_post,play_music,0.0187
+1480,আমার জন্য অনলাইনে কিছু অর্ডার করুন,general_quirky,play_music,0.0188
+1481,অলি আমাকে বলুন আমার বর্তমানে কি তালিকা আছে,lists_query,play_music,0.0187
+1482,ক্ষুধার্ত চোখে চালু করা,play_music,iot_wemo_on,0.0186
+1483,এখনই আমার কাছে একটি উবার পাঠান,transport_taxi,play_music,0.0187
+1484,সব সর্বশেষ নাচের গানাগুলির একটি প্লেলিস্ট খুঁজুন এবং তৈরি করুন৷,play_music,play_music,0.019
+1485,আগামী মঙ্গলবার সকাল আটটার একটি অ্যালার্ম সেট করুন,alarm_set,iot_wemo_on,0.0187
+1486,আপনি কি আমাকে বান্দরবান ট্রেনের সময় দিতে পারেন,transport_query,play_music,0.0186
+1487,দয়া করে আমার জন্য বস্তুটির বর্ণনা করুন,qa_definition,play_music,0.0187
+1488,আমাকে খবরের শিরোনাম বলুন,news_query,play_music,0.0187
+1489,আমার জন্য রাঙ্গামাটি যাওয়ার জন্য একটি উবার ট্যাক্সি বুক করুন,transport_taxi,play_music,0.0187
+1490,আজকের ইমেল ইনবক্স থেকে বিষয় লাইন এবং প্রেরক কি,email_query,play_music,0.0186
+1491,ঢাকায় কতটা বাজে,datetime_query,play_music,0.0186
+1492,আমাকে তাহসানের একটি গান বাজান,play_music,play_music,0.0189
+1493,এই ব্যক্তির সাথে তারিখ এবং সময়ের জন্য ক্যালেন্ডার সেট করুন,calendar_set,iot_wemo_on,0.0186
+1494,olly বাগান পার্কে ইভেন্ট এবং মিটিং কি আছে দেখুন,recommendation_events,play_music,0.0188
+1495,আমাকে এখন ঢাকাতে সময় দাও,datetime_query,iot_wemo_on,0.0186
+1496,বিশ্বের খবরের সাথে আমাকে আপ টু ডেট রাখুন,news_query,play_music,0.0187
+1497,রক মেটাল বাজাবে না,music_dislikeness,play_music,0.0187
+1498,কোন নতুন অপঠিত ইয়াহু ইমেইল আছে কি,email_query,iot_wemo_on,0.0186
+1499,শব্দের মানে কি,qa_definition,play_music,0.0187
+1500,টাকা দাম কত,qa_currency,iot_wemo_on,0.0186
+1501,প্রেসিডেন্ট ট্রাম্পের জনসাধারণের দৃষ্টিভঙ্গি নিয়ে সর্বশেষ জরিপ কী,news_query,play_music,0.0186
+1502,যদি এটি চট্টগ্রামের রাত দশটা তবে চিটাগং-এ সময় কত,datetime_convert,play_music,0.0187
+1503,তালিকা,lists_query,play_music,0.0188
+1504,আগামী বৃহস্পতিবার ব্যাংকে কল করার জন্য আমাকে মনে করান,calendar_set,play_music,0.0187
+1505,টাকার বনাম টাকা বিনিময় হার চেক করুন,qa_currency,iot_wemo_on,0.0186
+1506,একটি ঢাকা কি,qa_factoid,play_music,0.0186
+1507,মহাত্মা গান্ধীকে কেন গুলি করেছিল গডসে,qa_factoid,play_music,0.0186
+1508,বিশেই এপ্রিল আমার ভাইয়ের জন্মদিনের কথা মনে করিয়ে দিতে ভুলবেন না,calendar_set,play_music,0.0187
+1509,ইতিহাস,general_quirky,play_music,0.0187
+1510,খবর কি,news_query,play_music,0.0186
+1511,বাকি দিনের জন্য আমার ক্যালেন্ডার সাফ করুন,calendar_remove,play_music,0.0187
+1512,আব্দুর রশিদ সম্পর্কে আমাকে বলুন,qa_factoid,play_music,0.0186
+1513,সক্রিয় অ্যালার্ম তালিকাভুক্ত করুন,alarm_query,play_music,0.0187
+1514,সময় অঞ্চল রূপান্তর করুন,datetime_convert,play_music,0.0187
+1515,আমার আসন্ন ঘটনা কি,calendar_query,play_music,0.0187
+1516,শুক্রবার শুভ মজুমদার সাথে একটি মিটিং করতে কর্মস্থলে আমাকে মনে করিয়ে দিন,calendar_set,play_music,0.0186
+1517,এই মুহূর্তে আমার জন্য একটি ভাল কৌতুক বলুন,general_joke,play_music,0.0187
+1518,নতুন ইমেইলগুলি সম্পর্কে আমাকে বলুন,email_query,play_music,0.0186
+1519,বৃহস্পতিবার দুপুর দুটোয় ফরমান বাবুর সাথে একটি meeting সেট করুন,calendar_set,play_music,0.0187
+1520,স্টক মূল্যের জন্য বিশদ বিবরণ,qa_stock,play_music,0.0187
+1521,আমি জানতে চাই যে আমার কাছে সজীব খানের সাবজেক্ট লাইন বাজেট সহ কোনো ইমেল আছে কিনা,email_query,play_music,0.0186
+1522,আমি কি সময় পেতে পারি,datetime_query,play_music,0.0186
+1523,আপনি আমাকে জামান সম্পর্কে বিস্তারিত দিতে পারেন,email_querycontact,play_music,0.0186
+1524,আগামী মঙ্গলবারের তারিখ কি,datetime_query,iot_wemo_on,0.0186
+1525,আমাকে বনানী একটি রেস্তোরা পরামর্শ দিন,recommendation_locations,play_music,0.0186
+1526,আর্টসেলের যেকোন গান চালাও,play_music,play_music,0.0191
+1527,যে বিষয়ে নতুন জিনিস অনুসন্ধান করুন,news_query,play_music,0.0187
+1528,আপনি কি ভলিউম কমিয়ে দিতে পারেন এবং এই গানের শিরোনাম কি আমাকে বলুন,music_query,play_music,0.0189
+1529,sony-কে জানান যে আমি তাদেরকে ঘৃণা করি,social_post,play_music,0.0189
+1530,জলবায়ু,weather_query,play_music,0.0187
+1531,একটি হোম রান সংজ্ঞা কি,qa_definition,play_music,0.0187
+1532,প্রথম আলো থেকে কি কি খবর আছে,news_query,play_music,0.0186
+1533,এক ব্রিটিশ পাউন্ডের সাথে বিনিময় হার কত,qa_currency,iot_wemo_on,0.0186
+1534,শেষ ঘন্টার জন্য আমার ইমেইল চেক করুন,email_query,iot_wemo_on,0.0186
+1535,অনলাইন সমীক্ষা সম্পর্কে আমাকে সর্বশেষ পডকাস্ট ভুত এফ এম চালিয়ে দেখান,play_podcasts,play_music,0.0188
+1536,দয়া করে স্মার্ট প্লাগ সকেট বন্ধ করুন,iot_wemo_off,iot_wemo_on,0.0189
+1537,আপনি কি ফোন নম্বর জানেন জেনিয়া সুইটির,qa_factoid,play_music,0.0187
+1538,আমার আলোগুলি বিভিন্ন রঙে জ্বালান,iot_hue_lightchange,play_music,0.0188
+1539,সবচেয়ে সাম্প্রতিক আব্দুল হাই সিনেমার প্লট কি,qa_factoid,play_music,0.0188
+1540,আমার আছে যে তালিকা আমাকে দেখান দয়া করে,lists_query,play_music,0.0188
+1541,অন্য শহরে সময় কি,datetime_query,play_music,0.0187
+1542,ঠান্ডা মনে হচ্ছে,weather_query,iot_wemo_on,0.0187
+1543,মন্দিরা এর নামে ক্যালেন্ডারে নতুন ইভেন্ট যোগ কর,calendar_set,iot_wemo_on,0.0186
+1544,আগামীকাল দুপুরে আমার বাংলা রেষ্টুরেন্ট মধ্যাহ্নভোজের সময় নির্ধারণ করুন,calendar_set,play_music,0.0187
+1545,এই দেশে বিনিময় হার কি,qa_currency,play_music,0.0185
+1546,আমার বাইরে যাওয়ার জন্য কি ছাতা প্রয়োজন,weather_query,play_music,0.0186
+1547,olly google customer service-এ টুইট করুন যে তাদের প্রোডাক্টগুলি খারাপ,social_post,play_music,0.0188
+1548,কাছাকাছি ঘটনা খুঁজুন,recommendation_events,iot_wemo_on,0.0188
+1549,কিভাবে লোহা তৈরি করা হয়,qa_factoid,play_music,0.0188
+1550,এই মাসের বেস্ট সেলার অডিওবুকটি রিজিউম কর,play_audiobook,play_music,0.0189
+1551,আগামীকাল বিকেল তিনটায় bob সাথে আমার দেখা হবে,calendar_query,play_music,0.0187
+1552,রাজনীতিতে যে কোনো নতুন বিষয়ে আমাকে সতর্ক করুন,news_query,play_music,0.0187
+1553,সঙ্গীত প্লেলিস্ট খেলা,play_music,play_music,0.0191
+1554,লাইটগুলি পরিবর্তন করুন,iot_hue_lightchange,play_music,0.0188
+1555,হুমায়ন আহমেদের রুপা চালাও,play_audiobook,play_music,0.0186
+1556,শাকিব থেকে কোনো নতুন মেইল,email_query,play_music,0.0187
+1557,আমার মায়ের ইমেইলের একটি উত্তর লিখুন,email_sendemail,play_music,0.0187
+1558,alexa আমি মাসের জন্য ডলার পেয়েছি এই মাসে আমি প্রতিদিন কত খরচ করতে পারি,qa_maths,iot_wemo_on,0.0186
+1559,আমি হান্ডির সাথে অসন্তুষ্ট দয়া করে আমাকে সাহায্য করুন,social_post,play_music,0.0187
+1560,ঢাকার আবহাওয়া কি দশ ডিগ্রির কম হবে,weather_query,iot_wemo_on,0.0186
+1561,আমার আসন্ন ঘটনা তালিকা আউট,calendar_query,play_music,0.0188
+1562,আজ আমি কার সাথে মিটিং করছি,calendar_query,play_music,0.0187
+1563,দারাজ এর ক্লোজিং প্রাইস কি,qa_stock,play_music,0.0186
+1564,দারাজের ঠান্ডা পিজ্জা সম্পর্কে tweet,social_post,iot_wemo_on,0.0187
+1565,আমি চাই যে আমার রোবট আমার কুকুরকে খাওয়াতে এবং পোষাক যখন আমি বাড়িতে থাকি না,general_quirky,iot_wemo_on,0.0188
+1566,বর্তমান সময় ঢাকা,datetime_query,iot_wemo_on,0.0186
+1567,পরবর্তী পডকাস্ট খেলুন,play_podcasts,play_music,0.0188
+1568,অলি ট্রাফিক কি ম,transport_traffic,play_music,0.0187
+1569,এই সপ্তাহের গুরুত্বপূর্ণ ঘটনা নোট করুন,calendar_set,play_music,0.0186
+1570,আমি কি পরের সপ্তাহান্তে নির্ধারিত কোনো মিটিং আছে,calendar_query,play_music,0.0186
+1571,আমি এখনও পড়িনি এমন কোনও ইমেইলগুলি আছে কি,email_query,iot_wemo_on,0.0186
+1572,আমি কি আপনাকে আমার ক্যালেন্ডার থেকে পরবর্তী ইভেন্ট মুছে ফেলতে বলতে পারি,calendar_remove,iot_wemo_on,0.0186
+1573,আমি আজ কি তালিকা করেছি,lists_query,play_music,0.0187
+1574,আমার এখান থেকে ঢাকা যাওয়ার ট্রেনের টিকিট দরকার,transport_ticket,play_music,0.0186
+1575,ইভেন্ট বছরে যান এবং মুছে ফেলুন,calendar_remove,iot_wemo_on,0.0187
+1576,যিনি এই গানের সঙ্গীত পরিচালক,music_query,play_music,0.0191
+1577,বাংলা কাস্ট পডকাস্ট চালু,play_podcasts,play_music,0.0187
+1578,আমাকে ক্যালেন্ডার সম্পর্কে স্মরণ করিয়ে দিন,calendar_set,play_music,0.0186
+1579,এই বছর আমার জন্মদিন কোন দিন পড়ে,datetime_query,play_music,0.0186
+1580,একটি ছোট ক্লাবের আকার কত,qa_factoid,iot_wemo_on,0.0187
+1581,ঘূর্ণন ঘটনা সেট,calendar_set,play_music,0.0188
+1582,পুরো পিঁজা ভাজার জন্য সঠিক তাপমাত্রা খুঁজুন,cooking_recipe,iot_wemo_on,0.0187
+1583,অলি তোমাকে আমার দূরুত্ব যাওয়ার বিকল্প পথ খুঁজে বের করতে হবে,transport_query,play_music,0.0187
+1584,আজকের জন্য আমার কার্যকলাপ তালিকা সাফ করুন,lists_remove,play_music,0.0187
+1585,সবচেয়ে ভাল মরিচ কি,cooking_recipe,play_music,0.0187
+1586,উত্তর রচনা করুন,email_sendemail,play_music,0.0187
+1587,নিসান কখন আমার শহরে আসবে,qa_factoid,play_music,0.0187
+1588,হাস্যকর কৌতুক খুঁজুন,general_joke,iot_wemo_on,0.0187
+1589,সানগ্লাস প্রয়োজন আছে কি,weather_query,play_music,0.0186
+1590,গান সম্পর্কে মতামত সংরক্ষণ করুন,music_likeness,play_music,0.0189
+1591,আগের গান চালাও,play_music,play_music,0.0189
+1592,মেনুতে সবকিছু মুছুন,lists_remove,play_music,0.0188
+1593,অনুগ্রহ করে সাড়া দিন,email_sendemail,play_music,0.0188
+1594,disney গত সপ্তাহে স্টক মূল্য বৃদ্ধি কি,qa_stock,play_music,0.0188
+1595,ডেমরা এই সপ্তাহান্তে কোনো ঘটনা,recommendation_events,play_music,0.0187
+1596,আমার সেভ করা পডক্যাস্টটি শুরু কর,play_podcasts,play_music,0.0188
+1597,দয়া করে পরবর্তী পডকাস্ট পর্বে যান,play_podcasts,play_music,0.0187
+1598,এটি কি রৌদ্রজ্জ্বল পরিবেশ,weather_query,play_music,0.0185
+1599,আমাকে একটি ট্রেনে যাত্রা বুক করুন,transport_ticket,play_music,0.0187
+1600,আমি পরের সপ্তাহে কি শিডিউল করেছি,calendar_query,play_music,0.0186
+1601,বর্তমানে কি বৃষ্টি হচ্ছে,weather_query,iot_wemo_on,0.0186
+1602,আগামীকাল দুপুর দুইটায় মিটিং সম্পর্কে আমাকে মনে করিয়ে দিন,calendar_set,play_music,0.0187
+1603,শান্তনু রহমান শুভ সাথে একটি মিটিং সেট করুন,calendar_set,play_music,0.0187
+1604,সামগ্রিক দিন,general_quirky,play_music,0.0187
+1605,আমাকে প্রতিদিন সকাল এগারোটায় বসের সাথে মিটিং করার কথা মনে করিয়ে দিও,calendar_set,play_music,0.0186
+1606,মার্চের উনিশ দুপুর একটার মিটিং মুছে দিন,calendar_remove,play_music,0.0186
+1607,আমি কিভাবে পাস্তা রান্না করতে পারি,cooking_recipe,play_music,0.0186
+1608,নিকটস্থ রেস্টুরেন্ট কোথায় আমাকে দেখান,recommendation_locations,play_music,0.0186
+1609,বাইশে জুন সাকিবের জন্মদিনটি ক্যালেন্ডারে নিযুক্ত করুন,calendar_set,iot_wemo_on,0.0187
+1610,আমার যদি জাঙ্ক ফুড এবং অ্যালকোহল থাকে তাহলে কী হবে,general_quirky,play_music,0.0187
+1611,সমস্ত অ্যালার্ম পর্যালোচনা করুন,alarm_query,play_music,0.0187
+1612,আবহাওয়া মেঘলা,weather_query,iot_wemo_on,0.0187
+1613,আপনি বাংলাদেশ সম্পর্কে শুনলে আমাকে জানান,news_query,play_music,0.0187
+1614,প্লেলিস্ট থেকে গান বাজাও,play_music,play_music,0.019
+1615,আপনি কি আমার প্রিয় অ্যালাক্রিটি অডিও বই চালাতে পারেন,play_audiobook,play_music,0.0188
+1616,পরের মাসে লন কেয়ার অ্যাপয়েন্টমেন্ট মুছে ফেলুন,calendar_remove,play_music,0.0186
+1617,রাখা,play_audiobook,play_music,0.0187
+1618,এই জন্য একটি অনুস্মারক সেট করুন,calendar_set,play_music,0.0188
+1619,দয়া করে ফেব্রুয়ারী মাসের প্রত্যেক বৃহস্পতিবার দুপুর বারোটায় কাজের মিটিং সেট করুন,calendar_set,iot_wemo_on,0.0187
+1620,আমাকে একটি ল্যাপটপ সার্কিটের বর্ণনা দিন,qa_definition,play_music,0.0188
+1621,কি সিনেমাগুলো আমার চারপাশে যাচ্ছে,recommendation_movies,play_music,0.0189
+1622,আমাকে তালিকার একটি তালিকা দিন,lists_query,play_music,0.0188
+1623,মেনু কার্ডে পাওভাজি যোগ করুন,lists_createoradd,play_music,0.0188
+1624,আমাকে এই গানের মুক্তির তারিখ দিন,music_query,play_music,0.0188
+1625,পৃথিবীর সর্বোচ্চ পর্বত কি,qa_factoid,iot_wemo_on,0.0186
+1626,দয়া করে আমার উদ্দেশ্য নেই প্লেলিস্ট বাজান,play_music,play_music,0.0188
+1627,গান এর ব্যাখ্যা,music_query,play_music,0.019
+1628,চ্যানেল আই বিশ্বের খবর,news_query,play_music,0.0188
+1629,অনুগ্রহ করে সেই ঘটনাটি সরান,calendar_remove,play_music,0.0187
+1630,প্রতি ডলারের জন্য কত টাকা,qa_currency,iot_wemo_on,0.0186
+1631,আলো যোগ করুন,iot_hue_lightup,play_music,0.0189
+1632,দারাজ স্টক খোলার মূল্য নির্দেশ করুন,qa_stock,play_music,0.0186
+1633,একটি আম কি,qa_definition,play_music,0.0187
+1634,eastern standard time এ বর্তমান সময় কত,datetime_query,iot_wemo_on,0.0186
+1635,আজকের স্টক তথ্য খুঁজুন,news_query,play_music,0.0187
+1636,এই বছরের সাতাশে জুন আমার জন্মদিন কোন দিন পড়ে,datetime_query,play_music,0.0187
+1637,কন্ট্যাক্ট অনুসন্ধান করুন,email_querycontact,play_music,0.0187
+1638,ঢাকা যাওয়ার শেষ ট্রেনটি কত সময়ে,transport_query,iot_wemo_on,0.0187
+1639,ক্যাননের বর্ণনায় কত মেগা পিক্সেলের তালিকা দেওয়া আছে,qa_factoid,play_music,0.0188
+1640,মতামত সংরক্ষণ করুন,music_likeness,play_music,0.0187
+1641,মার্চে কি কি মিটিংগুলি আছে,calendar_query,play_music,0.0187
+1642,আমাকে বলুন আজ সিলেট শহরে কত ইঞ্চি বরফ পড়েছে,weather_query,iot_wemo_on,0.0186
+1643,অলি আমার টেলিভিশনে একটি ভাল মুভি চালাও,play_radio,play_music,0.0189
+1644,চট্টগ্রামের আবহাওয়া কেমন,weather_query,iot_wemo_on,0.0185
+1645,আমাকে মনে করিয়ে দিন যে আগামীকাল একটি মর্নিং এলার্ম এর জন্য আসিফের সাথে আমার একটি প্রেজেন্টেশন আছে,calendar_set,play_music,0.0187
+1646,সুমন আজ ফেসবুকে লগ ইন করেছে,social_query,play_music,0.0186
+1647,নিম্নলিখিত ঘটনা আমাকে মনে করিয়ে দিন,calendar_set,play_music,0.0187
+1648,পূর্বাভাসের হার,general_quirky,play_music,0.0187
+1649,ঢাকা যাওয়ার রেলগাড়ী এর সময়সূচী কি,transport_query,play_music,0.0185
+1650,অধীনস্থ এর সংজ্ঞা কি,qa_definition,play_music,0.0186
+1651,আমার জিমেইল অ্যাকাউন্ট থেকে সকল আনরিড মেসেজ গুলো দেখান,email_query,play_music,0.0187
+1652,আমার কাছাকাছি কিছু রেস্তোরা কি কি,recommendation_locations,play_music,0.0187
+1653,সাকিবকে একটি অনুরোধ পাঠান,email_sendemail,play_music,0.0187
+1654,শাকিব খান মারা গেছে,qa_factoid,play_music,0.0187
+1655,olly এই সপ্তাহন্তে ঢাকার একটি মেলা বলুন,recommendation_events,play_music,0.0188
+1656,আগামী সপ্তাহে জন্য আমার calendar কেমন দেখাচ্ছে,calendar_query,iot_wemo_on,0.0186
+1657,ক্যালেন্ডার খুলে আমার সমস্ত ইভেন্টগুলি মুছে ফেলুন,calendar_remove,play_music,0.0186
+1658,দেখান চ্যানেল আই অভিবাসনের খবর,news_query,play_music,0.0188
+1659,আজ রাতে আমাদের পরিকল্পনা সম্পর্কে আমার বন্ধুকে ইমেইল করুন,email_sendemail,iot_wemo_on,0.0187
+1660,কুমিল্লা চিত্র প্রদর্শনী,recommendation_events,play_music,0.0188
+1661,আপনি দয়া করে আলো উজ্জ্বল করতে পারেন,iot_hue_lightup,play_music,0.0187
+1662,সমস্ত অ্যালার্ম বন্ধ করুন,alarm_remove,iot_wemo_on,0.0187
+1663,বর্তমান তাপমাত্রা কত,weather_query,iot_wemo_on,0.0186
+1664,আমার ঘুম থেকে উঠতে হবে আমাকে সবথেকে কড়া কফি বানিয়ে দাও,iot_coffee,iot_wemo_on,0.0187
+1665,পুনরাবৃত্তি গান,music_settings,play_music,0.0189
+1666,নীরবের পডক্যাস্টটি চালাও,play_podcasts,play_music,0.0188
+1667,আমাকে নতুন নির্বাচন সম্পর্কে জানতে দিন,news_query,play_music,0.0185
+1668,পরবর্তী পডকাস্ট পর্ব শুরু করুন,play_podcasts,play_music,0.0187
+1669,ক্যালেন্ডার খুলুন এবং একটি ইভেন্ট অনুস্মারক করুন,calendar_set,iot_wemo_on,0.0187
+1670,যেখানে আমি ছেড়েছিলাম সেখান থেকে যুদ্ধ এবং শান্তি শুরু করতে চাই,play_audiobook,play_music,0.0188
+1671,আমার ক্যালেন্ডারে বারোই জুলাই রুহি এর জন্মদিন যোগ করা হবে,calendar_set,play_music,0.0186
+1672,আমাকে বিরিয়ানি অর্ডার করতে ফুড পাণ্ডা কল করুন,takeaway_order,play_music,0.0186
+1673,কোম্পানিতে একটি tweet পাঠান,social_post,play_music,0.0186
+1674,ভারতের সর্বোচ্চ পর্বত কি,qa_factoid,iot_wemo_on,0.0186
+1675,কে এই গানটি গেয়েছেন সেই শিল্পী,music_query,play_music,0.0191
+1676,বারোই জুলাই আদরের জন্মদিন এবং এই তারিখের সাথে আমার ক্যালেন্ডার আপডেট করা হবে,calendar_set,iot_wemo_on,0.0187
+1677,নয়শো নিরানব্বই f. m. এ এখন কি গান বাজছে,music_query,play_music,0.0189
+1678,সাভার আজ কোন মজার ঘটনা আছে,recommendation_events,iot_wemo_on,0.0187
+1679,আগামীকালের জন্য কুমিল্লা যাওয়ার যেকোনো ট্রেনে আমাকে একটি ট্রেনের টিকিট বুক করুন,transport_ticket,play_music,0.0186
+1680,কাউকে দেখা,qa_factoid,play_music,0.0187
+1681,কাচঁপুর রাস্তায় কি বেশি যানজট আছে,transport_traffic,iot_wemo_on,0.0186
+1682,আশিক কে তার সর্বশেষ প্রযুক্তি বিষয়ে উপলব্ধ পাঠান,email_sendemail,play_music,0.0186
+1683,নগরবাউল বাজাও,play_music,play_music,0.0187
+1684,আমাকে সর্বশেষ প্রযুক্তির খবর আনুন,news_query,play_music,0.0187
+1685,এই মুহূর্তে বিশ্বে কি ঘটছে,news_query,play_music,0.0187
+1686,চাঁদপুর যেতে সপ্তাহান্তে এবং ছুটির দিন গুলিতে প্রথম ট্রেনগুলি সন্ধান করুন,transport_query,play_music,0.0186
+1687,sjobs at apple dot com এ একটি ইমেল পাঠান,email_sendemail,play_music,0.0187
+1688,কেনাকাটার তালিকায় একটি ট্যাব যোগ করুন,lists_createoradd,play_music,0.0187
+1689,আমাকে মাসের জন্য আমার ঘটনা দেখান,calendar_query,play_music,0.0187
+1690,পরবর্তী সাত দিনের আবহাওয়া কি,weather_query,iot_wemo_on,0.0187
+1691,সিলেটের পাঁচ দিনের পূর্বাভাস কি,weather_query,iot_wemo_on,0.0186
+1692,মিনা থেকে নতুন ইমেইল দেখান,email_query,play_music,0.0187
+1693,আলেক্সা আমি একটি বিরিয়ানি খেতে চাই আপনি কি আমাকে দুপুরের খাবারের অর্ডার দিতে পারেন,takeaway_order,play_music,0.0187
+1694,হ্যালো গুগল দয়া করে আমাকে google ক্যালেন্ডারে নিয়ে যান,calendar_set,play_music,0.0186
+1695,এই বছর ত্রিশ তারিখ শুক্রবার কোন দিন,datetime_query,iot_wemo_on,0.0186
+1696,hey olly নতুন ঢাকার আবহওয়া কেমন,weather_query,play_music,0.0186
+1697,আমাকে খবর বল,news_query,iot_wemo_on,0.0187
+1698,হিস্টোরি অফ রোম অডিওবুকটি রিজিউম কর,play_audiobook,play_music,0.0189
+1699,আমার ইমতইল চেক করুন এবং কোন নতুন ইমেইল বিদ্যমান থাকলে আমাকে অবহিত করুন,email_query,iot_wemo_on,0.0186
+1700,আপনি কি আমার জন্য রেডিও টুডে প্লে করতে পারেন,play_radio,play_music,0.0188
+1701,আমাকে শুভমানের সাথে একটি মিটিং এর ব্যবস্থা করতে হবে,calendar_set,play_music,0.0187
+1702,পোকার ফেস লেডি গাগা,play_music,play_music,0.0187
+1703,আমার সিলেক্টেড স্টেশন চালু কর,play_radio,iot_wemo_on,0.0187
+1704,ফেনীর দিকে যাওয়ার ট্রাফিক দেখতে কেমন,transport_traffic,iot_wemo_on,0.0186
+1705,ঢাকার সময় কত,datetime_query,play_music,0.0186
+1706,বর্তমান সময় ist থেকে e. s. t. তে পরিবর্তন করুন,datetime_convert,iot_wemo_on,0.0188
+1707,এর অর্থ,qa_definition,play_music,0.0188
+1708,একটা ট্যাক্সি ধর,transport_taxi,iot_wemo_on,0.0188
+1709,রাজীব এর শেষ মেইল দেখান,email_query,iot_wemo_on,0.0187
+1710,আমি কি অনুস্মারক সেট করেছি,calendar_query,play_music,0.0187
+1711,জানালা ধুতে আমাকে মনে করিয়ে দিন,calendar_set,play_music,0.0187
+1712,আমার কাজের প্রজেক্ট মিটিং-য়ের ঠিকানা কোথায়,calendar_query,play_music,0.0187
+1713,আজ কি বৃষ্টি হচ্ছে,weather_query,iot_wemo_on,0.0186
+1714,আগামীকাল ভোর চারটার সময় একটি অ্যালার্ম তৈরি করুন,alarm_set,iot_wemo_on,0.0188
+1715,এই বেইলি রোড যানজট পরিস্থিতি কি,transport_traffic,play_music,0.0186
+1716,এখন থেকে তেরো মিনিটের মধ্যে আমাকে পার্কে গাড়ি চালানোর জন্য মনে করাবেন,calendar_set,play_music,0.0187
+1717,আমাকে সবচেয়ে সাম্প্রতিক খবর পেতে,news_query,play_music,0.0187
+1718,আমাকে ক্যারিওনের সংজ্ঞা দিন,qa_definition,play_music,0.0187
+1719,আপনি কি সত্যিই ভারত থেকে বাংলাদেশি দেখতে পারেন,qa_factoid,play_music,0.0186
+1720,সাবরিনা সাথে লাঞ্চ অ্যাপয়েন্টমেন্ট যোগ করুন জানুয়ারী সেকেন্ডে দুপুর সাড়ে বারো টায়,calendar_set,play_music,0.0187
+1721,অলি আমার জন্য আমার ইমেইল চেক করুন দয়া করে,email_query,play_music,0.0186
+1722,যেখানে নাছিম থাকেন,email_querycontact,play_music,0.0188
+1723,জলি থেকে আসা ইমেইল পড়ুন,email_query,play_music,0.0187
+1724,ক্যালেন্ডার ইভেন্টে লোকেদের আমন্ত্রণ জানান,calendar_set,play_music,0.0186
+1725,আজ আমি,general_quirky,iot_wemo_on,0.0187
+1726,একটি নতুন কেনাকাটা তালিকা শুরু করুন,lists_createoradd,play_music,0.0187
+1727,আমার দ্বারা আপনার জীবন কিভাবে পরিবর্তিত হয়েছে,general_quirky,play_music,0.0187
+1728,ঢাকা সেন্টারে টুইট করুন যে তাদের জিনিসগুলি খুব দামী,social_post,iot_wemo_on,0.0187
+1729,আমাকে সর্বশেষ কে ইমেইল করেছিলো,email_query,play_music,0.0186
+1730,আজ ঢাকা আবহাওয়ার রিপোর্ট কি,weather_query,iot_wemo_on,0.0186
+1731,কিভাবে রান্না করতে হয়,cooking_recipe,play_music,0.0187
+1732,নতুন ফুটবল খেলার নিয়ম বর্ণনা করুন,general_quirky,play_music,0.0188
+1733,এয়ারপোর্টে যাওয়ার জন্য আমাকে একটা ট্যাক্সি নিয়ে আসুন,transport_taxi,iot_wemo_on,0.0186
+1734,ডেটা বস্তুর কোনো সমস্যা পছন্দ করে,general_quirky,play_music,0.0188
+1735,আমাকে বিস্কুটের একটি রেসিপি দিন,cooking_recipe,play_music,0.0188
+1736,আমার প্রিয় তালিকায় গানটি রাখুন,music_likeness,play_music,0.019
+1737,রুপি এর বিপরীতে টাকার মূল্য কত,qa_currency,iot_wemo_on,0.0186
+1738,অনুষ্ঠানের স্মারক আদর মঙ্গলবার,calendar_set,play_music,0.0188
+1739,আমার অতি সাম্প্রতিক ইমেইল খুলুন এবং উত্তর দিন,email_sendemail,iot_wemo_on,0.0187
+1740,শুভজিৎ নন্দীকে একটি ইমেল পাঠান,email_sendemail,play_music,0.0186
+1741,আমার পরবর্তী শিডিউলে কি আছে,calendar_query,play_music,0.0187
+1742,তারা কিভাবে করছে তা জানতে আমার পরিবারকে একটি ইমেইল পাঠান,email_sendemail,play_music,0.0187
+1743,ভিডিও চালান,general_quirky,play_music,0.0188
+1744,আগামী এক সপ্তাহের মধ্যে সমস্ত ইভেন্টের সাথে আমাকে অবহিত করুন,calendar_set,play_music,0.0187
+1745,অলি মা আমাকে কোন ইমেইল পাঠিয়েছেন কি,email_query,play_music,0.0186
+1746,চিনি তৈরি করার জন্য প্রয়োজনীয় রাসায়নিক যৌগগুলি ডিজাইন করুন যা ডায়াবেটিস বা ওজন বাড়ায় না কিন্তু রাসায়নিক স্বাদ প্রদান করে না,qa_factoid,play_music,0.0186
+1747,olly আলো সাতে কমান,iot_hue_lightdim,play_music,0.0188
+1748,পরের শুক্রবার সাকিব সাথে আমার সাক্ষাতের একটি অনুস্মারক পাঠান,calendar_set,play_music,0.0187
+1749,আজকের জন্য আমার মিটিং এর অবস্থান আমাকে বলুন,calendar_query,play_music,0.0187
+1750,আপনি আমাকে বলতে পারেন এটা কোন তারিখ,datetime_query,play_music,0.0186
+1751,অলি চ্যানেল আই,news_query,play_music,0.0189
+1752,এই মঙ্গলবার সকাল নয়টায় তুর্ণা নিশিতার রেলগাড়ীর টিকিট বুক করুন,transport_ticket,play_music,0.0187
+1753,আজকাল পৃথিবীতে কি হচ্ছে,news_query,iot_wemo_on,0.0186
+1754,আমি আমার প্রতিটি মুলতুবি অনুস্মারক দেখতে চাই,calendar_query,play_music,0.0187
+1755,সাবরিনার সাথে এই সন্ধ্যায় বৈঠকের জন্য ইভেন্ট যোগ করুন,calendar_set,play_music,0.0187
+1756,আমাকে কিভাবে একটি আলু সেদ্ধ করব,cooking_recipe,play_music,0.0187
+1757,অনুগ্রহ করে আমাকে আমার বাড়ির সবচেয়ে কাছের সুবিধার দোকানটি বলুন,recommendation_locations,play_music,0.0187
+1758,আপনি কিভাবে রোবট ভ্যাকুয়াম ক্লিনার সক্রিয় করবেন,iot_cleaning,play_music,0.0186
+1759,ভুয়া খবর দমন করতে বিতর্কিত ট্যাগ চালু করেছে facebook,news_query,iot_wemo_on,0.0187
+1760,আমার কি রাকিব থেকে কোন ইমেইল আছে,email_query,play_music,0.0187
+1761,বর্তমান গান বাজছে এটা কি,music_query,play_music,0.0189
+1762,ট্রেনের সময়সূচীর,transport_query,play_music,0.0187
+1763,এটা কি সত্য যে ঝুলন্ত গাছটি সত্যিই কেউ ঝুলিয়ে রেখেছিলো,general_quirky,play_music,0.0186
+1764,শীঘ্রই কি উষ্ণ হচ্ছে,weather_query,iot_wemo_on,0.0186
+1765,সপ্তাহের কোন দিন বাইশে মার্চ,datetime_query,play_music,0.0186
+1766,পরের রবিবার সকাল নয়টায় অ্যালার্ম সেট করুন,alarm_set,iot_wemo_on,0.0188
+1767,অনুগ্রহ করে চিলক্সে tweet করুন আমি এখন আমার ডেলিভারির জন্য অপেক্ষা করছিলাম নম্বরটি খুশি নয়,social_post,play_music,0.0186
+1768,বাংলাদেশে টাকার মূল্য কত,qa_currency,iot_wemo_on,0.0186
+1769,আলো একটু উজ্জ্বল করুন,iot_hue_lightup,play_music,0.0188
+1770,এছাড়াও একটি পরিতোষ,general_quirky,iot_wemo_on,0.0187
+1771,সাপ্তাহিক আবহাওয়া রিপোর্ট কি,weather_query,play_music,0.0185
+1772,অস্কারের জন্য মনোনীত বই খুঁজুন,recommendation_movies,play_music,0.0188
+1773,এটা কি উনত্রিশতম,datetime_query,play_music,0.0187
+1774,আমি সাদিয়ার উপলব্ধ তারিখগুলি পরীক্ষা করতে চাই তাই আপনি কি তাকে মেইল ​​​​পাঠাবেন এবং এটি সম্পর্কে জিজ্ঞাসা করবেন,email_sendemail,iot_wemo_on,0.0186
+1775,আমার কি সোমবার ক্লাস আছে,calendar_query,play_music,0.0186
+1776,আমার প্লেলিস্টে কি আছে,lists_query,play_music,0.0189
+1777,আমি কি এই সপ্তাহান্তে একটি পার্টির পরিকল্পনা করেছি,calendar_query,play_music,0.0187
+1778,আমি প্রতিদিন ছয়টার জন্য একটি অ্যালার্ম চাই,alarm_set,iot_wemo_on,0.0187
+1779,জীবের সংজ্ঞা দাও,qa_definition,play_music,0.0187
+1780,সংরক্ষিত তথ্যের জন্য irctc সাইটে আজকের জন্য একটি টিকিট বুক করুন,transport_ticket,iot_wemo_on,0.0187
+1781,অলি আমি কিভাবে পাস্তা রান্না করব,cooking_recipe,play_music,0.0187
+1782,আগামীকাল কি হবে বলুন,calendar_query,iot_wemo_on,0.0186
+1783,আজকের জন্য আমার ক্যালেন্ডারে যোগ করুন মুহাম্মদ রায়হান রাত এক টায়,calendar_set,play_music,0.0186
+1784,সেন্ট প্যাট্রিক দিবস কখন,qa_factoid,iot_wemo_on,0.0185
+1785,অলি আমার প্রিয় jazz শিল্পী এর একটি ভাল track বাজান,play_music,play_music,0.019
+1786,আমার অডিওবুক পুনরায় শুরু করুন,play_audiobook,play_music,0.0189
+1787,শুক্রবার কি বৃষ্টি হবে,weather_query,iot_wemo_on,0.0186
+1788,মঙ্গলবার মিটিংয়ে ত্রিশ মিনিটের অনুস্মারক,calendar_set,play_music,0.0188
+1789,আমি ফুটবল খেলতে চাই চলো খেলি,play_game,play_music,0.0188
+1790,আমার স্টক মূল্য বেড়েছে,qa_stock,play_music,0.0187
+1791,কিভাবে স্বাস্থ্যকর খাবার খেতে হয়,general_quirky,play_music,0.0186
+1792,আগামীকালের জন্য পরিকল্পনা,calendar_query,iot_wemo_on,0.0187
+1793,খিচুরি কি পনির,qa_definition,play_music,0.0186
+1794,আমার ক্যালেন্ডারে একটি পুনরাবৃত্তি প্যাটার্ন এই ঘটনা রাখুন,calendar_set,play_music,0.0187
+1795,শুধুমাত্র আপনার এবং আমার জন্য একটি তারিখ স্থাপন করুন,general_quirky,iot_wemo_on,0.0187
+1796,স্বদেশী সব গান চালান,play_music,play_music,0.0189
+1797,ওই মাসের জন্য আমার ক্যালেন্ডার পড়ুন,calendar_query,play_music,0.0187
+1798,ঢাকায় এখন কি সময় হবে,datetime_query,play_music,0.0186
+1799,খেলার জন্য আমাকে রাত আটটায় একটি রিমাইন্ডার দিন।,calendar_set,play_music,0.0188
+1800,আমার তালিকা প্রদর্শন করুন,lists_query,play_music,0.0188
+1801,তিন ঘন্টা অতিক্রান্ত হলে আমাকে জানাবেন,calendar_set,play_music,0.0187
+1802,আসমা আমার খাবার খুঁজে দাও,takeaway_query,iot_wemo_on,0.0187
+1803,শেখ হাসিনা সম্পর্কে সর্বশেষ আপডেট দিন,news_query,play_music,0.0186
+1804,আমার কেনাকাটার তালিকা থেকে আপেল মুছুন,lists_remove,iot_wemo_on,0.0186
+1805,আমাকে আগামীকাল দশটায় উঠতে হবে,alarm_set,iot_wemo_on,0.0186
+1806,যমুনা ফিউচার পার্ক দিকনির্দেশ,transport_query,play_music,0.0187
+1807,তারিখ,datetime_query,play_music,0.0187
+1808,ইভেন্টের পরে দিনটি মুছে ফেলুন,calendar_remove,iot_wemo_on,0.0188
+1809,যিনি মিরপুর সবচেয়ে সস্তা নেটবুক বিক্রি করেন,recommendation_locations,play_music,0.0188
+1810,ফুড পাণ্ডার টেকঅ্যাওয়ে আছে,takeaway_query,play_music,0.0187
+1811,podcast এর শেষে যান,play_podcasts,play_music,0.0188
+1812,তালিকা থেকে প্রথমে আমাকে কি সম্পূর্ণ করতে হবে,lists_query,play_music,0.0186
+1813,আমার জন্যে আর্কের এতো কষ্ট কেন ভালবাসায় গানটি বাজাও,play_music,play_music,0.019
+1814,আকাশ কেনো নীল,qa_factoid,play_music,0.0187
+1815,শেষ ইমেইলটি আমি কাকে পেয়েছি তা আমাকে বলুন,email_query,play_music,0.0186
+1816,আমি কখন আমার বাংলাদেশী খাবার নিতে পারি,takeaway_query,play_music,0.0187
+1817,পরের পডক্যাস্টে স্কিপ কর,play_podcasts,play_music,0.0188
+1818,এই মাসের শেষ শুক্রবার কোন দিনে অবতরণ করে,datetime_query,iot_wemo_on,0.0186
+1819,siri বাধা মানে কি,qa_definition,iot_wemo_on,0.0186
+1820,আগামীকাল সকাল আটটার জন্য অ্যালার্ম সেট করুন,alarm_set,iot_wemo_on,0.0188
+1821,এটা কি খুব বেশি গরম হবে যদি আমি আজকে পশমী সোয়েটার পরি,weather_query,iot_wemo_on,0.0187
+1822,আমি কি জানতে পারি তালিকায় কি আছে,lists_query,play_music,0.0187
+1823,দয়া করে আমাকে বিমানবন্দরে নিয়ে যাওয়ার জন্য আমার একটি ট্যাক্সি দরকার,transport_taxi,iot_wemo_on,0.0186
+1824,সাব্বিরকে ইমেইল পাঠান আমি পরের দিন ফাইল পাঠাতে যাচ্ছি,email_sendemail,play_music,0.0186
+1825,তালিকা মুছে দিন,lists_remove,play_music,0.0187
+1826,কিছু নগর বাউল বাজান,play_music,play_music,0.0187
+1827,আমার ক্যালেন্ডার মার্চ মাসে সমস্ত saint joseph catholic church ইভেন্টের সাথে আপডেট করা হবে,calendar_set,iot_wemo_on,0.0186
+1828,আমি কিভাবে টার্কি বানাবো,cooking_recipe,play_music,0.0187
+1829,আমি তৈরি শেষ পাঁচটি তালিকা কি ছিল,lists_query,play_music,0.0187
+1830,রান্নাঘর vaccum করুন,iot_cleaning,play_music,0.0186
+1831,রেডিও টুডে playlist বাজান,play_radio,play_music,0.0191
+1832,আমার দ্বিতীয় প্লেলিস্ট বাজান,play_music,play_music,0.0188
+1833,আজ আমার অনুস্মারক কি,calendar_query,play_music,0.0187
+1834,এই সপ্তাহের আবহাওয়া কেমন,weather_query,iot_wemo_on,0.0186
+1835,দয়া করে শনিবার দুপুর একটায় একটি চুল কাটার অ্যাপয়েন্টমেন্ট শিডিউল করুন,calendar_set,iot_wemo_on,0.0187
+1836,আমি pandora শুনে বিরক্ত দয়া করে রেডিও চালাও,play_radio,play_music,0.0187
+1837,প্রথম আলো টাইমস অ্যাপটি খুলুন,news_query,play_music,0.0187
+1838,আমি আসন্ন কমনওয়েলথ গেমস সম্পর্কে আরও জানতে চাই,general_quirky,play_music,0.0187
+1839,স্টেশনে ঘুরুন রেডিও ফুর্তি ally,play_radio,play_music,0.0187
+1840,রাজুর জন্য ইমেইল তৈরি করুন,email_sendemail,play_music,0.0187
+1841,রেডিওতে গান চালান,play_radio,play_music,0.019
+1842,এখন রেডিও শুরু করুন,play_radio,play_music,0.0188
+1843,এই বছর আমার জন্মদিন সপ্তাহের কোন দিন,calendar_query,play_music,0.0186
+1844,ট্রেনের সময়সূচি দশটায়,transport_query,play_music,0.0187
+1845,vaccum শুরু করুন এবং এখন শোবার ঘর পরিষ্কার করুন,iot_cleaning,iot_wemo_on,0.0186
+1846,অলি আমার খাবার কোথায়,takeaway_query,play_music,0.0187
+1847,এটি সুস্বাদু হবে,cooking_recipe,play_music,0.0187
+1848,আমার ক্যালেন্ডারে সমস্ত ইভেন্ট মুছে ফেলুন,calendar_remove,play_music,0.0186
+1849,ভ্যাকুয়াম বট শুরু করুন,iot_cleaning,iot_wemo_on,0.0188
+1850,আন্তর্জাতিক নারী দিবসের শীর্ষ সংবাদ,news_query,play_music,0.0187
+1851,আমার কি আজ কোন অনুষ্ঠান আছে,calendar_query,play_music,0.0188
+1852,আমার ক্যালেন্ডারে আজ রাতে মায়ের সাথে ডিনারের কথা মনে করিয়ে দিন,calendar_set,play_music,0.0187
+1853,ঢাকা অবস্থান কি,qa_factoid,iot_wemo_on,0.0186
+1854,বুধবারের জন্য সকাল ছয়টার অ্যালার্ম বন্ধ করুন,alarm_remove,iot_wemo_on,0.0188
+1855,ওয়াপ্লেলিস্টটির্ক আউট চালাও,play_music,play_music,0.0188
+1856,আমাকে নতুন সৌরজগতের নতুন নিবন্ধটি পড়ুন,news_query,play_music,0.0187
+1857,আরেফিন শুভর বয়স খুঁজুন,qa_factoid,play_music,0.0186
+1858,আলো বন্ধ,iot_hue_lightoff,play_music,0.0188
+1859,বনস্রী কোথায়,recommendation_locations,play_music,0.0187
+1860,আমার জন্য একটি ইমেল পাঠান,email_sendemail,play_music,0.0187
+1861,মিউজিক প্লেয়ারে শুধু দুঃখের গান বাজাও,play_music,play_music,0.0191
+1862,দয়া করে এখন গান চালান,play_music,play_music,0.0189
+1863,ফাঁকা মানে কি,qa_definition,play_music,0.0187
+1864,এখানে আশেপাশে কোন টেক ওয়ে আছে,takeaway_query,play_music,0.0188
+1865,জেমস এর এই বছরে মুক্তি পাওয়া গানগুলি চালাও,play_music,play_music,0.0189
+1866,আগামীকাল মধ্যাহ্নভোজের জন্য কি আমার অ্যাপয়েন্টমেন্ট আছে,calendar_query,play_music,0.0186
+1867,ঘুমাতে যাও,audio_volume_mute,play_music,0.0187
+1868,আজ দুপুর দুইটার জন্য আমার মিটিং মুছে দিন,calendar_remove,play_music,0.0187
+1869,আমাকে বলুন আমার কি কাজ নেওয়া উচিত,general_quirky,iot_wemo_on,0.0187
+1870,একই জন্য ভ্রমণের উপায় খুঁজুন,transport_query,iot_wemo_on,0.0187
+1871,আমাকে চ্যানেল আই থেকে খবর দেখাও,news_query,play_music,0.0188
+1872,ক্রিসমাস জন্য আমার সময়সূচীর জন্য অনুস্মারক পুনরাবৃত্তি,calendar_set,play_music,0.0187
+1873,আগের পর্বটি চালাও,play_podcasts,play_music,0.0187
+1874,এশিয়র এলাকা,qa_factoid,play_music,0.0187
+1875,সময়ের জন্য অ্যালার্ম সেট,alarm_set,iot_wemo_on,0.0187
+1876,আপনি কি আমাকে ডাউ নিফটি ফিউচারের জন্য সঠিক হার দিতে পারেন,qa_stock,play_music,0.0187
+1877,আজ আমার তালিকায় কি আছে,lists_query,play_music,0.0187
+1878,অডিও বুক পড়তে থাকো যান,play_audiobook,play_music,0.0189
+1879,ট্রেনের সময় বল,transport_query,play_music,0.0188
+1880,ইন্টেল কোম্পানির স্টক মূল্য,qa_stock,play_music,0.0188
+1881,মিউজিকের ভলিউম নব্বই থেকে শুরু করুন,audio_volume_up,play_music,0.0191
+1882,জান্নাত বর্ণনা করুন,qa_definition,play_music,0.0188
+1883,চট্টগ্রাম সেরা মিস্ত্রী কোথায়,recommendation_locations,play_music,0.0186
+1884,দয়া করে আমাকে ঢাকার আবহাওয়া বলুন,weather_query,iot_wemo_on,0.0186
+1885,আমাকে আমার ভাই যোগাযোগের ঠিকানা বলুন,email_querycontact,play_music,0.0186
+1886,দয়া করে বাইরের সব আলো বন্ধ করুন,iot_hue_lightoff,iot_wemo_on,0.0188
+1887,কখন আমার সেই পরীক্ষা আছে,calendar_query,play_music,0.0186
+1888,কৃত্রিম বুদ্ধিমত্তার কি চেতনা আছে,general_quirky,play_music,0.0187
+1889,আমার বার্ষিকী কখন,calendar_query,play_music,0.0186
+1890,আমার ক্যালেন্ডারে কিছু আছে,calendar_query,play_music,0.0187
+1891,আমাকে আমার তালিকা শুনতে দিন,lists_query,play_music,0.0188
+1892,একজন মহিলাকে কোন জিনিসগুলি খুশি করে,general_quirky,play_music,0.0187
+1893,বিরিয়ানি কি,cooking_recipe,play_music,0.0187
+1894,টাইম স্ট্যাম্প সহ নতুন প্রাপ্ত সমস্ত ইমেলগুলি দেখান,email_query,play_music,0.0187
+1895,তালিকা থেকে আপেল সরান,lists_remove,iot_wemo_on,0.0186
+1896,আগামীকালের জন্য আমার ক্যালেন্ডারে কেনাকাটা যোগ করুন,calendar_set,iot_wemo_on,0.0186
+1897,বুধবার বিকাল পাঁচটায় ফিলের সাথে সর্বদা একটি মিটিং আমার ক্যালেন্ডারে ব্যবস্থা করুন,calendar_set,play_music,0.0187
+1898,আমাকে কোফ্তা একটি রেসিপি দিন,cooking_recipe,play_music,0.0187
+1899,আমি কি শেষ ঘন্টায় কোন মেইল পেয়ে,email_query,iot_wemo_on,0.0186
+1900,আমার জন্যে এই রেডিও চ্যানেলটি চালাও,play_radio,play_music,0.0188
+1901,আমার কত রিমাইন্ডারগুলি বাকি আছে,calendar_query,play_music,0.0187
+1902,বৃহস্পতিবার বিকেল তিনটেয় রহমান এবং রুনাকে মিটিং-য়ের জন্য নিমন্ত্রন দিন,calendar_set,play_music,0.0187
+1903,বার্গার কিং কি টেক আউট দেয়,takeaway_query,play_music,0.0187
+1904,আপনি কি আমাকে সোমবারের আবহাওয়া বলতে পারেন,weather_query,iot_wemo_on,0.0187
+1905,ok google দয়া করে স্পীকারগুলি আওয়াজ বন্ধ করুন,audio_volume_mute,iot_wemo_on,0.0187
+1906,পাঁচ মিনিটের মধ্যে পরবর্তী গানটি দিন,play_music,play_music,0.0189
+1907,আমি এই সপ্তাহের জন্য একটি তারিখ সেট করতে চাই,calendar_set,play_music,0.0186
+1908,কিভাবে মেরিয়াম ওয়েবস্টার অতি সংজ্ঞায়িত করে,qa_definition,play_music,0.0187
+1909,আমাকে আবার ম্যাডোনা গান বাজান দয়া করে,play_music,play_music,0.0189
+1910,আলো লালে পরিবর্তন করুন,iot_hue_lightchange,play_music,0.0187
+1911,কি অ্যালার্ম আগামীকাল আমাকে জাগিয়ে তুলবে,alarm_query,iot_wemo_on,0.0187
+1912,এবিসি রেডিও ৮৯.২ এফ.এম. চালান,play_radio,play_music,0.0188
+1913,আমাদের ব্রেকিং নিউজ সম্পর্কে আপডেট আমাকে সাবস্ক্রাইব করুন,news_query,play_music,0.0188
+1914,মুছে ফেলুন,calendar_remove,play_music,0.0187
+1915,আমি কিভাবে মাখন চিকেন রান্না করব,cooking_recipe,play_music,0.0186
+1916,অস্মিতা কি আমাকে কোন ইমেইল পাঠান,email_query,play_music,0.0187
+1917,ঢাকাতে সময় কি,datetime_query,iot_wemo_on,0.0186
+1918,কতগুলি অ্যালার্ম তালিকাভুক্ত করা হয়েছে,alarm_query,play_music,0.0187
+1919,দশ মাইলের মধ্যে কি দোকানগুলি আছে,recommendation_locations,play_music,0.0186
+1920,অনুগ্রহ করে আমাকে রোবট ভ্যাকুয়াম ক্লিনার চালু করতে সাহায্য করুন,iot_cleaning,iot_wemo_on,0.0187
+1921,আপনি কি অনুগ্রহ করে আমার ক্যালেন্ডারে এই সপ্তাহান্তে যে পার্টিতে যাচ্ছি সেটিকে উপেক্ষা করতে পারেন,calendar_remove,play_music,0.0186
+1922,আমার বিষয় সম্পর্কিত যোগাযোগ থেকে ইমেল সব জানতে হবে,email_query,play_music,0.0186
+1923,আপনি কি ট্রেন এ গ্র্যান্ড র‌্যাপিডসের টিকিট রিজার্ভ করতে পারেন,transport_query,play_music,0.0186
+1924,আপনি এ. এম. রেডিও চালু করুন,play_radio,play_music,0.0187
+1925,আপনি কিভাবে ইস্পাত বানাবেন,general_quirky,play_music,0.0187
+1926,google অনুগ্রহ করে অতিরিক্ত শান্ত হোন শিশুটি ঘুমাচ্ছে,audio_volume_mute,iot_wemo_on,0.0187
+1927,আমার বসার ঘরে আলো বন্ধ করুন,iot_hue_lightoff,iot_wemo_on,0.0187
+1928,আর্টসেল বাজাও,play_music,play_music,0.0189
+1929,সব ঘটনা এবং ইভেন্টস মুছে ফেলুন,calendar_remove,play_music,0.0187
+1930,আমাকে এর শতাংশ খুঁজে বের করতে হবে,qa_maths,play_music,0.0187
+1931,টাকা এবং টাকার মধ্যে বিনিময় হার কি,qa_currency,play_music,0.0185
+1932,অতি সাম্প্রতিক ইমেইলগুলি চেক করুন,email_query,play_music,0.0186
+1933,আমার পছন্দের রেডিও চ্যানেলটি চালাও,play_radio,play_music,0.0188
+1934,আমার কি কোনো নতুন ইমেইল আছে,email_query,play_music,0.0186
+1935,আগামীকাল সকাল পাঁচটায় আর্টসেলের চিলে কোঠার সেপাই বাজাবে যাতে আসলে আমি ঘুম থেকে উঠতে পারি,play_music,play_music,0.0187
+1936,আমার ক্যালেন্ডার থেকে সবকিছু মুছে ফেলুন,calendar_remove,play_music,0.0187
+1937,অনেক সাধনার পরে আমি গানটির শিরোনাম দ্বারা গায়ক কী বোঝাতে চেয়েছিলেন,music_query,play_music,0.019
+1938,আমার জন্মদিনের পরিকল্পনার জন্য একটি নতুন তালিকা তৈরি করুন,lists_createoradd,play_music,0.0187
+1939,আমাকে মনে করিয়ে দিন সন্ধ্যা সাতটায় আমার একটি মিটিং আছে,calendar_set,play_music,0.0187
+1940,দুই শতকে দশ দ্বারা ভাগ করা কি,qa_maths,play_music,0.0186
+1941,আমার পর্যালোচনা,music_likeness,play_music,0.0187
+1942,আপনি কি মনে করেন আমার একটি সিনেমা দেখা উচিত বা ডিনারে যাওয়া উচিত,general_quirky,play_music,0.0188
+1943,আমাকে আজকের খেলার খবরের শিরোনাম বলুন,news_query,play_music,0.0188
+1944,কণার গান শুরু কর,play_music,play_music,0.0189
+1945,হাই আজ সাতটায় আমার কফি তৈরি করতে হবে,general_quirky,play_music,0.0186
+1946,এই সপ্তাহে আমি কেমন ধরণের আবহাওয়া আশা করতে পারি,weather_query,play_music,0.0186
+1947,চিহ্নিত করো এই গান টিকে পাঁচটি স্টার দিয়ে,music_likeness,play_music,0.0191
+1948,বাছাই করা গানটি যোগ কর,play_music,play_music,0.019
+1949,আজ আপনার মেজাজ কি,general_quirky,iot_wemo_on,0.0186
+1950,হিমু পরবর্তী পর্ব বাজান হুমায়ন আহমেদ,play_audiobook,play_music,0.0187
+1951,podcast subscriptions থেকে নতুন কিছু বাজান,play_podcasts,play_music,0.0188
+1952,তুমি কি ইমো মিউজিক বাজাতে পারো,play_music,play_music,0.0189
+1953,কখন মিটিং শুরু হবে,calendar_query,play_music,0.0187
+1954,ডিম টোস্ট তৈরি করতে আমার কী দরকার,cooking_recipe,play_music,0.0186
+1955,আমার দিন চাপ ছিল,general_quirky,iot_wemo_on,0.0186
+1956,আমি কি কিছুর জন্য বুক করেছি,calendar_query,play_music,0.0187
+1957,সাবজেক্ট যুক্ত কোনো ইমেইল আছে,email_query,play_music,0.0188
+1958,লিস্ট পরিষ্কার করো,lists_remove,play_music,0.0189
+1959,শুক্রবারের পরে যেকোনো সকালের অ্যালার্ম বন্ধ করুন,alarm_remove,iot_wemo_on,0.0188
+1960,ক্যালেন্ডার থেকে সমস্ত ঘটনা সাফ করুন,calendar_remove,play_music,0.0187
+1961,তারা এই বিষয়ে খালেদা জিয়া সম্পর্কে কি বলছে,news_query,play_music,0.0186
+1962,ঢাকায় রেলগাড়িতে যাওয়ার জন্য আমাকে একটি টিকিট কিনুন,transport_ticket,play_music,0.0187
+1963,আমাকে সর্বশেষ আপডেট দিন,news_query,play_music,0.0187
+1964,alexa টেলিভিশন সংজ্ঞায়িত করে,qa_definition,play_music,0.0188
+1965,আগামীকাল সন্ধ্যার জন্য কোন প্রোগ্রাম আছে,calendar_query,play_music,0.0187
+1966,আপনি কি আমার ক্যালেন্ডারে একটি ইভেন্ট লিখতে পারেন,calendar_set,play_music,0.0187
+1967,প্রথম আলো পোস্ট ওয়েবসাইটে যান,news_query,iot_wemo_on,0.0187
+1968,দয়াকরে ইমেইলটা আমার মাকে পাঠান,email_sendemail,play_music,0.0186
+1969,সকাল ছয়টা,calendar_set,iot_wemo_on,0.0187
+1970,আমি কি আমাদের সময় থেকে ব্রেকিং নিউজ জানতে পারি,news_query,play_music,0.0186
+1971,আমি কিছু করেছি আপনার ক্যালেন্ডার চেক করুন,calendar_query,iot_wemo_on,0.0186
+1972,ফিলিংস আমার সোনার বাংলা,play_music,play_music,0.0188
+1973,সৈকত,qa_factoid,play_music,0.0187
+1974,আমি আপনার জন্য প্রতি শুক্রবারের দুপুর বারোটা এর নামাজ নির্ধারণ করতে চাই,calendar_set,play_music,0.0186
+1975,উইকিপিডিয়ায় চেষ্টা করে দেখুন,qa_definition,play_music,0.0187
+1976,স্পিকারের ভলিউম পঁয়ষট্টি পার্সেন্ট পরিবর্তন করুন,audio_volume_up,play_music,0.0187
+1977,ভলিয়ম বাড়ান,audio_volume_up,iot_wemo_on,0.0187
+1978,অর্থহীনের আমার প্রতিচ্ছবি বাজানো শুরু করো,play_music,play_music,0.0188
+1979,আমাদের নখের গঠন কি,qa_factoid,play_music,0.0187
+1980,একটি বান্ধবীর জন্য একটি ভাল উপহার কি,general_quirky,play_music,0.0187
+1981,আপনার রং সবুজে পরিবর্তন করুন,iot_hue_lightchange,play_music,0.0188
+1982,আমাকে পুলিশ বিভাগে নির্দেশ পাঠান,transport_query,iot_wemo_on,0.0186
+1983,আমি কি এখন আমার রেইনকোট সাথে নিয়ে যাব,weather_query,play_music,0.0187
+1984,নারীরা এত রহস্যময় কেন,general_quirky,play_music,0.0186
+1985,রেডিও অনুষ্ঠান চালান,play_radio,play_music,0.0189
+1986,আমার জন্য জেমসের দ্বারা সঙ্গীত বাজান,play_music,play_music,0.0189
+1987,আমাকে আপডেট করুন,news_query,play_music,0.0187
+1988,আমি এইমাত্র টুইটারে তোলা ছবি পোস্ট করুন,social_post,iot_wemo_on,0.0188
+1989,ফুড পাণ্ডার থেকে দুটি মাঝারি পনির এবং একটি মাঝারি পিঁজা বিরিয়ানি অর্ডার করুন,takeaway_order,play_music,0.0186
+1990,post করুন যে আমি বাজার যাচ্ছি বার্গার খেতে,social_post,play_music,0.0186
+1991,পরবর্তী তিন দিনের জন্য একটি অফিস মিটিং ক্যালেন্ডারে যোগ করুন,calendar_set,iot_wemo_on,0.0186
+1992,আপনি কি ঋষিকেশ দাশ রোড কোন pub সুপারিশ করতে পারেন,recommendation_locations,play_music,0.0186
+1993,আমি চাই যে কিছু জ্বলতে শুরু করেছে এবং চুলা চুলা বা মাইক্রোওয়েভ বন্ধ করছে কিনা তা বলতে সক্ষম হবে,general_quirky,iot_wemo_on,0.0187
+1994,প্রতি বছর এই তারিখে আমাকে মনে করিয়ে দিন,calendar_set,play_music,0.0187
+1995,আমি এই সপ্তাহে কতটা মুক্ত আছি,calendar_query,iot_wemo_on,0.0186
+1996,আজকে আমাকে যে জিনিসপত্র কিনতে হবে তার লিস্ট কি,lists_query,play_music,0.0187
+1997,গত তিন দিন ধরে অ্যামাজনে স্পোর্টস ক্যাটাগরিতে সবচেয়ে বেশি বিক্রি হওয়া পণ্য কী,general_quirky,play_music,0.0187
+1998,পাঁচটার জন্য অ্যালার্ম সেট করুন,alarm_set,iot_wemo_on,0.0187
+1999,আপনি কি ইদানীং কোন ভালো গান শুনেছেন,general_quirky,play_music,0.0189

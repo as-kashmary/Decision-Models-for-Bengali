@@ -1,0 +1,120 @@
+RUN: finetuned | DATASET: CM | file: /kaggle/input/datasets/anowersha/jev-version1/test_set_codemixed_massive60_fixed.csv
+rows after filtering: 2000 (train-overlap removed: 0) | evaluated: 2000
+inference time: 24.8 min (0.74 s/utt) | label list: all 60 labels per query
+
+=== OVERALL ===
+Accuracy (= micro-F1)     : 0.9620  (95% Wilson CI 0.9527-0.9695; bootstrap 0.9540-0.9705)
+Top-3 / Top-5 accuracy    : 0.9970 / 0.9985
+Macro    P / R / F1       : 0.9414 / 0.9531 / 0.9460  (F1 bootstrap CI 0.9312-0.9582)
+Weighted P / R / F1       : 0.9656 / 0.9620 / 0.9630
+Cohen's kappa / MCC       : 0.9582 / 0.9583
+Domain-level accuracy     : 0.9805
+Invalid (non-label) preds : 0
+
+=== ERROR ANALYSIS ===
+Total errors: 76 | same-domain: 37 | cross-domain: 39
+Calibration: ECE=0.0247 | mean confidence correct=0.992, wrong=0.842
+
+Top confused pairs (gold -> pred : count):
+  datetime_convert -> datetime_query : 16
+  datetime_query -> datetime_convert : 15
+  news_query -> qa_factoid : 11
+  play_music -> qa_factoid : 10
+  alarm_set -> calendar_set : 6
+  news_query -> weather_query : 5
+  datetime_query -> qa_factoid : 3
+  qa_factoid -> qa_definition : 2
+  qa_factoid -> qa_currency : 1
+  news_query -> qa_currency : 1
+  qa_definition -> qa_factoid : 1
+  weather_query -> recommendation_events : 1
+  play_music -> play_game : 1
+  qa_factoid -> cooking_recipe : 1
+  email_sendemail -> email_querycontact : 1
+
+Accuracy per domain (worst first):
+            mean  count
+dom                    
+datetime  0.8300    200
+news      0.9150    200
+play      0.9450    200
+alarm     0.9487    117
+weather   0.9900    200
+qa        0.9917    600
+email     0.9975    400
+calendar  1.0000     83
+
+10 weakest labels by F1:
+           label  precision  recall     f1  support
+datetime_convert     0.7826  0.7714 0.7770       70
+  datetime_query     0.8750  0.8615 0.8682      130
+      qa_factoid     0.8182  0.9669 0.8864      121
+     qa_currency     0.8667  1.0000 0.9286       13
+      news_query     1.0000  0.9150 0.9556      200
+    calendar_set     0.9326  1.0000 0.9651       83
+      play_music     1.0000  0.9450 0.9717      200
+       alarm_set     1.0000  0.9487 0.9737      117
+   weather_query     0.9754  0.9900 0.9826      200
+   qa_definition     0.9929  0.9964 0.9946      279
+
+10 strongest labels by F1:
+             label  precision  recall     f1  support
+       qa_currency     0.8667  1.0000 0.9286       13
+        news_query     1.0000  0.9150 0.9556      200
+      calendar_set     0.9326  1.0000 0.9651       83
+        play_music     1.0000  0.9450 0.9717      200
+         alarm_set     1.0000  0.9487 0.9737      117
+     weather_query     0.9754  0.9900 0.9826      200
+     qa_definition     0.9929  0.9964 0.9946      279
+   email_sendemail     1.0000  0.9950 0.9975      200
+email_querycontact     0.9950  1.0000 0.9975      200
+          qa_maths     1.0000  1.0000 1.0000      187
+
+Sample errors (first 25):
+                                                                    utt           intent             pred  conf
+                                              পোল্যান্ড এর currency কী?       qa_factoid      qa_currency 0.775
+                                  একটু রাজশাহী এর football সারাংশ দেখাও       news_query       qa_factoid 0.528
+                     Mumbai এর সাথে বাংলাদেশের সময়ের ব্যবধান কত ঘণ্টা? datetime_convert   datetime_query 0.975
+               wake up call বসাও every Monday দুপুর ১২টায় yoga এর জন্য        alarm_set     calendar_set 0.985
+                       please Tahsan এর Ami Banglay Gan Gai চালিয়ে দাও       play_music       qa_factoid 0.617
+                     বার্লিন এর সাথে বাংলাদেশের সময়ের ব্যবধান কত hour? datetime_convert   datetime_query 0.964
+                                     last 1 hour এর জলবায়ু শিরোনাম বলো       news_query    weather_query 0.560
+                              Dhaka আর Rome এর মধ্যে time gap কত ঘণ্টা?   datetime_query datetime_convert 0.991
+                                     আজ সকালের ডলারের দাম summary জানাও       news_query      qa_currency 0.976
+                              একটু ঢাকা আর Dublin এর মধ্যে time gap কত?   datetime_query datetime_convert 0.939
+                                     একটু আবাহনী এর last match এর ফলাফল       news_query    weather_query 0.679
+                                please রাশিয়া এর পদ্মা সেতু update বলো       news_query       qa_factoid 0.920
+                  প্লিজ Dhaka আর Bangkok এর মধ্যে সময়ের তফাত কত ঘণ্টা?   datetime_query datetime_convert 0.996
+                                please রাশিয়া এর football সারাংশ শোনাও       news_query       qa_factoid 0.917
+                   please ঢাকা আর Mexico এর মধ্যে সময়ের তফাত কত ঘণ্টা?   datetime_query datetime_convert 0.998
+                       please Runa Laila এর Ek Din Pakhi Ure Jabe শোনাও       play_music       qa_factoid 0.861
+               প্লিজ Mexico এর সাথে বাংলাদেশের সময়ের ব্যবধান কত ঘণ্টা? datetime_convert   datetime_query 0.625
+                   প্লিজ Dhaka আর টরন্টো এর মধ্যে সময়ের তফাত কত ঘণ্টা?   datetime_query datetime_convert 0.995
+                                    একটু antibiotic সম্পর্কে উদাহরণ দাও    qa_definition       qa_factoid 0.756
+wake up call লাগাও প্রতি Sunday সকাল ১১টা ৪০ মিনিটে ফজরের নামাজ এর জন্য        alarm_set     calendar_set 0.898
+       please Mohammed Rafi এর Ei Brishti Bheja Raate বাজিয়ে দাও প্লিজ       play_music       qa_factoid 0.493
+                             Mohammed Rafi এর Shape of You শোনাও please       play_music       qa_factoid 0.976
+                                           একটু Mila এর Tum Hi Ho বাজাও       play_music       qa_factoid 0.844
+               wake up call লাগাও প্রতি সোমবার 12:00 AM এ ক্লাস এর জন্য        alarm_set     calendar_set 0.981
+                   শ্রীলঙ্কা এর সাথে বাংলাদেশের সময়ের ব্যবধান কত hour? datetime_convert   datetime_query 0.996
+
+=== FULL PER-CLASS REPORT ===
+                    precision    recall  f1-score   support
+
+         alarm_set     1.0000    0.9487    0.9737       117
+      calendar_set     0.9326    1.0000    0.9651        83
+  datetime_convert     0.7826    0.7714    0.7770        70
+    datetime_query     0.8750    0.8615    0.8682       130
+email_querycontact     0.9950    1.0000    0.9975       200
+   email_sendemail     1.0000    0.9950    0.9975       200
+        news_query     1.0000    0.9150    0.9556       200
+        play_music     1.0000    0.9450    0.9717       200
+       qa_currency     0.8667    1.0000    0.9286        13
+     qa_definition     0.9929    0.9964    0.9946       279
+        qa_factoid     0.8182    0.9669    0.8864       121
+          qa_maths     1.0000    1.0000    1.0000       187
+     weather_query     0.9754    0.9900    0.9826       200
+
+         micro avg     0.9634    0.9620    0.9627      2000
+         macro avg     0.9414    0.9531    0.9460      2000
+      weighted avg     0.9656    0.9620    0.9630      2000

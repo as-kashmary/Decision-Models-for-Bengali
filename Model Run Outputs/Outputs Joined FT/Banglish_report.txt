@@ -1,0 +1,176 @@
+RUN: finetuned | DATASET: Banglish | file: /kaggle/input/datasets/anowersha/jev-version1/banglish_massive_test.csv
+rows after filtering: 1999 (train-overlap removed: 1) | evaluated: 1999
+inference time: 21.8 min (0.65 s/utt) | label list: all 60 labels per query
+
+=== OVERALL ===
+Accuracy (= micro-F1)     : 0.6688  (95% Wilson CI 0.6479-0.6891; bootstrap 0.6483-0.6904)
+Top-3 / Top-5 accuracy    : 0.8164 / 0.8779
+Macro    P / R / F1       : 0.6275 / 0.7171 / 0.6440  (F1 bootstrap CI 0.5898-0.6588)
+Weighted P / R / F1       : 0.7142 / 0.6688 / 0.6766
+Cohen's kappa / MCC       : 0.6578 / 0.6589
+Domain-level accuracy     : 0.7409
+Invalid (non-label) preds : 0
+
+=== ERROR ANALYSIS ===
+Total errors: 662 | same-domain: 144 | cross-domain: 518
+Calibration: ECE=0.0873 | mean confidence correct=0.876, wrong=0.512
+
+Top confused pairs (gold -> pred : count):
+  calendar_query -> recommendation_events : 18
+  news_query -> qa_factoid : 12
+  general_quirky -> qa_factoid : 12
+  qa_factoid -> cooking_recipe : 11
+  calendar_set -> calendar_query : 9
+  weather_query -> recommendation_events : 8
+  general_quirky -> cooking_recipe : 8
+  calendar_query -> calendar_set : 7
+  play_music -> music_likeness : 7
+  play_radio -> play_music : 7
+  general_quirky -> recommendation_events : 6
+  general_quirky -> general_greet : 6
+  play_music -> play_game : 6
+  email_query -> email_sendemail : 6
+  qa_definition -> qa_factoid : 6
+
+Accuracy per domain (worst first):
+                  mean  count
+dom                          
+general         0.2143    126
+news            0.4948     97
+qa              0.5556    216
+weather         0.5909    110
+audio           0.6000     30
+recommendation  0.6176     68
+music           0.6591     44
+calendar        0.7139    332
+iot             0.7273     88
+play            0.7336    259
+datetime        0.7344     64
+cooking         0.7500     40
+lists           0.7753     89
+transport       0.7889     90
+takeaway        0.7895     38
+social          0.7945     73
+email           0.8125    176
+alarm           0.8305     59
+
+10 weakest labels by F1:
+                label  precision  recall     f1  support
+      iot_hue_lighton     0.0000  0.0000 0.0000        1
+        general_greet     0.0833  1.0000 0.1538        1
+       music_settings     0.1429  0.5000 0.2222        2
+       general_quirky     0.3750  0.1780 0.2414      118
+    audio_volume_down     0.2000  0.5000 0.2857        2
+             qa_maths     0.2273  0.5000 0.3125       10
+   email_querycontact     0.2857  0.4444 0.3478       18
+recommendation_events     0.2632  0.6452 0.3738       31
+    audio_volume_mute     0.2727  0.6000 0.3750       15
+recommendation_movies     0.3077  0.5000 0.3810        8
+
+10 strongest labels by F1:
+            label  precision  recall     f1  support
+       play_radio     0.9268  0.7600 0.8352       50
+ transport_ticket     0.7826  0.9000 0.8372       20
+      alarm_query     0.8421  0.8421 0.8421       19
+    play_podcasts     0.9310  0.7714 0.8438       35
+     lists_remove     0.8333  0.8621 0.8475       29
+  email_sendemail     0.8732  0.8611 0.8671       72
+      email_query     0.9718  0.8415 0.9020       82
+     iot_cleaning     0.9167  1.0000 0.9565       11
+     iot_wemo_off     1.0000  1.0000 1.0000        3
+music_dislikeness     1.0000  1.0000 1.0000        1
+
+Sample errors (first 25):
+                                                                              utt                intent                  pred  conf
+             apni ki mone koren amar ekti cinema dekha uchit ba dinner jawa uchit        general_quirky recommendation_movies 0.756
+                   ajke rater dinner er jonno amar chitagongyer kothay jawa uchit recommendation_events        calendar_query 0.225
+                                                         kachakachi ghotna khujun recommendation_events        cooking_recipe 0.493
+                                amake upsagriyo onchole chitro prodorshoni dekhan recommendation_events            news_query 0.124
+                                                        meeting shuru howar somoy        calendar_query          calendar_set 0.781
+                            amar priyo dosh pochonder talikay sei ganti jog korun        music_likeness     lists_createoradd 0.619
+                                                        ami ajke dhaka geyechilam        general_quirky        datetime_query 0.414
+alexa ami maser jonno dollar peyechi ei mase ami protidin koto khoroch korte pari              qa_maths           qa_currency 0.995
+                                                        ajker stock tothyo khujun            news_query              qa_stock 0.998
+                sobhaptitto songkranto bitork kibhabe jacche doya kore tab rakhun            news_query           music_query 0.376
+                                                             papa pear saga kholo             play_game        play_audiobook 0.846
+                                                    amar ki aj kon onushthan ache        calendar_query recommendation_events 0.608
+                                                  aj ki karo jonmodin ba barshiki        calendar_query recommendation_events 0.448
+                                            prothom alor cholman chuit guli ki ki          social_query        datetime_query 0.542
+                                                           sorboshesh shironam ki            news_query            qa_factoid 0.645
+                                 share bajar khobrer jonno notification set korun              qa_stock            news_query 0.549
+                                                   eta ki ekti byosto din hoyeche        general_quirky recommendation_events 0.333
+                                              ami khub komoi apnake shunte pacchi       audio_volume_up      iot_hue_lightdim 0.517
+                                                             sekhane eta tule nao          lists_remove          calendar_set 0.171
+                                                     got rate ki iyankira jiteche            news_query              qa_stock 0.597
+                                                aj theke amar oyarkoaut muche din       calendar_remove          lists_remove 0.887
+                                        amra kobe brishtir howar asha rakhte pari         weather_query          calendar_set 0.153
+                                            meeting somporke sorboshesh onusmarok          calendar_set        calendar_query 0.635
+                                                                           dhadha        general_quirky         general_greet 0.309
+                                                       laptop kena nishchit korun        general_quirky      iot_hue_lightdim 0.526
+
+=== FULL PER-CLASS REPORT ===
+                          precision    recall  f1-score   support
+
+             alarm_query     0.8421    0.8421    0.8421        19
+            alarm_remove     0.6923    1.0000    0.8182         9
+               alarm_set     0.8571    0.7742    0.8136        31
+       audio_volume_down     0.2000    0.5000    0.2857         2
+       audio_volume_mute     0.2727    0.6000    0.3750        15
+      audio_volume_other     0.5000    1.0000    0.6667         1
+         audio_volume_up     0.7778    0.5833    0.6667        12
+          calendar_query     0.7033    0.5714    0.6305       112
+         calendar_remove     0.9130    0.7636    0.8317        55
+            calendar_set     0.7706    0.7939    0.7821       165
+          cooking_recipe     0.4286    0.7500    0.5455        40
+        datetime_convert     0.3636    0.8000    0.5000         5
+          datetime_query     0.7544    0.7288    0.7414        59
+        email_addcontact     0.5000    1.0000    0.6667         4
+             email_query     0.9718    0.8415    0.9020        82
+      email_querycontact     0.2857    0.4444    0.3478        18
+         email_sendemail     0.8732    0.8611    0.8671        72
+           general_greet     0.0833    1.0000    0.1538         1
+            general_joke     0.6250    0.7143    0.6667         7
+          general_quirky     0.3750    0.1780    0.2414       118
+            iot_cleaning     0.9167    1.0000    0.9565        11
+              iot_coffee     0.8667    0.7647    0.8125        17
+     iot_hue_lightchange     0.8000    0.6316    0.7059        19
+        iot_hue_lightdim     0.3636    0.4444    0.4000         9
+        iot_hue_lightoff     0.7647    0.7647    0.7647        17
+         iot_hue_lighton     0.0000    0.0000    0.0000         1
+         iot_hue_lightup     0.6667    0.6667    0.6667         9
+            iot_wemo_off     1.0000    1.0000    1.0000         3
+             iot_wemo_on     0.5000    1.0000    0.6667         2
+       lists_createoradd     0.6562    0.8077    0.7241        26
+             lists_query     0.8214    0.6765    0.7419        34
+            lists_remove     0.8333    0.8621    0.8475        29
+       music_dislikeness     1.0000    1.0000    1.0000         1
+          music_likeness     0.3438    0.6471    0.4490        17
+             music_query     0.5517    0.6667    0.6038        24
+          music_settings     0.1429    0.5000    0.2222         2
+              news_query     0.8276    0.4948    0.6194        97
+          play_audiobook     0.4468    0.8077    0.5753        26
+               play_game     0.5769    0.8333    0.6818        18
+              play_music     0.8476    0.6846    0.7574       130
+           play_podcasts     0.9310    0.7714    0.8438        35
+              play_radio     0.9268    0.7600    0.8352        50
+             qa_currency     0.7857    0.8800    0.8302        25
+           qa_definition     0.7714    0.5400    0.6353        50
+              qa_factoid     0.4811    0.4766    0.4789       107
+                qa_maths     0.2273    0.5000    0.3125        10
+                qa_stock     0.7143    0.6250    0.6667        24
+   recommendation_events     0.2632    0.6452    0.3738        31
+recommendation_locations     0.5000    0.6207    0.5538        29
+   recommendation_movies     0.3077    0.5000    0.3810         8
+             social_post     0.8393    0.8246    0.8319        57
+            social_query     0.5238    0.6875    0.5946        16
+          takeaway_order     0.7368    0.7368    0.7368        19
+          takeaway_query     0.8000    0.8421    0.8205        19
+         transport_query     0.7941    0.6750    0.7297        40
+          transport_taxi     0.6667    0.9333    0.7778        15
+        transport_ticket     0.7826    0.9000    0.8372        20
+       transport_traffic     0.3750    0.8000    0.5106        15
+           weather_query     0.8784    0.5909    0.7065       110
+
+                accuracy                         0.6688      1999
+               macro avg     0.6275    0.7171    0.6440      1999
+            weighted avg     0.7142    0.6688    0.6766      1999

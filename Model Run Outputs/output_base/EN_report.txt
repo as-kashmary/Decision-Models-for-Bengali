@@ -1,0 +1,176 @@
+RUN: base_model | DATASET: EN | file: /kaggle/input/datasets/anowersha/jev-version1/test_en_2000.csv
+rows after filtering: 2000 (train-overlap removed: 0) | evaluated: 2000
+inference time: 26.0 min (0.78 s/utt) | label list: all 60 labels per query
+
+=== OVERALL ===
+Accuracy (= micro-F1)     : 0.0655  (95% Wilson CI 0.0555-0.0772; bootstrap 0.0555-0.0760)
+Top-3 / Top-5 accuracy    : 0.0865 / 0.1180
+Macro    P / R / F1       : 0.0262 / 0.0575 / 0.0149  (F1 bootstrap CI 0.0043-0.0252)
+Weighted P / R / F1       : 0.0157 / 0.0655 / 0.0183
+Cohen's kappa / MCC       : 0.0386 / 0.0541
+Domain-level accuracy     : 0.1545
+Invalid (non-label) preds : 0
+
+=== ERROR ANALYSIS ===
+Total errors: 1869 | same-domain: 178 | cross-domain: 1691
+Calibration: ECE=0.0468 | mean confidence correct=0.019, wrong=0.019
+
+Top confused pairs (gold -> pred : count):
+  calendar_set -> iot_wemo_on : 131
+  weather_query -> iot_wemo_on : 110
+  calendar_query -> iot_wemo_on : 82
+  general_quirky -> iot_wemo_on : 78
+  qa_factoid -> play_music : 57
+  email_query -> iot_wemo_on : 53
+  datetime_query -> iot_wemo_on : 53
+  news_query -> play_music : 51
+  calendar_remove -> iot_wemo_on : 47
+  qa_factoid -> iot_wemo_on : 47
+  news_query -> iot_wemo_on : 46
+  email_sendemail -> play_music : 43
+  social_post -> iot_wemo_on : 42
+  general_quirky -> play_music : 40
+  play_radio -> play_music : 35
+
+Accuracy per domain (worst first):
+                  mean  count
+dom                          
+alarm           0.0000     59
+calendar        0.0000    332
+cooking         0.0000     40
+datetime        0.0000     64
+general         0.0000    126
+email           0.0000    176
+music           0.0000     44
+lists           0.0000     89
+social          0.0000     73
+recommendation  0.0000     68
+news            0.0000     97
+qa              0.0000    216
+takeaway        0.0000     38
+transport       0.0000     90
+weather         0.0000    110
+audio           0.0333     30
+iot             0.0449     89
+play            0.4865    259
+
+10 weakest labels by F1:
+            label  precision  recall  f1  support
+      alarm_query        0.0     0.0 0.0       19
+     alarm_remove        0.0     0.0 0.0        9
+        alarm_set        0.0     0.0 0.0       31
+audio_volume_down        0.0     0.0 0.0        2
+audio_volume_mute        0.0     0.0 0.0       15
+  audio_volume_up        0.0     0.0 0.0       12
+   calendar_query        0.0     0.0 0.0      112
+  calendar_remove        0.0     0.0 0.0       55
+   datetime_query        0.0     0.0 0.0       59
+     calendar_set        0.0     0.0 0.0      165
+
+10 strongest labels by F1:
+             label  precision  recall     f1  support
+ transport_traffic     0.0000  0.0000 0.0000       15
+   transport_query     0.0000  0.0000 0.0000       40
+    transport_taxi     0.0000  0.0000 0.0000       15
+    takeaway_order     0.0000  0.0000 0.0000       19
+    takeaway_query     0.0000  0.0000 0.0000       19
+       iot_wemo_on     0.0018  1.0000 0.0035        2
+audio_volume_other     0.0625  1.0000 0.1176        1
+      iot_cleaning     1.0000  0.0909 0.1667       11
+        play_music     0.1495  0.9692 0.2590      130
+      iot_wemo_off     0.3333  0.3333 0.3333        3
+
+Sample errors (first 25):
+                                                        utt                   intent        pred  conf
+                         play football match for myself now                play_game  play_music 0.019
+                                resume jaiho song audiobook           play_audiobook  play_music 0.019
+                                      dismiss my next event          calendar_remove iot_wemo_on 0.019
+                                                new updates             social_query iot_wemo_on 0.019
+                                          start play spider                play_game iot_wemo_on 0.019
+                   countdown for the birthday of my brother           calendar_query  play_music 0.019
+                                           show me podcasts            play_podcasts  play_music 0.019
+                                show latest email from mark              email_query iot_wemo_on 0.019
+                                           tell me the time           datetime_query iot_wemo_on 0.019
+                                   how many lists do i have              lists_query  play_music 0.019
+                            what is the capital of maryland               qa_factoid  play_music 0.018
+                                  tell me the time in india           datetime_query iot_wemo_on 0.018
+                 add that song to my top ten favorites list           music_likeness  play_music 0.019
+                  olly cancel business meeting on wednesday          calendar_remove  play_music 0.019
+               what was the subject of my last email to tom              email_query iot_wemo_on 0.019
+                               give me the time in p. s. t.           datetime_query iot_wemo_on 0.018
+can you send an email to my mother about the weekly weather          email_sendemail iot_wemo_on 0.019
+                          where is my girl friend right now           general_quirky iot_wemo_on 0.019
+                                   add the item to the list        lists_createoradd  play_music 0.019
+    how many recent emails have this sender or subject line              email_query  play_music 0.019
+                           olly what do i have planned next           calendar_query  play_music 0.019
+                 what is going on today from two four p. m.           calendar_query iot_wemo_on 0.019
+                          how is the stock going in general                 qa_stock  play_music 0.018
+                                                 find radio               play_radio  play_music 0.019
+          olly tell me where the local shopping district is recommendation_locations  play_music 0.019
+
+=== FULL PER-CLASS REPORT ===
+                          precision    recall  f1-score   support
+
+             alarm_query     0.0000    0.0000    0.0000        19
+            alarm_remove     0.0000    0.0000    0.0000         9
+               alarm_set     0.0000    0.0000    0.0000        31
+       audio_volume_down     0.0000    0.0000    0.0000         2
+       audio_volume_mute     0.0000    0.0000    0.0000        15
+      audio_volume_other     0.0625    1.0000    0.1176         1
+         audio_volume_up     0.0000    0.0000    0.0000        12
+          calendar_query     0.0000    0.0000    0.0000       112
+         calendar_remove     0.0000    0.0000    0.0000        55
+            calendar_set     0.0000    0.0000    0.0000       165
+          cooking_recipe     0.0000    0.0000    0.0000        40
+        datetime_convert     0.0000    0.0000    0.0000         5
+          datetime_query     0.0000    0.0000    0.0000        59
+        email_addcontact     0.0000    0.0000    0.0000         4
+             email_query     0.0000    0.0000    0.0000        82
+      email_querycontact     0.0000    0.0000    0.0000        18
+         email_sendemail     0.0000    0.0000    0.0000        72
+           general_greet     0.0000    0.0000    0.0000         1
+            general_joke     0.0000    0.0000    0.0000         7
+          general_quirky     0.0000    0.0000    0.0000       118
+            iot_cleaning     1.0000    0.0909    0.1667        11
+              iot_coffee     0.0000    0.0000    0.0000        18
+     iot_hue_lightchange     0.0000    0.0000    0.0000        19
+        iot_hue_lightdim     0.0000    0.0000    0.0000         9
+        iot_hue_lightoff     0.0000    0.0000    0.0000        17
+         iot_hue_lighton     0.0000    0.0000    0.0000         1
+         iot_hue_lightup     0.0000    0.0000    0.0000         9
+            iot_wemo_off     0.3333    0.3333    0.3333         3
+             iot_wemo_on     0.0018    1.0000    0.0035         2
+       lists_createoradd     0.0000    0.0000    0.0000        26
+             lists_query     0.0000    0.0000    0.0000        34
+            lists_remove     0.0000    0.0000    0.0000        29
+       music_dislikeness     0.0000    0.0000    0.0000         1
+          music_likeness     0.0000    0.0000    0.0000        17
+             music_query     0.0000    0.0000    0.0000        24
+          music_settings     0.0000    0.0000    0.0000         2
+              news_query     0.0000    0.0000    0.0000        97
+          play_audiobook     0.0000    0.0000    0.0000        26
+               play_game     0.0000    0.0000    0.0000        18
+              play_music     0.1495    0.9692    0.2590       130
+           play_podcasts     0.0000    0.0000    0.0000        35
+              play_radio     0.0000    0.0000    0.0000        50
+             qa_currency     0.0000    0.0000    0.0000        25
+           qa_definition     0.0000    0.0000    0.0000        50
+              qa_factoid     0.0000    0.0000    0.0000       107
+                qa_maths     0.0000    0.0000    0.0000        10
+                qa_stock     0.0000    0.0000    0.0000        24
+   recommendation_events     0.0000    0.0000    0.0000        31
+recommendation_locations     0.0000    0.0000    0.0000        29
+   recommendation_movies     0.0000    0.0000    0.0000         8
+             social_post     0.0000    0.0000    0.0000        57
+            social_query     0.0000    0.0000    0.0000        16
+          takeaway_order     0.0000    0.0000    0.0000        19
+          takeaway_query     0.0000    0.0000    0.0000        19
+         transport_query     0.0000    0.0000    0.0000        40
+          transport_taxi     0.0000    0.0000    0.0000        15
+        transport_ticket     0.0000    0.0000    0.0000        20
+       transport_traffic     0.0000    0.0000    0.0000        15
+           weather_query     0.0000    0.0000    0.0000       110
+
+                accuracy                         0.0655      2000
+               macro avg     0.0262    0.0575    0.0149      2000
+            weighted avg     0.0157    0.0655    0.0183      2000

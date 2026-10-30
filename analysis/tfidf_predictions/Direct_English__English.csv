@@ -1,0 +1,2001 @@
+﻿utt,intent,pred,conf
+set an alarm for two hours from now,alarm_set,alarm_set,0.8828373375430164
+vacuum the house,iot_cleaning,iot_cleaning,0.8854169930479817
+cleaning is good dust is so bad do now your magic clean my carpet,iot_cleaning,iot_cleaning,0.5949160027219335
+check when the show starts,calendar_query,qa_stock,0.08094603733418368
+i want to listen arijit singh song once again,play_music,music_query,0.3409323130376224
+i want the status on my screen brightness,general_quirky,iot_hue_lightup,0.16927059213684886
+give me the status on my available memory,general_quirky,lists_query,0.27336227708116717
+please list active alarms,alarm_query,alarm_query,0.6881856622653988
+tell me about my alarms,alarm_query,alarm_query,0.913440913682973
+i'd like to hear queen's barcelona,play_music,music_likeness,0.19200939845290385
+make lights brightener,iot_hue_lightup,iot_hue_lightup,0.9284533404741189
+what's this week's weather,weather_query,weather_query,0.9621643943187277
+tell me the weather this week,weather_query,weather_query,0.9749164745114028
+order me a byron from deliveroo,takeaway_order,takeaway_order,0.9015621601103421
+play my favorite playlist,play_music,play_music,0.9571091642472427
+play it again please,play_music,play_music,0.31017479504694856
+olly make me a coffee,iot_coffee,iot_coffee,0.9836700922904299
+do they deliver home,takeaway_query,takeaway_query,0.5839657444219355
+tell me the time,datetime_query,datetime_query,0.9075254459721572
+can i order takeaway from spanish place,takeaway_order,takeaway_order,0.608118050318291
+is it raining outside,weather_query,weather_query,0.9153491754762335
+is it raining outside olly,weather_query,weather_query,0.8344938557624415
+add this song to my favorite list,music_likeness,music_likeness,0.8160163471745997
+lights off,iot_hue_lightoff,iot_hue_lightoff,0.9907814698318897
+olly hackernews,news_query,news_query,0.6215742392512015
+olly play a good track from my favorite jazz player,play_music,play_music,0.5080042165623551
+i can't hear you,audio_volume_up,audio_volume_up,0.14426985308971976
+i can barely hear you,audio_volume_up,audio_volume_up,0.13477018878393052
+what the singer meant by the title of the song bohemian rhapsody,music_query,music_query,0.7835847485067181
+is it going to be windy tomorrow,weather_query,weather_query,0.6638262661192491
+light up the lights in the kitchen,iot_hue_lighton,iot_hue_lightup,0.35903304647434714
+what time is it in moscow now,datetime_query,datetime_query,0.8547632550392781
+vacuum the kitchen,iot_cleaning,iot_cleaning,0.7252591265277082
+tell me the news,news_query,news_query,0.9906514237299083
+what is the forecast for today,weather_query,weather_query,0.5751412349158882
+what is the weather like,weather_query,weather_query,0.9790630785241291
+alexa i would like to have a sushi can you order me a lunch,takeaway_order,takeaway_order,0.6413153878009592
+set lights to full power,iot_hue_lightup,iot_hue_lightdim,0.4028243047728315
+shall i get an umbrella tomorrow,weather_query,weather_query,0.39418586438821024
+softer,audio_volume_down,audio_volume_down,0.1755041064029747
+i helped a poor needy today olly,iot_coffee,general_quirky,0.3425239794232305
+what day of the week is the twenty second march,datetime_query,datetime_query,0.4803071577191834
+is it monday today,datetime_query,calendar_query,0.535669477816188
+what's the weather like in new york city,weather_query,weather_query,0.8399632507434538
+is it sunny in gonbad now,weather_query,weather_query,0.791460795016172
+turn off the smart plug,iot_wemo_off,iot_wemo_off,0.8331549557065914
+play a retro song in my playlist,play_music,play_music,0.9625903233499794
+power up the plug socket one,iot_wemo_on,iot_wemo_off,0.7453780969080085
+open bad religion folder,play_music,takeaway_order,0.3065589725849815
+play old-fashioned christmas music,play_music,play_music,0.30343603298627614
+what things can't you do,general_quirky,general_quirky,0.14483773227006544
+what time zone is arizona,datetime_query,datetime_convert,0.7874727436188235
+what is the name of song,music_query,music_query,0.9698661203603536
+what is the temperature outside,weather_query,weather_query,0.9302830628538882
+how much time it will take to prepare the order,takeaway_query,takeaway_order,0.23347596487268127
+search the album name with katy perry,music_query,music_query,0.07638291128439396
+hey olly play the playlist,play_music,play_music,0.8899161152613954
+how many alarms are listed,alarm_query,alarm_query,0.7603254621322302
+change light color,iot_hue_lightchange,iot_hue_lightchange,0.9945117876056442
+change color of lights,iot_hue_lightchange,iot_hue_lightchange,0.9915105481598696
+what is the time in the eastern time zone,datetime_query,datetime_convert,0.5579762182568951
+on tuesday what is the weather supposed to be,weather_query,weather_query,0.8241288331053156
+play playlist number seven,play_music,play_music,0.7714516294028678
+play me a song of adele,play_music,play_music,0.8442490077814473
+what will be the highest temperature this week,weather_query,weather_query,0.9162664642802405
+control lights turn off room lights,iot_hue_lightoff,iot_hue_lightoff,0.8014088509872149
+i want to listen to some gospel music,play_music,play_music,0.8246807716463918
+can you tell me what date it is,datetime_query,datetime_query,0.7935518225931403
+i can't hear just increase the volume,audio_volume_up,audio_volume_up,0.8389714615123713
+can you bright the lights please,iot_hue_lightup,iot_hue_lightup,0.7051450394007747
+hi can you please turn lower the lights,iot_hue_lightdim,iot_hue_lightdim,0.5908700386857634
+give me a newspaper,news_query,news_query,0.40733941573381544
+can i know the breaking news from c. n. n.,news_query,news_query,0.900370549330169
+create an alarm at four o'clock tomorrow morning,alarm_set,alarm_set,0.7294155665892074
+make an alarm to wake me up after five hours,alarm_set,alarm_set,0.7282341725423112
+play enrique iglesias song after this one,play_music,music_query,0.21385137270793006
+could you please lower the tone,audio_volume_down,audio_volume_down,0.5386111432366724
+get me top headlines,news_query,news_query,0.7783401743303683
+play song from my trance list,play_music,play_music,0.6781861324870188
+mute yourself until i say otherwise,audio_volume_mute,audio_volume_mute,0.85260451954713
+what does the weather look like this week,weather_query,weather_query,0.799641635459773
+could you please find me the latest news from a source that i do not usually go to,news_query,news_query,0.6306596268454089
+tell me about the latest sports news,news_query,news_query,0.9515754341860724
+notify me when trump is in the news,news_query,news_query,0.9417810374660817
+ok google mute sound on speakers please,audio_volume_mute,audio_volume_mute,0.8740576154854586
+play new gaga playlist,play_music,play_music,0.8738173765049093
+open the new york times app,news_query,news_query,0.26934434687211284
+increase the volume,audio_volume_up,audio_volume_up,0.9110051560641631
+play bob dylan playlist,play_music,play_music,0.9440886045667183
+hey google hey its too hot outside what is the temperature this afternoon,weather_query,weather_query,0.7984640683635089
+what is the latest gossip of hollywood going on,news_query,news_query,0.43581859126188505
+what alarms will wake me up tomorrow,alarm_query,alarm_query,0.9272555450195339
+my set alarms,alarm_query,alarm_query,0.9462802001734565
+save opinion,music_likeness,music_likeness,0.944264085927375
+play crystal lewis's beauty of the cross for me,play_music,play_game,0.333876153213071
+play kari jobe for me,play_music,play_music,0.4626126062209925
+set alarm for eight am,alarm_set,alarm_set,0.6454302157896532
+turn off the alarm for tomorrow morning,alarm_remove,alarm_remove,0.46788275900848647
+turn off the six am alarm for wednesday,alarm_remove,alarm_set,0.42424103372426175
+turn off any morning alarms after friday,alarm_remove,alarm_query,0.37966651297564474
+give me some lavender toned light,iot_hue_lightchange,takeaway_order,0.14118973603031384
+what will the weather be for the next week,weather_query,weather_query,0.9842724633719704
+please remove my alarm,alarm_remove,alarm_remove,0.9765672263726219
+open up and play music from my jogging playlist,play_music,play_music,0.8914687040595669
+what is going for tomorrow,news_query,weather_query,0.39905607937807497
+current world news,news_query,news_query,0.9175331004539136
+c. n. n. world news,news_query,news_query,0.9821343752745472
+after this song ends i want to hear hotel california next,play_music,play_music,0.0989111923153335
+dim the lights in the living room,iot_hue_lightdim,iot_hue_lightdim,0.9260461766015
+is my work alarm set for tomorrow,alarm_query,alarm_query,0.49974096260402745
+does the robot vacuum cleaner have to be plugged in,iot_cleaning,iot_cleaning,0.9550050611813956
+how do you activate the robot vacuum cleaner,iot_cleaning,iot_cleaning,0.9889346040201644
+do not play rock metal,music_dislikeness,play_music,0.5001864325920057
+enjoyment,play_music,general_quirky,0.09427096574863458
+show me weather list for tomorrow,weather_query,weather_query,0.8951266060543159
+go to the washington post website,news_query,social_post,0.17283250072541373
+play my morning playlist,play_music,play_music,0.9191815738184907
+gather all my songs from madonna,play_music,music_query,0.1584609266047108
+next play justin bieber's sorry,play_music,play_music,0.3549327690956091
+tell me the date,datetime_query,datetime_query,0.778143832801951
+play all my favorite songs,play_music,play_music,0.7595917016058714
+is it the twenty ninth already,datetime_query,datetime_query,0.13406164888859126
+what is the current time in lagos nigeria,datetime_query,datetime_query,0.6938427638083883
+top news on international women's day,news_query,news_query,0.5110536841708722
+who sings the song about a long black train,music_query,music_query,0.5996663170228747
+find today's wapo articles about trump,news_query,news_query,0.5248455371405542
+if it's ten p. m. in california what time is it in alabama,datetime_convert,datetime_convert,0.7793916258018143
+olly i need to hear notorious thugs by bone thugs now,play_music,transport_taxi,0.052993797482955796
+play rein in blood by slayer at five am tomorrow to make sure i actually wake up,play_music,alarm_set,0.1642785879121171
+play imagine dragons,play_music,play_music,0.24980465610954486
+read me the newest article on the new solar system,news_query,news_query,0.26273561524614664
+spotify,play_music,general_quirky,0.11568627069181334
+is mr. pizza on skip the dishes,takeaway_query,takeaway_order,0.2659182964549738
+i need to know if mr. pizza delivers,takeaway_query,takeaway_query,0.5733478110317463
+give us president's election news,news_query,news_query,0.6864273223061951
+what will be the weather on monday this week,weather_query,weather_query,0.928922459282076
+what's going on in the world right now,news_query,qa_factoid,0.2176825447477356
+what's the news,news_query,news_query,0.9869676634435427
+hey,general_greet,general_greet,0.5064952810013305
+what will be the time now in washington,datetime_query,datetime_query,0.7420782747023622
+it is very hot today is not it,weather_query,weather_query,0.392429610921492
+that song is my favorite,music_likeness,music_likeness,0.8182602807248973
+tell me c. n. n. news for me right now,news_query,news_query,0.9255807083313676
+can you turn up your volume,audio_volume_up,audio_volume_up,0.844353379395989
+play taylor swift,play_music,play_music,0.6285404656079268
+play taylor swift music,play_music,play_music,0.8363769094034865
+let me know about election new,news_query,news_query,0.4821761533681256
+let me know when you hear about france,news_query,qa_factoid,0.18316789699157046
+notify me with news updates on nigeria,news_query,news_query,0.8826970664618763
+will it rain on friday,weather_query,weather_query,0.46709236996484577
+music on,play_music,music_query,0.28313552954277643
+tell me today's sports news headlines,news_query,news_query,0.9268183722276575
+search for new jokes,general_joke,general_joke,0.6415490226968703
+play anything from metallica,play_music,play_music,0.2859488737103134
+i would like to listen to celine dion,play_music,lists_query,0.1174016902021341
+turn off living room lights,iot_hue_lightoff,iot_hue_lightoff,0.8853003975366831
+remind me that i like that song,music_likeness,music_likeness,0.4767367374641009
+play songs by nkotb,play_music,play_music,0.936008801191289
+i don't want to carry an umbrella will we have rain today,weather_query,weather_query,0.7163389723630809
+play me something pop,play_music,play_music,0.5663574165356823
+play music from the playlist,play_music,play_music,0.9864705509720018
+lets listen to the playlist,play_music,play_music,0.7709670394138186
+play list of music from avatar,play_music,play_music,0.7793050531835082
+send me alert on any new topic on politics,news_query,news_query,0.23506982803627652
+explanation of the song,music_query,music_likeness,0.1944699204758514
+selection of restaurants,takeaway_order,takeaway_query,0.3007180127045443
+facebook launches disputed tag to crack down on fake news,news_query,social_query,0.3142923739835203
+nine hundred and ninety nine f. m. is currently playing what music,music_query,play_radio,0.5185601725788657
+what music is playing now nine hundred and ninety nine f. m.,music_query,play_radio,0.6705496099197136
+set the music volume to ninety,audio_volume_up,audio_volume_up,0.6178953149380451
+olly what is this week's weather forecast,weather_query,weather_query,0.9703751215134996
+start my robot vacuum cleaner by ten to eleven am daily,iot_cleaning,iot_cleaning,0.9372362764242327
+my vacuum cleaner should start between ten to eleven am everyday,iot_cleaning,iot_cleaning,0.7536121432432085
+can you please tell me the time,datetime_query,datetime_query,0.7013476412156198
+change the speaker volume to sixty five percent,audio_volume_up,audio_volume_up,0.44032517583211817
+i want the light in the kitchen powered off,iot_hue_lightoff,iot_hue_lightoff,0.553257945336555
+who is the artist that sings this song,music_query,music_query,0.9912297607267545
+hey olly please tell me the name of this song that is currently playing,music_query,music_query,0.8962828446436518
+off all the lights on the right side,iot_hue_lightoff,iot_hue_lightoff,0.7538959667641343
+what and how is india's economy at the moment,news_query,general_quirky,0.24735633628744697
+give the latest updates on narendra modi,news_query,social_query,0.4819705366795499
+what's the time in china right now,datetime_query,datetime_query,0.8537189630296659
+please play the song joy to the world,play_music,play_music,0.6194173612342079
+time and date of today,datetime_query,datetime_query,0.9757096948398597
+my favorite singer is shakira,music_likeness,music_likeness,0.4334609357175944
+i want to eat some spicy thing,takeaway_order,play_music,0.1520565737675979
+order one pizza from pizza hut,takeaway_order,takeaway_order,0.9898254933886241
+how many seconds are left to complete this hour,datetime_query,qa_maths,0.0917138613783281
+up,audio_volume_up,audio_volume_up,0.5118355956783267
+bring me the latest tech news,news_query,news_query,0.9727292064148233
+weather report now,weather_query,weather_query,0.9503912336429726
+add that song to my top ten favorites list,music_likeness,music_likeness,0.49249106567849066
+add song to running list,music_likeness,lists_createoradd,0.428217954699693
+let's have a warm glow in the front room,iot_hue_lightchange,weather_query,0.18897643349339555
+what did she just sing,music_query,qa_factoid,0.12951830522022995
+put alarm at five am,alarm_set,alarm_set,0.8293644820812078
+what does the analysts say about the new immigration policies,news_query,news_query,0.2504756057264608
+what is the weather for the next seven days,weather_query,weather_query,0.8171571998049579
+are there any latest news,news_query,news_query,0.9369555485359814
+what is the time in perth,datetime_query,datetime_query,0.885521264627693
+hi google play me playlist wacky in my gaana application,play_music,play_music,0.4279562104085886
+hi play me playlist of a r. rehman songs released current year,play_music,play_music,0.640691081440322
+please change the volume to mute,audio_volume_mute,audio_volume_mute,0.4618319533635456
+can you tell me the weather for monday,weather_query,weather_query,0.6253303715284143
+pull up trump stories,news_query,news_query,0.6229640842207677
+switch lights to red tone,iot_hue_lightchange,iot_hue_lightoff,0.3360856317593537
+transition lights to blue to green to yellow,iot_hue_lightchange,iot_hue_lightchange,0.7948025523265876
+current song playing what is it,music_query,music_query,0.5925474741195756
+where is my food,takeaway_query,takeaway_query,0.4851474039916616
+olly where is my food,takeaway_query,recommendation_locations,0.25915530145566823
+what a sunny day,weather_query,weather_query,0.3925177188676876
+off the speakers,audio_volume_mute,audio_volume_mute,0.4501961805898204
+put that song in my favorite list,music_likeness,music_likeness,0.4502432219663043
+please play jazz music,play_music,play_music,0.9281145215798245
+play me this year's top ten k. pop songs,play_music,play_music,0.3048966318913477
+when will my chinese food arrive,takeaway_query,takeaway_query,0.3788250306378829
+what's going on in the world these days,news_query,news_query,0.5654990463763546
+play new pop music,play_music,play_music,0.7100435111346495
+set the mood please,iot_hue_lightchange,alarm_set,0.21971315022419702
+weather on tuesday,weather_query,weather_query,0.8536468569647795
+i'm going to sleep now,iot_hue_lightoff,weather_query,0.15119016365824456
+repeat song,music_settings,music_settings,0.9715270677202132
+get me up in half an hour,alarm_set,transport_taxi,0.16571842411662896
+show me the latest news about the elections,news_query,news_query,0.9725490603320918
+make an alarm,alarm_set,alarm_remove,0.3540059888276251
+hey share me some joke to make me happy,general_joke,general_joke,0.9562098241944056
+play hungry eyes,play_music,play_music,0.36043450234774427
+weather in miami,weather_query,weather_query,0.9585988317713009
+play ella fitzgerals get happy,play_music,play_music,0.22254561339399445
+headlines from b. b. c. world,news_query,news_query,0.6137896438674657
+is it still going to be rainy and cold on wednesday,weather_query,weather_query,0.44218869512565234
+send me links to news articles about the protest,news_query,news_query,0.8641768227914367
+which day is friday the thirteenth this year,datetime_query,calendar_query,0.24141701639714813
+i cup of joe would be nice right now,iot_coffee,general_quirky,0.1611780350478843
+olly turn the lights down to seven,iot_hue_lightdim,iot_hue_lightdim,0.670051052623336
+down the speaker volume at the end of level,audio_volume_mute,audio_volume_down,0.7140839854527117
+what temperature is it,weather_query,weather_query,0.6858423903903029
+get me the time in london now,datetime_query,datetime_query,0.7840035148496937
+is it raining right now,weather_query,weather_query,0.626713388620396
+put an alarm and wake me up at six am tomorrow morning,alarm_set,alarm_set,0.6863550576706934
+noodles one pack make it as takeaway,takeaway_order,takeaway_query,0.4037355200040163
+olly put dark colors instead of light ones in the house,iot_hue_lightchange,iot_hue_lightchange,0.6214436377238489
+read about the latest new about this world,news_query,news_query,0.6907763753244645
+what's happening around the world,news_query,news_query,0.5368308731015616
+initiate celine dion music,play_music,play_audiobook,0.10200308855672584
+can you tell me the date today,datetime_query,datetime_query,0.7912710493418115
+may i know the time in london,datetime_query,datetime_query,0.8509984686839057
+call china king chinese restaurant,takeaway_order,recommendation_locations,0.3111831814312311
+shuffle the current album of songs,music_settings,music_settings,0.9669499289656972
+tell me the time in india,datetime_query,datetime_query,0.5742676879559988
+turn off the shed light,iot_hue_lightoff,iot_hue_lightoff,0.8742078365811548
+i feel like having soup for lunch order from wangs kitchen restaurant a chicken manchow soup,takeaway_order,takeaway_order,0.8013280863595329
+what is happening in the world today,news_query,news_query,0.5857786670715006
+what are today's headlines,news_query,news_query,0.3590440149164679
+g. m. t. time,datetime_query,datetime_convert,0.9303093594729777
+find me all music for classical music,play_music,play_music,0.6950048770239967
+alarm set for time,alarm_set,alarm_set,0.8182870389816574
+please help me turn on the robot vacuum cleaner,iot_cleaning,iot_cleaning,0.9882893196042892
+what's the scoop,news_query,music_query,0.1029527794776322
+can i order out,takeaway_order,takeaway_order,0.8081197130236676
+i want to hear some modern rock,play_music,play_music,0.4485077970652875
+play a mi song of rap and rock one after the other,play_music,play_music,0.21428059640905117
+after this song put on metallica,play_music,music_likeness,0.35969705918611716
+what is the status on my latest order,takeaway_query,takeaway_query,0.5601597238525504
+what is the weather near me,weather_query,weather_query,0.9609447592308219
+play music by korn,play_music,play_music,0.9249085706121133
+play random music,play_music,play_music,0.7481119041431559
+turn the lights off now,iot_hue_lightoff,iot_hue_lightoff,0.9517337465573648
+please dim the lights in the bedroom,iot_hue_lightdim,iot_hue_lightdim,0.9106976764140207
+turn up the brightness,iot_hue_lightup,iot_hue_lightup,0.9329823149856237
+inform me about the latest news of donald trump,news_query,news_query,0.9461193130474098
+what is going on with international news,news_query,news_query,0.5137935563109349
+show me news about trump,news_query,news_query,0.9805071273674563
+play adele,play_music,play_music,0.7466978487250001
+is it going to warm up soon,weather_query,weather_query,0.6446853547487075
+play some lady gaga,play_music,play_music,0.817925944134992
+confirm to buy laptop,general_quirky,general_quirky,0.09574665663763689
+order two medium cheese and one medium pepperoni pizza from dominoes,takeaway_order,takeaway_order,0.8196714235242114
+olly i need to hear some sad songs today,play_music,play_music,0.3596443426598849
+change the colors please,iot_hue_lightchange,iot_hue_lightchange,0.905095720704948
+what's the news from c. n. n.,news_query,news_query,0.9859740925256004
+is it currently raining,weather_query,weather_query,0.2650589533966977
+i have to done it on the post important music file,music_likeness,social_post,0.0854819652880056
+i intended to do it,general_quirky,general_quirky,0.08524597268842635
+recent conroe news,news_query,news_query,0.9235976552519887
+start playing jazz music,play_music,play_music,0.5700283660403885
+the last friday of the month lands on what day,datetime_query,datetime_query,0.42023610515997917
+also a pleasure,general_quirky,play_music,0.04568631449752131
+can you find the newest song from mgk,play_music,play_music,0.1678009365118664
+did the yankees win last night,news_query,qa_factoid,0.09395320320099503
+what is the five days forecast looking like in new york city,weather_query,weather_query,0.14819951213685487
+what's the time in chicago,datetime_query,datetime_query,0.8440889926758176
+turn the living room lights to one percent,iot_hue_lightchange,iot_hue_lightdim,0.325312555343309
+what day is december thirteenth,datetime_query,general_quirky,0.2496235965780632
+the second of next mont lands on what day,datetime_query,calendar_query,0.27010661845281214
+listen to this song,music_query,music_query,0.8033077213865332
+is there takeaway at papa john's,takeaway_query,takeaway_query,0.38216896605805917
+is it raining today,weather_query,weather_query,0.7502310297940651
+what time is it in this city,datetime_query,datetime_query,0.8591255712831848
+olly change light color to blue,iot_hue_lightchange,iot_hue_lightchange,0.9985061187633939
+do i have alarms set for today,alarm_query,alarm_query,0.9392207456006217
+please pull up the article in the new york times,news_query,news_query,0.23408505411794353
+please show me any articles related to weather in the morning news,news_query,news_query,0.3644247875913588
+order pizza,takeaway_order,takeaway_order,0.9948419307799399
+how is weather on such and such day,weather_query,weather_query,0.8726912036935077
+can you turn down the volume please and tell me what is the title of this song,music_query,audio_volume_down,0.4438516286914427
+play my country playlist,play_music,play_music,0.8716705177350095
+play my second playlist,play_music,play_music,0.9319682917206737
+please save the current song to favorites,music_likeness,music_likeness,0.9732122681444458
+play music that i like,play_music,play_music,0.6769303866372212
+please play a song by bruno mars,play_music,play_music,0.917149304509911
+play two thousand one hundred and twelve by rush,play_music,qa_maths,0.5915344450856588
+please start the coffee,iot_coffee,iot_coffee,0.9938140195344071
+commence coffee making,iot_coffee,iot_coffee,0.7915221845983677
+change your colors to green,iot_hue_lightchange,iot_hue_lightchange,0.9438897718850572
+find and read to me world events happening today,news_query,recommendation_events,0.30947741670382345
+give me international news,news_query,news_query,0.3829918439002649
+olly cancel alarm,alarm_remove,alarm_remove,0.9707383457056669
+new news tech,news_query,news_query,0.9837884002315723
+recent tech headlines,news_query,news_query,0.5000262394555174
+compare weather home and san antonio texas,weather_query,weather_query,0.4953928862878923
+play all by the beatles,play_music,play_music,0.8074766667067335
+can you raise the lights for me please,iot_hue_lightup,iot_hue_lightup,0.8461715439024649
+olly find my food,takeaway_query,takeaway_query,0.19579920932958858
+does louie's do take out,takeaway_query,takeaway_query,0.41505710580122923
+i want to play the song again,play_music,play_music,0.6045669021347545
+olly what's the current weather,weather_query,weather_query,0.865659153080231
+play me a random song,play_music,play_music,0.7421208511764243
+play my favorite song from last year,play_music,play_music,0.7747243307835969
+what is eastern standard time right noe,datetime_query,datetime_convert,0.4740523024480752
+play me a random song from my playlist,play_music,play_music,0.9439841439367723
+olly i would like a cup of coffee with one cream and three sugars,iot_coffee,iot_coffee,0.7515822446389322
+this is a five star song,music_likeness,music_likeness,0.5477567168510965
+play classical music,play_music,play_music,0.9621215616032499
+play classical music playlist,play_music,play_music,0.9921180725726978
+turn my bedroom lights off,iot_hue_lightoff,iot_hue_lightoff,0.9682929333963848
+play music playlist,play_music,play_music,0.9908721059824231
+what is the name of the lead singer in this band,music_query,music_query,0.8469172865420276
+what year did this song come out,music_query,music_query,0.7565115323852786
+set an eight hundred am alarm for next tuesday,alarm_set,alarm_set,0.7700607905848896
+i need to wake up make me the strongest coffee you can make,iot_coffee,iot_coffee,0.6544846473215521
+play poker face by lady gaga,play_music,play_game,0.5145327538081216
+i'd like to listen to poker face by lady gaga,play_music,play_music,0.17610288225658313
+search for new stuff on that subject,news_query,cooking_recipe,0.07843137177407862
+what are the latest updates with regard to trump's ties to russia,news_query,news_query,0.6987286314774542
+i want a lower light,iot_hue_lightdim,iot_hue_lightdim,0.8901089278929076
+lower lights please,iot_hue_lightdim,iot_hue_lightdim,0.9474515459555408
+i want to listen song one,play_music,play_music,0.39034215877589895
+what day does my birthday fall on this year,datetime_query,datetime_query,0.44181418126041866
+what was the weather report for today,weather_query,weather_query,0.9179921766895095
+olly find out if kfc delivers please,takeaway_query,takeaway_query,0.6631617516718061
+what is the weather in austin,weather_query,weather_query,0.8801920431631447
+find the latest article from chris hedges on truthdig,news_query,news_query,0.5033186423826455
+please activate my coffee pot for me,iot_coffee,iot_coffee,0.8050920148817526
+report weather for thirty three thousand seven hundred and seventy four,weather_query,qa_maths,0.30253759943211533
+what time is my alarm set for,alarm_query,alarm_query,0.8932393591552832
+give me some bowie,music_query,takeaway_order,0.13254530473230355
+what is the date for next tuesday,datetime_query,datetime_query,0.43717593028084595
+is the twenty third on the weekend,datetime_query,datetime_query,0.44450801940176116
+lights to fifty percent,iot_hue_lightchange,iot_hue_lightdim,0.3499612615774629
+make it red in here,iot_hue_lightchange,iot_hue_lightchange,0.20269954646452332
+please turn on my wemo plug socket,iot_wemo_on,iot_wemo_on,0.8831995599986069
+i need an alarm for nine p. m.,alarm_set,alarm_set,0.6848487617830354
+is the weather going to be nice this weekend,weather_query,weather_query,0.9857511976051938
+can you set my coffee machine to make me coffee at seven am,iot_coffee,iot_coffee,0.972684673486869
+can you set the coffee machine to make coffee at three p. m. time every week day,iot_coffee,iot_coffee,0.8901120048661142
+remove the latest alarm,alarm_remove,alarm_remove,0.9442323456908132
+will it rain saturday,weather_query,weather_query,0.5254477484615849
+go to sleep,audio_volume_mute,qa_factoid,0.06873583646825424
+what time is it right now in pacific time,datetime_query,datetime_query,0.49720173134199225
+play music now please,play_music,play_music,0.8786596339437821
+i'd like a coffee now,iot_coffee,iot_coffee,0.9352839107739381
+is there snow in the forecast,weather_query,weather_query,0.6718226124027289
+please turn off all the lights outdoor,iot_hue_lightoff,iot_hue_lightoff,0.7615180969256636
+will it be sunny,weather_query,weather_query,0.8977313789756228
+please play classical music,play_music,play_music,0.9560208234160854
+will it be nice at the beach on friday,weather_query,general_quirky,0.35086208297153115
+please play workout playlist,play_music,play_music,0.9265621114960476
+make five coffee tell the coffee machine,iot_coffee,iot_coffee,0.9823971349646446
+what is the weather in london,weather_query,weather_query,0.8289945462153113
+please make a coffee for me,iot_coffee,iot_coffee,0.9904198690346472
+it is a sunny day today right,weather_query,weather_query,0.8638489530905702
+tomorrow is a sunny day right,weather_query,weather_query,0.8043052198903986
+are there any takeaways around here,takeaway_query,recommendation_events,0.6800383997103353
+what is the weather in sydney now,weather_query,weather_query,0.938591621090312
+i want some coffee now,iot_coffee,iot_coffee,0.9412738113517611
+put on be warned by tech nine,play_music,calendar_set,0.6038759081256679
+show me news from c. n. n.,news_query,news_query,0.9700262915536564
+google please be extra quiet the baby is sleeping,audio_volume_mute,audio_volume_mute,0.294193248640595
+make an alarm for the morning,alarm_set,alarm_set,0.44501823917901784
+can you tell me the temperature for saturday night,weather_query,weather_query,0.32756419097508993
+i want an alarm for three today,alarm_set,alarm_set,0.29343657315635513
+make some noise,play_music,audio_volume_mute,0.27895228693419866
+i want to hear i got you babe by sonny and cher can you play that,play_music,play_music,0.504830585327173
+olly switch to red colored lights,iot_hue_lightchange,iot_hue_lightchange,0.6729397097579329
+olly if any new news comes out about the flood can you let me know right away,news_query,news_query,0.428844752710584
+play me some pop,play_music,play_music,0.89808590428203
+i want the smart socket off now,iot_wemo_off,iot_wemo_off,0.9591174613826786
+change the lights to red,iot_hue_lightchange,iot_hue_lightchange,0.909348590062064
+i would love to hear the playlist i created for my wedding,play_music,play_music,0.32330037950220447
+please turn off the smart plug socket,iot_wemo_off,iot_wemo_off,0.8768349899161022
+i need to delete the alarm for church on sundays at eleven am,alarm_remove,alarm_remove,0.4466203348979602
+i want to hear some rap please,play_music,play_music,0.520653694385003
+turn down lights,iot_hue_lightdim,iot_hue_lightdim,0.8181770114951734
+mute audio,audio_volume_mute,audio_volume_mute,0.9673910063946425
+play all my favorite latin songs,play_music,play_music,0.6948646252768171
+who sings the song that i am listening to right now,music_query,music_query,0.9364255504483058
+can i get the time,datetime_query,datetime_query,0.3801040280153411
+mute immediately,audio_volume_mute,audio_volume_mute,0.6360547516463814
+i'd like to listen to hear a music of dance and country,play_music,play_music,0.49544190708453
+this is a good tune please notate file accordingly,music_likeness,qa_factoid,0.0563284909537594
+what is happening with president trump,news_query,news_query,0.4221190328435917
+search for all titles for huey lewis and play,play_music,play_music,0.3181694783155186
+can i order olive garden to go,takeaway_query,takeaway_query,0.7624685004423483
+play hurt by johnny cash next,play_music,play_music,0.6358700237395974
+alert me in three hours,alarm_set,alarm_set,0.09366469087170115
+how many hours ahead is n. y. c.,datetime_query,datetime_convert,0.14314569071022676
+open the weather app,weather_query,weather_query,0.8718503889400921
+show me the list of alarms,alarm_query,alarm_query,0.8748223325898935
+could you please set an alarm at six am,alarm_set,alarm_set,0.8483665312733254
+can you make the lights go out,iot_hue_lightoff,iot_hue_lightchange,0.4562634128086379
+when is the next holiday,datetime_query,calendar_query,0.75697128093096
+what's the best day next week to go out for pizza,datetime_query,weather_query,0.18021413985196175
+can you play emo music please,play_music,play_music,0.7933044885726045
+i would like to hear some rap music,play_music,play_music,0.6077687232508008
+can you tell me the time in new york,datetime_query,datetime_query,0.701272199309639
+increase the volume please,audio_volume_up,audio_volume_up,0.8060593320824494
+i need an alarm set for eight am,alarm_set,alarm_set,0.7881034417215017
+what's the latest headline,news_query,news_query,0.7390816203439299
+convert current time from ist to e. s. t.,datetime_convert,datetime_convert,0.6826472416111684
+please subscribe me to updates about us breaking news,news_query,news_query,0.7461215351284273
+let me know the alarm time,alarm_query,alarm_query,0.8938490561668253
+where can i get a shot of tequila and some to go mexican food,takeaway_query,takeaway_order,0.20377191618697535
+tell me how many inches of snow did new york city get today,weather_query,social_query,0.1775186882213914
+load spotify,play_music,general_quirky,0.08533483511097814
+show me what time it is,datetime_query,datetime_query,0.7073632437631423
+change volume level to maximum,audio_volume_other,audio_volume_other,0.6894985158272212
+current time new york,datetime_query,datetime_query,0.7096099267928221
+what's the current time in new york,datetime_query,datetime_query,0.896549031664402
+remove the alarm set for four hundred am,alarm_remove,alarm_remove,0.6177500181358568
+tell me the funniest joke that was ever told,general_joke,general_joke,0.8625584436975685
+should i wear galoshes today,weather_query,weather_query,0.6006117826109757
+please stop talking,audio_volume_mute,audio_volume_mute,0.46665776638936174
+olly change all lights to blue,iot_hue_lightchange,iot_hue_lightchange,0.9745948620212517
+is it too warm to wear my wooly sweater today,weather_query,weather_query,0.918419640755583
+read me the most updated news on b. b. c.,news_query,news_query,0.9051099135547744
+can you turn off my desk lamp,iot_hue_lightoff,iot_hue_lightoff,0.3200187328396114
+desk lamp one off,iot_hue_lightoff,iot_hue_lightoff,0.27068516629325806
+what are they saying about donald trump on this topic,news_query,news_query,0.26114641556378
+will the weather be less than ten degree in paris,weather_query,weather_query,0.7689936732768914
+i need to get up at ten tomorrow,alarm_set,calendar_set,0.2700296321367464
+is it too cold to go swimming,weather_query,qa_factoid,0.15520391151688442
+give me the time in p. s. t.,datetime_query,datetime_convert,0.6529144707743092
+what is the current weather in denver,weather_query,weather_query,0.8248282520315239
+what time is it in cleveland,datetime_query,datetime_query,0.6165748066673098
+review all alarms,alarm_query,alarm_query,0.7056762484628399
+what is the weather next week in pasadena ca,weather_query,weather_query,0.9352254197826662
+please order me pizza and wings from papa johns now,takeaway_order,takeaway_order,0.9772197208001572
+play album,play_music,play_music,0.4548530430800714
+start playing bag of hammers,play_music,play_audiobook,0.2313514943728354
+is it snowing in seattle,weather_query,recommendation_events,0.14241779370958363
+what is the time in london,datetime_query,datetime_query,0.8701859493669374
+what jacket should i wear,weather_query,weather_query,0.22471569659595667
+olly you need to find an alternate route to my destination,transport_query,transport_query,0.6734662967507422
+will i need a jacket today,weather_query,weather_query,0.3768253982629265
+after this one play song,play_music,music_query,0.2804766223261231
+set an alarm for seven thirty am,alarm_set,alarm_set,0.9873661214148876
+what are the latest crime statistics for me area,news_query,social_query,0.11783652408310966
+turn my lights to some random color,iot_hue_lightchange,iot_hue_lightchange,0.5616596919981709
+what is the weekly weather report,weather_query,weather_query,0.820962962421763
+is it sunny,weather_query,weather_query,0.8302026981779004
+i want to know what time it is,datetime_query,datetime_query,0.8060020657002528
+has anything happened to mass effect,news_query,general_quirky,0.3656031075570089
+are there any recall news,news_query,news_query,0.6475274713599539
+what's my next scheduled alarm,alarm_query,alarm_query,0.4495406513112672
+what's the description for the alarm at eleven am,alarm_query,qa_definition,0.28310761340817625
+how soon can we expect rain,weather_query,transport_query,0.12401300713299737
+read me the latest headlines from nytimescom,news_query,news_query,0.6744765296697369
+i want to order some take-out food,takeaway_order,takeaway_order,0.9490395252366277
+tell me the time in japan,datetime_query,datetime_query,0.7702699280761951
+find information on today's stocks,news_query,qa_stock,0.5635192670102395
+turn off bedroom lights in ten seconds,iot_hue_lightoff,iot_hue_lightoff,0.8585337853321876
+what is the current news today,news_query,news_query,0.8826813089092038
+what topic is the most talked about today,news_query,news_query,0.15411106280696435
+when is taco bell going to arrive,takeaway_query,qa_factoid,0.28317628786209137
+set an alarm for six thirty am,alarm_set,alarm_set,0.9775707019126033
+can you play music by pink floyd,play_music,play_music,0.8451298475374285
+what day of the week is the twenty first of may,datetime_query,datetime_query,0.5227200914027847
+set alarm for eight am tomorrow,alarm_set,alarm_set,0.5408443980173837
+set an alarm for tomorrow monday at eight am,alarm_set,alarm_set,0.7555979168170665
+will the temperature be above freezing on wednesday,weather_query,weather_query,0.5091950640238735
+what are my alarms,alarm_query,alarm_query,0.9874939472025933
+set notification for news on the stock market,qa_stock,news_query,0.33507735366260183
+turn on notification for all news on the stock market,qa_stock,news_query,0.265328255648072
+play my downloaded music,play_music,play_music,0.6290012025068098
+is it gonna be cloudy,weather_query,weather_query,0.26484932105076736
+put william it's my birthday in next,play_music,calendar_query,0.3842467502318995
+tell me the time in this time zone,datetime_query,datetime_convert,0.5558519690565669
+what day does my birthday fall on this year june twenty seventh,datetime_query,datetime_query,0.4974462734033522
+what is my most played song,music_query,music_query,0.7434751556640224
+what's the current temperature outside,weather_query,weather_query,0.8908129214864735
+change the lights to a different hue,iot_hue_lightchange,iot_hue_lightchange,0.7423955685528097
+convert time zone,datetime_convert,datetime_convert,0.8725223242796668
+when is the twenty second,datetime_query,qa_maths,0.13571967042951175
+what is the time in another city,datetime_query,datetime_query,0.8099818384980518
+show me the time now in boston,datetime_query,datetime_query,0.7750189385962483
+how is the weather in utah right now,weather_query,weather_query,0.9732106432708246
+call the nearest pizza place that offers buffalo pizza,takeaway_order,takeaway_order,0.44204787566035
+call pf chang's to order me egg foo young,takeaway_order,takeaway_order,0.6608982181765025
+what is the current temperature,weather_query,weather_query,0.5269646634492527
+my review,music_likeness,social_post,0.2958294619073793
+add a five am alarm in place of my nine p. m. alarm,alarm_set,alarm_set,0.46546328178652896
+please keep tabs on how the presidential debates are going,news_query,qa_factoid,0.41083788936485455
+are you aware this joke,general_joke,general_joke,0.7991330424684648
+turn off all alarms,alarm_remove,alarm_remove,0.7986974262212657
+what year was this song recorded,music_query,music_query,0.8561598128676737
+will it rain now,weather_query,weather_query,0.8805121252717552
+please tell me a joke that i'll think is funny,general_joke,general_joke,0.9637817217962303
+what were the winning powerball numbers last night,news_query,email_querycontact,0.16132361731417738
+play you are my sunshine,play_music,play_music,0.270893739005544
+i need you to have the volume louder,audio_volume_up,audio_volume_up,0.9455746623773956
+prepare a cup of coffee for me,iot_coffee,iot_coffee,0.8932419033592673
+please mute my speaker,audio_volume_mute,audio_volume_mute,0.9521944090622192
+what is the time for the eastern time zone,datetime_query,datetime_convert,0.6222694690748602
+if i was in the eastern time zone what time would it be,datetime_convert,datetime_convert,0.8029931104115252
+brighten the lights a little bit,iot_hue_lightup,iot_hue_lightup,0.9351614869844006
+how cold is today,weather_query,general_quirky,0.2997234148173152
+status of weather,weather_query,weather_query,0.8882151978329196
+alexa please turn down the lights in the living room,iot_hue_lightdim,iot_hue_lightdim,0.6462409977600609
+alexa please turn down the lights in the house,iot_hue_lightdim,iot_hue_lightdim,0.4622936675373477
+what is the latest news for fashion,news_query,news_query,0.9391412556975828
+please tell me the latest news of world,news_query,news_query,0.9841122891674698
+tell me when there is new news about donald trump,news_query,news_query,0.9342532755296512
+what is the latest news about obamacare,news_query,news_query,0.8766030578839967
+it seems cold,weather_query,general_quirky,0.09416251095296367
+what is the forecast for saturday,weather_query,weather_query,0.28576747337275016
+olly what's happened in the news today,news_query,news_query,0.8157331912746271
+pink nobody knows,play_music,qa_factoid,0.11759092415454478
+is it hot or cold outside,weather_query,weather_query,0.7220926112549425
+play recently added songs,play_music,play_music,0.44380690176865584
+please tell me what is the election result today happened,news_query,general_quirky,0.3249239530675344
+it's too bright in here can you turn a light off,iot_hue_lightoff,iot_hue_lightup,0.37849736532009465
+could you please play the song from the artist madonna,play_music,play_music,0.7718916670239817
+what kind of weather should i expect this week,weather_query,weather_query,0.9005736023029266
+tag this song with five stars,music_likeness,music_likeness,0.48979361941121097
+kindly switch off the light in the drawing hall,iot_hue_lightoff,iot_hue_lightoff,0.6285356657303182
+i like to listen to hindustani music,play_music,play_music,0.3832327242750292
+get me the most recent news,news_query,news_query,0.9483432554598031
+how many runs did cheteshwar pujara scored yesterday,news_query,general_quirky,0.3172723659777283
+did you set the alarm for five am,alarm_query,alarm_set,0.7228619536402183
+is umbrella necessary for my outing,weather_query,weather_query,0.4222088334510726
+start playing kids by mgmt,play_music,play_game,0.14467159274870617
+what is currently breaking news,news_query,news_query,0.7787209358038585
+please increase volume in music player,audio_volume_up,audio_volume_up,0.8254441142709056
+please play only music of pop mix,play_music,play_music,0.4875670331310615
+please play only sad song in music player,play_music,play_music,0.5104272001001386
+show b. b. c. news of migration,news_query,news_query,0.7454549225658408
+what is the weather going to be like on march twentieth two thousand and seventeen,weather_query,weather_query,0.8239216126770497
+what's going on lately with the europe,news_query,news_query,0.15741566948055574
+set the alarm for five am,alarm_set,alarm_set,0.9254215181933964
+please tell me the weather for washington d. c.,weather_query,weather_query,0.4048270340385369
+hey do you have home delivery,takeaway_query,takeaway_query,0.4051374273575859
+put on the vacuum on now and clean the living room,iot_cleaning,iot_cleaning,0.9726733544777475
+time difference between u. k. and us,datetime_convert,datetime_convert,0.944765966468095
+what's the latest trump controversy,news_query,news_query,0.655723208050416
+please show me weather on twenty seventh march two thousand seventeen,weather_query,weather_query,0.40014112397635226
+will the restaurant deliver the order,takeaway_query,takeaway_query,0.9774971736803172
+mention the time in canada now,datetime_query,datetime_query,0.5333981471648336
+is it going to rain later,weather_query,weather_query,0.852741185085012
+run indian folk song,play_music,music_likeness,0.15085429304682452
+is it sunny outside,weather_query,weather_query,0.9621042517388675
+neat,music_query,recommendation_locations,0.12292863216046791
+do i need pants,weather_query,lists_query,0.11934338273405055
+is there a need for sun glasses,weather_query,weather_query,0.5586631754925891
+olly brighten the lights,iot_hue_lightup,iot_hue_lightup,0.9391547612181529
+i need you to get me up at six am,alarm_set,alarm_set,0.44833598998598856
+is it too hot for pants,weather_query,weather_query,0.10043759966121173
+what is the latest poll on the public view of president trump,news_query,news_query,0.4811302160465382
+what alarms are set in the house,alarm_query,alarm_query,0.9774049294415776
+tell me if my alarm is set for the morning,alarm_query,alarm_query,0.6267012097298955
+turn up the sound,audio_volume_up,audio_volume_up,0.7783433530771503
+what time should i go for a hike,weather_query,datetime_query,0.1439703096241737
+the song in background is cool,music_likeness,music_dislikeness,0.26805358595722606
+the song makes me remember certain memories,music_likeness,music_likeness,0.4664943500237164
+is weather cloudy,weather_query,weather_query,0.9701397686853455
+if it is raining i will not go for job,weather_query,weather_query,0.5659167579072168
+who is the music director of this song,music_query,music_query,0.9363374508090656
+stay quiet,audio_volume_mute,audio_volume_mute,0.8138565570006716
+play some old school rap,play_music,play_music,0.5462928821374
+what are the news headlines,news_query,news_query,0.9739541712696951
+did ben and jen get back together,news_query,general_quirky,0.38623703906529344
+set alarm at nine am on next sunday,alarm_set,alarm_set,0.7705796792105727
+is today a sunscreen day,weather_query,weather_query,0.24653143979833084
+open weather,weather_query,weather_query,0.9536950207402682
+start vacuum bot,iot_cleaning,iot_cleaning,0.9660499576465997
+play previous song,play_music,play_music,0.5073930388129755
+shuffle and play all songs by gavenda artist,play_music,music_settings,0.5603540479087602
+will i need sunblock this weekend,weather_query,weather_query,0.5888405363462651
+play all songs from blue genre,play_music,play_music,0.6329714083612752
+play for me the music by the beatles,play_music,play_music,0.8894941360333377
+should i take my raincoat with me now,weather_query,weather_query,0.7403666213989967
+then tap ok,alarm_query,qa_factoid,0.10220577124673351
+play my playlist party songs,play_music,play_music,0.9166800577900461
+please tell me the news headlines,news_query,news_query,0.9797067310623409
+ricky matin,play_music,qa_factoid,0.09544471527527774
+start my play list,play_music,play_music,0.38477906229599473
+please play my top music playlist,play_music,play_music,0.9564875333863709
+date,datetime_query,datetime_query,0.7003475433024052
+turn room light off,iot_hue_lightoff,iot_hue_lightoff,0.9672047000424961
+play the song which is in movie rangoon,play_music,recommendation_movies,0.3286691329576552
+set music system to mute,audio_volume_mute,audio_volume_mute,0.7383533002974451
+please play me the madonna song again,play_music,play_music,0.5879233408816608
+climate,weather_query,datetime_query,0.07550930191313818
+will i need an umbrella for today,weather_query,weather_query,0.8623748944981652
+do i need to put a jacket on when i go outside,weather_query,weather_query,0.36338137856739006
+set an alarm for five o'clock this evening labeled taxi,alarm_set,alarm_set,0.637564270452171
+should i wear raincoat before getting out,weather_query,weather_query,0.658266274464098
+add light,iot_hue_lightup,iot_hue_lightup,0.2390030706701664
+olly hot and sweet soy based,iot_coffee,general_quirky,0.13913979695130724
+what is the weather in home town,weather_query,weather_query,0.8906562943393992
+activate silent,audio_volume_mute,audio_volume_mute,0.43912309506999236
+alexa do need an umbrella today,weather_query,weather_query,0.4917261324835816
+i'd like a cappuccino please,iot_coffee,iot_coffee,0.5896455996484115
+what's the weather report for bangalore today,weather_query,weather_query,0.7835505543961762
+should i wear a coat to the pool,weather_query,weather_query,0.875827642358156
+start irobot,iot_cleaning,general_quirky,0.19882601773994588
+open c. n. n. app,news_query,news_query,0.36187574721430377
+list all set alarms,alarm_query,alarm_query,0.841534367252264
+give me the release date of this song,music_query,music_query,0.4229941249239897
+let me hear about some new devotional music,play_music,play_music,0.329608031756814
+remind my friend to get the assignment tomorrow,calendar_set,calendar_set,0.6060467823762816
+say a good joke for me right now,general_joke,general_joke,0.8644819660971667
+i want to order food,takeaway_order,takeaway_order,0.9323222721162252
+put on the next song in five minutes,play_music,audio_volume_mute,0.169193821780414
+what's my favorite music at the moment,music_query,music_query,0.36369630428146277
+what time is it in central time zone,datetime_query,datetime_convert,0.8687593308917092
+should i close the window before i leave this afternoon,weather_query,transport_query,0.14465148426177146
+when can i pick up my chinese food,takeaway_query,takeaway_query,0.8578862993798622
+should i take a sweater or a coat to work today,weather_query,weather_query,0.8646414250073527
+add selected song,play_music,music_likeness,0.6201434143624829
+should i wear gloves tonight,weather_query,weather_query,0.7119589556985619
+alexa increase the brightness of the light it is hard to see down here,iot_hue_lightup,iot_hue_lightup,0.837841778783651
+don't respond for fifty seconds,audio_volume_mute,audio_volume_mute,0.16708483591033343
+que song let it burn,play_music,music_likeness,0.40918697704964857
+hey olly what will the weather be like to today in los angeles california,weather_query,weather_query,0.7067371169476437
+hey olly how is the weather in long island new york,weather_query,weather_query,0.5526904112226834
+play michael buble save the last dance,play_music,play_music,0.22520630569988842
+store opinion on song,music_likeness,music_likeness,0.7309570225546974
+hey order two wings with french fries from the chinese food store,takeaway_order,takeaway_order,0.9227233201632943
+hey olly what time is it in orlando florida,datetime_query,datetime_query,0.6620364906826807
+keep me up to date with the world news,news_query,news_query,0.9640254251612764
+do i need to wear boots,weather_query,weather_query,0.3689212021102488
+tell me the time in another city in us,datetime_query,datetime_query,0.6939783968174977
+find funny jokes,general_joke,general_joke,0.9955756411180385
+tube was super busy today,general_quirky,general_quirky,0.18457519829457858
+dolores how was your day,general_quirky,general_greet,0.2753927302393232
+how you know me,general_quirky,general_greet,0.15332428554801766
+hey i want to know about your inception,general_quirky,general_quirky,0.06512469263857129
+i do not know how to answer this question you left a word or two out,general_quirky,qa_maths,0.6819335715237365
+my day was stressful,general_quirky,general_quirky,0.23123481489198433
+i had a bad day,general_quirky,general_quirky,0.6597022663825307
+i helped a poor needy today,general_quirky,general_quirky,0.23902636772048205
+how old are you,general_quirky,general_greet,0.4733406488220784
+today i,general_quirky,general_quirky,0.27083852640291134
+ask me easy questions about a subject i know and tell me when i'm wrong,general_quirky,general_quirky,0.1319531096045093
+how many kilometers did i walk today,general_quirky,qa_factoid,0.21558133884884578
+i would like to talk about it,general_quirky,general_quirky,0.2920401243487718
+can you tell me about today,calendar_query,general_quirky,0.5859290983871147
+i hate how long the traffic jams get,general_quirky,transport_traffic,0.994230540607052
+i need a nap,general_quirky,lists_createoradd,0.12954307312843658
+what do you want to do today,general_quirky,general_quirky,0.17530168095081888
+i eat breakfast at eight am,general_quirky,cooking_recipe,0.10835648739350642
+i don't want to take any more calls after five p. m.,general_quirky,calendar_set,0.09263019772830913
+i want an alarm for six am everyday,alarm_set,alarm_set,0.7383801556014411
+olly how's the weather,weather_query,weather_query,0.8986932903170516
+do you think i should see a movie or go out to dinner,general_quirky,recommendation_movies,0.2917668423795423
+i need to have better focus olly i couldn't concentrate on a single task,general_quirky,general_quirky,0.050315406686892446
+i went to the store,general_quirky,recommendation_locations,0.07930210040439663
+how are you feeling lately,general_quirky,general_greet,0.2813758618665933
+hey what has been happening interesting in sports lately,general_quirky,recommendation_events,0.3908783429401403
+do you sell any of my information to advertisers,general_quirky,calendar_query,0.2717354386172805
+today i ran into my old friend bob,general_quirky,general_quirky,0.13953634807297752
+what's the stupidest question anyone ever asked you,general_quirky,social_query,0.20739545899701817
+riddles,general_quirky,qa_factoid,0.12750506305820436
+have you heard any good music lately,general_quirky,general_greet,0.09406915552652839
+record what happened today,general_quirky,general_quirky,0.6871516611093018
+is there a groomer in town for cats only,general_quirky,recommendation_events,0.19298273935240706
+how many words does it know,general_quirky,datetime_query,0.1620939312404468
+are you smart,general_quirky,general_greet,0.13771332651886067
+i want topics on music,music_query,play_audiobook,0.21804953403200156
+i went to walmart today,general_quirky,weather_query,0.20353102911041035
+new gadgets,general_quirky,news_query,0.5608806204619576
+ask trivia questions,general_quirky,qa_maths,0.14492290651994366
+has it been a busy day,general_quirky,general_quirky,0.4033263417193159
+history,general_quirky,general_quirky,0.6668891766785228
+shopping,general_quirky,recommendation_locations,0.33420752569961437
+how to eat healthy,general_quirky,general_quirky,0.140720823345535
+what is your mood today,general_quirky,datetime_query,0.2672841080692687
+is soft cheese better than hard,cooking_recipe,cooking_recipe,0.1611779384940312
+today was a tiring day,general_quirky,general_quirky,0.6335172307702451
+what's happening in pop industry,news_query,recommendation_events,0.3437831861837447
+play videos,general_quirky,play_music,0.37204325278473777
+do you like my girlfriend,general_quirky,music_likeness,0.1619952429600939
+what would be a good romantic dinner,general_quirky,cooking_recipe,0.20759514171220406
+spelling,general_quirky,qa_factoid,0.08203090089011625
+what's a good present for a girlfriend,general_quirky,recommendation_locations,0.12321788716081267
+plants,general_quirky,play_music,0.1322264891588302
+the nature of artificial intelligence,general_quirky,qa_factoid,0.11412018300862
+what is your age,general_quirky,qa_factoid,0.5688917514639198
+tell interesting news,news_query,news_query,0.668984833737996
+forecast rates,general_quirky,weather_query,0.2898344516678547
+what is the name of the best italian restaurant,general_quirky,recommendation_locations,0.3563458643944558
+weather like,weather_query,weather_query,0.9839834593339407
+recent advice concerning google seo,general_quirky,qa_factoid,0.10891323358652125
+hi i will need my coffee brewed at seven am today,general_quirky,iot_coffee,0.5523967913169695
+overall day,general_quirky,general_quirky,0.3079272026887705
+automobiles,news_query,qa_factoid,0.15341074129169616
+how did your day go,general_quirky,general_quirky,0.21625938804446812
+general health tips,general_quirky,qa_factoid,0.17572614131244707
+does artificial intelligence have consciousness,general_quirky,social_query,0.11634397799623147
+are you real,general_quirky,general_greet,0.1973547639225368
+olly cancel business meeting on wednesday,calendar_remove,calendar_set,0.20509413758460285
+remove stand-up on friday at ten am,calendar_remove,calendar_remove,0.19446493284636293
+what's my agenda for the remainder of the week,calendar_query,calendar_query,0.8113796625074652
+clear my day from meetings,calendar_remove,calendar_remove,0.44321313523860123
+cancel all events in the next two days,calendar_remove,calendar_remove,0.7216255379180314
+add to my calendar daily call at five p. m.,calendar_set,calendar_set,0.5535297082435024
+what's next in my schedule,calendar_query,calendar_query,0.8082983428722628
+please clean my calendar,calendar_remove,calendar_remove,0.6853378102258839
+remind me to send that email later,calendar_set,email_sendemail,0.9729220520033742
+remind me to wash the windows,calendar_set,calendar_set,0.4809217316008898
+dismiss my next event,calendar_remove,calendar_query,0.6680922392202394
+set a meeting with hongbin,calendar_set,calendar_set,0.8647468229960443
+add an event to my calendar,calendar_set,calendar_set,0.8820321292015336
+do i have any events today,calendar_query,calendar_query,0.8898875107670726
+add event for this evening meeting with jake,calendar_set,calendar_set,0.9733765101736643
+what is next on my calendar,calendar_query,calendar_query,0.9212919738493563
+is there any event today in my calendar,calendar_query,calendar_query,0.7312473081685305
+tell me my meetings this wednesday morning,calendar_query,calendar_query,0.3008221474628982
+remove all the events on my calendar,calendar_remove,calendar_remove,0.9535213591511404
+i will attend lily's wedding next week with my boyfriend please add it to my calendar,calendar_set,calendar_query,0.33855173978970216
+olly can you remind me about the gym class in two hours,calendar_set,calendar_set,0.13606894233279615
+remind me an email to my sister,calendar_set,email_sendemail,0.6970494653872974
+set up the following event in the calendar with the following people,calendar_set,calendar_set,0.5031596217180877
+is there any upcoming events,calendar_query,recommendation_events,0.9305666655511091
+schedule a meeting with the accounting department on two thirty p. m. on friday,calendar_set,calendar_set,0.6635769165256482
+delete the birthday party tomorrow at two p. m.,calendar_remove,calendar_remove,0.3559824231195642
+are there morning shows available,calendar_query,lists_query,0.13560802859428273
+can you give me the movie schedule,calendar_query,recommendation_movies,0.40309658696958306
+give me a reminder at eight p. m. for the game,calendar_set,calendar_query,0.30241389415438935
+erase the lawn care appointment next month,calendar_remove,calendar_remove,0.320421233190243
+it's very different,general_quirky,datetime_convert,0.24248010191022074
+who should i expect to be at the meeting today,calendar_query,general_quirky,0.2942908061906009
+set event in calendar repeat event every day,calendar_set,calendar_set,0.886304278766945
+remind me about my meeting with joe at ten on monday,calendar_set,calendar_set,0.8768801180030495
+is there any program for tomorrow evening,calendar_query,calendar_query,0.6434642525175108
+delete all events and information,calendar_remove,calendar_remove,0.6477175246039218
+how many meetings do i have tomorrow,calendar_query,calendar_query,0.5348440645963614
+remove all from calendar,calendar_remove,calendar_remove,0.9610896588103426
+notify me one hour before my meeting,calendar_set,calendar_set,0.4239901389593029
+clean my calendar,calendar_remove,calendar_remove,0.7515674355314121
+make sure there is no events on my calendar,calendar_remove,calendar_query,0.5662960371940406
+show reminders,calendar_query,calendar_set,0.3023543635390685
+remind me every year on this date of,calendar_set,calendar_set,0.5391304415643435
+find me a time for a meeting with allen on tomorrow,calendar_set,calendar_set,0.8725616725247647
+what does my calendar look like for the next week,calendar_query,calendar_query,0.7833545925305077
+remove new year from calendar,calendar_remove,calendar_remove,0.869693509019316
+hello google take me to google calendar please,calendar_set,qa_factoid,0.12012047102680268
+what events are scheduled next tuesday between eleven am and three p. m.,calendar_query,calendar_query,0.6211487065160208
+please delete all of my calendar events for the rest of the day,calendar_remove,calendar_remove,0.9694226523624982
+what are my reminders today,calendar_query,calendar_query,0.7990642326564491
+google calendar,calendar_set,calendar_remove,0.2844204820666198
+add my doctor appointment for the fifteenth,calendar_set,calendar_set,0.6355992641975169
+remind me to go grocery shopping for the party on sunday,calendar_set,calendar_set,0.3579210345849051
+please invite kim marc and julian to a meeting on thursday at three p. m.,calendar_set,calendar_set,0.6790457141725766
+what to do next on events,calendar_query,calendar_query,0.8881083088129594
+remove the board meeting and reschedule for next wednesday,calendar_remove,calendar_query,0.49786769135254333
+six am,calendar_set,alarm_set,0.14622653890190798
+i want to know more about the upcoming commonwealth games,general_quirky,play_game,0.08190046825747109
+remove,calendar_remove,lists_remove,0.7697957684606023
+wake me at six am thursday so i have time for the meeting,calendar_set,alarm_set,0.24661057851097506
+do i have anything scheduled for tomorrow,calendar_query,calendar_query,0.4299975658488528
+what day of the week is my birthday this year,calendar_query,calendar_query,0.6625187300821258
+what is my next event,calendar_query,calendar_query,0.9462411214476244
+don't let me forget rover's vet appointment on the twenty fifth,calendar_set,calendar_set,0.5768022074056308
+can you set up a meeting with me,calendar_set,calendar_set,0.9038792066065479
+note down important event in this week,calendar_set,calendar_query,0.21470884232810922
+is jimmie's party on friday canceled,calendar_query,calendar_remove,0.527157937143766
+today is monday is it,datetime_query,calendar_query,0.5525901762589593
+remove the hip show from my schedule on april second,calendar_remove,calendar_remove,0.23008667840928787
+when will the match start,calendar_query,qa_factoid,0.12917673179324599
+when is my anniversary,calendar_query,qa_factoid,0.23940608214772685
+please remind me to take off coffee off stove in ten minutes,calendar_set,iot_coffee,0.4637795026031524
+remind me about my anniversary in advance,calendar_set,calendar_set,0.3176143534309672
+what time do i have appointments today,calendar_query,calendar_query,0.8387476256021927
+what is my first appointment today,calendar_query,calendar_query,0.5294627151845397
+what's for today,calendar_query,datetime_query,0.1564058305322649
+am i booked for something,calendar_query,general_quirky,0.2102442175257204
+i have to be in hawaii for this upcoming event can you add this,calendar_set,calendar_set,0.21696863222533877
+what is going on today from two four p. m.,calendar_query,calendar_query,0.2286613401346182
+what do i have scheduled for next week,calendar_query,calendar_query,0.9633473471711996
+what's on my calendar tomorrow,calendar_query,calendar_set,0.3307996602263172
+get rid of everything on my calendar,calendar_remove,calendar_remove,0.29537517945066044
+my calendar to be added with bola birthday of twelveth july,calendar_set,calendar_set,0.37997984102354765
+twelveth july is bola's birthday and my calendar to be updated with this date,calendar_set,calendar_query,0.653717287416995
+all march events in rccg is to be added to my calendar,calendar_set,calendar_set,0.573247643174667
+my calendar is to be updated with all rccg event in march,calendar_set,calendar_set,0.6199772643206813
+thirteen minutes from now remind me to drive to the park,calendar_set,calendar_set,0.09479433664843406
+list all the events in my march calendar,calendar_query,calendar_remove,0.5314577606078827
+what meetings are available in march,calendar_query,calendar_query,0.5005478534227816
+please show today meeting with clients,calendar_query,calendar_set,0.3508707569186965
+set a meeting on the twentieth october ten thirty am,calendar_set,calendar_set,0.5468453937419472
+i want to see each of my pending reminders,calendar_query,calendar_set,0.4811197947831435
+what do i have to do tomorrow,calendar_query,calendar_query,0.29753014988597754
+what events are on this month's schedule,calendar_query,calendar_query,0.9226303503177984
+create repeating event john's birthday on calendar,calendar_set,calendar_set,0.7733733041720324
+repeat reminder for my schedule for christmas,calendar_set,calendar_query,0.5061031786904885
+please remind this sunday to go to mass,calendar_set,calendar_set,0.3325627464038275
+make a meeting with friend,calendar_set,calendar_set,0.5928273870533429
+may i ask you to remove next event from my calendar,calendar_remove,calendar_remove,0.7890077302704849
+i need a event to be created with only these people,calendar_set,calendar_set,0.43015250802210037
+invite people to the calendar event,calendar_set,calendar_set,0.42844490409893893
+date with love the next day,calendar_set,datetime_query,0.431770890363592
+show me events that are going on right now,calendar_query,recommendation_events,0.4106691552361759
+remember to fix a meeting between me and the players tomorrow evening by seven,calendar_set,calendar_set,0.7600262532388157
+olly set up a daily reminder for me please,calendar_set,alarm_set,0.38535211304952266
+do i have appointments today,calendar_query,calendar_query,0.7681972038648641
+where in d. c. is that meeting at one p. m. on friday,calendar_query,calendar_query,0.5202181667870173
+up coming events,calendar_query,calendar_set,0.4415847501062376
+after swimming lessons what else is on my calendar on tuesday,calendar_query,calendar_query,0.31985136638493583
+is it someones birthday or anniversary today,calendar_query,calendar_query,0.31623666131088074
+set event on recurring,calendar_set,calendar_set,0.6908628813518038
+remind me daily at eleven am for meeting with boss,calendar_set,calendar_set,0.906173492922046
+set on second january about soccer match of manchester,calendar_set,calendar_query,0.05966338076824582
+what's on for this week,calendar_query,calendar_query,0.47254176428140116
+how free am i this week,calendar_query,calendar_query,0.361163848243459
+please remind me about this tomorrow,calendar_set,calendar_set,0.5612127405273637
+add to my calendar mom's fashion dinner for may fifth,calendar_set,calendar_set,0.4920631556605467
+i want a meeting till three o'clock,calendar_set,calendar_set,0.5427099119344757
+set my calendar to remind me to buy groceries every friday,calendar_set,calendar_set,0.7155920095090699
+make a reminder of location a on calendar,calendar_set,calendar_set,0.9296495772254293
+latest reminder about meeting,calendar_set,calendar_set,0.7676788017411023
+date of joining,calendar_set,datetime_query,0.22894617050826388
+plan for tomorrow,calendar_query,weather_query,0.14137953088768818
+have john join me on the tenth at the fifth floor meeting,calendar_set,calendar_set,0.5271903867365916
+please check your calendar i have done somethings,calendar_query,calendar_remove,0.2018370334961031
+from four to six when do i have a free break,calendar_query,calendar_query,0.20908862430022665
+set reminder for meeting tuesday with bill,calendar_set,calendar_set,0.9356598361668282
+remove meeting reminder for tuesday,calendar_remove,calendar_set,0.7790595490890483
+i need you to set twelve noon prayer for every friday,calendar_set,calendar_set,0.26133658343445876
+clear all events from calendar,calendar_remove,calendar_remove,0.9646000820093726
+don't forget to remind me of my brother's birthday on april twenty,calendar_set,calendar_set,0.4631941958072526
+cancel all my appointments after three p. m. today and inform me the details,calendar_remove,calendar_query,0.5644262371886098
+will you mark that i have a meeting with tom at three tomorrow,calendar_set,calendar_set,0.5714373282011299
+what is the my upcoming events,calendar_query,recommendation_events,0.6271721848215378
+list out my upcoming events,calendar_query,recommendation_events,0.5001478176329509
+set the reminder for upcoming meeting,calendar_set,calendar_set,0.7285332643236976
+list out the upcoming meeting,calendar_set,calendar_set,0.14175656444931722
+mike and jack should be added to festival calendar,calendar_set,calendar_set,0.13373713061074516
+set a reminder for this,calendar_set,alarm_set,0.5470974063397048
+remind me that i have a meeting with cassy for an ola event happening tomorrow,calendar_set,calendar_set,0.9426003775054154
+please set an alarm for tomorrows meeting at seven am,alarm_set,alarm_set,0.9323108515905304
+i am busy tomorrow so delete all calendar events,calendar_remove,calendar_remove,0.9374846570330416
+locate address for myrtle beach state fair,calendar_query,email_querycontact,0.2758656233490702
+i want to do funny thing every day please set a reminder,calendar_set,calendar_set,0.5428744203853529
+i need to arrange a meeting with jack,calendar_set,calendar_set,0.5134648930559996
+set up a reoccurring grocery store trip for every sunday,calendar_set,calendar_set,0.1883053935713452
+add practice to calendar on feb four at king's park at two p. m.,calendar_set,calendar_set,0.7050266328321042
+add shopping to my calendar for tomorrow,calendar_set,calendar_set,0.5960382209174799
+remind me what i am doing on sunday afternoon,calendar_set,calendar_query,0.6438692489876207
+please remind me about the eleven am business meet,calendar_set,calendar_set,0.4396897146488742
+make a repeating reminder for my work tasks every day at eight am,calendar_set,calendar_set,0.4132154096111768
+please schedule a hair cutting appointment for one p. m. on saturday,calendar_set,calendar_query,0.508996924840419
+do i have any meetings scheduled the weekend after next,calendar_query,calendar_query,0.9694425815383783
+remind me to pick up more dog food at petco tomorrow at seven twenty p. m.,calendar_set,calendar_set,0.7785643567145369
+remind me that i have to go see hannah about our math project next tuesday at ten p. m.,calendar_set,calendar_set,0.32327371749017353
+what reminders did i set,calendar_query,calendar_query,0.3259793516293472
+let me know the day before my trip to california,calendar_set,general_quirky,0.13636116157698228
+add event baseball practice five p. m. tonight,calendar_set,calendar_set,0.48633872590184335
+delete event from calendar,calendar_remove,calendar_remove,0.9929975534678064
+please remind me to pickup john at school today at one p. m.,calendar_set,calendar_set,0.4182549127516741
+set meeting at seven p. m.,calendar_set,calendar_set,0.7499819899004567
+remind me i have a meeting at seven p. m.,calendar_set,calendar_set,0.899263746030934
+do i need to do anything today,calendar_query,lists_query,0.3809767457501241
+remove the event from monday,calendar_remove,calendar_remove,0.5973778964765452
+open calendar remove all events,calendar_remove,calendar_remove,0.8437256247870456
+tell me what's going on tomorrow,calendar_query,weather_query,0.17481434360399178
+what is on november twenty,calendar_query,datetime_query,0.25310182865822733
+can you please disregard the party that i will be going to this weekend on my calendar,calendar_remove,calendar_remove,0.29044847217807107
+put this event in a repeating pattern on my calendar,calendar_set,calendar_set,0.6650516305183374
+delete everything on the menu,lists_remove,calendar_remove,0.4524950094062085
+olly i need to know if i have any new reminders,calendar_query,calendar_query,0.45576563618113264
+remind me about meeting next week,calendar_set,calendar_query,0.4999504146437392
+remove this event from my calendar,calendar_remove,calendar_remove,0.9459599265715394
+show me my events for the month,calendar_query,calendar_query,0.4832338731931447
+do i have a date for tonight,calendar_query,calendar_query,0.509033964734802
+save this afternoon for my date,calendar_set,calendar_query,0.7772588380681497
+what's happening this weekend,calendar_query,recommendation_events,0.7843134578981422
+please set a meeting for tomorrow on my calendar,calendar_set,calendar_set,0.7887068548362021
+what events do i have scheduled today,calendar_query,calendar_query,0.9135845239550289
+what day does easter fall on,datetime_query,datetime_query,0.592141862306397
+what time does the dinner party start tonight,calendar_query,datetime_query,0.3563559259417153
+when is my mortgage due,calendar_query,qa_factoid,0.22026898387534924
+schedule lunch at tomo in arcata california tomorrow at noon,calendar_set,calendar_set,0.2516045569214837
+schedule a sales meeting for wednesday at eleven am,calendar_set,calendar_query,0.43861335004919666
+is today when my paper is due,calendar_query,calendar_query,0.30405594760330146
+the time the meeting start,calendar_query,calendar_set,0.1732351689896104
+what is the event agenda,calendar_query,calendar_query,0.8544026855898675
+i'd like to set a date for this week,calendar_set,calendar_query,0.3918785589724366
+when do i have that test,calendar_query,calendar_query,0.1862850624829926
+when the meeting start,calendar_query,calendar_set,0.4484127348183403
+alter lunch event to repeat every friday,calendar_set,calendar_set,0.6244065522261436
+do i have any appointments coming up,calendar_query,calendar_query,0.7327121386494347
+create a meeting event in my calendar,calendar_set,calendar_set,0.8576328331591584
+is tonight the full moon,calendar_query,weather_query,0.1283854984454212
+what time is my appointment tomorrow,calendar_query,calendar_query,0.5589548833083542
+please clear my calendar for tomorrow,calendar_remove,calendar_remove,0.6871897931170774
+do i have an appointment for lunch tomorrow,calendar_query,calendar_query,0.6830814951530125
+what day is the meeting on,calendar_query,calendar_query,0.6602941719789005
+what is the location of my work project meeting,calendar_query,calendar_set,0.18919780911457817
+i would need to be notified of church services on sundays at eleven am,calendar_set,calendar_set,0.1923614665121255
+erase my next event,calendar_remove,calendar_remove,0.37018376499031314
+remove all upcoming events please,calendar_remove,calendar_remove,0.7276532538067599
+where is fallout boy performing next,calendar_query,qa_factoid,0.10112073181182726
+make sure to remind about tomorrows afternoon meeting,calendar_set,calendar_set,0.6617178660019154
+thirty minute reminder on meeting for tuesday,calendar_set,calendar_set,0.7299236790180637
+completely clear my calendar please,calendar_remove,calendar_remove,0.7755785298006187
+can you empty my calendar,calendar_remove,calendar_remove,0.5195992925123227
+do i have a party planned this weekend,calendar_query,calendar_query,0.4133508401737832
+set a meeting with mr. forman for thursday at two p. m.,calendar_set,calendar_set,0.9050454184989448
+thursday at two p. m. i must meet with mr. forman please mark the calendar,calendar_set,calendar_set,0.7710044098986344
+remind me of dinner with mom tonight on my calendar,calendar_set,calendar_set,0.7107990691839584
+remind me about the meeting tomorrow at two p. m.,calendar_set,calendar_set,0.9594624970403571
+set a reminder for the meeting friday at three p. m.,calendar_set,calendar_set,0.8225585643410401
+delete my workout from today,calendar_remove,calendar_remove,0.8032617925973303
+mark my budget meeting down for every friday at two,calendar_set,calendar_set,0.3699700313934272
+do i have anything scheduled tomorrow from noon to three p. m.,calendar_query,calendar_query,0.46213204673740144
+i need a reminder at two hundred every day to check on my mother,calendar_set,calendar_set,0.6864712148905823
+hey siri clear all my calendar appoints for today,calendar_remove,calendar_remove,0.8888949389528353
+new notification for meeting in two hours,calendar_set,calendar_set,0.4143918622010825
+make alarm reminder for calendar,calendar_set,alarm_set,0.8002077389287638
+remind me about calendar,calendar_set,calendar_set,0.8108081183381519
+set a reminder every day at noon to take medication,calendar_set,calendar_set,0.8845777031726932
+remind me of my meeting tomorrow at three p. m.,calendar_set,calendar_set,0.9791542637816907
+add meet with dave at subway on weber on four april at five p. m.,calendar_set,calendar_set,0.5990220857246891
+is my meeting with bob tomorrow at three p. m.,calendar_query,calendar_set,0.891063601686864
+tell me more about my events,general_quirky,calendar_query,0.40212562908682004
+remind me at work to take a meeting with dave on friday,calendar_set,calendar_set,0.9327718168467595
+cancel all appointments in my calendar,calendar_remove,calendar_remove,0.9718207782975838
+add lunch appointment with lisa to january second at twelve thirty p. m.,calendar_set,calendar_set,0.8160901933338619
+get rid of all my scheduled events,calendar_remove,calendar_query,0.3335221196640406
+delete my meeting event for march nineteen at one p. m.,calendar_remove,calendar_set,0.36073344030549687
+please set work meeting at twelve p. m. for every thursday in february,calendar_set,calendar_set,0.8051787291730306
+include this event in my calendar,calendar_set,calendar_remove,0.30244968648784915
+is there anything on my calendar,calendar_query,calendar_query,0.31983360215111223
+olly remind me i need to be at the library a week from today at five,calendar_set,alarm_set,0.27429702152935276
+add on my calendar for today joe smith at one p. m.,calendar_set,calendar_set,0.48980757141444453
+tell me about my upcoming events,calendar_query,recommendation_events,0.6122625367974026
+please delete this event,calendar_remove,calendar_remove,0.8837629454775403
+could you delete this event,calendar_remove,calendar_remove,0.699334845764536
+what time does the acme meeting start on friday,calendar_query,datetime_query,0.37652886046994616
+what is my schedule like today,calendar_query,calendar_query,0.810529352603689
+let's go through all pending reminders,calendar_query,calendar_set,0.36229973754885236
+notify me an hour before my two p. m. appointment at the car dealership,calendar_set,calendar_set,0.5400246507609607
+how many reminders do i have pending,calendar_query,calendar_query,0.6568777326291153
+what's on my calendar this month,calendar_query,calendar_query,0.41801585829126764
+is there a chili cook off this weekend,calendar_query,recommendation_events,0.34656116841468376
+remind me of the following event,calendar_set,calendar_set,0.8674278959297078
+remove sample meeting from calendar app,calendar_remove,calendar_remove,0.8700393097608176
+what appointments do i have between one p. m. till three p. m.,calendar_query,calendar_query,0.684527657464224
+get local events,recommendation_events,recommendation_events,0.40509917966743575
+what events do i have coming up,calendar_query,calendar_query,0.5147701305686588
+make wednesday evening at five p. m. always be a meeting with phil on my calendar,calendar_set,calendar_set,0.7728822223625597
+delete my meeting for two o'clock p. m. today,calendar_remove,calendar_remove,0.4452731100346364
+am i free between six to seven p. m.,calendar_query,datetime_convert,0.17604566455113632
+i want you to schedule a meeting with bryce jessie and carol for tomorrow at nine am,calendar_set,calendar_set,0.6788079717664753
+can you enter an event to my calendar,calendar_set,calendar_set,0.4908579686047329
+open the calendar and create a new event,calendar_set,calendar_set,0.801767525660339
+tell me the locations of my meetings for today,calendar_query,calendar_set,0.3114446791557429
+show me the meetings for the day,calendar_query,calendar_query,0.4363633184001665
+schedule a meeting with ri on april first at ten am,calendar_set,calendar_set,0.8139623208253398
+remind me tomorrow at two p. m.,calendar_set,calendar_set,0.8958551166860123
+i want to make a note on my calendar for the event tomorrow at the library,calendar_set,calendar_set,0.6359582285989336
+remind me of the seven am sales meeting this thursday and add to calendar,calendar_set,calendar_set,0.9785512208904923
+i have a sales meeting this thursday at seven am please notify me and add to calendar,calendar_set,calendar_set,0.7991714828323776
+please delete everything from my calendar,calendar_remove,calendar_remove,0.9579055577127779
+where is my meeting at nine am,calendar_query,calendar_query,0.42403788643268064
+delete meeting,calendar_remove,calendar_remove,0.881476778644446
+i needed to prepare for a meeting,calendar_query,calendar_set,0.42652619083245236
+inform me about meetings,calendar_query,calendar_query,0.39248143212179115
+set calendar for date and time with this person,calendar_set,calendar_set,0.6139700718809149
+set meeting for january twenty five,calendar_set,calendar_set,0.35843627066084566
+is halloween on a friday this year,calendar_query,datetime_query,0.19637287926726094
+add wedding to my calendar,calendar_set,calendar_set,0.6494659711598462
+set a repeating reminder alarm for the facebook event i have to attend on seventh april,alarm_set,alarm_set,0.41074315149351104
+set an alert for two p. m.,alarm_set,alarm_set,0.724220309535889
+tuesday meeting noon,calendar_set,calendar_set,0.6942964375417823
+can you please add my dinner reservations to my calendar,calendar_set,calendar_set,0.2120968326553935
+is mothers day on a sunday,calendar_query,calendar_query,0.2774717796041856
+delete trip scheduled july fourth,calendar_remove,calendar_remove,0.3216966998574387
+searching on holidays in my location,recommendation_events,recommendation_events,0.3798428572116553
+get ready for the meeting before the event starts,calendar_set,calendar_set,0.747687808744293
+do i need to be reminded of any meetings on monday,calendar_set,calendar_set,0.4635292640500178
+schedule a meeting this monday with peter francis in the afternoon,calendar_set,calendar_query,0.7336047430383296
+let me know when three hours have passed,calendar_set,social_query,0.12403089586400314
+go to the event day and delete,calendar_remove,calendar_remove,0.9133171082356354
+go to the event year and delete,calendar_remove,calendar_remove,0.8603326665163491
+send me a reminder of my meeting with tom next friday,calendar_set,calendar_set,0.7605231131226334
+next thursday i need to be reminded to call the bank,calendar_set,calendar_set,0.6598117847849233
+clear my calendar for the rest of the day,calendar_remove,calendar_remove,0.6829343424991592
+what time is the next event scheduled,calendar_query,calendar_query,0.8390248357908581
+i want you to remind me to take my rain coat because it may rain,calendar_set,weather_query,0.47866084541892734
+delete all events in calendar,calendar_remove,calendar_remove,0.9912114546792297
+remember dinner on thursday at bistro italia,calendar_set,calendar_set,0.2172074915227321
+make a note of my doctor's appointment on wednesday next week,calendar_set,calendar_query,0.7198850152250815
+make an alarm for the meeting with bob at seven today,alarm_set,alarm_set,0.6439841667149115
+add new event named anna to calendar,calendar_set,calendar_set,0.8072983552776059
+add event with these people,calendar_set,calendar_set,0.7514254585143302
+what is my schedule for twelve p. m. to four p. m.,calendar_query,calendar_query,0.5265117539437909
+what events do i have between twelve p. m. and four p. m.,calendar_query,calendar_query,0.3577687762027592
+read me my calendar for the month,calendar_query,calendar_remove,0.3108787490836677
+remove all the events from my whole calendar,calendar_remove,calendar_remove,0.9663039346887431
+notify me with all events in the next one week,calendar_set,calendar_query,0.25488641787635247
+add event for meeting with james,calendar_set,calendar_set,0.9851194569779302
+notify me of the meeting on tuesday,calendar_set,calendar_set,0.5898488926829185
+what are meeting scheduled for today,calendar_query,calendar_query,0.8571601435451952
+just set me reminders about pending bill payments,calendar_set,calendar_set,0.3750283540347545
+just let me know the important meetings with my boss over the week,calendar_set,calendar_set,0.21181622204563044
+set rotating event,calendar_set,calendar_set,0.7091820922171919
+setting repeating event in calendar,calendar_set,calendar_set,0.7123578424388357
+set on twenty second march badminton match in merita square,calendar_set,qa_maths,0.16785351760552783
+first week of march meetings,calendar_query,calendar_set,0.41857227880453896
+create a reminder for visa application on this thursday,calendar_set,calendar_set,0.7862003790892713
+add to calendar an office meeting for the next three days,calendar_set,calendar_set,0.8718424540935965
+upcoming events in calendar,calendar_set,calendar_remove,0.3074395583804227
+event reminder mona tuesday,calendar_set,calendar_set,0.9162787961599353
+make an event reminder for a meeting with mona on tuesday,calendar_set,calendar_set,0.9774557794769848
+add lee's birthday to the calendar on twenty two june,calendar_set,calendar_set,0.5155258137803603
+put a repeating event on the calendar,calendar_set,calendar_set,0.8581822862368045
+am i busy this weekend,calendar_query,calendar_query,0.2285289356152114
+please remove that event,calendar_remove,calendar_remove,0.6050008514102247
+tomorrow my mother birthday,calendar_set,calendar_query,0.3663374121792705
+next month my brothers birthday,calendar_set,calendar_query,0.6979108322833304
+delete day after event,calendar_remove,calendar_remove,0.7731241135920114
+delete all details in event,calendar_remove,calendar_remove,0.7245418998130412
+add a meeting in office at eleven am,calendar_set,calendar_set,0.9541763942327514
+please remove the doctor appointment in my calendar for february twelfth at nine am,calendar_remove,calendar_remove,0.5438001123653107
+add event on august twenty one at nine am,calendar_set,calendar_set,0.814524977557206
+when does the super bowl officially start,qa_factoid,general_quirky,0.0806519478103616
+hey please provide information about events by the end of the day,calendar_query,calendar_query,0.6853279049267179
+when am i supposed to meet barbara for lunch this week,calendar_query,calendar_query,0.5141856586480941
+remind me about my lunch date for monday,calendar_set,calendar_query,0.8103815803450417
+please tell me about a hour before thursday about my hair appointment,calendar_set,calendar_set,0.3589419044752503
+open calendar and make an event reminder,calendar_set,calendar_set,0.900057922150611
+create an empty calendar event for next saturday at ten am,calendar_set,calendar_set,0.6149044484681824
+remind me of the meeting on the twenty second of january,calendar_set,calendar_set,0.8913942317907927
+play my rock station on pandora,play_radio,play_radio,0.7785787327531389
+can you turn on the radio,play_radio,play_radio,0.896255609374678
+play me a radio channel for trance music,play_radio,play_radio,0.7496537816255482
+tune a radio channel for good jokes,play_radio,play_radio,0.3370253443559679
+turn to station one hundred and two point seven ally,play_radio,play_radio,0.7001549763519896
+go to channel one hundred and six point nine,play_radio,play_radio,0.42830254599870676
+tune in to nine hundred and thirty five on radio,play_radio,play_radio,0.7990300166142422
+i want to hear the radio turn it on please,play_radio,play_radio,0.8986908354673521
+the radio should play only on nine hundred and ninety nine f. m.,play_radio,play_radio,0.9787758040711226
+start the radio now,play_radio,play_radio,0.9002239797641622
+would you please turn on the am radio,play_radio,play_radio,0.8673357769119956
+i'm tired of pandora please turn on the radio,play_radio,play_radio,0.7439653387668442
+can you play kxly for me,play_radio,play_music,0.5236078012984156
+turn on channel nine hundred and fifty one,play_radio,play_radio,0.34485436928113483
+please play the radio,play_radio,play_radio,0.9767933426064966
+play this radio channel for me,play_radio,play_radio,0.8314434727578642
+tell me the name of the radio station that i want played,play_radio,play_radio,0.9164171530098838
+play new radio channel,play_radio,play_radio,0.8844332688197134
+start radio channel eight hundred and eighty nine,play_radio,play_radio,0.7196906717323017
+listen to radio,play_radio,play_radio,0.9264353993771642
+please play some songs for kids,play_radio,play_music,0.8555127452178067
+go to my favorite radio channel,play_radio,music_likeness,0.33536352364787925
+i want you to go to hot one hundred and five on the radio,play_radio,play_radio,0.8768293681508343
+please open my f. m. radio and play nine hundred and eighty seven,play_radio,play_radio,0.947819320470014
+play me the latest podcast about online surveys,play_podcasts,play_podcasts,0.7380507272109028
+play the miami heat and warriors game,play_radio,play_game,0.46222440618152955
+tune me song in radio,play_radio,play_radio,0.7886782601581909
+turn on the oldies playlist on my radio,play_radio,play_radio,0.8091351965663156
+turn on hot ninety seven,play_radio,play_radio,0.5068672026659254
+tune into my selected station,play_radio,play_radio,0.3024275843157754
+play the current playlist,play_music,play_music,0.8668852649911764
+could you please play the f. m. radio of one station for me,play_radio,play_radio,0.9923318756703206
+put on radio mango,play_radio,play_radio,0.9823901496882348
+turn on some n. p. r. and play them out of my speakers,play_radio,play_music,0.3044984652710271
+play some soft rock,play_radio,play_music,0.9268559043478365
+find radio,play_radio,play_radio,0.9522533101576786
+tune in to ryan seacrest on the living room radio,play_radio,play_radio,0.4665145541030236
+i want to hear the bob cesca show,play_radio,cooking_recipe,0.09265848101072738
+run radio program,play_radio,play_radio,0.9127137493728072
+please turn the station to one hundred and seven point four,play_radio,play_radio,0.8210174467991441
+change the station to eighty two point four,play_radio,play_radio,0.24501519872611416
+start the pop radio station,play_radio,play_radio,0.9822977261283642
+play bhuli bisri yaadien program on ninety one point three f. m.,play_radio,play_radio,0.961839321035033
+pdr am radio,play_radio,play_radio,0.9784596316980347
+what stations are playing good music this morning,play_radio,music_query,0.3488010083630459
+play a country station,play_radio,play_radio,0.8081876673446847
+play prairie home companion on the car radio,play_radio,play_radio,0.86558964494673
+play music composed by some one giving short hint about the album,play_music,play_music,0.4614155736134313
+start my playlist on i heart radio,play_radio,play_radio,0.5725020086235569
+i would like to hear rush limbaugh on i heart radio,play_radio,play_radio,0.14026489924071403
+play the radio channel ninety three point two five,play_radio,play_radio,0.9604712995733665
+olly play a good movie on my television,play_radio,recommendation_movies,0.6708437141532105
+play me an upbeat song through your speakers,play_music,play_music,0.3258367924126205
+use this program,play_radio,calendar_query,0.2895173877254738
+start playing american gods where i last stopped,play_audiobook,play_audiobook,0.14540552568423176
+can you play my favorite audio book of tarzan,play_audiobook,play_audiobook,0.6967100125387834
+resume audio book history of rome,play_audiobook,play_audiobook,0.9881325412497136
+resume harry potter book four,play_audiobook,play_audiobook,0.8931657710510941
+please play my music,play_music,play_music,0.8722078305549236
+open the davinci code where i left off,play_audiobook,play_audiobook,0.136756319269752
+i want to hear more audiobook,play_audiobook,play_audiobook,0.947369988764773
+hold,play_audiobook,qa_factoid,0.22920501473742153
+play the client by john grisham,play_audiobook,play_music,0.3597334030188153
+please continue reading audiobook,play_audiobook,play_audiobook,0.9901543741708106
+resume my audiobook from the beginning of the last chapter i started,play_audiobook,play_audiobook,0.9626487178624018
+put on the god of small things,play_audiobook,play_audiobook,0.21626313796580254
+resume the last played audiobook,play_audiobook,play_audiobook,0.9975812809632308
+resume the memorial songs,play_music,play_audiobook,0.6454247335555917
+start audio book the two towers,play_audiobook,play_audiobook,0.9759762819399797
+play for me madonna song from audiobook,play_audiobook,play_audiobook,0.8960746284617169
+please play justin bieber album,play_music,play_music,0.13879095607594094
+play the audiobook swan from first,play_audiobook,play_audiobook,0.9686190183223007
+look for this playback in audiobook and play for me,play_audiobook,play_audiobook,0.9206616111268839
+please resume this playback in audiobook,play_audiobook,play_audiobook,0.9906669187780996
+get me resume of best seller audio book this month,play_audiobook,play_audiobook,0.938516989741544
+resume the song from the audiobook by michael jackson,play_audiobook,play_audiobook,0.9234360511300844
+resume jaiho song audiobook,play_audiobook,play_audiobook,0.9966711765120684
+play my favorite book,play_audiobook,play_music,0.4603095263088385
+please resume my audiobook,play_audiobook,play_audiobook,0.9968286287110293
+let me hear some pop music or a song,play_music,play_music,0.7948210177358481
+continue playing my book of vitamins,play_audiobook,play_audiobook,0.9270505184870054
+open the two towers,play_audiobook,play_audiobook,0.7329638360070884
+i want to start war and peace where i left off,play_audiobook,play_audiobook,0.13301546847544946
+how long should i boil the eggs,cooking_recipe,cooking_recipe,0.6215465486203858
+tell me the recipe of,cooking_recipe,cooking_recipe,0.6686441352447429
+olly how do i cook a pasta,cooking_recipe,cooking_recipe,0.9310018776251435
+what can i cook with broccoli and chicken,cooking_recipe,cooking_recipe,0.30553302640055086
+how do i cook butter chicken,cooking_recipe,cooking_recipe,0.9133467650496222
+how can i cook pasta,cooking_recipe,cooking_recipe,0.9523202351790868
+what's the easiest way to cook pasta,cooking_recipe,cooking_recipe,0.4197622190462266
+olly how do i start making lobster bisque,cooking_recipe,cooking_recipe,0.30831404595527867
+give me the recipe of steak,cooking_recipe,cooking_recipe,0.8819298211033187
+freezing,cooking_recipe,music_likeness,0.08369605710346041
+recipe for meal,cooking_recipe,cooking_recipe,0.9463559108047356
+give me recipes,cooking_recipe,cooking_recipe,0.6326760613559199
+what do i need to make lamb pathia,cooking_recipe,cooking_recipe,0.21882602591239703
+how do i make a turkey,cooking_recipe,cooking_recipe,0.7043918679760616
+how do i bake a potato,cooking_recipe,cooking_recipe,0.84237706278769
+how long do you cook a whole chicken on three hundred and fifty,cooking_recipe,cooking_recipe,0.2248188595683794
+give me a recipe for meatballs,cooking_recipe,cooking_recipe,0.6439982770282975
+please cook me a hamburger,cooking_recipe,cooking_recipe,0.2451751445993904
+i need help making pancakes,cooking_recipe,cooking_recipe,0.14028314098313793
+olly how do i make meatloaf,cooking_recipe,cooking_recipe,0.5856347573192082
+olly how do you barbecue chicken,cooking_recipe,general_quirky,0.2488217992231513
+what is the best chili there is,cooking_recipe,qa_factoid,0.1697535583811397
+how do i make peanut butter cookies,cooking_recipe,cooking_recipe,0.8973298260137745
+get me a recipe for cookies,cooking_recipe,cooking_recipe,0.8911504642624348
+find the correct temperature for frying a whole turkey,cooking_recipe,cooking_recipe,0.5468511710601173
+how long do i chill an icebox pie,cooking_recipe,qa_factoid,0.1598663465645412
+can you pull up a recipe for spaghetti,cooking_recipe,cooking_recipe,0.5552467094855824
+how do you make sunny side up eggs,cooking_recipe,cooking_recipe,0.11466804165602536
+what are jalapenos,cooking_recipe,qa_factoid,0.14147315611822864
+show me the best recipe for spaghetti,cooking_recipe,cooking_recipe,0.8945921808339988
+tell me how to make tacos,cooking_recipe,cooking_recipe,0.33666796794978565
+good food,cooking_recipe,takeaway_order,0.387970860916021
+what do i need to make french toast,cooking_recipe,cooking_recipe,0.3974532465666021
+it would be tasty,cooking_recipe,general_quirky,0.4697971250387915
+it should spices,cooking_recipe,weather_query,0.1370311740212631
+what are examples of spicy cuisines,cooking_recipe,qa_factoid,0.16214737167616305
+olly what is the best tasting cut of beef,cooking_recipe,cooking_recipe,0.40058151840032785
+i want to play rock paper scissors let's play,play_game,play_game,0.4615155096167289
+let's play global thermonuclear war,play_game,play_game,0.42690101506891726
+start play spider,play_game,play_game,0.4667192519200712
+launch game,play_game,play_game,0.6372836181303688
+find game,play_game,play_game,0.6722038745653157
+give me a company for playing football,play_game,social_post,0.09577312805393695
+lets solve the puzzle,play_game,qa_maths,0.21245496542837225
+play for me the game star wars,play_game,play_game,0.9245519673488843
+let's play nine ball against me adapt with my skill level always let me win,play_game,play_game,0.5109636015439459
+play racing,play_game,play_music,0.7860205660026525
+open papa pear saga,play_game,qa_factoid,0.16155150688328948
+play games,play_game,play_game,0.8743080764317523
+start a competitive crossword for us,play_game,social_post,0.1170194841079022
+play the latest games,play_game,play_game,0.466789469650006
+play football match for myself now,play_game,play_game,0.2278465440279838
+open parcheese game for you and i,play_game,play_game,0.3983797138585976
+lets play tic tac toe,play_game,play_game,0.6257443715281678
+please play this game,play_game,play_game,0.9324135658695046
+what else is missing in the diary,lists_query,qa_factoid,0.12192140068484543
+list things on my list,lists_query,lists_query,0.6176760463148465
+i'd like to cancel the trip to vegas next week,lists_remove,calendar_remove,0.23680012474897044
+cross out bread from shopping list,lists_remove,lists_query,0.2074429728677726
+delete list,lists_remove,lists_remove,0.9897240545345157
+speak all items for to day,lists_query,audio_volume_mute,0.19962997302648539
+make a list of all the clothing range available on ralph and lauren,lists_query,lists_query,0.4316675961410607
+clear list,lists_remove,lists_remove,0.6812651660253655
+remove table from furniture,lists_remove,lists_remove,0.4939818893217164
+may i have a list of five star hotels in paris,qa_factoid,lists_createoradd,0.19635296906092084
+remove apple from list,lists_remove,lists_remove,0.9874376573923748
+add the item to the list,lists_createoradd,lists_createoradd,0.9629844206133059
+what were the last five lists i made,lists_query,lists_query,0.6626276860529927
+create a new list for my birthday plans,lists_createoradd,lists_createoradd,0.5964787788842527
+can i know what i on the list,lists_query,lists_query,0.7605611141949083
+create a new list for me please,lists_createoradd,lists_createoradd,0.9530999182560687
+do i have any tasks today,calendar_query,lists_query,0.42256480746705055
+remove mike stein from contacts list,lists_remove,lists_remove,0.9289848938358141
+select the item,lists_createoradd,lists_remove,0.18131238808276023
+remove the item from list,lists_remove,lists_remove,0.9979417993165176
+i want to start a new list of power tools on sale at true value,lists_createoradd,lists_createoradd,0.5378533176596799
+add paav bhaji in menu card,lists_createoradd,calendar_set,0.11783456729383833
+what are the list of things i need to buy today,lists_query,lists_query,0.7630523672217543
+remove cheese from my list,lists_remove,lists_remove,0.9632887164600512
+add grocery to list,lists_createoradd,lists_createoradd,0.9164642689409299
+give me a list of lists,lists_query,lists_query,0.9642419419950439
+delete my christmas holiday list,lists_remove,lists_remove,0.5363534325007252
+what is on my list today,lists_query,lists_query,0.9733240110741405
+recite the schedules of the list,lists_query,lists_createoradd,0.37029214259912385
+tell me about the list,lists_query,lists_query,0.748316324046863
+tell me something interesting on the message list,lists_remove,lists_query,0.11463819932202488
+alexa create a new list,lists_createoradd,lists_createoradd,0.9563119351118623
+please delete my grocery list in entirety,lists_remove,lists_remove,0.7403661974080739
+i want to know could an extra item be added to my grocery list,lists_createoradd,lists_createoradd,0.737649721263204
+read back what i put on my to do list for this week,lists_query,lists_query,0.5993981838486709
+forget this list,lists_remove,lists_createoradd,0.4781248089020384
+read my to do list,lists_query,lists_query,0.9762941055946129
+clear my activities list for today,lists_remove,lists_query,0.20466720322159795
+what's the schedule for today,lists_query,calendar_query,0.6780240678680696
+please show me the list that i have,lists_query,lists_query,0.8714188773184601
+create a playlist,lists_createoradd,lists_createoradd,0.7129229599634327
+olly what do i have planned next,calendar_query,calendar_query,0.4241111661616294
+now what,general_quirky,datetime_query,0.5778760584732952
+remove this list from the others,lists_remove,lists_remove,0.975356542323679
+please tell me what lists i have made,lists_query,lists_query,0.872023466233271
+take that off there,lists_remove,iot_wemo_off,0.18029230565915627
+remove that event from list,lists_remove,lists_remove,0.9166736097834868
+start a new shopping list,lists_createoradd,lists_createoradd,0.9053103676861909
+i want to make a list and this should be automatically saved as a text file with the title list,lists_createoradd,lists_createoradd,0.4287623085948301
+what list did i make today,lists_query,lists_query,0.7725304314874426
+can i check my lists,lists_query,lists_query,0.8913146535606723
+delete item from my list,lists_remove,lists_remove,0.9969267999543461
+help me set a list of,lists_createoradd,lists_query,0.3088373578400741
+read my lists to me,lists_query,lists_query,0.9925696649080424
+tell me what lists i currently have,lists_query,lists_query,0.834047824280468
+olly tell me what lists i currently have,lists_query,lists_query,0.8085358765645961
+what do i need to complete first from the list,lists_query,lists_query,0.3774658330256956
+let me hear my list,lists_query,lists_query,0.6897789594751332
+what is on my playlist,lists_query,lists_query,0.4955299101258179
+make a new shopping list,lists_createoradd,lists_createoradd,0.8218740044695085
+delete the last line,lists_remove,lists_remove,0.6967173638327315
+add pencil to school supplies list,lists_createoradd,lists_createoradd,0.8678143868581183
+tell me the names on the list,lists_query,lists_query,0.8512904463762081
+delete call newspaper from my vacation list,lists_remove,lists_remove,0.7306276381391218
+add soup to my shopping list,lists_createoradd,lists_createoradd,0.72115106881422
+put the item on the list,lists_createoradd,lists_createoradd,0.8271629951152131
+what's my to do list for today,lists_query,lists_query,0.9489003408815828
+remove shopping list,lists_remove,lists_remove,0.9373189348051271
+add remember to call mom to my reminders,calendar_set,calendar_set,0.7954339552381501
+can you read me my lists,lists_query,lists_query,0.9656329469032299
+remove car insurance from bills list,lists_remove,lists_remove,0.9198285374172597
+remove deposit check from to do list,lists_remove,lists_remove,0.9503194733072101
+how many lists do i have,lists_query,lists_query,0.9387584816601036
+tell me what's on my list,lists_query,lists_query,0.9475378164534889
+put milk on the shopping list,lists_createoradd,lists_createoradd,0.8506697082959597
+include this,lists_createoradd,lists_createoradd,0.26307450494643625
+new scenario time or calendar to new list,lists_createoradd,lists_createoradd,0.5110223372247965
+can i see my work lists,lists_query,lists_query,0.8244464764629535
+delete apples from my shopping list,lists_remove,lists_remove,0.9428096953674223
+give me the details on purchase order,lists_query,takeaway_order,0.45879669599756456
+add oil change to my to do list,lists_createoradd,lists_createoradd,0.5978903537113778
+new list please,lists_createoradd,lists_createoradd,0.8126825975162401
+i don't want eggs,lists_remove,audio_volume_mute,0.2190459135007043
+away off from list,lists_remove,lists_remove,0.6284869999856966
+add a tab to the shopping list,lists_createoradd,lists_createoradd,0.7856567174510458
+add a wrist watch to the shopping list,lists_createoradd,lists_createoradd,0.7034156365776265
+create a list of books to be ordered,lists_createoradd,lists_createoradd,0.6231206424165501
+please remove tricep pull down from my workout list,lists_remove,lists_remove,0.7770622465343697
+add pastries to the christmas list,lists_createoradd,lists_createoradd,0.4114640859170533
+list,lists_query,lists_query,0.7136100856307916
+display my lists,lists_query,lists_query,0.9275851965148899
+what is planned today,calendar_query,calendar_query,0.18040020586248123
+please delete bananas from my shopping list,lists_remove,lists_remove,0.9148612523580341
+olly read back my grocery list to me,lists_query,lists_query,0.7790715454309624
+find an interesting podcast about last pritzker price winners,play_podcasts,play_podcasts,0.395749053715371
+play next episode of harry potter by j. k. rowling,play_audiobook,play_podcasts,0.6659277391804408
+can you backward an episode in the podcast,play_podcasts,play_podcasts,0.9971869299269732
+next episode,play_podcasts,play_podcasts,0.9673695941089459
+what's the best podcast,play_podcasts,play_podcasts,0.8327309795289265
+go to the end of the podcast,play_podcasts,play_podcasts,0.9681981665550247
+play last libertarian podcast,play_podcasts,play_podcasts,0.9374609917034802
+play me the new podcast from n. p. r.,play_podcasts,play_podcasts,0.9545709707259185
+i want to play the next episode of this podcast,play_podcasts,play_podcasts,0.9990197597991969
+please play jocko's podcast,play_podcasts,play_podcasts,0.9693620696606211
+find and make a playlist of all the latest dancing tracks,play_music,play_music,0.36436390099159494
+show me the best podcast of folk songs having rating of above four star and play it,play_podcasts,play_podcasts,0.3284152981855851
+can you start my saved podcast,play_podcasts,play_podcasts,0.8961965347930688
+find the latest disney podcast,play_podcasts,play_podcasts,0.8366417774254885
+move to the next episode of hipsterhood,play_podcasts,play_podcasts,0.7130744810072557
+show me podcasts,play_podcasts,play_podcasts,0.9581794235809074
+skip to next podcast,play_podcasts,play_podcasts,0.9988257576955054
+forward this one,play_podcasts,general_quirky,0.09231812707919321
+launch the rooster teeth podcast,play_podcasts,play_podcasts,0.8129930177177925
+find me a podcast about animals,play_podcasts,play_podcasts,0.6833704247187882
+please skip to the next podcast episode,play_podcasts,play_podcasts,0.9996328927095148
+please play the last two episodes of the gilmore guys,play_podcasts,play_podcasts,0.5726723609049423
+can you find the dave ramsey podcast that aired earlier today,play_podcasts,play_podcasts,0.45228059664995895
+move to next section,play_podcasts,transport_query,0.22869591723831476
+play anything new from my podcast subscriptions,play_podcasts,play_podcasts,0.5748803671272348
+start next podcast episode,play_podcasts,play_podcasts,0.9990733183106756
+play the next podcast,play_podcasts,play_podcasts,0.9970138254654947
+play the next episode of this series,play_podcasts,play_podcasts,0.8713531737510894
+play previous episode,play_podcasts,play_podcasts,0.839455889392452
+play my country favorites playlist for me,play_podcasts,play_music,0.847148830839827
+load my playlist titled country favorites and play it,play_podcasts,play_music,0.6900464615790993
+play shane dawson podcast,play_podcasts,play_podcasts,0.9753952018926285
+play good mythical morning podcast,play_podcasts,play_podcasts,0.7722616515641111
+lets hear the united states of anxiety podcast,play_podcasts,play_podcasts,0.6915934592868591
+next episode of nyt podcast,play_podcasts,play_podcasts,0.9994169449502419
+please play the mark levin podcast,play_podcasts,play_podcasts,0.9629080042942108
+find events near by,recommendation_events,calendar_set,0.33359621659616145
+what new movies are played in cinemas this week,recommendation_movies,recommendation_movies,0.7517987689430096
+any cultural events in california,recommendation_events,recommendation_events,0.7042777104568143
+please let me know the dog shows events going on in my home town,recommendation_events,recommendation_events,0.351386598643421
+can you tell me what kind of show can i go tonight in miami,recommendation_events,recommendation_events,0.20385156587115577
+where is the best mechanic in eagle point,recommendation_locations,recommendation_locations,0.3027061675172852
+what movies are showing in cinema today,recommendation_movies,recommendation_movies,0.8107675052391742
+what movies are going around me,recommendation_movies,recommendation_movies,0.5843974092558604
+what events are happening soon,recommendation_events,recommendation_events,0.693538773849269
+is there any carnival in our place today,recommendation_events,recommendation_events,0.547232910151421
+what's around,recommendation_locations,recommendation_locations,0.4523638756066798
+what are the vietnamese restaurants in the area,recommendation_locations,recommendation_locations,0.8032321748773582
+alexa i want to know the best super market in this local area,recommendation_locations,recommendation_locations,0.2174614772607375
+i would be happy if you update me the events going on our area,recommendation_events,recommendation_events,0.4146584711184423
+show me where the nearest restaurant is,recommendation_locations,recommendation_locations,0.9739191581913816
+what new movies available today,recommendation_movies,recommendation_movies,0.3613399740422202
+show me reviews of my nearest location food court,recommendation_locations,recommendation_movies,0.20185234945853245
+show me painting exhibition in bay area,recommendation_events,recommendation_events,0.1458717489147169
+what shops are round here,recommendation_locations,recommendation_locations,0.8031352236673851
+best bar in local area,recommendation_locations,recommendation_locations,0.7109596718972193
+what's going on around me,recommendation_events,recommendation_events,0.47402404651307206
+what shops are within ten miles,recommendation_locations,recommendation_locations,0.5541583773078282
+olly recommend a wine tasting event this weekend in chicago,recommendation_events,recommendation_events,0.8638237072313335
+what events are going on in new york city,recommendation_events,recommendation_events,0.9662150200562714
+any events this weekend in pondichery,recommendation_events,recommendation_events,0.8467778248192909
+olly what movies are playing right now,recommendation_movies,recommendation_movies,0.9531296153298249
+find an oscar nominee movie,recommendation_movies,recommendation_movies,0.7643276742885268
+are there any special events near me this weekend,recommendation_events,recommendation_events,0.9447584199698118
+who sells the cheapest netbooks in south austin,recommendation_locations,recommendation_locations,0.13917385294622772
+are there any events going on at the library this week,recommendation_events,recommendation_events,0.7852787164132506
+tell me where i can go shopping in this area,recommendation_locations,recommendation_locations,0.891845446573442
+can you recommend good stores in this area,recommendation_locations,recommendation_movies,0.2998675847351392
+what movies are playing nearby,recommendation_movies,recommendation_movies,0.9745162108687923
+olly tell me where the local shopping district is,recommendation_locations,recommendation_locations,0.7751473063976347
+what activities are taking place in my area,recommendation_events,recommendation_events,0.42500579276282435
+where should i go for dinner in san francisco tonight,recommendation_events,recommendation_events,0.22082273678332207
+what's happening in town tonight,recommendation_events,recommendation_events,0.79289926458872
+find local shops,recommendation_locations,recommendation_locations,0.9022963400416187
+olly i need a drink,iot_coffee,general_quirky,0.18021993957129367
+i need something fun to do this weekend nearby can you give me ideas,recommendation_events,recommendation_events,0.173635762697693
+i'm looking for reasonably priced tapas in miami beach,recommendation_locations,cooking_recipe,0.13725126516969607
+what are some restaurants near me,recommendation_locations,recommendation_locations,0.907616800056154
+olly what are some restaurants near me,recommendation_locations,recommendation_locations,0.9146634254173384
+where is the closest bar,recommendation_locations,recommendation_locations,0.6773202010398198
+what events are going on in the area,recommendation_events,recommendation_events,0.9712968261411364
+are there any special events in my town,recommendation_events,recommendation_events,0.9412659531729067
+olly what movies are playing in columbia,recommendation_movies,recommendation_movies,0.9518226001416642
+are there any fun events in la today,recommendation_events,recommendation_events,0.9410430408283775
+what is happening in my area,recommendation_events,recommendation_events,0.9028892444737514
+please tell me the closest convenience store to my house,recommendation_locations,recommendation_locations,0.21077897078549582
+what events are scheduled for this weekend in me area,recommendation_events,recommendation_events,0.765747095260191
+list the shops near me,recommendation_locations,recommendation_locations,0.7778872434114453
+please tell me a shop where i can find books to buy,recommendation_locations,recommendation_locations,0.8587181931184913
+recommend me a restaurant in west chester,recommendation_locations,takeaway_query,0.31718036588635207
+how far is walmart from here,transport_query,qa_factoid,0.23775738992133005
+when does panama city mall open,recommendation_events,qa_factoid,0.1617296418832553
+refer local current events,recommendation_events,calendar_set,0.2599370782647362
+art exhibitions in california,recommendation_events,qa_factoid,0.23227975448634358
+is there any salon in babaji nagar,recommendation_locations,recommendation_events,0.37420489852523764
+can you recommend any pub in milligrams road,recommendation_locations,recommendation_movies,0.11074236854817664
+olly search events and meetups for central park west,recommendation_events,recommendation_events,0.4907263380432213
+i need all the local events for this area that are being held this weekend,recommendation_events,recommendation_events,0.838850922915231
+find tacos near my home,recommendation_locations,recommendation_locations,0.1189538207561834
+book me a taxi to leith in half an hour,transport_taxi,transport_taxi,0.9643299115185386
+i am going to chinatown in half an hour book an uber for me,transport_taxi,transport_taxi,0.7121537727696272
+what is the most convenient hour to catch a train to york on saturday,transport_query,datetime_query,0.20634544225345877
+can you book an uber tomorrow,transport_taxi,transport_taxi,0.7642624465100284
+can you book a train ticket,transport_ticket,transport_ticket,0.9953787046913987
+is there more traffic in canal street,transport_traffic,transport_traffic,0.9669548527249506
+send an uber to me right now,transport_taxi,transport_taxi,0.8610533953131125
+where is the train station,transport_query,transport_query,0.9313635312178726
+i need a taxi to take me to the airport please,transport_taxi,transport_taxi,0.9056213445181396
+is there any traffic on my way to work,transport_traffic,transport_traffic,0.9965506059502904
+olly what is the traffic like,transport_traffic,transport_traffic,0.9514022260704327
+is there any traffic to work,transport_traffic,transport_traffic,0.998299457722924
+can you please let me know the next four scheduled trains to chicago,transport_query,play_podcasts,0.1560363916300199
+book me a train ticket in any train to bombay for tomorrow,transport_ticket,transport_ticket,0.9681065420552936
+find train tickets for manchester train station for today,transport_query,transport_query,0.6707089308318017
+i want to book a train ticket,transport_ticket,transport_ticket,0.9963123494162849
+what is the condition of traffic from work to home,transport_traffic,transport_traffic,0.9524602358550237
+book me a train ticket to new york city on the third i don't care what time,transport_ticket,transport_ticket,0.8566353468782895
+book a train ticket for one one way for this tuesday at nine am,transport_ticket,transport_ticket,0.7638347938951175
+check time of kalka train from jodhpur station on monday,transport_query,transport_query,0.4590667854398126
+where is mcdo,recommendation_locations,recommendation_locations,0.15880399764157657
+tell me the trains from california to new jersey after eleven p. m.,transport_query,transport_query,0.19795902995068046
+buy me today train ticket to city leeds,transport_ticket,transport_ticket,0.9099773566322632
+what time is the next train to boise,transport_query,transport_query,0.7771545090332093
+book me a single train ticket traveling to new york city leaving after nine am,transport_ticket,transport_ticket,0.904284353699891
+can you tell me the current traffic condition of my location,transport_traffic,transport_traffic,0.8476992916602178
+i need a taxi ride now,transport_taxi,transport_taxi,0.9890647474325354
+tell me the train arrival time to new york,transport_query,transport_query,0.8234527240786756
+when new york train will arrive,transport_query,transport_query,0.7371123092884155
+how do i get to poughkeepsie from new york city,transport_query,transport_query,0.21193833957899239
+what is the traffic situation at the bazaar highway,transport_traffic,transport_traffic,0.9095821601927233
+catch a ride,transport_taxi,transport_taxi,0.440399227879665
+how do i get to the grocery store,transport_query,general_quirky,0.19761216892523223
+send me directions to the police department,transport_query,transport_query,0.3270465172107202
+purchase ticket to new york city on train,transport_ticket,transport_ticket,0.9384618403299247
+can you get me a taxi home,transport_taxi,transport_taxi,0.9522756361069193
+find an uber driver available for tonight after ten p. m.,transport_taxi,transport_taxi,0.5230162675756095
+find a taxi for me,transport_taxi,transport_taxi,0.9864874498249425
+when is the train arriving today,transport_query,transport_query,0.7739055402855877
+call a car for me,transport_taxi,transport_taxi,0.7429634179059257
+can you please book a train ticket for next saturday to boston,transport_ticket,transport_ticket,0.8398498604407956
+alexa is traffic heavy on route eighty today,transport_traffic,transport_traffic,0.8731159449880278
+what time is the last train headed to chicago,transport_query,transport_query,0.8053290755364825
+book me a train ticket to barcelona please,transport_ticket,transport_ticket,0.9880753796814953
+what time does the train depart from downtown los angeles to santa barbara,transport_query,transport_query,0.3989808865713159
+what is the time train coming from sacramento,transport_query,transport_query,0.6036913441341692
+i need a ride home,transport_taxi,transport_taxi,0.6780602642602299
+directions to disney world,transport_query,transport_query,0.5690182374304911
+are trains on schedule at ten,transport_query,calendar_query,0.2627044542800452
+what time does the first metrolink arrive in the morning,transport_query,datetime_query,0.24428595438332656
+what are the train times from san francisco to new york,transport_query,transport_query,0.7570157598277175
+what are the train schedules to new york,transport_query,transport_query,0.359986195660217
+google can you book me a ticket on the train for tomorrow,transport_ticket,transport_ticket,0.9061822540091269
+tell me where i should go for times,transport_ticket,transport_query,0.3776054455195216
+i need to get a ticket via train to orlando from hwood,transport_ticket,transport_ticket,0.8435922562665666
+what is the latest traffic report for miami,transport_traffic,transport_traffic,0.7327902855474695
+can you give me train times for ann arbor,transport_query,transport_query,0.8172744257874214
+book me a train ticket to chicago for tomorrow morning before ten,transport_ticket,transport_ticket,0.7207905860955628
+get me a taxi to the airport right now,transport_taxi,transport_taxi,0.9663781477452769
+when is the next train leaving for austin,transport_query,transport_query,0.7140721684419737
+what does the traffic look like headed to la,transport_traffic,transport_traffic,0.8033029390684864
+is there a five p. m. train on wednesday to rockville,transport_query,transport_ticket,0.4006851785272101
+what is the traffic like today,transport_traffic,transport_traffic,0.944760652238411
+book me a train ride,transport_ticket,transport_taxi,0.5010178539641488
+train tickets for two people from delhi to mumbai,transport_ticket,transport_ticket,0.4972384540672318
+please check the traffic to the home,transport_traffic,transport_traffic,0.9436427812864615
+could you please check the traffic to our home,transport_traffic,transport_traffic,0.7953504237810292
+how is traffic in city,transport_traffic,transport_traffic,0.9915333301766988
+buy me a ticket to take the train to atlanta,transport_ticket,transport_ticket,0.8832489043619391
+what is the departure time for the next train leaving new york city,transport_query,transport_query,0.4516581013212432
+i need a train ticket to cambridge from here,transport_ticket,transport_ticket,0.7785087815276049
+buy me a ticket to boston,transport_ticket,transport_ticket,0.6907332337809096
+where is the nearest train to me,transport_query,transport_query,0.8617309655734993
+can you find me a train ticket to southampton on memorial day weekend,transport_query,transport_ticket,0.680314895437877
+order me an uber ride please,transport_taxi,transport_taxi,0.7067317342758168
+train schedule,transport_query,transport_ticket,0.655702484409827
+when is my train coming,transport_query,transport_query,0.81920077780053
+what time does the train arrive,transport_query,transport_query,0.9435298567143195
+i want to go to mcdo,transport_query,takeaway_query,0.06543476883084294
+can you reserve a ticket to grand rapids by train,transport_query,transport_ticket,0.7890529689772643
+what is the quickest way to grand central,transport_query,transport_query,0.2246571548965642
+book for me an uber taxi to bardonia,transport_taxi,transport_taxi,0.9980297075254524
+book a ticket for today in irctc site for the stored information,transport_ticket,transport_ticket,0.33771522356791916
+search earliest trains to brooklyn ny weekends and holidays,transport_query,recommendation_events,0.2294375457826362
+is the road in some particular area wide or narrow,transport_traffic,recommendation_events,0.11111631701082426
+tell me the time of train vf,transport_query,transport_query,0.8242076497257774
+hey what time does the next train depart,transport_query,transport_query,0.712755314005721
+what is the estimated travel time for the train ride to orlando,transport_query,transport_query,0.5612210983688936
+explain it,general_quirky,general_quirky,0.2597300132394612
+who is barack obama,qa_factoid,qa_factoid,0.7555728206267905
+explain how u. s. a. social status differs from the one in the u. k. now and in the past,general_quirky,datetime_convert,0.1507913049167863
+dance with me,general_quirky,play_game,0.12703033655336285
+what is the plot of the most recent will smith movie,qa_factoid,recommendation_movies,0.3422825088590193
+will you help me get better in studies,general_quirky,general_quirky,0.47129882930033584
+show me a video about new mobile launches this year,general_quirky,general_quirky,0.111538970405437
+find out for me what the topic is of each oswald chambers book,qa_factoid,email_querycontact,0.1497851636532236
+what is two hundred divided by ten,qa_maths,qa_maths,0.8940141043103107
+what is the linear equation,qa_maths,qa_maths,0.23442484445960662
+set up a date for just you and me,general_quirky,alarm_set,0.1613844096722644
+what's the word orange mean,qa_definition,qa_definition,0.5182764920875309
+what are the definitions of orange,qa_definition,qa_definition,0.7904119249222108
+when is saint patrick's day,qa_factoid,qa_factoid,0.14761814594037045
+book me a flight to mars next year,qa_factoid,transport_taxi,0.14997988234539925
+what is one plus one,qa_maths,qa_maths,0.8112823661806837
+what is the residing place of cricketer dhoni,qa_factoid,qa_factoid,0.1499434226061253
+what is the capital of nigeria,qa_factoid,qa_factoid,0.8534772245061493
+none,qa_factoid,qa_definition,0.056524847206590276
+what are you,general_quirky,general_greet,0.27391882091298475
+what are the synonyms of placid,qa_definition,qa_definition,0.3535062156010854
+why are women so mysterious,general_quirky,play_audiobook,0.10487967583607621
+do you know jessica snout's phone number,qa_factoid,email_querycontact,0.6832343777982077
+google the word,qa_definition,qa_factoid,0.34906019290230084
+what does oscillate mean,qa_definition,qa_definition,0.9160124123453323
+spell and define oscillate,qa_definition,qa_definition,0.7205462276669483
+what's the cheapest marathon to enter within fifty miles of here,general_quirky,recommendation_locations,0.20933614205539877
+explain photosynthesis,qa_definition,qa_factoid,0.2096790640583131
+compare price of a audio device from all websites with free shipping,general_quirky,social_post,0.1300573946254091
+location,qa_definition,calendar_set,0.2939584371197596
+how can i find tickets to the super bowl for under dollars each,general_quirky,qa_currency,0.13896435273299787
+what time zone is arizona in,qa_factoid,datetime_convert,0.7818194385460485
+where was bill clinton born,qa_factoid,qa_factoid,0.5515937239005594
+where to buy cannon cameras,recommendation_locations,recommendation_locations,0.1665655828827942
+what is hair made up of,qa_factoid,qa_factoid,0.3046579548053125
+what is the composition of our nails,qa_factoid,qa_factoid,0.1992886011524434
+keanu reeves date of birth,qa_factoid,calendar_query,0.23474560159930932
+i need to figure out this percentage,qa_maths,weather_query,0.0918687517675658
+can you make dinner for me,general_quirky,cooking_recipe,0.14952811267458402
+alexa i've got dollars for the month how much can i spend every day this month,qa_maths,qa_currency,0.17358383149854778
+what do pink ribbons support,qa_factoid,general_quirky,0.13061840143556536
+information on dolly parton,general_quirky,calendar_query,0.24674408345013077
+just idle chit chat,general_quirky,general_quirky,0.10752306003801856
+answer this question what's the first boss in super mario brothers,general_quirky,qa_maths,0.3310236575032118
+when will the world end,general_quirky,qa_factoid,0.5684489535125188
+olly what's the sum of the two numbers four and six,qa_maths,qa_maths,0.5578863609596699
+when was benjamin franklin born,qa_factoid,qa_factoid,0.6928487093025477
+when i get home can you please order a pizza,takeaway_order,takeaway_order,0.955042783492551
+calculate the costs of cable and internet providers in my area where can i save the most,general_quirky,qa_maths,0.19194624940901053
+what store is having sales tomorrow,general_quirky,qa_factoid,0.08310209643312765
+if i could go anywhere in the world where should i travel,general_quirky,recommendation_locations,0.17243795741440435
+who is the current us treasury secretary,qa_factoid,music_query,0.09133369827165733
+tell me what is the nicest place to go,recommendation_locations,recommendation_locations,0.45581128771887214
+what is the circumference of the earth,qa_factoid,qa_factoid,0.2873224763834204
+what is the best recipe for a margarita,cooking_recipe,cooking_recipe,0.8853448338685697
+how old is j. k. rowling,qa_factoid,qa_factoid,0.46081353608435344
+do i have class on monday,calendar_query,calendar_query,0.5300408431770796
+i would like my robot to feed and pet my dog when i'm not home,general_quirky,general_quirky,0.5777783964955365
+countdown for the birthday of my brother,calendar_query,calendar_query,0.2713825680720416
+can you show me a list of all my recent commands,general_quirky,lists_query,0.3653180746851949
+meaning of enthusiastic,qa_definition,qa_definition,0.36916779341936684
+what does blank mean,qa_definition,qa_definition,0.9379997385498722
+google who was the last president who didn't own a dog,qa_factoid,qa_factoid,0.6295950419143631
+who won the last five n. c. a. a. men's basketball tournament,qa_factoid,news_query,0.12480078675422723
+why is the sky blue,qa_factoid,iot_hue_lightchange,0.48926470963676477
+how many months in a year,qa_factoid,qa_factoid,0.29271277320481376
+when will tesla come to my town,qa_factoid,takeaway_query,0.08248931912898755
+is it better to invest or save,qa_factoid,music_likeness,0.4441215234938801
+what is the capital of maryland,qa_factoid,qa_factoid,0.7837144956594587
+where is my girl friend right now,general_quirky,calendar_query,0.1801839243234692
+would much wood could a woodchuck chuck if a woodchuck could chuck wood,general_quirky,qa_stock,0.12114534758598351
+are jello shots calorie free,qa_factoid,general_greet,0.06631284671061745
+what is the exchange rate between the us and canada,qa_currency,qa_currency,0.8138388674103764
+when is the next touring,general_quirky,calendar_query,0.20260603239807867
+how tall was abraham lincoln,qa_factoid,qa_factoid,0.43392140097491366
+how many grams are there for a cup of butter,qa_factoid,cooking_recipe,0.21849546560373784
+how many kilometers are in a mile,qa_factoid,qa_factoid,0.4451248562009044
+has my stock increased in value,qa_stock,qa_stock,0.5259303135644208
+what high school did halley barry go to,qa_factoid,qa_factoid,0.12802112479460304
+how many times has adel gone diamond,qa_factoid,qa_factoid,0.2561625741949943
+are there any free events on in my area today,recommendation_events,recommendation_events,0.8927156090382942
+what is the newest news right now,news_query,news_query,0.8684967429913267
+what is arnold schwarzenegger's birthday,qa_factoid,qa_factoid,0.32929815340587865
+what is the increase in stock value over the past week of disney,qa_stock,qa_stock,0.38039099149046013
+what is the exchange rate between pound sterling and the u. s. dollar,qa_currency,qa_currency,0.9944492079338079
+what is the highest mountain in the world,qa_factoid,qa_factoid,0.30439541354582894
+what is the highest mountain in the us,qa_factoid,qa_factoid,0.15104260592058236
+can you tell me how many stomachs a cow has,qa_factoid,qa_factoid,0.1944413622227671
+how has your life been changed by me,general_quirky,general_quirky,0.6041471363936091
+what is a mango,qa_definition,qa_factoid,0.32856724825334677
+can you really see russia from alaska,qa_factoid,general_quirky,0.06837702368985037
+what is the exchange rate of u. s. d. to cad,qa_currency,qa_currency,0.9879120249794446
+what is the distance to the grand canyon,qa_factoid,qa_factoid,0.2801218297345567
+what's the closing price of apple,qa_stock,qa_stock,0.5453360216761903
+what's the closing price of a. b. c.,qa_stock,qa_stock,0.6045299924104847
+how much wood could a woodchuck chuck if a woodchuck could chuck wood,general_quirky,qa_stock,0.15463603923865293
+describe what a poltergeist is,qa_definition,qa_definition,0.8912989865009161
+what is a monitor,qa_definition,qa_definition,0.28444580949292325
+what's the highest mountain range in the world,qa_factoid,general_quirky,0.22145250604866312
+what is the exchange rate between us and france,qa_currency,qa_currency,0.7510532454807721
+what is the definition of subjegant,qa_definition,qa_definition,0.9540835854952656
+is it true the hanging tree really had someone hung from it,general_quirky,general_quirky,0.10510991998253764
+what happened to the dow jones today,qa_stock,general_quirky,0.5053056150457952
+tell me what job i should take,general_quirky,general_quirky,0.32028677195183425
+how many bots are in a dollar,qa_currency,qa_currency,0.7405493171688835
+please show me the exchange rate between the dollar and the yen,qa_currency,qa_currency,0.982515819982536
+what is the definition of a home run,qa_definition,qa_definition,0.9413141719984389
+how would you describe a happy birthday,qa_definition,qa_definition,0.39924397531794464
+what character does chris evans play,qa_factoid,datetime_query,0.1420549537454406
+can you define a baster,qa_definition,qa_definition,0.7751728387999558
+what is the shallowest piece of land,qa_factoid,qa_factoid,0.15178140426689374
+what is the capital of washington,qa_factoid,qa_factoid,0.7278165963275091
+can you tell me how gravity works,general_quirky,general_quirky,0.2607491492611645
+define flabbergasted,qa_definition,qa_definition,0.5767349037358204
+how does merriam webster define ultra,qa_definition,qa_definition,0.7350555450133965
+where maradona lives now,qa_factoid,recommendation_locations,0.1333607241496585
+how many calories in an orange,qa_factoid,qa_factoid,0.249601336957125
+tell me a place that has snow now,general_quirky,recommendation_locations,0.2173232051440055
+what is the stock price of amazon,qa_stock,qa_stock,0.9873787596060505
+how is the stock going in general,qa_stock,qa_stock,0.5883032812993749
+what does word mean,qa_definition,qa_definition,0.9781851664513755
+where does brad pitt live,qa_factoid,takeaway_query,0.24753428008842987
+where is laos located,qa_factoid,recommendation_locations,0.42252685847634197
+what is the location of kentucky,qa_factoid,qa_factoid,0.3786977560863543
+how many yen for each dollar,qa_currency,qa_currency,0.8324218481543719
+what is the us dollar equivalent of one euro,qa_currency,qa_currency,0.9096954710829165
+show me current exchange rate between euros and other currencies,qa_currency,qa_currency,0.9409923782654537
+what is a fjord,qa_factoid,qa_definition,0.4328582633572419
+give me the definition of carion,qa_definition,qa_definition,0.8750041832974239
+where do i get my pet fixed,general_quirky,general_quirky,0.15997520080068797
+describe heaven,qa_definition,qa_definition,0.7557463902089637
+what is the us dollar and euro exchange rate,qa_currency,qa_currency,0.9989135573812692
+tell me when martin luther king junior was born,qa_factoid,qa_factoid,0.7195576848810772
+what is the location of moldova,qa_factoid,qa_factoid,0.49071117467439485
+in this country what is the exchange rate,qa_currency,qa_currency,0.5033361536283034
+find me the description of this object,qa_definition,qa_definition,0.9433159884180687
+where is montana,qa_factoid,qa_factoid,0.19244867048102296
+where is johncena from,qa_factoid,email_querycontact,0.34254518142500345
+siri what does obstacle mean,qa_definition,qa_definition,0.8430728855592842
+where are the rocky mountains,qa_factoid,qa_factoid,0.16208339095404595
+what causes if i had junk food and alcohols,general_quirky,takeaway_query,0.10413776913315184
+siri describe a rainbow,qa_definition,qa_definition,0.7286870523084766
+give details of rock sand,qa_definition,qa_factoid,0.17869711138016997
+show geographic details of pyramids,qa_factoid,qa_factoid,0.8423007628133479
+define organism,qa_definition,qa_definition,0.8756435860983722
+tell me what the word organism means,qa_definition,qa_definition,0.7555828581759254
+moderate,general_quirky,qa_currency,0.05974731279379452
+please tell me about the historic facts about india,qa_factoid,general_quirky,0.21225505926267643
+africa info,qa_factoid,qa_factoid,0.31411288684480215
+try out in wikipedia,qa_definition,general_quirky,0.0920591428626842
+give me a geographic fact about vilnius,qa_factoid,qa_factoid,0.7001645255608178
+where did amal clooney go to college,qa_factoid,recommendation_locations,0.1782733286585902
+can you describe to me a bike,qa_definition,qa_definition,0.8491151407280826
+give me today's market trends for panasonic,qa_stock,social_query,0.15245135763240322
+where is the best vacation spot in california,qa_factoid,transport_query,0.21640044105624293
+could you give me the exact rate for dow nifty futures,qa_stock,qa_maths,0.06455660303988552
+tell me about hugh lourie,qa_factoid,general_quirky,0.20404644468733366
+please tell me when i can become rich if i invested in dow stocks today and what will be the return after five years,qa_stock,qa_stock,0.3352112748282398
+i want you to analyze the pattern for me to buy lottery ticket which number will get the first prize,general_quirky,transport_ticket,0.12413181374365796
+find the ways of travel for the same,transport_query,transport_query,0.07712495791394591
+how many inches make one feet,qa_maths,qa_maths,0.12040947283476017
+how much is the euro versus the canadian dollar,qa_currency,qa_currency,0.9264352332658917
+how is iron made,qa_factoid,qa_factoid,0.21751136672353533
+what is a googleplex,qa_definition,qa_factoid,0.42088266664033264
+rate between these currencies,qa_currency,qa_currency,0.39843529465423555
+how much is the canadian dollar worth versus u. s. dollar,qa_currency,qa_currency,0.9866561473156338
+how do you make steel,general_quirky,cooking_recipe,0.5081696342183581
+what is six minus four,qa_maths,qa_maths,0.49633092980557003
+where does janet jackson live,qa_factoid,qa_factoid,0.24265254598373043
+explain the geographical location of india,qa_factoid,qa_factoid,0.8744495367859687
+hey what's a head cheese,qa_definition,general_greet,0.12201756101138012
+how is the spouse of obama,qa_factoid,qa_factoid,0.6344006517662037
+is keith richards dead,qa_factoid,qa_factoid,0.143285633701431
+today's closing price for google,qa_stock,qa_stock,0.3714777262870222
+mention the stock price of hdfc,qa_stock,qa_stock,0.9757057230556533
+what is a hypothesis,qa_definition,qa_factoid,0.19324207950055597
+what is the size of a small cub,qa_factoid,general_quirky,0.16028701997993508
+i think i can travel the whole world in a day,general_quirky,general_quirky,0.323092005561238
+what has been the best selling product on sports category in amazon for the last three days,general_quirky,news_query,0.09448999159621843
+will there be a world war four,general_quirky,general_quirky,0.296550946021203
+is it true the gym is seven miles away,qa_factoid,qa_factoid,0.48129701376935524
+how did michael jackson die,qa_factoid,qa_factoid,0.8814433774968655
+what is the exchange rate between u. s. d. and inr,qa_currency,qa_currency,0.9795648694533694
+when was justin bieber born,qa_factoid,qa_factoid,0.8489466260274476
+order me something online,general_quirky,takeaway_order,0.6574142228799668
+give the stock price details of motorolla,qa_stock,qa_stock,0.8937638504244274
+describe the new football game rules,general_quirky,qa_definition,0.3942097432678423
+describe about the computer hard disk,qa_definition,qa_definition,0.5440985203470127
+is black sea real,qa_factoid,qa_factoid,0.13455110013172972
+what does obama do in his day to day life,general_quirky,general_quirky,0.48171299567898274
+what is a caftan,qa_definition,qa_definition,0.23928671638345092
+how much yens per u. s. d. today,qa_currency,qa_currency,0.6856445220837282
+definition for object name,qa_definition,qa_definition,0.9187811690044627
+nearest restaurants available at this time,recommendation_locations,recommendation_locations,0.6647253456201581
+detail for stock price,qa_stock,qa_stock,0.9692953841036408
+what is the remainder when five hundred and twenty one is divided by three,qa_maths,qa_maths,0.916256164949805
+tell me speed to go sun,general_quirky,weather_query,0.0997006662893206
+what is the home city of the bolshoi theater,qa_factoid,recommendation_movies,0.10772202925043198
+please summarize the latest george r. r. martin ice and fire book,qa_factoid,play_audiobook,0.12104367552461455
+how much does one euro cost in rupees,qa_currency,qa_currency,0.4944167162631778
+give me the definition of the word fondle,qa_definition,qa_definition,0.8751293466560424
+what is price of dollar,qa_currency,qa_currency,0.4765655866740614
+exchange rate i will get with foreign currency,qa_currency,qa_currency,0.913548774370178
+what is the birthday of adam gilchrist,qa_factoid,calendar_query,0.2684374291210106
+why did gotse shoot mahatma gandhi,qa_factoid,email_query,0.09307120068307503
+what is rock,qa_definition,qa_definition,0.6886502100778134
+find geographic details of this place,qa_factoid,qa_factoid,0.697416033854919
+please indicate the opening price of fra stock,qa_stock,qa_stock,0.9135900773943898
+let me know up and down in stock price of this company stock,qa_stock,qa_stock,0.9772851127699739
+what are the things make a woman happy,general_quirky,general_joke,0.28671976974914737
+give me the description of a laptop circuit,qa_definition,qa_definition,0.689333510987171
+ok google what happened to katy perry,general_quirky,general_quirky,0.17304207795906054
+how old is kim kardashian,qa_factoid,qa_factoid,0.8414756478149156
+give me the stock price of sony,qa_stock,qa_stock,0.9869172220725534
+topography melbourne,qa_factoid,qa_factoid,0.21724785519396175
+can you tell me what hypertrophy means,qa_definition,qa_definition,0.5586791073483686
+what is the total number of islands in the united states,qa_factoid,qa_factoid,0.15586858464742098
+how to cook,cooking_recipe,cooking_recipe,0.950684880762458
+what is the population of russia,qa_factoid,qa_factoid,0.40952212376124614
+give me the description of smartphone software,qa_definition,qa_definition,0.5080709002851728
+which country would end up converting the most money out of a thousand dollars us,qa_factoid,qa_currency,0.44286927252471153
+give me the opening stock price of sony,qa_stock,qa_stock,0.9553343839397447
+person by birthday,qa_factoid,qa_factoid,0.31116683836465464
+what is the hobby of ajay devgn,qa_factoid,qa_factoid,0.21571596535334225
+intel company stock price,qa_stock,qa_stock,0.9651578352688935
+where is the hottest place on earth,qa_factoid,recommendation_locations,0.5638199016984116
+beach,qa_factoid,general_quirky,0.21024551907562272
+how long is the great wall of china,qa_factoid,qa_factoid,0.5708686728771267
+is eddie murphy still alive,qa_factoid,qa_factoid,0.09079950075978185
+how much is twenty argentinian pesos in pounds,qa_currency,qa_currency,0.27392733875465713
+earthquake prediction,general_quirky,qa_factoid,0.11603203691113687
+list the current price of microsoft shares,qa_stock,qa_stock,0.5706810803400639
+how many times was richard nixon married,qa_factoid,qa_factoid,0.1606753956145752
+how tall is roraima mount,qa_factoid,qa_factoid,0.5686862866563468
+what time zone is in cuba,qa_factoid,datetime_convert,0.7985071236033792
+what is the square root of thirty four,qa_maths,qa_maths,0.9055920154229632
+give me the definition for the word pontificate,qa_definition,qa_definition,0.7705257268518612
+is the largest ocean in the world the pacific,qa_factoid,qa_factoid,0.6022184745148772
+give me everything you know about bob dean,qa_factoid,qa_factoid,0.21073833370488668
+area of north america,qa_factoid,qa_factoid,0.30921750329389774
+what is apple's stock price,qa_stock,qa_stock,0.9850339222333444
+what is a workhouse,qa_definition,qa_definition,0.20410451510486194
+find twitter handle of tom cruise,qa_factoid,social_query,0.2629634731429525
+is the data prefers any problems in objects,general_quirky,qa_factoid,0.24015037227938082
+how he works perfectly,general_quirky,qa_factoid,0.19481671338894757
+how much is the dollar worth in canada,qa_currency,qa_currency,0.8649584533920335
+please check the exchange rates of the us dollar versus the euro,qa_currency,qa_currency,0.9833336132291474
+how many mega pixel is listed in the description of the canon,qa_factoid,qa_definition,0.5303431381166079
+find brad pitt's age,qa_factoid,qa_factoid,0.31026777092875407
+which part of antarctica belongs to the us,qa_factoid,qa_factoid,0.14536327433679214
+what is the exchange rate with in one british pound,qa_currency,qa_currency,0.7744170488661823
+find me some celebrities that are capricorns,qa_factoid,qa_factoid,0.22439704439795646
+meaning of,qa_definition,qa_definition,0.8132660702606956
+what is the meaning of,qa_definition,qa_definition,0.9153327384194632
+what's the ratio of value of the indian rupee and a u. s. dollar,qa_currency,qa_currency,0.8720940630554974
+please describe that object for me,qa_definition,qa_definition,0.9220467328611255
+i would like it to be able to tell if something is starting to burn and turn off the oven stove or microwave,general_quirky,general_quirky,0.21135949154161468
+how people are thinking in such a manner that they can hide everything from god,general_quirky,general_greet,0.14704951538572741
+alexa define television,qa_definition,qa_definition,0.6031551715124208
+alexa tell me keywords about usain bolt,qa_factoid,general_quirky,0.20003708094153322
+what are the measurements of a rubix cube,qa_factoid,cooking_recipe,0.09007797596725907
+describe the empire state building,qa_definition,qa_definition,0.4723051445950702
+olly how old is tom cruise,qa_factoid,qa_factoid,0.4130593567042221
+how much is a stock of apple worth,qa_stock,qa_stock,0.9302809727524252
+tell me about lisa ann,qa_factoid,qa_factoid,0.23247175739591663
+design the chemical compounds necessary to create sugar that doesn't cause diabetes or weight gain but doesn't provide a chemical taste,qa_factoid,social_post,0.07089421818252661
+olly how much can chris helmsworth bench press,qa_factoid,general_quirky,0.1385561207253886
+tell what the definition of the word massive,qa_definition,qa_definition,0.908835744583849
+what video game should i play next,qa_factoid,play_game,0.45810892278161097
+siri please check exchange rates,qa_currency,qa_currency,0.4890416049621736
+look up someone,qa_factoid,play_audiobook,0.12381148764750796
+what is this thing,qa_definition,music_query,0.24050415049194268
+post that i am going to mcdonalds at manhattan,social_post,social_post,0.33350307990851813
+may i know what is trending in social media,social_query,social_query,0.9119408226793883
+post my current location on instagram,social_post,social_query,0.6175144878420581
+what are the latest tweets from the new york times,social_query,social_query,0.32257285970821853
+check my facebook notification,social_query,social_query,0.6038973758820095
+post in twitter my visit to japan,social_post,social_post,0.4537822344665804
+what's trending on twitter,social_query,social_query,0.9551784081454877
+new updates,social_query,news_query,0.7626541482310809
+put that on facebook,social_post,social_query,0.516020035302536
+how many likes i have got on my eggless cake post on youtube,social_query,social_query,0.4882067870087024
+hello google post my current status on twitter mentioning a great trip to paris with friends and family,social_post,social_post,0.4230279285037411
+please submit status to facebook,social_post,social_post,0.7125625393776028
+latest news feed from facebook,social_query,social_query,0.8713362723637422
+post a status using the latest notes i made in my notepad,social_post,social_query,0.28332514065022024
+please scan my social media and tell me what's happening,social_query,social_query,0.7864851045697806
+post a new status on facebook saying that i am enjoying the nice weather,social_post,social_post,0.5043235335630334
+facebook,social_query,social_query,0.7224578001740797
+has derek logged into facebook today,social_query,social_query,0.6205685668849807
+please post this message to my facebook page,social_post,social_post,0.46965971083826874
+post a facebook status update,social_post,social_post,0.8072678192510012
+has anyone follow me today on twitter today,social_query,social_query,0.9043636484539779
+place family phone on instagram,social_post,social_query,0.5118080198009665
+please put this photo on my instagram,social_post,social_query,0.4465987095879395
+is there any new vegan news on facebook,social_query,social_query,0.48388643583263735
+who is doing facebook live right now,social_query,social_query,0.42333590135192634
+i'm unhappy with tesco please help me,social_post,general_quirky,0.25773609368812306
+please tell kmart they sent the wrong item,social_post,lists_remove,0.07254401537157085
+can you send a tweet to lif saying that their app crashed,social_post,social_post,0.3122621516234785
+message at bobburgers they screwed up my order and i had to wait an extra hour,social_post,takeaway_order,0.1994746472664091
+post picture to facebook,social_post,social_post,0.8961347819791903
+tweet lfi and let them know my app crashed,social_post,social_post,0.527899154310896
+post the picture i just took on twitter,social_post,social_post,0.6456832395074538
+tell my facebook group that i've arrived,social_post,social_query,0.38374228828607787
+tweet rude salesperson,social_post,social_post,0.35854959840055195
+hey olly post my complaint to at microsoft on twitter,social_post,social_post,0.9274973984367856
+is everyone on my facebook list watching the game,social_query,social_query,0.3877526485154792
+post pic on my phone on facebook alexa,social_post,social_query,0.4536384736172079
+tweet a customer complaint to the subway website,social_post,social_post,0.9915366945296351
+tweet a customer complaint on the service at the long horn steak house alexa,social_post,social_post,0.9744067383683678
+i want to tweet a complaint on apples phone issues,social_post,social_post,0.9339974868760618
+did you resolve,general_quirky,qa_maths,0.32362606497770974
+make a facebook post i'm home,social_post,social_query,0.39178545210856086
+please tweet at pizzahut i've been waiting for my delivery for now number nothappy,social_post,takeaway_query,0.24865551640351702
+at the company on twitter and complain to customer service in the tweet,social_post,social_post,0.9971427214276921
+tweet insight cable's customer service and tell them i have been waiting on hold for thirty minutes,social_post,social_post,0.7056251369037603
+tweet complaint to american eagle customer service,social_post,social_post,0.9914027550970279
+tweet consumer service,social_post,social_post,0.9673453077590317
+olly tweet google customer service their products are inferior,social_post,social_post,0.9363803809541387
+customer service complaint tweet the following,social_post,social_post,0.9924871293597584
+send a tweet to dominoes about bad delivery,social_post,takeaway_query,0.35077375397170346
+tweet about cold pizza to papa johns,social_post,social_post,0.32963548317590663
+tweet mobile complaint to samsung,social_post,social_post,0.9876054387725276
+report complaint to samsung by tweet,social_post,social_post,0.9853189274472769
+post to tumblr i'm having fun,social_post,social_post,0.17640007526079482
+let wendy's know i hate them,social_post,datetime_query,0.14084294226484725
+send a tweet to company,social_post,social_post,0.9299133493033142
+tweet a complaint to apple about my iphone seven,social_post,social_post,0.9310982587979342
+open gallery post video name,social_post,play_audiobook,0.19433821810800628
+open company name and find forms,social_post,play_audiobook,0.15220153714478799
+tweet walmart customer service,social_post,social_post,0.9627397054019053
+contact walmart customer service with a complaint via tweet,social_post,social_post,0.9900774097607506
+tweet a complaint about potholes on road,social_post,social_post,0.9689937164334081
+post a tweet as follows very bad follow up by a. b. c. company not satisfied in my account,social_post,social_post,0.6138149430792119
+tweet for me the complaint about drainage work,social_post,social_post,0.9694247432322213
+tweet consumer complaint,social_post,social_post,0.9939077509711056
+what are the latest photos on my instagram account,social_query,social_query,0.9386000795172658
+social info,social_query,social_query,0.7815362243563069
+for facebook write newly promoted manager for hillstead,social_post,social_post,0.2590612769531237
+tweet to the bbb that burger king is too expensive,social_post,social_post,0.2924692703591644
+pull up the complaint website for starbucks,social_post,social_post,0.7147000114676779
+send twitter to mattel that they need to stop making toys in china,social_post,email_sendemail,0.20443223896964843
+tweet bad service related to out local haskell mcdonalds,social_post,social_post,0.7987699130824331
+set feeling happy status on facebook,social_post,social_post,0.5782035011674049
+please write up a compliant,social_post,social_post,0.43188303946788625
+drop a message to jan write i will be late,email_sendemail,email_sendemail,0.1604244967766596
+create an email to toby at tobytoday dot com,email_sendemail,email_sendemail,0.48717403410373294
+tell me about new emails,email_query,email_query,0.9507858185665943
+who am i meeting today,calendar_query,calendar_query,0.40806755860240834
+where seth lives,email_querycontact,recommendation_locations,0.26672637061201976
+olly let me know if i get a message about the party from jane,email_query,email_query,0.15741812607231553
+any news from agnes,email_query,news_query,0.9101138053772266
+update me,news_query,news_query,0.16848398382504925
+are there unread emails in my inbox,email_query,email_query,0.9818168354766572
+open my most recent email and reply,email_sendemail,email_sendemail,0.7832085537612952
+send an email to sjobs at apple dot com,email_sendemail,email_sendemail,0.893471481640675
+read email from julia,email_query,email_query,0.7778703430302103
+tell me form whom i got the last email,email_query,email_query,0.5166282199431486
+add john at gmail dot com to contacts,email_addcontact,email_addcontact,0.6355294242307185
+reply thank you to john,email_sendemail,email_sendemail,0.6287218463183183
+check emails for last two hours,email_query,email_query,0.8619974278526252
+list emails from jim for today,email_query,email_query,0.7526682462793082
+will you please put something something at gmail dot com in my contacts,email_addcontact,email_addcontact,0.18750325079277408
+mail administrator,email_sendemail,email_sendemail,0.2956991889208578
+compose an email to parisa,email_sendemail,email_sendemail,0.6806463087338656
+did anybody email me today,email_query,email_query,0.8055824161236149
+let me know if i get a new email today,email_query,email_query,0.5496686191521338
+find out if eddie richards has sent an email about the budget requests,email_query,email_query,0.27401927927456277
+i want to know if i have any emails with the subject line budget from eddie richards,email_query,email_query,0.5243603997847547
+add this new email with contact,email_addcontact,email_addcontact,0.990774651385862
+send ashmit his latest tech topics available,email_sendemail,news_query,0.171892983203111
+olly please check my email for me,email_query,email_query,0.7585785647221792
+are there any emails i haven't read yet,email_query,email_query,0.8828622382662716
+send an email to jesse,email_sendemail,email_sendemail,0.991126874606776
+please start an email to jesse,email_sendemail,email_sendemail,0.7523083813164512
+can you send email to my friend rohit which says i am busy tomorrow,email_sendemail,email_sendemail,0.8332333645231309
+hey start an email to coworker,email_sendemail,email_sendemail,0.8111835430922886
+please send an email to sally regarding tomorrows meeting,email_sendemail,email_sendemail,0.8374522256496477
+send mail to sil for cap,email_sendemail,email_sendemail,0.9749430372059696
+send an email to peter that where he is now and if he is at the market text him to bring some wine,email_sendemail,email_sendemail,0.6507124814807844
+display recent email from john,email_query,email_query,0.8700791623171288
+show latest email from mark,email_query,email_query,0.530043489694707
+email my mom,email_sendemail,email_sendemail,0.7982157160944149
+send an email to my manager,email_sendemail,email_sendemail,0.9889761428099186
+email george brown,email_sendemail,email_sendemail,0.43050189680534423
+send an email to george brown,email_sendemail,email_sendemail,0.9588534092971196
+check unread emails from amy,email_query,email_query,0.9850805843185951
+please check email contain job listing,email_query,email_query,0.36857306789834243
+please check email from matrimony,email_query,email_query,0.9140241108154536
+search the contact,email_querycontact,email_querycontact,0.28233010102718165
+yes i want to check,email_query,play_game,0.05472582060493936
+email work team this week's schedule,email_sendemail,email_sendemail,0.33993952702449626
+send email to mommy that i'll be going the party,email_sendemail,email_sendemail,0.9722248688730107
+send email to enalen i'm going to send the files the next day,email_sendemail,email_sendemail,0.9353663358942724
+show all the received emails recently with time stamp,email_query,email_query,0.4983032995862537
+give me the latest updates,news_query,social_query,0.4917033910430277
+any new mail from jack,email_query,email_query,0.899277719160398
+where does tar work currently,email_querycontact,takeaway_query,0.15590964677278982
+send reply,email_sendemail,email_sendemail,0.9930608028285833
+compose reply,email_sendemail,email_sendemail,0.3987083617117524
+send a mail to mike tell him we will meet today seven p. m. for dinner at coffee house,email_sendemail,email_sendemail,0.3479062359873666
+tell me the contact details of my brother,email_querycontact,email_querycontact,0.4893534791560731
+please send an email to larry's new email at larrylarry at gmail dot com,email_sendemail,email_sendemail,0.7814386465265045
+do i have any new inbox message,email_query,email_query,0.846490283967539
+write this message to the coworker group,email_sendemail,social_post,0.15453549291067126
+shoot dale an email response warning him about the gulls at the beach,email_sendemail,email_query,0.36494872945605533
+please check my mail,email_query,email_query,0.7059047496367259
+read the contact number of alex from phone book,email_querycontact,email_querycontact,0.9037898056563822
+please email to my wife about next week weather,email_sendemail,email_sendemail,0.5651030673413534
+scan my inbox for any new emails from robert,email_query,email_query,0.9948068313810864
+how do i dial sarah,email_querycontact,cooking_recipe,0.17184198970966
+refresh email inbox,email_query,email_query,0.7801098486870226
+email the message hi come down for dinner tonight to bro,email_sendemail,email_sendemail,0.48565778744355165
+send an email to guy selling the boat telling him that i have the money,email_sendemail,email_sendemail,0.6490796642648207
+send an email for me,email_sendemail,email_sendemail,0.9798060968934257
+please respond,email_sendemail,email_query,0.1055310263582259
+send an email to margaret,email_sendemail,email_sendemail,0.989635188614
+i want to reply to bob smith's email,email_sendemail,email_sendemail,0.9015136524352095
+did erin send me any emails,email_query,email_query,0.9753648700496943
+who is the most frequently called person in my phone book,email_querycontact,qa_factoid,0.15455069803060226
+what was the subject of my last email to tom,email_query,email_query,0.24595065761031112
+hey check emails,email_query,email_query,0.9730664395810054
+please send the email to jeff,email_sendemail,email_sendemail,0.9602672774530969
+alexa write email,email_sendemail,email_sendemail,0.5144166925418107
+pull up all emails from my friend cat vonstaragrabber,email_query,email_query,0.5602685270712805
+please send mom an email saying that i can make it next week,email_sendemail,email_sendemail,0.8263123585984647
+check for emails from my boss,email_query,email_query,0.9798600295835486
+please sent this email to my friend,email_sendemail,email_sendemail,0.8867622543891355
+can you provide me with the contact information assigned to this person,email_querycontact,email_querycontact,0.397130809371198
+how many recent emails have this sender or subject line,email_query,email_query,0.8499335891196759
+did mom text me,email_querycontact,general_quirky,0.13530028348581796
+email my friend about our plans tonight,email_sendemail,email_sendemail,0.7529536142565835
+send an email to my boss saying i will be late,email_sendemail,email_sendemail,0.9594005473468405
+do i have messages in my inbox please,email_query,email_query,0.7305010531343911
+send a replay email,email_sendemail,email_sendemail,0.9900065971724051
+send a request to martin,email_sendemail,email_sendemail,0.3721240964703489
+send chris an email say do you have plans tonight want to go to dinner,email_sendemail,email_sendemail,0.6923908700427399
+send email to mom want to go shopping tomorrow,email_sendemail,email_sendemail,0.900322392534091
+do i have any emails from jo,email_query,email_query,0.9955625669709145
+can you tell me the contact information of jo,email_querycontact,email_querycontact,0.8811168028074111
+now i need to write an email to my colleague,email_sendemail,email_sendemail,0.5598867056183534
+olly has mom sent me any emails,email_query,email_query,0.9832186353660946
+olly have i gotten any emails from mom lately,email_query,email_query,0.9484264942715281
+check to see if i have new emails please,email_query,email_query,0.973755038373047
+reply to name,email_sendemail,email_sendemail,0.5857014516043693
+email mom about lunch,email_sendemail,email_sendemail,0.5804834984452298
+show me the latest email of jack,email_query,email_query,0.28764875462807815
+have i received any work emails from jeff,email_query,email_query,0.9255203297013728
+please tell me if july has sent me any emails,email_query,email_query,0.9550698694726227
+check most current emails,email_query,email_query,0.8635699734571947
+will you send an email to this new email address,email_sendemail,email_sendemail,0.8673168713725334
+check mail for anything from shelly,email_query,email_query,0.6593163034273047
+send a text to alice,email_querycontact,email_sendemail,0.4811932143556687
+send an email to scott asking what the weather will be like this week,email_sendemail,email_sendemail,0.5870744841052442
+who was the last person to email me,email_query,email_query,0.3582204161822706
+compose email to a new address,email_sendemail,email_addcontact,0.7599886721712373
+reply to joes email,email_sendemail,email_sendemail,0.991297041391432
+write a reply to my mother's email,email_sendemail,email_sendemail,0.9737432744173418
+in the past two hours have i gotten any new emails,email_query,email_query,0.9399633192043804
+do i have any new email,email_query,email_query,0.9684870173284281
+please check my emails and notify me if exists any new email,email_query,email_query,0.9862593244114981
+check my email inboxes and tell me about new mails,email_query,email_query,0.9876643472876264
+have i gotten any emails from amazon in the last two days,email_query,email_query,0.9268214204951845
+check my email for the last hour,email_query,email_query,0.717692740219346
+please send the email to my mom,email_sendemail,email_sendemail,0.9880340896806977
+did mike send me an email,email_query,email_sendemail,0.7362111139161185
+look at my email,email_query,email_sendemail,0.47433444100190736
+were any new emails received,email_query,email_query,0.94247604165586
+dictate new email,email_sendemail,email_query,0.6149703707645658
+report recent emails,email_query,email_query,0.9225073890497434
+i need to know all of the emails from contact pertaining to subject,email_query,email_query,0.38953437470178953
+can you send an email to my mother about the weekly weather,email_sendemail,email_sendemail,0.9848981032137002
+have i received any mail in the last hour,email_query,email_query,0.5409908979762029
+can you give me details on john,email_querycontact,music_query,0.16770865961168507
+what are the subject line and sender from today's email inbox,email_query,email_query,0.6090139590001425
+has cassie sent me any emails about tom,email_query,email_query,0.9607099146685799
+display all unread messages from my gmail account,email_query,email_query,0.4873886530565586
+did any emails come for me in the last five hours,email_query,email_query,0.917441412490033
+open my contact list,email_querycontact,lists_query,0.40639605709042126
+check for all emails from tom brady,email_query,email_query,0.9244033863814827
+hey did i get any new emails,email_query,email_query,0.995512475800359
+alexa send the email to this new email address,email_sendemail,email_sendemail,0.7876037266926688
+do i have any new emails from paul,email_query,email_query,0.9938487685559727
+i need to email susan and metion,email_sendemail,email_sendemail,0.7042706306784511
+email naty for her birthday,email_sendemail,email_sendemail,0.5864918604102151
+send email to jerry about the meeting,email_sendemail,email_sendemail,0.9504929982871849
+reply this mail,email_sendemail,email_sendemail,0.9782341582101528
+how me my last two emails,email_query,email_query,0.9095932678619157
+send an email to my family asking how they're doing,email_sendemail,email_sendemail,0.9283648422932838
+is there any email with subject,email_query,email_query,0.4617028719875767
+is there any new unread yahoo email,email_query,email_query,0.7358672552156388
+please check my gmail for new mail,email_query,email_query,0.8354001310074155
+show new emails from katey,email_query,email_query,0.9742564099693864
+show last mail from john,email_query,email_querycontact,0.5392131811372667
+send an email to grandma saying we are dropping by on saturday see you then,email_sendemail,email_sendemail,0.6138974543103303
+i want the email to be sent to my new email address a. b. c. at gmail dot com,email_sendemail,email_query,0.33591010172494773
+please find a contact number of rahul judawa,email_querycontact,email_querycontact,0.8011610416782157
+send mail to someone,email_sendemail,email_sendemail,0.9847714532021689
+do we have morgan's office's number,email_querycontact,email_querycontact,0.5210509700854201
+can you check if i got an email from john,email_query,email_query,0.8638869883030742
+is the mail from chris about work,email_query,email_query,0.32435171806140334
+is there any email from my contacts,email_query,email_query,0.4577601593984125
+what is the last email i received,email_query,email_query,0.402041111915513
+save the email to my contact,email_addcontact,email_addcontact,0.9466752574044486
+compose email for robert,email_sendemail,email_sendemail,0.4321058366488562
+please let me know new emails from michael,email_query,email_query,0.8881094335434013
+refresh email,email_query,email_sendemail,0.7050292675484712
+read me new emails,email_query,email_query,0.9919369034141857
+alarm if any new reply from the boss,email_query,email_query,0.24032060794745672
+have i received any email since five p. m.,email_query,email_query,0.6710613849269479
+send a sorry for your loss email to pat,email_sendemail,email_sendemail,0.9753848550942537
+let's reply this email,email_sendemail,email_sendemail,0.962040820604783
+check for me new emails received from sara,email_query,email_query,0.9320826294261337
+raju phone book,email_querycontact,transport_taxi,0.2844950664278254
+email form for regional v. p.,email_sendemail,email_sendemail,0.3240588744201262
+any high priority emails,email_query,email_query,0.8831018526191978
+what's in my inbox since we last looked,email_query,email_query,0.14045121818682266
+hey send email to john,email_sendemail,email_sendemail,0.9740435136830721
+i want to check julia's available dates so would you send her mail and ask about it,email_sendemail,email_sendemail,0.4933664716444439
+did bert write me today,email_query,general_quirky,0.2477787169488173
+send alert mail to sandy,email_sendemail,email_sendemail,0.893644689896322
+what's the address for alex,email_querycontact,email_querycontact,0.6957664350988012
+search for emails from my boss michael,email_query,email_query,0.720964457482797
+send hi in watsapp to vikki,email_querycontact,email_sendemail,0.5038469783253295

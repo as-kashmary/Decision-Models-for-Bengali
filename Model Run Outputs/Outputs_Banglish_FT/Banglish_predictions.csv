@@ -1,0 +1,2000 @@
+﻿row_id,utt,intent,pred,conf
+0,ami ei muhurte je ganti shunchi tar gayok ke,music_query,music_settings,0.1996
+1,amar jonne football match chalao,play_game,play_game,0.7679
+2,apni ki mone koren amar ekti cinema dekha uchit ba dinner jawa uchit,general_quirky,recommendation_movies,0.8374
+3,ajke rater dinner er jonno amar chitagongyer kothay jawa uchit,recommendation_events,takeaway_query,0.24
+4,bingsh october doshta trish a. m. ekti meeting set korun,calendar_set,calendar_set,0.9807
+5,kachakachi ghotna khujun,recommendation_events,recommendation_events,0.3579
+6,amake upsagriyo onchole chitro prodorshoni dekhan,recommendation_events,qa_factoid,0.1923
+7,akorshoniyo khobor bolun,news_query,news_query,0.9772
+8,arefin shubhor boyosh khujun,qa_factoid,qa_factoid,0.2272
+9,amake bolun somoy,datetime_query,datetime_query,0.443
+10,amar koto talika ache,lists_query,lists_query,0.9117
+11,meeting shuru howar somoy,calendar_query,calendar_set,0.8022
+12,amake bangladeshe somoy bolun,datetime_query,datetime_query,0.7553
+13,amar priyo dosh pochonder talikay sei ganti jog korun,music_likeness,lists_remove,0.531
+14,sondha sattay meeting set korun,calendar_set,calendar_set,0.9487
+15,mirpur park e choutha february dupur dutoy calendar e onushilon jog korun,calendar_set,calendar_set,0.7546
+16,dinajpur bortoman abohawa ki,weather_query,weather_query,0.9848
+17,apni ki amar make saptahik abohawa somporke ekti email pathate paren,email_sendemail,email_sendemail,0.6549
+18,gan ti amake kichu smriti mone koriye dey,music_likeness,play_audiobook,0.2433
+19,ami ajke dhaka geyechilam,general_quirky,transport_query,0.2395
+20,koto samprotik email ei prerok ba bishoy line ache,email_query,email_query,0.9025
+21,amar kajer projekto meetinger thikana kothay,calendar_query,email_querycontact,0.3688
+22,onnoder theke ei talika soran,lists_remove,lists_remove,0.9064
+23,alexa ami maser jonno dollar peyechi ei mase ami protidin koto khoroch korte pari,qa_maths,qa_currency,0.8167
+24,ei byoktir sathe tarikh ebong somyer jonno calendar set korun,calendar_set,calendar_set,0.5623
+25,jomir ogbhir ongsh ki,qa_factoid,qa_factoid,0.2397
+26,ajker stock tothyo khujun,news_query,qa_stock,0.985
+27,amake calendar somporke smoron koriye din,calendar_set,calendar_set,0.5192
+28,sobhaptitto songkranto bitork kibhabe jacche doya kore tab rakhun,news_query,music_likeness,0.1971
+29,papa pear saga kholo,play_game,recommendation_movies,0.2001
+30,amar ki aj kon onushthan ache,calendar_query,calendar_query,0.232
+31,aj ki karo jonmodin ba barshiki,calendar_query,datetime_query,0.5206
+32,asun ei email er uttor dii,email_sendemail,email_sendemail,0.9131
+33,prothom alor cholman chuit guli ki ki,social_query,qa_factoid,0.3941
+34,amar jonne transo ganer radio channel bajao,play_radio,play_radio,0.7586
+35,sorboshesh shironam ki,news_query,qa_factoid,0.6063
+36,olly apni kibhabe murgir kabab chiken korben,cooking_recipe,cooking_recipe,0.7866
+37,amake mone koriye din je ami sei ganti pochondo kori,music_likeness,music_likeness,0.4143
+38,share bajar khobrer jonno notification set korun,qa_stock,alarm_set,0.3213
+39,eta ki ekti byosto din hoyeche,general_quirky,datetime_query,0.4659
+40,ami khub komoi apnake shunte pacchi,audio_volume_up,audio_volume_mute,0.2767
+41,ami ekattorer dinguli jekhane bondho korechilam sekhan theke chalano shuru kor,play_audiobook,play_audiobook,0.1302
+42,sekhane eta tule nao,lists_remove,qa_factoid,0.1248
+43,tara ki barite bitoron dey,takeaway_query,general_quirky,0.2374
+44,amar bondhuke agamikal esainmento pete mone koriye din,calendar_set,calendar_set,0.5925
+45,ami apnar volume jore proyojon,audio_volume_up,audio_volume_up,0.8272
+46,amar wemo plug socket chalu korun,iot_wemo_on,iot_wemo_on,0.7975
+47,got rate ki iyankira jiteche,news_query,qa_currency,0.4022
+48,amar stock mullo bereche,qa_stock,qa_stock,0.9808
+49,ami apple phone somossa niye ekti obhijog tweet korte chai,social_post,social_post,0.982
+50,shekh mujibur rohman koto lomma chilen,qa_factoid,qa_factoid,0.3246
+51,onugroh kore amar janan je kukur prodorshoni amar nij shohor cholche emon ghotna dekhay,recommendation_events,recommendation_events,0.2975
+52,apni konthossor kom korte paren,audio_volume_down,audio_volume_mute,0.115
+53,amar alarm shokaler jonno set kora ache kina ta amake bolun,alarm_query,alarm_query,0.9665
+54,onugroh kore rong poriborton korun,iot_hue_lightchange,iot_hue_lightchange,0.9528
+55,aj theke amar oyarkoaut muche din,calendar_remove,alarm_remove,0.3812
+56,amra kobe brishtir howar asha rakhte pari,weather_query,qa_factoid,0.1398
+57,amake amar nikter sthan obosthaner restaurant ribhiu dekhan,recommendation_locations,recommendation_locations,0.8407
+58,amake talikar nam bolun,lists_query,lists_query,0.924
+59,calendar e jon er jonmodiner punrabrittimulok event toiri korun,calendar_set,calendar_set,0.7537
+60,meeting somporke sorboshesh onusmarok,calendar_set,calendar_set,0.4533
+61,ami jokhon bari firob apni ki doya kore pizza order korte parben,takeaway_order,takeaway_query,0.5606
+62,sthoniyo dokan khujun,recommendation_locations,recommendation_locations,0.855
+63,nimnolikhit ghotna amake mone koriye din,calendar_set,calendar_set,0.7818
+64,plug socket ek shokti up,iot_wemo_on,iot_wemo_on,0.566
+65,ajke amar appointment guli koto somye ache,calendar_query,calendar_query,0.9339
+66,agamikal moddhahnobhojer jonno ki amar appointment ache,calendar_query,calendar_query,0.9462
+67,dhadha,general_quirky,datetime_query,0.1032
+68,mohisher biriyani offer kore emon nikototom food panda call korun,takeaway_order,takeaway_order,0.7857
+69,amar jonno amar coffee patro sokriyo korun,iot_coffee,iot_coffee,0.9957
+70,laptop kena nishchit korun,general_quirky,general_quirky,0.1058
+71,amar asonno event gulo ki ki,calendar_query,recommendation_events,0.4341
+72,daraz er twitter pathan je tader chine khelna toiri bondho korte hobe,social_post,social_post,0.792
+73,amake podcast dekhan,play_podcasts,play_podcasts,0.9167
+74,klasikkal gan bajan,play_music,play_music,0.4306
+75,ei somye upolobdho nikotostho restaurant,recommendation_locations,recommendation_locations,0.8308
+76,ei soptaher shombar abohawa kemon thakbe,weather_query,weather_query,0.9857
+77,doya kore bissher anonder gan chalan,play_music,music_settings,0.328
+78,amar social media skan korun ebong amake bolun ki ghotche,social_query,social_query,0.7316
+79,sobcheye kache bar kothay,recommendation_locations,recommendation_locations,0.0908
+80,amar jonne ei radio channel ti chalao,play_radio,play_radio,0.9131
+81,ei ganti shesh howar pore ami poroborti uddessho nei shunte chai,play_music,music_settings,0.3223
+82,ami ajke tintar ekti alarm chai,alarm_set,alarm_set,0.967
+83,apni pizza jonno ekti recipe tan up korte paren,cooking_recipe,cooking_recipe,0.8641
+84,amake ei bostur bornona khujun,qa_definition,qa_factoid,0.2557
+85,ei gan er por metallica chalao,play_music,play_music,0.3877
+86,notun football khelar niyom bornona korun,general_quirky,play_game,0.1811
+87,ami kichu modarn rokgan shunte chai,play_music,play_music,0.5015
+88,agamikal shokal attar jonno alarm set korun,alarm_set,alarm_set,0.9938
+89,biriyani order dao,takeaway_order,takeaway_order,0.8781
+90,baire tapmatra koto,weather_query,weather_query,0.3349
+91,general health tips sadharon sasthyo tipos,general_quirky,general_quirky,0.257
+92,bangladesher khobor update er sathe amake obhit korun,news_query,news_query,0.8678
+93,train kokhon ase,transport_query,transport_traffic,0.3746
+94,doya kore amake taka ebong rupee r moddhe binimoy har dekhan,qa_currency,qa_currency,0.903
+95,amake bangladesh somporkit oitihasik tothyo bolun,qa_factoid,qa_factoid,0.3869
+96,ram theke je konoo kichur jonno mail porikkha korun,email_query,email_addcontact,0.3875
+97,ei soptahe abohawa kemon dekhacche,weather_query,weather_query,0.9748
+98,sumon er jonno sima theke mail pathan,email_sendemail,email_sendemail,0.5115
+99,amar kachakachi abohawa ki,weather_query,weather_query,0.9802
+100,amader nokher gothon ki,qa_factoid,weather_query,0.1664
+101,shobdo chalu,audio_volume_up,play_game,0.2353
+102,somproti jog kora gan chalan,play_music,play_game,0.325
+103,ei shombar bikele omit bosu sathe ekti meeting nirdharon korun,calendar_set,calendar_set,0.9569
+104,purn kkhomtay light set korun,iot_hue_lightup,iot_hue_lightdim,0.4094
+105,rased khan budget onurodh somporke ekti email pathiyechen kina ta khuje ber korun,email_query,email_sendemail,0.9365
+106,komlar shongga ki,qa_definition,qa_factoid,0.5006
+107,rakha,play_audiobook,qa_factoid,0.2728
+108,ami ekti kapuchino chai,iot_coffee,general_quirky,0.1559
+109,sobcheye samprotik abdul hi cinema r plot ki,qa_factoid,recommendation_movies,0.8723
+110,amake channel i theke khobor dekhao,news_query,news_query,0.9222
+111,doya kore ekti obhijog likhun,social_post,social_post,0.3714
+112,ajke dhaka relgarir ticket kinun,transport_ticket,transport_ticket,0.5028
+113,radio channel radio amar shuru korun,play_radio,play_radio,0.9498
+114,apni amake bolte paren kibhabe mohakorsh kaj kore,general_quirky,general_quirky,0.3708
+115,ajke amake likhlen sohan,email_query,general_quirky,0.1698
+116,amake obhror sorboshesh email dekhan,email_query,email_query,0.9593
+117,shirsh hedlainguli din,news_query,general_quirky,0.0813
+118,ami ganer bishoy chai,music_query,music_query,0.1266
+119,artoseler olos onubhutir deyal shunte chai,play_music,qa_currency,0.3776
+120,sileter bhouglik biboron dekhan,qa_factoid,lists_query,0.3111
+121,amar upolobdho smritite amake status din,general_quirky,social_query,0.3116
+122,ami ki ei soptahante ekti party r porikolpona korechi,calendar_query,general_quirky,0.1827
+123,playlist ti shona jak,play_music,play_music,0.6359
+124,priyankake tar jonmodiner jonno email korun,email_sendemail,email_addcontact,0.7787
+125,protiuttor dewar jonno dhonnobad taijul,email_sendemail,play_podcasts,0.2923
+126,amar tarikher jonno ei bikel songrokkhon korun,calendar_set,play_music,0.2694
+127,walmart customer service ke tweet korun,social_post,social_post,0.909
+128,doya kore baroi february shokal n-tay daktarer appointment ti amar calendar theke muche felun,calendar_remove,calendar_remove,0.9723
+129,dhaka jawar relgari er somoysuchi ki,transport_query,transport_query,0.918
+130,olly ami kibhabe pasta ranna korbo,cooking_recipe,cooking_recipe,0.6117
+131,momtajer gan bajao,play_music,play_music,0.4899
+132,nudolos guli ek pak eti newa hisabe toiri korun,takeaway_order,music_settings,0.2893
+133,amar chinese khabar kokhon asbe,takeaway_query,takeaway_query,0.3604
+134,apni kibhabe apnar somporke jani,general_quirky,qa_definition,0.2493
+135,shokal share sattar ekta alarm set korun,alarm_set,alarm_set,0.9913
+136,amar kache ei soptahante kichu moja korte hobe apni ki amake dharna dite paren,recommendation_events,calendar_set,0.3532
+137,onugroh kore amake bolun ami ki toiri korechi,lists_query,general_quirky,0.2504
+138,calendar klin kor,calendar_remove,calendar_query,0.4784
+139,mongolbar meetinger jonno amake obhit korun,calendar_set,calendar_set,0.4552
+140,dupur barota ebong bikel charte majhe amar ki event ache,calendar_query,calendar_query,0.5371
+141,ami mone kori ami ekdine puro bissho bhromon korte pari,general_quirky,general_quirky,0.1221
+142,onugroh kore agamikaler meeting somporkit sakibke ekti email pathan,email_sendemail,email_sendemail,0.9015
+143,sanoglas proyojon ache ki,weather_query,transport_query,0.2946
+144,notun gaga playlist bajan,play_music,play_music,0.8458
+145,ma amake text korechen,email_querycontact,email_sendemail,0.2319
+146,olly alarm batil korun,alarm_remove,alarm_remove,0.9929
+147,poroborti natok imran mahmuduler bolob toke aj,play_music,qa_factoid,0.3122
+148,amake khobrer shironam bolun,news_query,news_query,0.9813
+149,sthaniyo elakar sera bar,recommendation_locations,alarm_remove,0.0726
+150,eta ki khub beshi gorom hobe jodi ami ajke poshmi soyetar pori,weather_query,weather_query,0.3739
+151,ghurnon ghotna set,calendar_set,alarm_set,0.4079
+152,onugroh kore amake ekti koutuk bolun ja ami mojar mone korbo,general_joke,general_joke,0.768
+153,tweet bhokta porisheba,social_post,social_post,0.4425
+154,rannaghrer uprer alo jalan,iot_hue_lighton,iot_hue_lightdim,0.3437
+155,samprotik miles,general_quirky,qa_maths,0.2253
+156,g. m. t. somoy,datetime_query,datetime_query,0.7513
+157,ami ajke ki ki event guli nirdharon korechi,calendar_query,calendar_query,0.663
+158,ei program byabohar korun,play_radio,calendar_set,0.7418
+159,garir radio preiri home songi bajan,play_radio,play_radio,0.659
+160,aj sattay rafit sathe mitingyer jonno ekti alarm toiri korun,alarm_set,alarm_set,0.9485
+161,podcast er sheshe jan,play_podcasts,play_podcasts,0.9424
+162,apni ki onugroh kore agami shonibar silet train er ticket book korte paren,transport_ticket,transport_ticket,0.9283
+163,sheshbar dekhar por theke amar inbox ki ache,email_query,email_query,0.9404
+164,olly ami idaning ma kach theke kono email peyechi,email_query,email_query,0.9528
+165,amar meetinger jonno prostut howa dorkar,calendar_query,general_quirky,0.2029
+166,time stampo soh notun prapto somosto email guli dekhan,email_query,email_query,0.9692
+167,amar make email din,email_sendemail,email_sendemail,0.798
+168,ami traffic jam pete dirgh ghrina,general_quirky,transport_query,0.536
+169,dui shotke dosh dara bhag kora ki,qa_maths,qa_maths,0.6823
+170,eastern somoy oncholer jonno somoy ki,datetime_query,qa_factoid,0.2933
+171,apni ki rishikesh dash rod kon pub suparish korte paren,recommendation_locations,qa_factoid,0.3028
+172,ekti long black train somporke ke gan geyechil,music_query,transport_ticket,0.4077
+173,ghonta purn hote koto sekendo baki ache,datetime_query,weather_query,0.5553
+174,got rate bijyi pawarobol songkhya ki chil,news_query,qa_currency,0.3035
+175,talika theke apple soran,lists_remove,lists_remove,0.9742
+176,modhupur kon somoy onchole,qa_factoid,qa_factoid,0.252
+177,ami ledi gaga poker fes shunte chai,play_music,play_game,0.7724
+178,apni ki somadhan korechen,general_quirky,qa_definition,0.1945
+179,hi google amar khepate playlist bajan,play_music,play_music,0.7577
+180,email rifresh korun,email_query,email_query,0.572
+181,sthaniyo ofisar er jonno email form,email_sendemail,email_query,0.5411
+182,dim tosto toiri korte amar ki dorkar,cooking_recipe,general_quirky,0.2138
+183,amar ek cup cha ekhon bhaloi hobe,iot_coffee,qa_maths,0.2186
+184,amar jonno sonali theke prapto notun email check korun,email_query,email_query,0.9714
+185,obayed hasan iyakiner jonmodin k,qa_factoid,qa_factoid,0.4743
+186,ami chai apni amar jonno lotarir ticket kenar patarn bishleshon korun kon number ti prothom puroskar pabe,general_quirky,transport_ticket,0.7119
+187,amar jonno rangamati jawar jonno ekti uber taxi book korun,transport_taxi,transport_taxi,0.9949
+188,channel i theke shironam,news_query,play_radio,0.2117
+189,joybangla stet feyarer thikana khuje ber korun,calendar_query,email_addcontact,0.9426
+190,ami laibrerite agamikaler event er jonno amar calendar e ekti note korte chai,calendar_set,calendar_set,0.788
+191,bangladesher onno shohrer somoy bolun,datetime_query,datetime_query,0.6156
+192,ami ki ajke hatmojaguli porbo,weather_query,calendar_query,0.187
+193,somproti bangladeshe ki ghotche,news_query,qa_factoid,0.2309
+194,amar ajker somoysuchi kemon,calendar_query,general_greet,0.3046
+195,amar contact email songrokkhon korun,email_addcontact,email_addcontact,0.9543
+196,onugroh kore amake sakib er notun email guli janan,email_query,email_query,0.6671
+197,amar ekhon kichu coffee chai,iot_coffee,iot_coffee,0.9926
+198,agami soptahe budhbar amar daktarer appointment er ekti note korun,calendar_set,calendar_set,0.8312
+199,bortoman email gulor report,email_query,email_query,0.9303
+200,bandorbanor rajdhani ki,qa_factoid,qa_factoid,0.5919
+201,tomar din kemon chil,general_quirky,general_greet,0.4125
+202,bortoman somoy dhaka,datetime_query,datetime_query,0.3595
+203,nirbe sokriyo korun,audio_volume_mute,music_settings,0.0962
+204,amar pochonder boiti bajao,play_audiobook,play_audiobook,0.4533
+205,match kokhon shuru hobe,calendar_query,transport_traffic,0.1183
+206,titas theke pawa sokol email check korun,email_query,email_query,0.9579
+207,ki cinema gulo amar charpashe jacche,recommendation_movies,recommendation_movies,0.9704
+208,dhakay kotota baje,datetime_query,datetime_query,0.4865
+209,siri binimoy har check korun,qa_currency,qa_maths,0.291
+210,poroborti bhalbasa dibos kon dine obotoron korboe,datetime_query,qa_definition,0.231
+211,amake abar madona gan bajan doya kore,play_music,play_music,0.4987
+212,doya kore tahsan ekti gan bajan,play_music,play_music,0.4888
+213,amader jonno ekti protijogitamulok ora egar jon shuru korun,play_game,calendar_set,0.5262
+214,ami ekhon ghumate jacchi,iot_hue_lightoff,general_quirky,0.2056
+215,shukrobar somudro soikte eti ki sundor hobe,weather_query,general_quirky,0.3484
+216,oniket bangladesh prantor twitter e post korun,social_post,social_post,0.931
+217,ami ki order korte pari,takeaway_order,takeaway_order,0.4799
+218,ek cup makhner jonno koto gram ache,qa_factoid,qa_factoid,0.1702
+219,raju theke sorboshesh email dekhan,email_query,email_query,0.9628
+220,niche alo bondho korun,iot_hue_lightdim,iot_hue_lightoff,0.6198
+221,calendar khule amar somosto event guli muche felun,calendar_remove,calendar_remove,0.9651
+222,notun update,social_query,news_query,0.3928
+223,amake bissher sorboshesh khobor bolun,news_query,news_query,0.9526
+224,amake sataishe march dui hajar sotero abohawa dekhan,weather_query,weather_query,0.9861
+225,nirber podcast ti chalao,play_podcasts,play_podcasts,0.8323
+226,amar din chap chil,general_quirky,general_quirky,0.1361
+227,oyaltonke mobile er obhijog tweet korun,social_post,social_post,0.9635
+228,darjiling ki tusharpat hocche,weather_query,qa_factoid,0.1581
+229,porichitite sufal at gmail dot com e jon jog korun,email_addcontact,email_addcontact,0.9428
+230,hotbak shonggayito korun,qa_definition,qa_definition,0.3775
+231,ajker purbabhas ki,weather_query,datetime_query,0.6545
+232,event er pore dinti muche felun,calendar_remove,calendar_remove,0.8636
+233,kichu en pi ar ebong amar spikar theke tader bajan,play_radio,play_music,0.5226
+234,opurb sorkar er twitter boro chele khujun,qa_factoid,social_post,0.6408
+235,amake pizza recipe din,cooking_recipe,cooking_recipe,0.9161
+236,golpokothon audio book shuru korun,play_audiobook,play_audiobook,0.9552
+237,amar shesher kobita bajiye jao jan,play_audiobook,play_audiobook,0.1255
+238,solaiman sukhon upolobdho somosto poshak porisrer ekti talika toiri korun,lists_query,lists_createoradd,0.9436
+239,radio amar podcast er poroborti porbo,play_podcasts,play_podcasts,0.5602
+240,apni ki ei koutuk janen,general_joke,general_joke,0.9097
+241,amar ki ei soptahante sanoblok lagbe,weather_query,calendar_query,0.1278
+242,bonosri kothay,recommendation_locations,qa_definition,0.1058
+243,amar calendar e kichu ache,calendar_query,calendar_query,0.9205
+244,music system mute korun,audio_volume_mute,audio_volume_mute,0.9562
+245,kibhabe ranna korte hoy,cooking_recipe,cooking_recipe,0.1671
+246,onek sadhnar pore ami bajano shuru korun,play_music,play_audiobook,0.6641
+247,orthohiner odbhut sei cheleti chalu kor,play_music,play_audiobook,0.2476
+248,amake ekhon borof pore emon ekti jayga bolun,general_quirky,recommendation_locations,0.4606
+249,ami bosar ghorer alo bondho korte chai,iot_hue_lightoff,iot_hue_lightoff,0.701
+250,poroborti tin diner jonno ekti office meeting calendar e jog korun,calendar_set,calendar_set,0.9485
+251,dhaka theke dhaka porjonto train er somoy ki,transport_query,transport_query,0.8117
+252,ajker jonno amar karjoklap talika saf korun,lists_remove,lists_createoradd,0.9812
+253,phone book theke babluke jogajog number porun,email_querycontact,qa_maths,0.4113
+254,mijanur rohman kotbar biye korechilen,qa_factoid,general_quirky,0.2036
+255,mongolbar abohawa kemon thakar kotha,weather_query,weather_query,0.9669
+256,ei soptaher somoysuchi oyak timke email korun,email_sendemail,email_sendemail,0.8255
+257,doya kore amake bolun ami jodi ajke dau stock e biniyog kori tahle ami kokhon dhoni hote parob ebong pach bochor por ritarn ki hobe,qa_stock,qa_stock,0.9841
+258,mijanke whatsapp e hi pathan,email_querycontact,email_sendemail,0.4028
+259,chottogramer abohawa,weather_query,weather_query,0.9914
+260,shuru theke misir alir choshma audiobook ti bajao,play_audiobook,play_audiobook,0.973
+261,amar priyo playlist bajan,play_music,play_music,0.7918
+262,amar speaker nihshobdo korun,audio_volume_mute,audio_volume_mute,0.8257
+263,facebook,social_query,social_query,0.9029
+264,somoy onchol rupantor korun,datetime_convert,qa_currency,0.8149
+265,mongolbarer jonno meetinger reminder guli muche felun,calendar_remove,calendar_remove,0.7223
+266,amake ekti talika set korte shahajyo korun,lists_createoradd,lists_createoradd,0.9785
+267,ei brihospotibar shokal satta selos meeting er kotha mone koriye din ebong calendar e jog korun,calendar_set,calendar_set,0.917
+268,amazon er stock mullo koto,qa_stock,qa_stock,0.9811
+269,daraz er aleksay porishebar bishye ekti grahker obhijog tweet korun,social_post,social_post,0.9681
+270,brihospotibar bikel tintey rohman ebong runake meetinger jonno nimontron din,calendar_set,calendar_set,0.7039
+271,agamikal dupur duitay jonmodiner party muche felun,calendar_remove,lists_remove,0.5016
+272,thik ache google asif ikbaler ki hoyeche,general_quirky,social_query,0.225
+273,amar pochonder radio channel ti chalao,play_radio,play_radio,0.8563
+274,amake sobcheye samprotik khobor pete,news_query,news_query,0.9628
+275,shakib khan mara geche,qa_factoid,qa_factoid,0.2534
+276,shukrobar dupur duita trishe hisab bibhager sathe ekti meeting nirdharon korun,calendar_set,calendar_set,0.9797
+277,amake nirbachner sorboshesh khobor dekhan,news_query,news_query,0.9492
+278,binimoy har ami boideshik mudrar sathe pab,qa_currency,recommendation_locations,0.118
+279,ami ki ei soptahante byosto,calendar_query,general_quirky,0.1326
+280,bangladesh rajdhani ki,qa_factoid,qa_factoid,0.3386
+281,apni ki amake dau nifti fiucharer jonno sothik har dite paren,qa_stock,calendar_query,0.1586
+282,hdfc er stock mullo ullekh korun,qa_stock,qa_stock,0.9893
+283,notun jokos onusondhan korun,general_joke,general_quirky,0.259
+284,dhakar sottba ki,qa_factoid,qa_factoid,0.1604
+285,tumi ki adhunik,general_quirky,general_joke,0.1595
+286,galari kholo ebong video r nam post koro,social_post,social_post,0.9242
+287,ami dokan giyechilam,general_quirky,recommendation_locations,0.634
+288,chottogramer kono sangskritik event hocche ki,recommendation_events,recommendation_events,0.6729
+289,tahsan er sathe album er nam onusondhan korun,music_query,play_music,0.5743
+290,oi ganti amar priyo,music_likeness,music_likeness,0.6712
+291,bharter bhouglik obosthan bakkha kor,qa_factoid,recommendation_locations,0.4755
+292,amake maser jonno amar ghotna dekhan,calendar_query,recommendation_events,0.5434
+293,nihshobde volume poriborton korun,audio_volume_mute,audio_volume_down,0.4926
+294,hei sohokormike ekti email shuru korun,email_sendemail,email_sendemail,0.9363
+295,amake shokal ch-tay tule dao,alarm_set,general_quirky,0.1557
+296,agamikal dupur duitay amake mone koriye deben,calendar_set,qa_maths,0.1425
+297,apni ki onugroh kore amar calendar e ei soptahante je party te jacchi setike upekkha korte paren,calendar_remove,calendar_set,0.4427
+298,ami dim chai na,lists_remove,iot_hue_lightdim,0.2705
+299,sodeshi sob gan chalan,play_music,music_likeness,0.3797
+300,barite traffic check korun,transport_traffic,transport_traffic,0.9829
+301,rastay gort somporke ekti obhijog tweet,social_post,social_post,0.9685
+302,amake oyaltoner stock er dam din,qa_stock,qa_stock,0.9839
+303,tweet grahok obhijog,social_post,social_post,0.8719
+304,amar shohre kon bishesh ghotna ache,recommendation_events,recommendation_events,0.5473
+305,khelar jonno amake rat attay ekti reminder din,calendar_set,calendar_set,0.8208
+306,olly lal ronger alote bondho kor,iot_hue_lightchange,iot_cleaning,0.2655
+307,notun pop songit play korun,play_music,play_music,0.4281
+308,amar calendar e kon event nei ta nishchit korun,calendar_remove,calendar_remove,0.8258
+309,rakib hasan somporke apni ja janen ta amake din,qa_factoid,general_quirky,0.1493
+310,nomniyo,audio_volume_down,qa_definition,0.304
+311,talikay item rakhun,lists_createoradd,lists_createoradd,0.9565
+312,ami kichu gospel gan shunte chai,play_music,music_likeness,0.3851
+313,kono hi payriti email ache,email_query,email_query,0.9776
+314,oti samprotik email guli check korun,email_query,email_query,0.9732
+315,prothom april shokal doshtay sneha er sathe ekti meeting nirdharon korun,calendar_set,calendar_set,0.9671
+316,aloguli nil theke holud theke sobuje poriborton korte thakun,iot_hue_lightchange,qa_maths,0.0837
+317,doya kore smart plug socket bondho korun,iot_wemo_off,iot_wemo_off,0.8857
+318,doya kore shonibar dupur ektay ekti chul katar appointment shidiul korun,calendar_set,calendar_set,0.956
+319,kon desh amader hajar dollar er moddhe sobcheye beshi orth rupantor korboe,qa_factoid,qa_currency,0.9189
+320,ei abohawata ki panto porar jonno khub gorom,weather_query,weather_query,0.8945
+321,amar silekted station chalu kor,play_radio,play_radio,0.5818
+322,ami amar pordar ujjoltay status chai,general_quirky,iot_hue_lightup,0.782
+323,halka rong poriborton korun,iot_hue_lightchange,iot_hue_lightchange,0.9687
+324,ei audiobook ti resume kor,play_audiobook,play_audiobook,0.9836
+325,prithibir poridhi koto,qa_factoid,qa_factoid,0.4768
+326,ei soptahante ki ghotche,calendar_query,recommendation_events,0.1574
+327,ami bikel pachta theke kon email peyechi,email_query,email_query,0.9518
+328,game chalu korun,play_game,play_game,0.952
+329,amar set alarm,alarm_query,alarm_set,0.9518
+330,sanike sotorkota mail pathan,email_sendemail,email_sendemail,0.9775
+331,amar poroborti shidiule ki ache,calendar_query,social_query,0.1382
+332,ei soptahonte amar ki kora uchit,calendar_query,general_quirky,0.3348
+333,ei soptahe moddhahnobhojner jonno amar kokhon barbarar sathe dekha korar kotha,calendar_query,qa_factoid,0.1565
+334,ei jinisti ki,qa_definition,qa_definition,0.241
+335,olly amar aj kichu duhkher gan shunte hobe,play_music,music_likeness,0.2208
+336,amar barshiki onushthaner jonno amake age theke mone koran,calendar_set,datetime_convert,0.1276
+337,amar jana dorkar jodi food panda bitoron,takeaway_query,takeaway_order,0.7118
+338,ei soptahe abohawa kemon hobe ta jante rajibke ekti email pathan,email_sendemail,email_sendemail,0.8502
+339,konar gan bajao,play_music,play_music,0.4534
+340,pach miniter moddhe poroborti ganti din,play_music,music_settings,0.5725
+341,amar barir kachakachi egrol kothay pawa jay khujun,recommendation_locations,recommendation_locations,0.5358
+342,amar calendar march mase somosto saint joseph catholic church event er sathe update kora hobe,calendar_set,calendar_query,0.6947
+343,bosar ghor er radio te rayan sikresto chalu korun,play_radio,play_radio,0.9566
+344,aj amar prothom appointment ki,calendar_query,calendar_query,0.878
+345,chondon er email er uttor din,email_sendemail,email_sendemail,0.6161
+346,jahanara kotha theke,qa_factoid,datetime_convert,0.1996
+347,ami ki pizza jayga theke sorobrah order korte pari,takeaway_order,takeaway_query,0.4988
+348,salokosongshleshon bakkha kor,qa_definition,cooking_recipe,0.1924
+349,calendar theke event muchun,calendar_remove,calendar_remove,0.9379
+350,order prostut korte koto somoy lagbe,takeaway_query,takeaway_order,0.5425
+351,ekojon mohilake kon jinisguli khushi kore,general_quirky,general_quirky,0.3166
+352,onugroh kore jenike email ti pathan,email_sendemail,email_sendemail,0.9911
+353,amar charpashe ki ghotche,recommendation_events,recommendation_events,0.2979
+354,amake dhaka shohre jawar jonno ekti train er ticket book korun ja shokal noytar por chere jay,transport_ticket,transport_ticket,0.7787
+355,sorboshesh game khelun,play_game,play_game,0.9744
+356,doya kore amar oyarkoaut talika theke traisep pul daun soriye din,lists_remove,lists_remove,0.8653
+357,aleksa ei notun email thikanay email pathan,email_sendemail,email_sendemail,0.9017
+358,ghorti vaccum korun,iot_cleaning,iot_cleaning,0.9309
+359,disney got soptahe stock mullo briddhi ki,qa_stock,qa_stock,0.9937
+360,eta feisbuke din,social_post,social_post,0.3338
+361,upbhog,play_music,audio_volume_up,0.3455
+362,rajuke amar shesh email er bishoy ki chil,email_query,email_query,0.8757
+363,shombar er jonno amar dupurer khabarer tarikh somporke amake mone koriye din,calendar_set,calendar_set,0.6626
+364,bhor chartar alarm ti rimubh korun,alarm_remove,alarm_remove,0.5912
+365,amar sathe nachun,general_quirky,general_quirky,0.099
+366,sorboshesh khelar khobor somporke amake bolun,news_query,news_query,0.9793
+367,dhakay abohawa kemon,weather_query,weather_query,0.9767
+368,item nirbachon korun,lists_createoradd,lists_remove,0.466
+369,alexa telibhishon shonggayito kore,qa_definition,qa_definition,0.4547
+370,olly bortoman abohawa kemon,weather_query,weather_query,0.991
+371,amar chutir talika theke call songbadopotro muchun,lists_remove,lists_remove,0.9393
+372,apni ki amar jonno alo barate paren,iot_hue_lightup,iot_hue_lightup,0.7362
+373,deta bostur kono somossa pochondo kore,general_quirky,music_likeness,0.3854
+374,apni ei elakay bhalo dokan suparish korte paren,recommendation_locations,recommendation_locations,0.8217
+375,aj ami kar sathe meeting korchi,calendar_query,calendar_set,0.6866
+376,amar kon jacket pora uchit,weather_query,general_quirky,0.3266
+377,doya kore matra baran,audio_volume_up,audio_volume_up,0.7632
+378,adha ghontar moddhe amake dhakar ekti taxi book korun,transport_taxi,transport_taxi,0.9879
+379,dhakate bortoman somoy ki,datetime_query,datetime_query,0.6624
+380,amake mone koriye din sondha sattay amar ekti meeting ache,calendar_set,calendar_set,0.922
+381,desko bati ek bondho,iot_hue_lightoff,iot_hue_lightoff,0.1909
+382,miles er foldar khulun,play_music,play_game,0.4238
+383,kenakatar talika theke ruti kros out,lists_remove,lists_remove,0.9485
+384,idaning apni kemon onubhob korchen,general_quirky,general_greet,0.6876
+385,agamikaler jonno kumilla jawar jekono train e amake ekti train er ticket book korun,transport_ticket,transport_ticket,0.9606
+386,dodulloman mane ki,qa_definition,general_joke,0.3321
+387,onno shohre somoy ki,datetime_query,datetime_query,0.2852
+388,onugroh kore make ekti email pathan jate bola hoy je ami porer soptahe eti toiri korte parob,email_sendemail,email_sendemail,0.9916
+389,ei talika bhule jan,lists_remove,lists_createoradd,0.9502
+390,ei shohre ekhon koyta baje,datetime_query,datetime_query,0.7127
+391,ganer nam ki,music_query,music_query,0.8038
+392,ami poroborti kon video game khelte pari,qa_factoid,play_game,0.9617
+393,daraz er grahok sebay obhijog tweet korun,social_post,social_post,0.9749
+394,hi aj sattay amar coffee toiri korte hobe,general_quirky,iot_coffee,0.986
+395,shohre janojot kemon,transport_traffic,transport_traffic,0.3684
+396,ekhane eta lal kore dao,iot_hue_lightchange,iot_hue_lightchange,0.1646
+397,amar jonno drenej kaj somporke obhijog tweet,social_post,social_post,0.6105
+398,aj amar onusmarok ki,calendar_query,general_quirky,0.295
+399,khaleda jiya bitork ki,news_query,email_querycontact,0.3325
+400,kon asonno ghotna ache,calendar_query,recommendation_events,0.6097
+401,amake kichu pop bajao,play_music,play_music,0.5339
+402,biriyani ki,cooking_recipe,qa_definition,0.3187
+403,notun songbad projukti,news_query,music_query,0.2961
+404,mongolbar mitingye trish miniter onusmarok,calendar_set,calendar_set,0.4681
+405,obamakeyar somporke sorboshesh khobor ki,news_query,news_query,0.9798
+406,apni ki pingk floyed er gan chalate parben,play_music,music_query,0.5763
+407,food panda restaurant theke moddhahnobhoj e jonno biriyani khab,takeaway_order,takeaway_query,0.5166
+408,himu poroborti porbo bajan humayon ahmed,play_audiobook,play_music,0.3806
+409,ajad chiddiki shokh ki,qa_factoid,qa_factoid,0.3572
+410,ekhonkar abohawar protibedon,weather_query,weather_query,0.9499
+411,ajker jonno sakib theke email talika korun,email_query,email_addcontact,0.7899
+412,ber howar age reinkot porte hobe,weather_query,qa_currency,0.3153
+413,aj american dollar er poriborte yen koto,qa_currency,qa_currency,0.9647
+414,ekhan theke ponchash mile er moddhe probesh korar jonno sobcheye sosta marathon ki,general_quirky,transport_query,0.7006
+415,shilong abohawa ki,weather_query,weather_query,0.9936
+416,talikay mudi jog korun,lists_createoradd,lists_createoradd,0.9777
+417,ami jodi bissher kothao jete pari tahle amar kothay bhromon kora uchit,general_quirky,qa_factoid,0.239
+418,sabina amar ekta paniyo dorkar,iot_coffee,general_quirky,0.1897
+419,olly apni ki amake du-ghontar moddhe gym class er jonno mone koriye dite parben,calendar_set,general_quirky,0.2244
+420,radio today chalu korun,play_radio,play_radio,0.9312
+421,ajker shironam ki,news_query,qa_factoid,0.3209
+422,amar basay ride dorkar,transport_taxi,transport_taxi,0.9739
+423,halka light rongke nile poriborton korun,iot_hue_lightchange,iot_hue_lightchange,0.9112
+424,dupurer khabar somporke make email korun,email_sendemail,email_sendemail,0.7367
+425,bhartiyo lok gan chalan,play_music,recommendation_events,0.181
+426,prottek shukrobar amake mudisamogri kenar kotha mone koriye dite amar calendar set korun,calendar_set,calendar_set,0.7442
+427,ekushe podok bishoyok ekti intaresting podcast khoj ebong chalao,play_podcasts,play_podcasts,0.7277
+428,jini bortoman markin trejari sekretari,qa_factoid,qa_factoid,0.1354
+429,restaurant ki bitoron debe,takeaway_query,takeaway_query,0.5133
+430,kormosthol theke barite janojter obostha ki,transport_traffic,transport_query,0.3842
+431,antorjatik songbader sathe ki ghotche,news_query,music_query,0.6306
+432,amake ei bochrer sera dosh khelun ke pop,play_music,play_game,0.646
+433,ami dhaka jete chai,transport_query,transport_query,0.1592
+434,proshasokke mail korun,email_sendemail,email_sendemail,0.9377
+435,feelings amar sonar bangla,play_music,audio_volume_mute,0.1811
+436,onugroh kore amake ekti dokan bolun jekhane ami boi kinte pab,recommendation_locations,recommendation_locations,0.8583
+437,amake smartofon sofotooyyarer bornona din,qa_definition,qa_factoid,0.6252
+438,apni amake ajker somporke bolte paren,calendar_query,general_quirky,0.2599
+439,abohawar obostha,weather_query,weather_query,0.9795
+440,kichu adhunik bangla school rap chalu korun,play_music,play_audiobook,0.4154
+441,ei bochor amar jonmodin soptaher kon din,calendar_query,datetime_query,0.4892
+442,elakay ki ki ghotna ghotche,recommendation_events,recommendation_events,0.7171
+443,alexa ami ei sthaniyo elakar sera supar market jante chai,recommendation_locations,recommendation_locations,0.5036
+444,ami bappa mojumdarer gan abar shune chai,play_music,music_likeness,0.154
+445,shekh hasinar golpo tanun,news_query,qa_factoid,0.165
+446,facebook aleksay amar phone e chobi post korun,social_post,social_post,0.9794
+447,ami kichu fok shunte pochondo korbo,play_music,music_likeness,0.49
+448,ekhon somoy koto ta amake dekhan,datetime_query,datetime_query,0.3304
+449,kichu noy,qa_factoid,qa_definition,0.1171
+450,mongolbarer abohawa,weather_query,weather_query,0.9931
+451,amake protidin shokal egarotay boser sathe meeting korar kotha mone koriye dio,calendar_set,calendar_set,0.9442
+452,album chalan,play_music,play_music,0.7542
+453,shukrobare shokal doshtay stand-up muche felun,calendar_remove,alarm_remove,0.2145
+454,ekhon radio shuru korun,play_radio,play_radio,0.9465
+455,fenir dike jawar traffic dekhte kemon,transport_traffic,transport_traffic,0.9656
+456,ridoyanul korimer boyosh koto,qa_factoid,qa_factoid,0.6521
+457,onushthaner smarok ador mongolbar,calendar_set,qa_maths,0.1673
+458,samajik tothyo,social_query,qa_definition,0.2727
+459,shesh pach ghontar moddhe amar jonno kono email eseche,email_query,email_query,0.977
+460,agamikaler jonno porikolpona,calendar_query,general_quirky,0.1574
+461,garir dilarshipe amar dupur du tay appointment er ek ghonta age amake obhit korun,calendar_set,calendar_set,0.9269
+462,ajker bortoman khobor ki,news_query,news_query,0.9709
+463,bosar ghorer alo jaliye din,iot_hue_lightdim,iot_hue_lightdim,0.3745
+464,abohawa mot,weather_query,weather_query,0.9438
+465,boguray bortoman somoy koto,datetime_query,datetime_query,0.207
+466,shombar theke event soran,calendar_remove,calendar_remove,0.9091
+467,doya kore rahul daser konotrakto number khujun,email_querycontact,email_querycontact,0.5003
+468,oskarer jonno mononit boi khujun,recommendation_movies,play_music,0.1454
+469,amake bangladesh somoy bolun,datetime_query,datetime_query,0.6366
+470,doya kore poroborti podcast porbe jan,play_podcasts,play_podcasts,0.9032
+471,amar jonno ekti gari dakun,transport_taxi,calendar_remove,0.1347
+472,apni ki amake amar obosthaner bortoman traffic obostha bolte paren,transport_traffic,transport_traffic,0.9819
+473,sekhane ki shokaler show-guli pawa jay,calendar_query,recommendation_movies,0.7978
+474,amar ki kon notun inbox barta ache,email_query,email_query,0.8666
+475,ami ekta gan shunte chai,play_music,music_query,0.2816
+476,sento patrik dibos kokhon,qa_factoid,qa_factoid,0.2257
+477,onugroh kore sumonke bolun tara bhul item pathiyeche,social_post,lists_query,0.3821
+478,amar korniyo talikay tel poriborton jog korun,lists_createoradd,lists_createoradd,0.9827
+479,amar garl frendo ekhon kothay,general_quirky,qa_factoid,0.203
+480,hei sar ajker jonno amar somosto calendar appointment saf korun,calendar_remove,calendar_remove,0.866
+481,amar ki agamikal dupur theke tinta porjonto kichu nirdharit ache,calendar_query,calendar_query,0.1909
+482,aj rate kokhon dinner party ache,calendar_query,recommendation_locations,0.3233
+483,radio today playlist bajan,play_radio,play_radio,0.5903
+484,budhbar tapmatra ki himanker upre thakbe,weather_query,qa_definition,0.1454
+485,ore google are baire khub gorom aj bikeler tapmatra koto,weather_query,transport_traffic,0.4741
+486,apni ki doya kore amar contact e kichu rahul at hotmail dot com rakhben,email_addcontact,email_addcontact,0.967
+487,baki dingulir jonno amar somosto event guli muche felun,calendar_remove,calendar_remove,0.9282
+488,amar kacher train kothay,transport_query,transport_query,0.805
+489,doya kore amake ekti uber ride order korun,transport_taxi,transport_taxi,0.9661
+490,ey olly doya kore amake bolun ei gantir nam ja bortomane cholche,music_query,general_quirky,0.1239
+491,asif akobor kore o priya tumi kothay bajan,play_music,play_audiobook,0.4126
+492,smarok gan abar shuru,play_music,music_settings,0.206
+493,tik tak kanamachi khelte din,play_game,play_game,0.7579
+494,bhalo khabar,cooking_recipe,cooking_recipe,0.3804
+495,amar bondhu munir husenor theke somosto email tanun,email_query,email_query,0.9376
+496,ki dokan agamikal bikri hocche,general_quirky,recommendation_locations,0.7033
+497,jokhon dhaka relgari asbe,transport_query,transport_query,0.8396
+498,talika somporke amake bolun,lists_query,lists_query,0.8405
+499,keu ki amake aj twitter e onusoron korechen,social_query,social_query,0.9149
+500,ajker jonno ki,calendar_query,datetime_query,0.3995
+501,bondhur sathe meeting korun,calendar_set,calendar_set,0.9474
+502,imran kokhon jonmogrohon koren,qa_factoid,qa_factoid,0.5432
+503,fashion jonno sorboshesh khobor ki,news_query,news_query,0.9741
+504,ami porer soptahe ki shidiul korechi,calendar_query,qa_definition,0.3254
+505,tomar ebong amar jonno football khela chalu kor,play_game,play_game,0.8847
+506,amar jonne audiobook e ei plebbakti khoj ebong chalao,play_audiobook,play_audiobook,0.9729
+507,amar mail check korun,email_query,email_query,0.9745
+508,he olly uttora dhakay kota baje,datetime_query,recommendation_locations,0.1324
+509,prothom alo abohawa somporkit kono nibondho amake dekhan,news_query,weather_query,0.9823
+510,amake bolun kothay jete hobe,transport_ticket,general_quirky,0.2202
+511,amar chuler appointment somporke brihospotibar amake pray ek ghonta age bolun,calendar_set,calendar_set,0.6554
+512,protidin doshta theke egarotar moddhe amar robot vacuum cleaner chalu korun,iot_cleaning,iot_cleaning,0.9966
+513,ami ki jolpai bagane jete order dite pari,takeaway_query,takeaway_query,0.5017
+514,ei ghotna muche din,calendar_remove,calendar_remove,0.5278
+515,o priya tumi kothay bajao,play_music,play_audiobook,0.5014
+516,apni ki amake amar sokol samprotik nirdeshnar ekti talika dekhate paren,general_quirky,lists_query,0.4412
+517,norendrer sorboshesh khobor somporke amake obhit korun,news_query,news_query,0.8854
+518,shukrobar shubho mojumdar sathe ekti meeting korte kormosthole amake mone koriye din,calendar_set,calendar_set,0.9829
+519,amerika er samajik morjada ekhon ebong otite juktorajjo er theke kibhabe alada ta bakkha korun,general_quirky,datetime_convert,0.3339
+520,apni ki amar priyo alakriti audio boi chalate paren,play_audiobook,play_audiobook,0.7093
+521,ekoi jonno bhromner upay khujun,transport_query,recommendation_events,0.2098
+522,riyaj kothay thaken,qa_factoid,cooking_recipe,0.3793
+523,choutha april bikel pachtay dayomondo plaja nalejholete rajesher sathe dekha jog korun,calendar_set,calendar_set,0.6442
+524,eshiyor elaka,qa_factoid,general_quirky,0.1656
+525,eta koto shobdo jane,general_quirky,qa_maths,0.2491
+526,ke se jonmodin prokriti,general_quirky,general_quirky,0.1464
+527,ami protidin mojar jinis korte chai doya kore ekti reminder jog korun,calendar_set,calendar_set,0.7142
+528,ami ki kichur jonno book korechi,calendar_query,play_audiobook,0.5233
+529,jogajoger sathe ei notun email jog korun,email_addcontact,email_addcontact,0.8996
+530,pachti coffee toiri korun coffee machine ke bolun,iot_coffee,iot_coffee,0.9966
+531,egarotay office e ekti meeting jog korun,calendar_set,calendar_set,0.9835
+532,ke shesh pachti en si e e purushder basketobol turnamento jitechen,qa_factoid,recommendation_events,0.1953
+533,ami shafin ahmed kotha shunte chai,play_music,music_query,0.201
+534,cholman talikay gan jog korun,music_likeness,lists_createoradd,0.971
+535,bappa mojumdarer album bajao,play_music,play_music,0.7123
+536,kokhon amar poroborti nirdharit alarm,alarm_query,alarm_query,0.8222
+537,amar calendar theke sobkichu muche felun,calendar_remove,calendar_remove,0.9518
+538,amar contact theke kono email ache ki,email_query,email_query,0.9399
+539,matri dibos ki robibar,calendar_query,qa_factoid,0.1876
+540,bortoman gan priyte songrokkhon korun,music_likeness,music_likeness,0.5254
+541,amar ki aj appointment ache,calendar_query,calendar_query,0.9617
+542,onugroh kore radio bajan,play_radio,play_radio,0.8546
+543,ami koksobajar juktisongot mulloer tapos khujchi,recommendation_locations,cooking_recipe,0.1788
+544,agamikal roudromoy din tai na,weather_query,calendar_remove,0.339
+545,olly amar mudikhanar talika amake abar porun,lists_query,lists_createoradd,0.6784
+546,olly amake bolun sthaniyo shopping jela kothay,recommendation_locations,recommendation_locations,0.6658
+547,tin ghontar moddhe amake sotork korun,alarm_set,general_quirky,0.1125
+548,pachtar jonno alarm set korun,alarm_set,alarm_set,0.9917
+549,shohrer abohawa kemon,weather_query,weather_query,0.9847
+550,talika theke dure,lists_remove,lists_remove,0.8399
+551,abrar tar doinondin jibne ki koren,general_quirky,cooking_recipe,0.2371
+552,onugroh kore shudhumatro pop mikser music chalan,play_music,play_music,0.3702
+553,elakay bhiyetnami restaurant ache,recommendation_locations,recommendation_locations,0.6711
+554,amar kenakatar talikay syup jog korun,lists_createoradd,lists_createoradd,0.9861
+555,kon sorboshesh khobor ache,news_query,news_query,0.9273
+556,are email check korun,email_query,email_query,0.9743
+557,porichiti talika theke osim bosu soran,lists_remove,lists_remove,0.9136
+558,kenakatar talikay ekti tab jog korun,lists_createoradd,lists_createoradd,0.9677
+559,ei muhurte amar jonno prothom alo er khobor bolun,news_query,news_query,0.9799
+560,agami ek soptaher moddhe somosto event er sathe amake obhit korun,calendar_set,calendar_set,0.8103
+561,notun obhibason niti somporke bishleshokra ki bolchen,news_query,qa_definition,0.2429
+562,meeting guli theke amar din porishkar korun,calendar_remove,calendar_remove,0.3966
+563,aj bissher ghotnaguli khujun ebong porun,news_query,qa_maths,0.2154
+564,porer sofor kokhon,general_quirky,qa_factoid,0.2943
+565,cholti soptaher abohawa songkranto purbabhas ki,weather_query,weather_query,0.9892
+566,dayerite ar ki nei,lists_query,weather_query,0.1969
+567,uttora theke train asar somoy ki,transport_query,transport_query,0.5694
+568,amar febhariter talikay ei ganti jog koro,music_likeness,lists_createoradd,0.5447
+569,smart plug bondho korun,iot_wemo_off,iot_wemo_off,0.7139
+570,amake mokor rashir kichu selibriti khuje din,qa_factoid,recommendation_events,0.2401
+571,amar aloguli bibhinno ronge jalan,iot_hue_lightchange,transport_query,0.4957
+572,bangladeshe takar mullo koto,qa_currency,qa_currency,0.5627
+573,moddhoponthi,general_quirky,qa_definition,0.2074
+574,sob aloke nile poriborton korun,iot_hue_lightchange,iot_hue_lightchange,0.8734
+575,email check korun kajer talika ache,email_query,email_query,0.7627
+576,samprotik projuktir shironam,news_query,qa_factoid,0.232
+577,amar priyo gayika james,music_likeness,music_likeness,0.264
+578,amake ekti train e jatra book korun,transport_ticket,transport_ticket,0.9547
+579,ami train er ticket book korte chai,transport_ticket,transport_ticket,0.9925
+580,ami eta somporke kotha bolte chai,general_quirky,general_joke,0.2755
+581,amar manejarke ekti email pathan,email_sendemail,email_sendemail,0.9837
+582,ajke nirbachner folafol ki hoyeche bolun,news_query,news_query,0.2259
+583,sunit theke samprotik email prodorshon korun,email_query,email_addcontact,0.6953
+584,ei mail er uttor din,email_sendemail,email_sendemail,0.9685
+585,nouka bikri kora loktike ekti email pathan jate take bola hoy je amar kache taka ache,email_sendemail,email_sendemail,0.9499
+586,bandorobon koto lomma,qa_factoid,qa_factoid,0.2475
+587,riple email pathan,email_sendemail,email_query,0.4656
+588,ki ekti roudrojjol din,weather_query,transport_query,0.7537
+589,amake rode jawar goti bolun,general_quirky,transport_taxi,0.6768
+590,kachpur rastay ki beshi janojot ache,transport_traffic,qa_factoid,0.2604
+591,kendriyo time jone kotota baje,datetime_query,datetime_convert,0.7903
+592,amake talikar ekti talika din,lists_query,lists_createoradd,0.778
+593,satarer pather por mongolbar amar calendar e ar ki ache,calendar_query,calendar_query,0.9567
+594,calendar e obosthaner ekti onusmarok toiri korun,calendar_set,calendar_set,0.8469
+595,ranna ghorer alo nibhiye dao,iot_hue_lightdim,iot_hue_lightdim,0.4895
+596,en pi ar er amake notun podcast bajao,play_podcasts,play_podcasts,0.8577
+597,hei olly twitter e maikrosofte amar obhijog post korun,social_post,social_post,0.968
+598,dhulobali kharap jinis porishkar kore rakha bhalo tai amar karpetti porishkar kore felun,iot_cleaning,general_quirky,0.1077
+599,bhuter bari barta tara amar order noshto koreche ebong amake otirikto ek ghonta opekkha korte hoyechilo,social_post,takeaway_order,0.7974
+600,kauke mail pathan,email_sendemail,email_sendemail,0.968
+601,bachai kora ganti jog kor,play_music,general_quirky,0.2046
+602,aj sobcheye alochit bishoy ki,news_query,news_query,0.2112
+603,alo jog korun,iot_hue_lightup,iot_hue_lightchange,0.3773
+604,purbabhase tusharpat ache ki,weather_query,weather_query,0.4026
+605,presidento tramper jonsadharner drishtibhongi niye sorboshesh jorip ki,news_query,news_query,0.4716
+606,speaker gulo bondho korun,audio_volume_mute,audio_volume_mute,0.8415
+607,amar jonno ek cup coffee prostut korun,iot_coffee,iot_coffee,0.9968
+608,baki thaka bil porishodh somporke amake onusmarok set korun,calendar_set,alarm_set,0.4205
+609,post korun je ami bajar jacchi burger khete,social_post,takeaway_order,0.571
+610,bos theke kono notun uttor hole alarm din,email_query,alarm_remove,0.9493
+611,amar elakay ajke kon binamulle ayojon ache ki,recommendation_events,recommendation_events,0.3394
+612,alexa r aj ekta chata dorkar,weather_query,datetime_query,0.2198
+613,amar kenakatar talika theke apple muchun,lists_remove,lists_remove,0.9835
+614,baishe june sakiber jonmodinti calendar e nijukto korun,calendar_set,calendar_query,0.3883
+615,chini toiri korar jonno proyojniyo rasaynik jougguli dijain korun ja dayabetis ba ojon baray na kintu rasaynik sad prodan kore na,qa_factoid,general_quirky,0.1896
+616,shokal attar jonno alarm set korun,alarm_set,alarm_set,0.9922
+617,ponchash sekender jonno sara deben na,audio_volume_mute,alarm_remove,0.2018
+618,dan dike alo sob alo bondho korun,iot_hue_lightoff,iot_hue_lightoff,0.5479
+619,amar boithker ek ghonta age amake obhit korun,calendar_set,calendar_set,0.27
+620,ami amar protiti multubi onusmarok dekhte chai,calendar_query,general_quirky,0.1997
+621,bongobondhu goldo cup anushthanikbhabe kokhon shuru hoy,qa_factoid,calendar_set,0.207
+622,somosto asonno ghotna opsaron korun,calendar_remove,general_quirky,0.2201
+623,somosto alarm bondho korun,alarm_remove,alarm_remove,0.9789
+624,amake ekta songbadopotro dao,news_query,music_settings,0.4186
+625,eta ki sotto je gym ti sat mile dure,qa_factoid,general_quirky,0.2346
+626,bakograunder gan ti durdanto,music_likeness,music_query,0.1386
+627,amake ki shombar kon meeting mone koriye dite hobe,calendar_set,calendar_query,0.4981
+628,online somikkha somporke amake sorboshesh podcast bhut f m chaliye dekhan,play_podcasts,play_podcasts,0.9294
+629,kokhon food panda r bel aste choleche,takeaway_query,takeaway_query,0.6261
+630,jerin theke je kono khobor,email_query,news_query,0.9048
+631,radio shudhumatro unonobboi doshmik dui fm e bajano uchit,play_radio,play_radio,0.8096
+632,doya kore amake ekhoni food panda r kach theke biriyani ebong wings order korun,takeaway_order,takeaway_order,0.8426
+633,volume barate ami shunte pacchi na,audio_volume_up,audio_volume_down,0.43
+634,apni ki amar calendar e amar dinner rijarbheshon jog korte paren,calendar_set,calendar_set,0.5067
+635,tin ghonta otikranto hole amake janaben,calendar_set,qa_maths,0.204
+636,protibad somporke songbad nibondher linko amake pathan,news_query,transport_query,0.5739
+637,potrokke ekti email text je tini ekhon kothay achen ebong jodi tini bajare thaken tobe take kichu oyain ante text korun,email_sendemail,email_sendemail,0.9854
+638,ami to prottush mojumdarer email er uttor dite chai,email_sendemail,email_sendemail,0.9412
+639,amake bolun aj silet shohre koto inchi borof poreche,weather_query,recommendation_locations,0.6475
+640,siri ekti rongdhnu bornona kore,qa_definition,iot_hue_lightchange,0.889
+641,ami protidin choytar jonno ekti alarm chai,alarm_set,alarm_set,0.9792
+642,apni ki soptahanter smarok dibos e dhaka jawar relgari er ticket khuje pete paren,transport_query,transport_query,0.8472
+643,apple shesh dam koto,qa_stock,qa_factoid,0.2756
+644,shantonu rohman shubho sathe ekti meeting set korun,calendar_set,calendar_set,0.9787
+645,tetrish hajar tinoshot chuyattorer abohawar protibedon,weather_query,weather_query,0.9799
+646,pore ki brishti hobe,weather_query,weather_query,0.9389
+647,radio te gan chalan,play_radio,play_radio,0.855
+648,sabrina sathe lunch appointment jog korun january sekende dupur share baro tay,calendar_set,calendar_set,0.8678
+649,email diponkor bosu,email_sendemail,email_query,0.5506
+650,event bishoyobostu ki,calendar_query,calendar_query,0.4912
+651,ekti alarm toiri korun,alarm_set,alarm_set,0.9595
+652,ami football khelte chai cholo kheli,play_game,play_game,0.924
+653,modti set korun,iot_hue_lightchange,music_settings,0.2537
+654,sabina amake ekta coffee baniye dao,iot_coffee,iot_coffee,0.9941
+655,amake kofta ekti recipe din,cooking_recipe,cooking_recipe,0.8654
+656,shonibar brishti hobe,weather_query,weather_query,0.9753
+657,abc radio unonobboi doshmik dui fm e bhuli bisri iyadin onushthan chalan,play_radio,play_radio,0.9524
+658,apni ki relgarir ticket book korte paren,transport_ticket,transport_ticket,0.9513
+659,ei gan shunte,music_query,music_query,0.3619
+660,apni ki amar coffee machine set korte paren amake shokal sattay coffee bananor jonno,iot_coffee,iot_coffee,0.993
+661,amake bonani ekti restaurant poramorsh din,recommendation_locations,recommendation_locations,0.6653
+662,amar facebook bigyopti check korun,social_query,social_query,0.99
+663,radio today er sadhin music ki,play_podcasts,play_radio,0.424
+664,ei muhurte notun khobor ki,news_query,news_query,0.9804
+665,tomar din kemon katlo,general_quirky,general_greet,0.194
+666,ami kibhabe protiti dollar er niche supar bauler ticket pete pari,general_quirky,transport_ticket,0.5285
+667,amar f. m. radio ebong radio amar,play_radio,play_radio,0.9873
+668,amake notun email guli porun pore shonan,email_query,email_query,0.8216
+669,ei soptahe ami kemon dhorner abohawa asha korte pari,weather_query,weather_query,0.977
+670,dupur duita jonno ekti sotorkota set mi,alarm_set,qa_maths,0.3936
+671,amake karioner shongga din,qa_definition,qa_definition,0.3527
+672,ei maser somoysuchite ki event ache,calendar_query,recommendation_events,0.4876
+673,onugroh kore music player e volume baran,audio_volume_up,audio_volume_up,0.9042
+674,rat noytar jonno amar ekti alarm dorkar,alarm_set,alarm_set,0.872
+675,amar baire jawar jonno ki chata proyojon,weather_query,transport_query,0.243
+676,aj shombar,datetime_query,audio_volume_up,0.226
+677,ami aj ekti notun email pete hole amake janan,email_query,email_addcontact,0.489
+678,ami kibhabe tarki banabo,cooking_recipe,lists_createoradd,0.2416
+679,proti bochor ei tarikhe amake mone koriye din,calendar_set,calendar_set,0.4018
+680,train er somoy bol,transport_query,transport_query,0.6719
+681,hassokor koutuk khujun,general_joke,general_joke,0.7774
+682,olly aj khobor ki hoyeche,news_query,news_query,0.9601
+683,snehar pokkho theke onushthan somporke kono barta pele olly amake janan,email_query,qa_factoid,0.1061
+684,ekti matir moyna ki ta bornona korun,qa_definition,qa_definition,0.4916
+685,ager porbo ti chalao,play_podcasts,play_audiobook,0.3927
+686,jala jala gan sariboddhobhabe bajan,play_music,play_music,0.4093
+687,agami soptahe jonno amar calendar kemon dekhacche,calendar_query,calendar_query,0.9259
+688,music player e shudhu duhkher gan bajao,play_music,play_music,0.3755
+689,james er gan somuh bajan,play_music,play_music,0.3753
+690,alexa onugroh kore bosar ghore alo nibhiye dao,iot_hue_lightdim,iot_hue_lightdim,0.372
+691,bissher khobrer sathe amake up to det rakhun,news_query,news_query,0.9749
+692,amar pochondo moto gan bajan,play_music,play_music,0.4168
+693,jini mirpur sobcheye sosta netbuk bikri koren,recommendation_locations,recommendation_locations,0.1064
+694,ekti bandhobir jonno ekti bhalo uphar ki,general_quirky,qa_definition,0.2021
+695,vacuum bot shuru korun,iot_cleaning,iot_cleaning,0.9984
+696,ei game ti chalao,play_game,play_game,0.9641
+697,shudhumatro apnar ebong amar jonno ekti tarikh sthapon korun,general_quirky,calendar_set,0.7671
+698,shokal choyta,calendar_set,general_quirky,0.0776
+699,niyontron aloguli ghorer alo bondho kore dao,iot_hue_lightoff,iot_hue_lightoff,0.7869
+700,dhaka jawar train e bhromner anumanik somoy koto,transport_query,transport_query,0.8589
+701,ami chai apni agamikal shokal noytay nithor ronjon modhu ebong sudipto rohman jesi ebong karler sathe ekti meeting shidiul korun,calendar_set,calendar_set,0.9803
+702,porer soptahe mitingyer jonno mone koriye din,calendar_set,calendar_set,0.9384
+703,amar dara apnar jibon kibhabe poribortit hoyeche,general_quirky,qa_definition,0.2697
+704,porer chuti kokhon,datetime_query,calendar_query,0.1244
+705,apni ei event muche dite paren,calendar_remove,calendar_remove,0.9217
+706,agamikal sondha sattay amar sathe kheloyarder ekti meeting sthir korun,calendar_set,calendar_set,0.9791
+707,aj khub gorom tai na,weather_query,alarm_remove,0.1975
+708,ar je raseler podcast chalao,play_podcasts,play_podcasts,0.9076
+709,utsahi er orth,qa_definition,qa_definition,0.3707
+710,amar calendar theke ei event dilit korun,calendar_remove,calendar_remove,0.9615
+711,pandoray amar rock station bajao,play_radio,play_radio,0.7074
+712,amar prapto shesh email konti,email_query,email_query,0.9649
+713,ami shokaler nasta attay khai,general_quirky,qa_definition,0.1559
+714,apni kibhabe ekti shubho jonmodin bornona korben,qa_definition,general_quirky,0.2917
+715,amar calendar e aj rate mayer sathe dinner er kotha mone koriye din,calendar_set,calendar_set,0.5454
+716,jome jawa,cooking_recipe,qa_factoid,0.4361
+717,skup ki,news_query,qa_factoid,0.2909
+718,amake food panda r theke ekti biriyani order korun,takeaway_order,takeaway_order,0.9356
+719,nijukto howar din,calendar_set,datetime_query,0.227
+720,ei bochor ekti shukrobar haloin hoy,calendar_query,general_quirky,0.2084
+721,amake hasina khobor dekhan,news_query,news_query,0.9475
+722,amake agamikaler abohawar talika dekhan,weather_query,lists_query,0.8099
+723,porishkar,music_query,general_quirky,0.1284
+724,olly ghore halka ronger poriborte garh rong rakhun,iot_hue_lightchange,iot_hue_lightchange,0.8906
+725,ei shokal e kon station e bhalo gan bajche,play_radio,play_radio,0.7364
+726,amar playlist theke amake ekti elomelo gan bajao,play_music,play_music,0.4973
+727,apni ki bigyapondatader kache amar kon tothyo bikri koren,general_quirky,qa_factoid,0.2616
+728,raju phone book,email_querycontact,email_querycontact,0.9596
+729,are olly playlist chalao,play_music,play_music,0.6064
+730,kachakachi ki boiguli cholche,recommendation_movies,email_querycontact,0.535
+731,feelings ebong khelar jonno somosto shironam onusondhan korun,play_music,general_quirky,0.1912
+732,sorboccho volume er stor poriborton korun,audio_volume_other,audio_volume_up,0.6058
+733,ajker jonno amar calendar e jog korun muhammod rayhan rat ek tay,calendar_set,calendar_set,0.7954
+734,calendar event e lokeder amontron janan,calendar_set,calendar_query,0.8367
+735,rannar ghorer alo bondho korun,iot_hue_lightoff,iot_hue_lightoff,0.797
+736,ami moja korchi tumblr post,social_post,social_query,0.5994
+737,event shuru howar age mitingyer jonno prostut hon,calendar_set,calendar_set,0.7631
+738,agamikal ki abohawa jhoro thakbe,weather_query,weather_query,0.9866
+739,abohawa kemon,weather_query,weather_query,0.9872
+740,amake pulish bibhage nirdesh pathan,transport_query,transport_query,0.4235
+741,tumi ki imo music bajate paro,play_music,music_query,0.3764
+742,siri badha mane ki,qa_definition,qa_definition,0.1533
+743,jekhane ami cherechilam sekhan theke juddho ebong shanti shuru korte chai,play_audiobook,audio_volume_mute,0.2181
+744,sthaniyo haskel chilokso somporkit kharap porisheba tweet korun,social_post,social_post,0.9358
+745,ami chai je kichu jolte shuru koreche ebong chula chula ba maikrooyebh bondho korche kina ta bolte sokkhom hobe,general_quirky,general_quirky,0.1762
+746,uikende ki teish tarikh,datetime_query,datetime_query,0.8615
+747,talika theke je ghotna soran,lists_remove,lists_remove,0.5589
+748,dauntaun dhaka theke dinajpur barbarar uddesshe train ti kokhon charbe,transport_query,transport_query,0.8
+749,order kora boigulir ekti talika toiri korun,lists_createoradd,lists_createoradd,0.9793
+750,alir thikana ki,email_querycontact,email_querycontact,0.926
+751,alo ektu ujjol korun,iot_hue_lightup,iot_hue_lightup,0.4612
+752,amake fondle shobder shongga din,qa_definition,qa_definition,0.5371
+753,ei budhbar shokale amar meeting gulo amake bolo,calendar_query,calendar_set,0.4835
+754,barta talikay amake kichu akorshoniyo bolun,lists_remove,lists_query,0.6369
+755,james er dara songit bajan,play_music,play_music,0.3965
+756,dupur barota theke bikal chartay amar ki sidiul kora ache,calendar_query,general_quirky,0.211
+757,korniyo talika theke amanot check soran,lists_remove,lists_remove,0.7879
+758,tritiyo tarikhe amake dhaka er relgari er ticket book korun kon somoy ami patta dii na,transport_ticket,transport_ticket,0.9038
+759,shila ki,qa_definition,qa_definition,0.2963
+760,audiobook theke amar jonno runa layla gan chalan,play_audiobook,play_audiobook,0.7758
+761,ami agamikal byosto tai sob calendar event muche din,calendar_remove,calendar_remove,0.9692
+762,ami barite achi ekti facebook post korun,social_post,social_post,0.9538
+763,bord meeting opsaron korun ebong poroborti budhbarer jonno punohnirdharon korun,calendar_remove,calendar_set,0.8651
+764,hyan ami check korte chai,email_query,social_query,0.2676
+765,agamikal bikeler meeting somporke mone koriye dite bhulben na,calendar_set,calendar_set,0.5226
+766,apni ki pachtar jonno alarm set korechen,alarm_query,alarm_query,0.8991
+767,keu ajke amake email korechen,email_query,email_query,0.7052
+768,food panda r pizza ki khabarguli eriye jan,takeaway_query,takeaway_order,0.4762
+769,riyaj ki ekhono jibit,qa_factoid,cooking_recipe,0.1972
+770,eta ki meghla hote choleche,weather_query,recommendation_events,0.3032
+771,kon somye ami ekti haik korte jete hobe,weather_query,general_quirky,0.2144
+772,ei sthaner bhouglik biboron khujun,qa_factoid,qa_factoid,0.3352
+773,ami kibhabe dhaka shohor theke chottogram jete pari,transport_query,transport_query,0.3838
+774,kothay ami biriyani ebong kichu bangladeshi khabarer shot pete pari,takeaway_query,recommendation_locations,0.1295
+775,obosthan,qa_definition,qa_factoid,0.2172
+776,amar desher pochonder playlist lod korun ebong eta play korun,play_podcasts,play_music,0.5176
+777,ki dokan ache ekhane,recommendation_locations,recommendation_locations,0.7765
+778,amar talikay ki ache bolun,lists_query,lists_query,0.9633
+779,rana plaja bornona korun,qa_definition,iot_hue_lightchange,0.093
+780,ei mongolbar shokal noytay turna nishitar relgarir ticket book korun,transport_ticket,transport_ticket,0.9802
+781,olly ami aj ekojon doridro obhabike shahajyo korechi,iot_coffee,general_quirky,0.4015
+782,olly borishale kon kon notun mubhi cholche,recommendation_movies,general_quirky,0.3554
+783,etar pore alo alo gan bajan,play_music,play_music,0.3828
+784,ek jog ek ki hoy,qa_maths,calendar_query,0.1795
+785,poroborti dui din moddhe sob event batil korun,calendar_remove,calendar_remove,0.945
+786,olly gorur mangshoer sera sader kat ki,cooking_recipe,general_quirky,0.2732
+787,ami prokrit mulloe bikroyer jonno pawar soronjamgulir ekti notun talika shuru korte chai,lists_createoradd,lists_createoradd,0.987
+788,burger king chinese restoray call korun,takeaway_order,takeaway_query,0.488
+789,sohokormi grupe ei bartati likhun,email_sendemail,social_post,0.6806
+790,amake football khelar jonno ekti kompani din,play_game,qa_stock,0.207
+791,olly duiti songkhya char ebong choyer jogofol koto,qa_maths,qa_maths,0.1907
+792,amar calendar theke sobkichu muche din,calendar_remove,calendar_remove,0.9458
+793,food panda theke ekti biriyani order korun,takeaway_order,takeaway_order,0.9447
+794,sob baki thaka onusmarok dekhan,calendar_query,lists_query,0.238
+795,amar ekta ghum dorkar,general_quirky,play_audiobook,0.45
+796,onugroh kore coffee shuru korun,iot_coffee,iot_coffee,0.9963
+797,amake amar alarm gulo somporke bolun,alarm_query,alarm_query,0.7756
+798,ami ki rakibuler kach theke kon kajer email peyechi,email_query,email_query,0.8899
+799,kharap delivery somporke chiloksoke ekti tweet pathan,social_post,social_post,0.9645
+800,budhbar bikal pachtay filer sathe sorboda ekti meeting amar calendar e byobostha korun,calendar_set,calendar_set,0.9466
+801,porer podcast e skip kor,play_podcasts,play_podcasts,0.9414
+802,email inbox sotej korun,email_query,email_query,0.472
+803,jini abdul hamid,qa_factoid,email_querycontact,0.5845
+804,eti ontorbhukto koro,lists_createoradd,qa_definition,0.2026
+805,calendar theke sob soran,calendar_remove,calendar_remove,0.8408
+806,podcast subscriptions theke notun kichu bajan,play_podcasts,play_podcasts,0.9312
+807,shudhu olos chit chat,general_quirky,general_quirky,0.3088
+808,betra torongo jonno ekti radio channel tune korun,play_radio,play_radio,0.9863
+809,aj rat doshtar pore ekojon uber draibhar pawa jay kina dekhun,transport_taxi,transport_taxi,0.925
+810,rajmistrike tweet koro,social_post,social_post,0.8265
+811,diliper notun email er jonno amar inbox konoo skan korun,email_query,email_query,0.4979
+812,apni ki amar desko bati bondho korte paren,iot_hue_lightoff,audio_volume_mute,0.1691
+813,talika,lists_query,lists_query,0.8279
+814,protiti osooyaldo chemmar boiyer bishoy ki ta amar jonno khuje ber korun,qa_factoid,qa_factoid,0.2288
+815,er pore ekti gan bajano,play_music,play_music,0.4512
+816,sumon kothay,qa_factoid,qa_factoid,0.2005
+817,pachtay alarm din,alarm_set,alarm_remove,0.5539
+818,bhut f m podcast ti chalao,play_podcasts,play_podcasts,0.8833
+819,jannat bornona korun,qa_definition,qa_definition,0.2514
+820,meeting muche fela,calendar_remove,calendar_remove,0.355
+821,ami jani na kibhabe ei proshner uttor deb apni ekti ba duti shobdo rekhe gechen,general_quirky,calendar_remove,0.1587
+822,kolkata jawar porer train koyta baje,transport_query,transport_query,0.4703
+823,ei soptaher guruttopurn ghotna note korun,calendar_set,calendar_set,0.5636
+824,ei maser besto selar audiobook ti resume kor,play_audiobook,play_audiobook,0.9755
+825,binamulle shipingyer sathe somosto oyebsait theke ekti audio dibhaiser mullo tulna korun,general_quirky,play_audiobook,0.4453
+826,apni amake amader elakay ghotche emon ghotnaguli update dile ami khushi hobo,recommendation_events,recommendation_events,0.2002
+827,thanda mone hocche,weather_query,qa_definition,0.1959
+828,bissho jure ki ghotche,news_query,recommendation_events,0.1804
+829,soikot,qa_factoid,general_quirky,0.1051
+830,ami kichu rap shunte chai,play_music,play_music,0.4021
+831,ami ei podcast er poroborti porbo ti khelte chai,play_podcasts,play_podcasts,0.5595
+832,meeting somporke amake obhit korun,calendar_query,calendar_set,0.8981
+833,notun email likhun,email_sendemail,email_addcontact,0.5042
+834,ei brihospotibar bhisa abedner jonno ekti onusmarok toiri korun,calendar_set,calendar_set,0.5021
+835,amar boske ekti email pathan je amar deri hobe,email_sendemail,email_sendemail,0.9815
+836,komolke ekti email pathan bolun je aj rate apnar ki rater khabare jawar porikolpona ache,email_sendemail,email_query,0.8303
+837,ami kichu tek-out khabar newa korte chai,takeaway_order,takeaway_order,0.4799
+838,kompanir nam khulun ebong form khujun,social_post,general_quirky,0.1255
+839,apni ki amake ei byoktir jonno nirdharit jogajoger tothyo dite paren,email_querycontact,calendar_query,0.3199
+840,tumi ki amake ekta taxi bari dite parbe,transport_taxi,transport_taxi,0.9943
+841,amar obosthane chutir din onusondhan,recommendation_events,calendar_set,0.1254
+842,mondira er name calendar e notun event jog kor,calendar_set,calendar_set,0.8796
+843,jazz gan bajete shuru kor,play_music,play_music,0.2875
+844,jolbayu somporkit kichu ghoteche,news_query,recommendation_events,0.661
+845,ami adha ghontar moddhe dhaka jacchi amar jonno ekti uber book korun,transport_taxi,transport_taxi,0.9705
+846,apni radio chalu korte paren,play_radio,play_radio,0.8987
+847,onugroh kore sei ghotnati soran,calendar_remove,general_quirky,0.1516
+848,ami ki onusmarok set korechi,calendar_query,qa_definition,0.302
+849,agamikal bikel tintay bob sathe amar dekha hobe,calendar_query,transport_taxi,0.1532
+850,narira et rohossomoy ken,general_quirky,qa_factoid,0.3362
+851,amar koto reminder guli baki ache,calendar_query,calendar_query,0.2279
+852,school sorobrah talikay pensil jog korun,lists_createoradd,lists_createoradd,0.9813
+853,apni ki ekti tweet tweet pathate paren je tader daraz er krash hoyeche,social_post,social_query,0.8303
+854,dibakor dibakartoday dot com ekti email toiri korun,email_sendemail,email_sendemail,0.5831
+855,abdul hoker boyosh koto,qa_factoid,qa_factoid,0.5927
+856,amar message e inbox ache amar doya kore,email_query,email_query,0.9661
+857,boro din kon din pore,datetime_query,datetime_query,0.2429
+858,ashik theke asa email check korun,email_query,email_query,0.9797
+859,amar shokal attar jonno ekta alarm set dorkar,alarm_set,alarm_set,0.9747
+860,facebook e khushir status din,social_post,social_query,0.5942
+861,aj brihospotibar sattay amar ekti bikroy meeting ache doya kore amake obhit korun ebong calendar e jog korun,calendar_set,calendar_set,0.9428
+862,intel kompanir stock mullo,qa_stock,qa_stock,0.9927
+863,apnar boyosh koto,general_quirky,qa_factoid,0.5853
+864,koto kath ekti woodchuck chok pare jodi ekti woodchuck kath chok korte pare,general_quirky,qa_factoid,0.2962
+865,apni ki train e grando rapidser ticket rijarbh korte paren,transport_query,transport_ticket,0.6581
+866,ebhatarer ganer playlist ti bajao,play_music,play_music,0.8387
+867,ma ke call korte amake mone koriye diben,calendar_set,audio_volume_mute,0.2712
+868,dui ghontar moddhe mitingyer jonno notun bigyopti,calendar_set,calendar_query,0.1919
+869,agamikal bikel tintay amar meeting somporke amake mone koran,calendar_set,calendar_set,0.9107
+870,ami chai apni amake mone korben je amar rein kot nao karon brishti hote pare,calendar_set,weather_query,0.6698
+871,gan somporke motamot songrokkhon korun,music_likeness,music_likeness,0.5027
+872,amar sathe amar skil onujayi nain bol khela jak jate ami jitte pari,play_game,play_game,0.6547
+873,ei je idaning kheladhulay ki akorshoniyo ghotna ghotche,general_quirky,recommendation_events,0.6033
+874,aj amar talikay ki ache,lists_query,lists_query,0.9592
+875,protimake ekti text pathan,email_querycontact,email_sendemail,0.6937
+876,se ei muhurte ki gan geyeche,music_query,music_query,0.5392
+877,protidin calendar e event set korun,calendar_set,calendar_set,0.9103
+878,shokal egorota alarm er bornona ki,alarm_query,alarm_query,0.9259
+879,doya kore amar facebook peije ei bartati post korun,social_post,social_post,0.9633
+880,olly budhbar byobsayik meeting batil koreche,calendar_remove,calendar_remove,0.9145
+881,baire ki rod ache,weather_query,transport_traffic,0.2912
+882,alexa aj ashi route e traffic bhari,transport_traffic,transport_traffic,0.6481
+883,purano diner christmas gan bajao,play_music,play_music,0.5373
+884,parmita ekti email rochna korun,email_sendemail,email_sendemail,0.7715
+885,olly ami kibhabe biriyani bisko toiri shuru korbo,cooking_recipe,cooking_recipe,0.3506
+886,hey olly notun dhakar abohooya kemon,weather_query,general_greet,0.4964
+887,soptaher baki dingulir jonno amar ejenda ki,calendar_query,general_quirky,0.2215
+888,robot vacuum cleaner ki plug in korte hobe,iot_cleaning,iot_wemo_on,0.3996
+889,tweet er maddhome obhijoger sathe daraz er gragok seba sathe jogajog korun,social_post,social_post,0.6598
+890,amake biskuter ekti recipe din,cooking_recipe,cooking_recipe,0.8576
+891,mina theke notun email dekhan,email_query,email_query,0.9788
+892,rohim ebong korim eksathe fire esechen,news_query,play_audiobook,0.0866
+893,radio shunun,play_radio,play_radio,0.9642
+894,aj rate purnima,calendar_query,datetime_query,0.7613
+895,bogura ki ekhon rod ache,weather_query,qa_factoid,0.4299
+896,got tin din dhore amajne sportos katagrite sobcheye beshi bikri howa ponno ki,general_quirky,recommendation_locations,0.3664
+897,ajker tarikh ki,datetime_query,datetime_query,0.9171
+898,talika muche din,lists_remove,lists_remove,0.9345
+899,ami ki ajker jonno alarm set korechi,alarm_query,alarm_query,0.9583
+900,amar ki shombar class ache,calendar_query,general_quirky,0.1469
+901,abohawa meghla,weather_query,weather_query,0.9863
+902,ditiyo aprile amar somoysuchi theke majik show soriye din,calendar_remove,recommendation_movies,0.5834
+903,event bochre jan ebong muche felun,calendar_remove,calendar_remove,0.9032
+904,ujjolota chalu korun,iot_hue_lightup,play_game,0.2457
+905,akash keno nil,qa_factoid,qa_factoid,0.1407
+906,ami party te jacchi make email pathan,email_sendemail,email_sendemail,0.9914
+907,coffee toiri kora shuru korun,iot_coffee,iot_coffee,0.9872
+908,radio onushthan chalan,play_radio,play_radio,0.9248
+909,ami eta korte monostho korechi,general_quirky,qa_definition,0.3156
+910,shonibar nila jawar train dhorar jonno sobcheye subidhajonok somoy konti,transport_query,transport_query,0.9075
+911,eta ekhane khub ujjol apni ekti alo bondho korte paren,iot_hue_lightoff,iot_hue_lightup,0.5155
+912,amar ki kon appointment asche samne,calendar_query,calendar_query,0.8934
+913,protidin dupur duitay amar make kheyal rakhar jonno amar ekti reminder dorkar,calendar_set,calendar_set,0.7822
+914,ami ki somoy pete pari,datetime_query,datetime_query,0.3882
+915,amar elakay kebol ebong internet prodankarir khoroch gonna korun jekhane ami sobcheye beshi sonchoy korte pari,general_quirky,general_quirky,0.1477
+916,ei ganti koto sale prokashit hoyechilo,music_query,datetime_convert,0.2527
+917,amar elakar jonno sorboshesh opradher porisongkkhan ki,news_query,news_query,0.4847
+918,ei soptahante abohawa ki sundor hobe,weather_query,weather_query,0.9929
+919,shesh shona audiobook ti abar chalu kor,play_audiobook,play_audiobook,0.9869
+920,ami ki apnake amar calendar theke poroborti event muche felte bolte pari,calendar_remove,calendar_remove,0.7049
+921,mongolbar dupure meeting,calendar_set,calendar_set,0.8157
+922,barir sathe chottogramer abohawa tulna korun,weather_query,weather_query,0.9333
+923,twitter e kompanite ebong tweet e grahok porishebar kache obhijog korun,social_post,social_post,0.9526
+924,ei soptaher jonno amar korniyo talikay ami ki rekhechi ta porun,lists_query,lists_query,0.862
+925,ekhon ki,general_quirky,datetime_query,0.2985
+926,apni ki amake bolte paren ami aj rate rongpur ki dhorner boi korte pari,recommendation_events,qa_factoid,0.1955
+927,hi apni ki alo kom korte paren,iot_hue_lightdim,iot_hue_lightchange,0.6192
+928,amar kachakachi kichu restaurant ki ki,recommendation_locations,recommendation_locations,0.6879
+929,amar list kore amay din,lists_query,lists_remove,0.8108
+930,bhinno ronge alo poriborton korun,iot_hue_lightchange,iot_hue_lightchange,0.9445
+931,alo aro ujjol korun,iot_hue_lightup,iot_hue_lightup,0.4139
+932,biralder jonno shohre ki ekojon grumar achen,general_quirky,qa_factoid,0.297
+933,amar contact list khulun,email_querycontact,email_querycontact,0.8077
+934,ei muhurte rajshahi abohawa kemon,weather_query,weather_query,0.9733
+935,ekti monitor ki,qa_definition,iot_wemo_on,0.1724
+936,amar elakay ki karjokrom cholche,recommendation_events,general_quirky,0.1016
+937,hasina jokhon khobre achen tokhon amake obhit korun,news_query,cooking_recipe,0.3454
+938,khabarer jonno recipe,cooking_recipe,cooking_recipe,0.8283
+939,facebook kon notun niramish khobor ache ki,social_query,news_query,0.6549
+940,abc radio 89.2 fm chalan,play_radio,play_radio,0.9854
+941,ei soptahe sorboccho tapmatra koto hobe,weather_query,weather_query,0.6041
+942,da bhinchi kod jekhane jekhane shesh korechilam sekhan theke chalu kor,play_audiobook,play_game,0.4644
+943,sabhar aj kon mojar ghotna ache,recommendation_events,recommendation_events,0.614
+944,ijara amar bondhuke ei email ti pathiyeche,email_sendemail,email_sendemail,0.7263
+945,bissher brihottom mohasagor proshanto mohasagor,qa_factoid,transport_query,0.3801
+946,abohawar ep-ti khulun,weather_query,play_game,0.5309
+947,facebook e ekti notun status post korun je ami chomotkar abohawa upbhog korchi,social_post,social_post,0.9693
+948,apni kibhabe roudrojjol said up dim korben,cooking_recipe,transport_query,0.5258
+949,ajker jonno amar meeting er obosthan amake bolun,calendar_query,calendar_query,0.5776
+950,lal tone alo syuich korun,iot_hue_lightchange,iot_hue_lightdim,0.2981
+951,amar got bochrer pochonder ganti bajao,play_music,play_music,0.5179
+952,march e ki ki meeting guli ache,calendar_query,calendar_query,0.8696
+953,ekushe may soptaher kon din,datetime_query,datetime_query,0.4905
+954,ajker jonno amar korniyo talika,lists_query,lists_query,0.7304
+955,jonmodin dara byokti,qa_factoid,general_quirky,0.1264
+956,talika theke item soran,lists_remove,lists_remove,0.8971
+957,alexa onugroh kore ghorer alo nibhiye din,iot_hue_lightdim,iot_hue_lightdim,0.5886
+958,namer uttor,email_sendemail,music_query,0.2748
+959,are ami apnar suchna somporke jante chai,general_quirky,qa_definition,0.371
+960,amar calendar e agamikaler jonno ekti meeting set korun,calendar_set,calendar_set,0.9785
+961,apni ki onugroh kore choytay alarm set korte paren,alarm_set,alarm_set,0.8484
+962,tweet kore oyaltoner obhijog janan,social_post,social_post,0.9208
+963,ei jonno ekti onusmarok set korun,calendar_set,alarm_set,0.5069
+964,fij up jonno sera recipe ki,cooking_recipe,cooking_recipe,0.8828
+965,ponchash shotangsh porjonto alo briddhi korun,iot_hue_lightchange,iot_hue_lightchange,0.5882
+966,amake taka ebong onnanno mudrar moddhe bortoman binimoy har dekhan,qa_currency,qa_currency,0.6033
+967,ekhon alo bondho korun,iot_hue_lightoff,iot_hue_lightoff,0.6179
+968,ami kichu korechi apnar calendar check korun,calendar_query,calendar_query,0.8998
+969,sthaniyo bortoman ghotna ullekh korun,recommendation_events,recommendation_events,0.406
+970,doya kore ajke dupur ektay school e jonke nite mone korao,calendar_set,calendar_set,0.7527
+971,porer robibar shokal noytay alarm set korun,alarm_set,alarm_set,0.9839
+972,amar calendar e protidin bikale pachtay call jog korun,calendar_set,calendar_set,0.7639
+973,shukrobar dupur ektay rampura er kothay sei meeting,calendar_query,calendar_set,0.8752
+974,amar calendar e bibah jog korun,calendar_set,calendar_set,0.8532
+975,pound e bishti arjentiniyo pesor mullo koto,qa_currency,qa_currency,0.9071
+976,kon prottahar khobor ache,news_query,news_query,0.9392
+977,amake oyaltoner jonno ajker bajarer probonta din,qa_stock,datetime_query,0.2321
+978,spotifai,play_music,general_quirky,0.1548
+979,eta abar bajan,play_music,play_audiobook,0.536
+980,amake sobcheye mojar koutuk bolun ja kokhonoo bola hoyechilo,general_joke,general_joke,0.7987
+981,amader ki korimer office er number ache,email_querycontact,email_querycontact,0.7824
+982,baishe march khelar mathe badminton match ti jog korun,calendar_set,calendar_set,0.4805
+983,sarah kibhabe dayal korbo,email_querycontact,general_quirky,0.1665
+984,amake nytimescom theke sorboshesh shironam porun,news_query,news_query,0.8706
+985,soptah jure amar boser sathe guruttopurn meeting somporke amake janan,calendar_set,calendar_set,0.8521
+986,instagram e amar bortoman obosthan post korun,social_post,social_post,0.9565
+987,ajke jokhon amar pepar shesh,calendar_query,qa_factoid,0.1006
+988,notun talika doya kore,lists_createoradd,lists_remove,0.5824
+989,pore sei email pathate amake mone koriye din,calendar_set,email_sendemail,0.7546
+990,amar asonno ghotna ki,calendar_query,recommendation_events,0.5227
+991,ei elakay ami kothay kenakata korte pari bolun,recommendation_locations,general_quirky,0.2537
+992,facebook er jonno likhun je notun manejar podonnoti koreche,social_post,social_query,0.6646
+993,itihas,general_quirky,datetime_query,0.1624
+994,agamikal kokhon amar appointment ache,calendar_query,calendar_query,0.9361
+995,amake ei kompanir stock er stock mulloer upre ebong nicher bishye janan,qa_stock,qa_stock,0.9946
+996,sumi ki amake tomal somporke kon email pathiyeche,email_query,email_query,0.95
+997,banan,general_quirky,play_audiobook,0.0883
+998,amar joging playlist ti open kor ebong gan bajao,play_music,play_music,0.7265
+999,dhaka jawar shesh train ti koto somye,transport_query,transport_query,0.8921
+1000,eastern onchole somoy ki,datetime_query,qa_factoid,0.3957
+1001,apni ki amar sathe ekti meeting set up korte paren,calendar_set,calendar_set,0.9403
+1002,radio bhumi biranobboi doshmik at chalu koro,play_radio,play_radio,0.9552
+1003,sthaniyo ghotna pan,recommendation_events,recommendation_events,0.6627
+1004,calendar khulun ebong ekti event onusmarok korun,calendar_set,calendar_set,0.9367
+1005,amar transo list theke kichu gan bajao,play_music,play_music,0.6737
+1006,amar ami kon notun email pete pari,email_query,email_query,0.9128
+1007,kichu shobdo kor,play_music,cooking_recipe,0.2225
+1008,restaurant nirbachon,takeaway_order,recommendation_locations,0.6332
+1009,sadharonbhabe stock kemon cholche,qa_stock,qa_stock,0.9939
+1010,alexa ekti notun talika toiri korun,lists_createoradd,lists_createoradd,0.9828
+1011,shokal noytay amar meeting kothay,calendar_query,calendar_set,0.6446
+1012,oyaltoner stock mulloer biboron din,qa_stock,qa_stock,0.9857
+1013,chottogram sera mistri kothay,recommendation_locations,transport_traffic,0.3072
+1014,ami ei soptaher jonno ekti tarikh set korte chai,calendar_set,calendar_set,0.7541
+1015,ami ki got dui dine amajon theke kon email peyechi,email_query,email_query,0.9173
+1016,ajker abohawar protibedon ki chil,weather_query,weather_query,0.9348
+1017,ami kichu biriyani jinis khete chai,takeaway_order,play_game,0.9073
+1018,dhaka obosthan ki,qa_factoid,qa_factoid,0.5016
+1019,amar ekhon ek cup coffee chai,iot_coffee,iot_coffee,0.9961
+1020,amar aiyub bachchu er sob ganguli ekotrit korun,play_music,social_post,0.1129
+1021,train er somoysuchir,transport_query,transport_ticket,0.3747
+1022,ami aro audiobook shunte chai,play_audiobook,play_audiobook,0.9784
+1023,aj bisshe ja ghotche,news_query,datetime_query,0.4457
+1024,amake biriyani order korte food panda call korun,takeaway_order,takeaway_order,0.8717
+1025,porer ongshe chole jao,play_podcasts,play_audiobook,0.1159
+1026,amake kichu pop bajan,play_music,play_music,0.5409
+1027,cnn app khulun,news_query,play_game,0.2673
+1028,kibhabe sasthyokor khabar khete hoy,general_quirky,play_game,0.5093
+1029,kanij fatema partoner tothyo,general_quirky,email_querycontact,0.5938
+1030,reminder guli dekhao,calendar_query,lists_query,0.1141
+1031,bortomane rahul kothay kaj kore,email_querycontact,general_quirky,0.1646
+1032,amar sorboshesh order er status ki,takeaway_query,takeaway_query,0.7691
+1033,amar aifon sebhen somporke apple kache ekti obhijog tweet korun,social_post,social_post,0.9842
+1034,mongolbar rohmaner sathe meetinger jonno ekti reminder set korun,calendar_set,calendar_set,0.853
+1035,amake pochish tom adrer poshuchikitsok niyog bhule jete deben na,calendar_set,general_quirky,0.2449
+1036,amake sonir uddodhni stock mullo din,qa_stock,qa_stock,0.9832
+1037,mane ki,qa_definition,qa_definition,0.1874
+1038,make email pathan agamikal kenakata korte jete chan,email_sendemail,email_sendemail,0.9788
+1039,ponchodsher jonno amar daktarer appointment jog korun,calendar_set,calendar_set,0.9437
+1040,dhakar sera obkasher jayga kothay,qa_factoid,transport_query,0.373
+1041,amake dhakar somoy dao,datetime_query,datetime_query,0.5507
+1042,jelo shot kalori mukto,qa_factoid,qa_maths,0.4388
+1043,amar download kora gangulo bajao,play_music,play_audiobook,0.5778
+1044,amar playlist party song chalan,play_music,play_music,0.7269
+1045,amar bos hote email check korun,email_query,email_query,0.9652
+1046,apni ekti baster shonggayito korte paren,qa_definition,qa_definition,0.2494
+1047,facebook event er jonno ekti punrabritti onusmarok alarm set korun amake soptom aprile uposthit hote hobe,alarm_set,alarm_set,0.9629
+1048,apple er mullo koto,qa_stock,qa_factoid,0.5314
+1049,amake bol kibhabe biriyani banate hoy,cooking_recipe,cooking_recipe,0.4678
+1050,ekhon ki brishti hocche,weather_query,weather_query,0.903
+1051,agamikal shokaler jonno alarm bondho korun,alarm_remove,alarm_remove,0.7134
+1052,amar notoppade toiri sorboshesh note byabohar kore ekti status post korun,social_post,social_post,0.9819
+1053,facebook e status joma din,social_post,social_post,0.5357
+1054,ajker tarikh ebong somoy,datetime_query,datetime_query,0.7535
+1055,jini ekhon facebook laibh korchen,social_query,social_post,0.6432
+1056,ami jokhon baire jai tokhon ki amake jaket porte hobe,weather_query,general_quirky,0.2919
+1057,ami jante chai amar mudir talikay ekti otirikto item jog kora jete pare,lists_createoradd,lists_createoradd,0.8372
+1058,apni ki onugroh kore amake emon ekti utso theke sorboshesh khobor pete paren jekhane ami sadharonot jai na,news_query,news_query,0.9343
+1059,share choytar jonno ekti alarm set korun,alarm_set,alarm_set,0.9941
+1060,alo lale poriborton korun,iot_hue_lightchange,iot_hue_lightchange,0.8004
+1061,eta bakkha kor,general_quirky,cooking_recipe,0.213
+1062,ek mile e koto kilomitar,qa_factoid,transport_query,0.469
+1063,ami toiri shesh pachti talika ki chil,lists_query,lists_query,0.7539
+1064,ornober playlist bajao,play_music,play_music,0.7207
+1065,ami ki agamikal ekta chata pab,weather_query,qa_factoid,0.1766
+1066,onugroh kore amake amar barir sobcheye kacher subidhar dokanti bolun,recommendation_locations,recommendation_locations,0.468
+1067,shila balir biboron din,qa_definition,play_audiobook,0.3176
+1068,amar ki panto lagbe,weather_query,play_radio,0.1478
+1069,prithibir sorboccho porbot ki,qa_factoid,qa_factoid,0.4675
+1070,dour khela,play_game,play_game,0.9465
+1071,proti shukrobar duitay amar joybangla niche chihnit korun,calendar_set,qa_maths,0.0952
+1072,ektar por ekta rap ebong rock gan chalao,play_music,play_music,0.5386
+1073,are borhan email pathan,email_sendemail,email_query,0.5679
+1074,sakibke email pathan apnar kkhotir jonno duhkhit,email_sendemail,email_query,0.7426
+1075,amake kichu james dao,music_query,music_query,0.3399
+1076,beder meye josna cinema r beder meye josna amay kotha diyeche ganti bajan,play_music,recommendation_movies,0.452
+1077,nikotostho restaurant kothay amake dekhan,recommendation_locations,recommendation_locations,0.7707
+1078,alarm din ebong agamikal shokal choytay amake jagiye din,alarm_set,alarm_remove,0.6044
+1079,pizza banate amar ki dorkar,cooking_recipe,cooking_recipe,0.8305
+1080,relgari aj kokhon asbe,transport_query,datetime_query,0.5525
+1081,amake tarikh bolun,datetime_query,datetime_query,0.9151
+1082,amar kenakata talika theke kola muche din,lists_remove,lists_remove,0.9677
+1083,sami ken asami chalu koro,play_audiobook,play_game,0.498
+1084,ami aj meeting e ke hote asha kora uchit,calendar_query,calendar_query,0.6771
+1085,amar ekhan theke dhaka jawar train er ticket dorkar,transport_ticket,transport_query,0.5004
+1086,eta ki rod hobe,weather_query,qa_factoid,0.3458
+1087,got dui ghontar jonno email check korun,email_query,email_query,0.967
+1088,afran shubho kon choritre obhinoy koren,qa_factoid,audio_volume_mute,0.26
+1089,pop radio station shuru korun,play_radio,play_radio,0.9722
+1090,janala dhute amake mone koriye din,calendar_set,audio_volume_mute,0.1939
+1091,presidento shekh hasinar sathe ki ghotche,news_query,news_query,0.3882
+1092,bibisi janala er porer porbe jao,play_podcasts,qa_factoid,0.1537
+1093,kichu sofot rock bajan,play_radio,play_music,0.7267
+1094,joypurhater home city ki,qa_factoid,transport_query,0.3264
+1095,agamikaler jonno amar calendar e kenakata jog korun,calendar_set,calendar_set,0.6916
+1096,twitter e ki cholman,social_query,social_query,0.9515
+1097,ekhane ashepashe kon tek oye ache,takeaway_query,calendar_query,0.2077
+1098,menu card e paobhaji jog korun,lists_createoradd,lists_createoradd,0.1163
+1099,apni shilpi mila gan play korte paren,play_music,play_music,0.4038
+1100,kenakatar talika soran,lists_remove,lists_query,0.5242
+1101,kotbar adel geche hira,qa_factoid,qa_factoid,0.1003
+1102,jomuna fiuchar park diknirdesh,transport_query,recommendation_locations,0.6641
+1103,upre,audio_volume_up,audio_volume_up,0.8261
+1104,keu apnake jigyasa kora sobcheye boka proshno ki,general_quirky,general_quirky,0.3434
+1105,youtube e amar dimhin cake post e koto like peyechi,social_query,social_post,0.5029
+1106,amake antorjatik khobor din,news_query,news_query,0.9733
+1107,onugroh kore sumonke ekti email shuru korun,email_sendemail,email_sendemail,0.9682
+1108,himu podcast bajao,play_podcasts,play_podcasts,0.8262
+1109,amake mone koriye din je amake agami mongolbar amader gonit prokolpo somporke asma sathe dekha korte hobe rat doshtay,calendar_set,qa_factoid,0.2168
+1110,ami aj ekojon gorib obhabike shahajyo korechi,general_quirky,general_quirky,0.2842
+1111,khaleda jiya somporke notun khobor kokhon asbe amake bolun,news_query,news_query,0.974
+1112,shastriyo songit er jonno amar somosto songit khujun,play_music,music_likeness,0.3642
+1113,amake baishe januyari boithker kotha mone koriye din,calendar_set,general_quirky,0.1337
+1114,aj ami,general_quirky,datetime_query,0.3477
+1115,nisan kokhon amar shohre asbe,qa_factoid,recommendation_locations,0.46
+1116,budhbareo ki thanda ba badla thakbe,weather_query,qa_definition,0.2857
+1117,amar bondhoki kokhon,calendar_query,recommendation_locations,0.1793
+1118,manna de kibhabe mara gel,qa_factoid,cooking_recipe,0.1234
+1119,moldobhar obosthan ki,qa_factoid,qa_factoid,0.4987
+1120,ajke ekti rod jholomle din tai na,weather_query,qa_factoid,0.1666
+1121,amake shubhmaner sathe ekti meeting er byobostha korte hobe,calendar_set,calendar_set,0.9588
+1122,aj ki shombar,datetime_query,weather_query,0.2662
+1123,agami soptahe abohawa kemon hobe,weather_query,weather_query,0.9867
+1124,onek kath ekti woodchuck chok pare jodi ekti woodchuck kath chok korte pare,general_quirky,qa_factoid,0.313
+1125,bishal shobder shongga ki bolun,qa_definition,qa_definition,0.5593
+1126,apni ki amake bandorban train er somoy dite paren,transport_query,transport_query,0.7054
+1127,hello google twitter e amar bortoman status post korun jate bondhu ebong poribarer sathe dhakay ekti durdanto bhromner kotha ullekh kora hoy,social_post,social_post,0.9256
+1128,aj rat shohor ki hocche,recommendation_events,weather_query,0.1679
+1129,event jog korun besobol onushilon aj rate bikal pachtay,calendar_set,calendar_set,0.8979
+1130,bil talika theke gari bima soran,lists_remove,lists_remove,0.8672
+1131,amar email dekhun,email_query,email_query,0.9653
+1132,ekhon bangladesh somoy ullekh korun,datetime_query,datetime_convert,0.6039
+1133,bangladesher mot diper songkhya koto,qa_factoid,qa_currency,0.3587
+1134,olly amake bolun amar bortomane ki talika ache,lists_query,lists_query,0.9397
+1135,duita chollish p. m. theke aj ki hocche,calendar_query,datetime_query,0.6328
+1136,ami jodi eastern time jone thaktam tahle ki somoy hobe,datetime_convert,datetime_convert,0.8474
+1137,sob set alarm talika,alarm_query,alarm_set,0.5628
+1138,er pore miles er jala jala rakhun,play_music,qa_maths,0.166
+1139,ami chata niye jete chai na aj ki brishti hobe,weather_query,weather_query,0.928
+1140,amar barshiki kokhon,calendar_query,calendar_query,0.2732
+1141,podda setu bastob,qa_factoid,play_podcasts,0.6293
+1142,bangladeshi takar mulloer onupat koto ebong kuyeti dirham,qa_currency,qa_currency,0.6092
+1143,sorboshesh alarm ti soran,alarm_remove,alarm_remove,0.7385
+1144,feelings er khelo baba koto din dekhi ni tomai,play_music,qa_factoid,0.3385
+1145,amar calendar e ekti meeting event toiri korun,calendar_set,calendar_set,0.94
+1146,amake alarm er talika dekhao,alarm_query,alarm_query,0.866
+1147,nimnolikhit byoktider sathe calendar e nimnolikhit event set up korun,calendar_set,calendar_set,0.9573
+1148,ami onnotha na bola porjonto nijeke nihshobdo,audio_volume_mute,general_quirky,0.3385
+1149,share bajarer somosto khobrer jonno bigyopti chalu korun,qa_stock,news_query,0.3501
+1150,agami soptaher abohawa somporke amar strike email korun,email_sendemail,email_sendemail,0.9713
+1151,jiber shongga dao,qa_definition,qa_definition,0.6285
+1152,olly doya kore amar jonno ekti protidiner reminder set korun,calendar_set,alarm_set,0.6029
+1153,amar kachakachi dokan talika,recommendation_locations,recommendation_locations,0.5913
+1154,amader jaygay ajke kon mela ache,recommendation_events,recommendation_locations,0.6422
+1155,onugroh kore sorboshesh jorj ar er songkkhipto biboron din r martin ais ebong fayar boi,qa_factoid,music_query,0.2848
+1156,kibhabe meriyam oyebostar oti shonggayito kore,qa_definition,general_quirky,0.2314
+1157,ei proshner uttor din supar mario bradars er prothom bos ki,general_quirky,general_quirky,0.2147
+1158,ajker jonno ki meeting nirdharit hoy,calendar_query,calendar_query,0.8513
+1159,poroborti tithi dasher tor premete ondho holam ganti chalan,play_music,datetime_convert,0.0931
+1160,abohawa khulun,weather_query,weather_query,0.8802
+1161,porer porbo,play_podcasts,audio_volume_up,0.1473
+1162,sad alom kothay thaken,qa_factoid,general_greet,0.2098
+1163,olly traffic ki m,transport_traffic,transport_traffic,0.9902
+1164,olly amar to ekhon shrikanto achariyar amar sarata din shunte hobe,play_music,calendar_set,0.1369
+1165,grahok seba obhijog nimnolikhit tweet,social_post,social_post,0.5692
+1166,oscillate banan ebong shonggayito korun,qa_definition,music_settings,0.6228
+1167,list porishkar koro,lists_remove,lists_createoradd,0.312
+1168,audio nihshobdo korun,audio_volume_mute,audio_volume_mute,0.5455
+1169,gan chalu,play_music,play_game,0.493
+1170,kom alo doya kore,iot_hue_lightdim,iot_hue_lightdim,0.4264
+1171,dhaka post podcast shonao,play_podcasts,play_podcasts,0.9049
+1172,olly jodi bonna somporke notun kon khobor ase tahle amake ekkhuni janate paren,news_query,news_query,0.9535
+1173,sat number play list bajan,play_music,play_music,0.7197
+1174,christmas talikay pastri jog korun,lists_createoradd,lists_createoradd,0.9448
+1175,amar khabar koi,takeaway_query,takeaway_query,0.4525
+1176,ei time jon onusare somoy bolun,datetime_query,datetime_query,0.702
+1177,prothom alo e khaleda jiya somporke sorboshesh nibondhoti khujun,news_query,news_query,0.4838
+1178,amar jonne kori miles khela,play_music,play_game,0.9351
+1179,radio te dhaka radio tune korun,play_radio,play_radio,0.9832
+1180,shukrobare akme meeting kokhon shuru hoy,calendar_query,calendar_set,0.8021
+1181,apni apnar volume chalu korte paren,audio_volume_up,audio_volume_up,0.5644
+1182,amar jonno game star wars khelun,play_game,play_game,0.9722
+1183,ekti notun kenakata talika shuru korun,lists_createoradd,lists_createoradd,0.9891
+1184,ei bochrer notun mobile loncho somporke amake ekti video dekhan,general_quirky,play_audiobook,0.309
+1185,eshiya tothyo,qa_factoid,qa_definition,0.207
+1186,eta ki tapmatra,weather_query,general_quirky,0.2332
+1187,adh ghontar moddhe amake uthao,alarm_set,general_quirky,0.1602
+1188,ei chobiti amar instagram e rakhun,social_post,social_post,0.9438
+1189,ami kom alo chai,iot_hue_lightdim,iot_hue_lightdim,0.3893
+1190,amar pochonder sob gangulo bajan,play_music,play_music,0.538
+1191,khobor shironam ki,news_query,news_query,0.9238
+1192,amar bos rayhaner theke email guli onusondhan korun,email_query,email_query,0.2977
+1193,onek sadhnar pore ami tarka gan,music_likeness,music_likeness,0.3251
+1194,radio today er f. m. radio station ki amar jonno bajate parben,play_radio,play_radio,0.8784
+1195,ekti facebook status update post korun,social_post,social_post,0.9134
+1196,samner ghore ushno abha dekha jak,iot_hue_lightchange,weather_query,0.5135
+1197,speaker er volume nicher shesh store,audio_volume_mute,audio_volume_down,0.6694
+1198,bangladeshe ekhon somoy koto,datetime_query,datetime_query,0.6857
+1199,uikipidiyay cheshta kore dekhun,qa_definition,qa_factoid,0.169
+1200,apni ki amake shonibar rater tapmatra bolte paren,weather_query,general_quirky,0.2852
+1201,rat ekta theke tintar moddhe amar ki appointment ache,calendar_query,calendar_query,0.9437
+1202,dosh mile er moddhe ki dokanguli ache,recommendation_locations,qa_factoid,0.1747
+1203,tumi ajke ki korte chao,general_quirky,calendar_query,0.3303
+1204,uttor pathan,email_sendemail,email_sendemail,0.7556
+1205,imon theke opthit email check korun,email_query,email_query,0.9731
+1206,olly ami ekti krim ebong tinti chini soh ek cup coffee chai,iot_coffee,iot_coffee,0.9949
+1207,ei somoy sondhay pachtar jonno ekti alarm set korun lebeljukto taxi,alarm_set,transport_taxi,0.5004
+1208,march er prothom soptaher meeting guli,calendar_query,calendar_set,0.6287
+1209,elomelo songit bajan,play_music,play_music,0.4757
+1210,ami radio ti chalu kore shunte chai doya kore,play_radio,play_radio,0.9506
+1211,kon notun email prapto hoyeche ki,email_query,email_query,0.962
+1212,ami bangla gan shunte pochondo korbo,play_music,music_likeness,0.6765
+1213,ami kibhabe makhon chiken ranna korbo,cooking_recipe,cooking_recipe,0.3298
+1214,kumilla chitro prodorshoni,recommendation_events,qa_factoid,0.3265
+1215,bortoman bissher khobor,news_query,news_query,0.9814
+1216,taka ebong takar moddhe binimoy har ki,qa_currency,qa_maths,0.5253
+1217,got dui ghontay ami kon notun email peyechi ki,email_query,email_query,0.9262
+1218,ei muhurte amar jonno ekti bhalo koutuk bolun,general_joke,general_joke,0.6993
+1219,apni ki idaning kon bhalo gan shunechen,general_quirky,music_likeness,0.262
+1220,baire ki brishti porche,weather_query,weather_query,0.9382
+1221,protidin shokal atta amar kajer jonno ekti punrabritti reminder set toiri korun,calendar_set,calendar_set,0.7203
+1222,ei bissher sorboshesh notun somporke porun,news_query,news_query,0.3247
+1223,ki jinis apni korte parben na,general_quirky,general_quirky,0.3039
+1224,game khela,play_game,play_game,0.9787
+1225,agamikaler jonno amar calendar saf korun,calendar_remove,calendar_remove,0.8837
+1226,onugroh kore kotha bola bondho korun,audio_volume_mute,audio_volume_mute,0.5014
+1227,tomar boyosh koto,general_quirky,qa_factoid,0.5548
+1228,aj farhaner radio amar podcast khuje dao,play_podcasts,play_podcasts,0.56
+1229,sumon ahmed kokhon jonmogrohon koren,qa_factoid,qa_factoid,0.5948
+1230,amake event dekhan ja ekhon cholche,calendar_query,calendar_query,0.7217
+1231,onugroh kore prothom alo nibondhoti tanun,news_query,iot_hue_lightchange,0.5633
+1232,amar vacuum cleaner protidin doshta theke egarotar moddhe shuru kora uchit,iot_cleaning,iot_cleaning,0.9966
+1233,samprotik dhaka khobor,news_query,news_query,0.9272
+1234,amar poroborti ghotna muche felun,calendar_remove,calendar_remove,0.2748
+1235,apni ki amar bondhu rajibke email pathate paren bolben je ami agamikal byosto achi,email_sendemail,email_query,0.8335
+1236,olly ami porer jonno ki plan korechi,calendar_query,general_quirky,0.3531
+1237,bharter sathe hasinar somporker bishye sorboshesh update ki,news_query,news_query,0.8537
+1238,amar lokosongit playlist bajan,play_music,play_music,0.7973
+1239,amake sneha ebong rajibke email korte hobe,email_sendemail,email_sendemail,0.5902
+1240,parodorshi chele ki paroform korche,calendar_query,cooking_recipe,0.1682
+1241,ibhelite tweet korun ebong janan je amar app kharap hoye geche,social_post,social_post,0.9646
+1242,noy hajar niranobboi f. m. ekhon ki songit bajacche,music_query,music_query,0.7583
+1243,pizza khawar jonno poroborti soptahe sobcheye bhalo din konti,datetime_query,recommendation_locations,0.6098
+1244,are amake khushi korte kichu koutuk share korun,general_joke,social_post,0.5603
+1245,ei soptaher abohawa somporke bolun,weather_query,weather_query,0.9959
+1246,amake er shotangsh khuje ber korte hobe,qa_maths,transport_query,0.2322
+1247,ami bhut f m prodorshon shunte chai,play_radio,qa_maths,0.1535
+1248,holiuder sorboshesh gosip ki cholche,news_query,news_query,0.2384
+1249,humayun ahmeder boyosh koto,qa_factoid,qa_factoid,0.7097
+1250,apnar moddhe binimoy har ki dollar ebong taka,qa_currency,qa_currency,0.8989
+1251,utsob calendar e shubho ebong rohman jog kora uchit,calendar_set,calendar_query,0.6781
+1252,choutrisher borgomul koto,qa_maths,qa_factoid,0.4859
+1253,bangladesh kon time jone,qa_factoid,datetime_convert,0.5627
+1254,omuk dine abohawa kemon hoy,weather_query,weather_query,0.9893
+1255,ekhon amar sohokormike ekti email likhte hobe,email_sendemail,email_sendemail,0.9395
+1256,ami sourobh theke ekti email peyechi kina apni ki check korte paren,email_query,email_query,0.9613
+1257,amar email inbox check korun ebong amake notun mail somporke bolun,email_query,email_query,0.9712
+1258,onugroh kore amake bolun jodi snehar amake kono email pathiye thake,email_query,email_query,0.6063
+1259,amar ache je talika amake dekhan doya kore,lists_query,lists_query,0.8708
+1260,amar alarm ki,alarm_query,alarm_query,0.9476
+1261,pach ghonta por amake jaganor jonno ekti alarm korun,alarm_set,alarm_set,0.9812
+1262,ekhon ki brishti hobe,weather_query,weather_query,0.9084
+1263,station poriborton kore birashi poyento char,play_radio,play_radio,0.6822
+1264,vaccum shuru korun ebong ekhon shobar ghor porishkar korun,iot_cleaning,iot_cleaning,0.9283
+1265,ei muhurte bangladesher orthoniti ki ebong kibhabe,news_query,qa_currency,0.3145
+1266,agamikaler jonno amar kajer alarm ta ki set kora hoye geche,alarm_query,alarm_query,0.9768
+1267,amar shokaler playlist chalao,play_music,play_music,0.6052
+1268,teroi december kon din,datetime_query,datetime_query,0.552
+1269,lokosongiter station play korun,play_radio,play_radio,0.7399
+1270,notun radio channel play koro,play_radio,play_radio,0.9049
+1271,he olly mirpur dhaka ajker abohawa kemon hobe,weather_query,weather_query,0.9774
+1272,robibar party r jonno mudikhanar jinis kenakatay jete amake mone koriye deben,calendar_set,general_quirky,0.2308
+1273,bostur namer shongga,qa_definition,qa_definition,0.8105
+1274,sumon ahmed kothay jonmogrohon koren,qa_factoid,qa_factoid,0.4656
+1275,aj dhaka abohawar report ki,weather_query,weather_query,0.9179
+1276,taka bonam rupee r koto,qa_currency,qa_currency,0.9477
+1277,ei mudrar moddhe har,qa_currency,qa_maths,0.174
+1278,eti ekti bhalo tune onugroh kore sei onujayi file notet korun,music_likeness,lists_createoradd,0.8171
+1279,ami kokhon amar bangladeshi khabar nite pari,takeaway_query,takeaway_query,0.3383
+1280,notun mail er jonno amar gmail check korun,email_query,email_query,0.9841
+1281,tumi ki arker sobcheye notun ganti khujte paro,play_music,recommendation_locations,0.2653
+1282,amar facebook list e sobai ki khela dekhche,social_query,social_query,0.9183
+1283,mukti kampo somadhan kora jak,play_game,cooking_recipe,0.2635
+1284,ei bander prodhan gayker nam ki,music_query,music_query,0.3174
+1285,dhakay relgarite jawar jonno amake ekti ticket kinun,transport_ticket,transport_ticket,0.8049
+1286,aleksa email likhun,email_sendemail,email_sendemail,0.7408
+1287,brihospotibar arsalane dinner er jonno mone koran,calendar_set,recommendation_locations,0.2025
+1288,amar playlist er ekta retro gan shonao,play_music,play_music,0.5451
+1289,apni ki amake mubhir somoysuchiti dite paren,calendar_query,general_quirky,0.2166
+1290,ajker mot traffic ki,transport_traffic,transport_traffic,0.9914
+1291,shombar dosh tay kaderer sathe amar meeting er kotha mone koriye dio,calendar_set,calendar_set,0.8833
+1292,olly tomake amar durutto jawar bikolpo poth khuje ber korte hobe,transport_query,transport_query,0.6253
+1293,ami eimatro twitter e tola chobi post korun,social_post,social_post,0.9158
+1294,amar sebh kora podcast ti shuru kor,play_podcasts,play_podcasts,0.9138
+1295,amar kache ki pranto theke kono notun email ache,email_query,email_query,0.9673
+1296,apni amake ekti bike bornona korte paren,qa_definition,qa_definition,0.3131
+1297,apni ki amake dhaka somoy bolte paren,datetime_query,datetime_query,0.2848
+1298,ami abar ganti shunte chai,play_music,music_settings,0.5261
+1299,ami aj koto kilomitar hetechi,general_quirky,transport_query,0.2381
+1300,olly khuje ber korun jodi food panda bitoron kore,takeaway_query,takeaway_order,0.635
+1301,tara ei bishye khaleda jiya somporke ki bolche,news_query,qa_factoid,0.3471
+1302,amar twitter theke sony ke ekti tweet post korun je ami sontushto noy,social_post,social_post,0.9496
+1303,porer mase amar bhaider jonmodin,calendar_set,general_quirky,0.2247
+1304,amake amar bhai jogajoger thikana bolun,email_querycontact,email_querycontact,0.537
+1305,amar jonno ekti taxi khujun,transport_taxi,transport_taxi,0.997
+1306,amake recipe din,cooking_recipe,cooking_recipe,0.8726
+1307,osmita ki amake kon email pathan,email_query,email_query,0.7572
+1308,agamikal sondhar jonno kon program ache,calendar_query,calendar_query,0.2835
+1309,he,general_greet,qa_factoid,0.1864
+1310,amake p. s. t. somoy din,datetime_query,datetime_query,0.7553
+1311,amar talikay jinisguli talikabhukto korun,lists_query,lists_createoradd,0.991
+1312,pop shilpe ki ghotche,news_query,recommendation_events,0.4912
+1313,olly ami kibhabe mangshoer lof banabo,cooking_recipe,cooking_recipe,0.1794
+1314,bhumikomper purbabhas,general_quirky,datetime_query,0.2359
+1315,punrabritto upor event set,calendar_set,calendar_set,0.7968
+1316,mahtam sakib je gane surarop korechen set album ti bajan,play_music,play_music,0.8468
+1317,march er unish dupur ektar meeting muche din,calendar_remove,calendar_remove,0.5772
+1318,oi maser jonno amar calendar porun,calendar_query,calendar_query,0.9049
+1319,ekti haipothisis ki,qa_definition,qa_definition,0.4772
+1320,ami to ekhon smart socket bondho korte chai,iot_wemo_off,iot_wemo_off,0.5227
+1321,apni amake imran er jogajoger tothyo bolte paren,email_querycontact,qa_factoid,0.5063
+1322,ekti notun thikanay email rochna korun,email_sendemail,email_sendemail,0.9546
+1323,mukti kampo khela shuru korun,play_game,play_game,0.7394
+1324,faka mane ki,qa_definition,qa_definition,0.2217
+1325,shesh line muche din,lists_remove,lists_remove,0.486
+1326,microsoft share er bortoman mullo talikabhukto korun,qa_stock,lists_createoradd,0.9682
+1327,dhakar baire ki brishti hocche,weather_query,weather_query,0.9489
+1328,bangla kasto podcast chalu,play_podcasts,play_podcasts,0.9556
+1329,hello google doya kore amake google calendar e niye jan,calendar_set,calendar_set,0.61
+1330,james er baba ganti shunte chai,play_music,email_querycontact,0.264
+1331,chalar alo bondho kor,iot_hue_lightoff,iot_hue_lightoff,0.6658
+1332,kenakatar talikay dudh rakhun,lists_createoradd,lists_createoradd,0.9642
+1333,shanto er protishobdo ki,qa_definition,qa_factoid,0.2668
+1334,station e ghurun radio furti ally,play_radio,play_radio,0.9738
+1335,ami pachtar por ar kono call korte chai na mi,general_quirky,audio_volume_mute,0.44
+1336,ami email ti amar notun email thikana a. b. c. at gmail dot com e preron korte chai,email_sendemail,email_sendemail,0.5377
+1337,chul ki diye toiri,qa_factoid,general_quirky,0.1484
+1338,amake dhakar relgari asar somoy bolun,transport_query,transport_query,0.8126
+1339,amar audiobook punray shuru korun,play_audiobook,play_audiobook,0.9866
+1340,onugroh kore amake mone koriye din shokal egarotar byobsayik sommelon,calendar_set,general_quirky,0.1995
+1341,amar ganer talika chalu korun,play_music,lists_createoradd,0.3144
+1342,doya kore amake bimanobondore niye jawar jonno amar ekti taxi dorkar,transport_taxi,transport_taxi,0.995
+1343,amar kache notun email ache ta dekhte check korun,email_query,email_query,0.968
+1344,amake ei ganer muktir tarikh din,music_query,datetime_query,0.5877
+1345,agamikal dupure amar bangla reshturento moddhahnobhojer somoy nirdharon korun,calendar_set,datetime_convert,0.5508
+1346,asonno meeting-gulir talika ber korun,calendar_set,lists_createoradd,0.5921
+1347,ami agami soptahe koksobajar trip batil korte chai,lists_remove,calendar_remove,0.5582
+1348,apni amake amar talika porte paren,lists_query,lists_query,0.6256
+1349,video chalan,general_quirky,play_audiobook,0.6269
+1350,sony ke tweet korun tader porishebar obhijog jante,social_post,social_post,0.7131
+1351,bangladesher durotto koto,qa_factoid,qa_currency,0.2489
+1352,purbabhaser har,general_quirky,qa_definition,0.2111
+1353,meeting somporke roshnike email pathan,email_sendemail,email_sendemail,0.7537
+1354,sob miles bajao,play_music,play_audiobook,0.5193
+1355,shekh mujib kokhon jonmogrohon korechilen ta amake bolun,qa_factoid,qa_factoid,0.5306
+1356,tweet bi ar bi kabolos grahok porisheba ebong tader bolun ami trish minit dhore opekkha korchi,social_post,social_post,0.8964
+1357,game khoj,play_game,play_game,0.9094
+1358,amake pontificate shobder shongga din,qa_definition,qa_definition,0.4891
+1359,irobot chalu korun,iot_cleaning,iot_cleaning,0.3663
+1360,rubikso kiuber porimap ki,qa_factoid,qa_factoid,0.2544
+1361,hasina somporke ajker prothom alo nibondhoguli khujun,news_query,iot_hue_lightchange,0.2443
+1362,calendar er somosto event muchun,calendar_remove,calendar_remove,0.8647
+1363,radio khoj,play_radio,play_radio,0.9791
+1364,ami apnar jonno proti shukrobarer dupur barota er namaj nirdharon korte chai,calendar_set,qa_definition,0.1198
+1365,amar ki agamikaler jonno nirdharit kichu ache,calendar_query,calendar_query,0.3951
+1366,doya kore amar uddessho nei playlist bajan,play_music,play_music,0.7687
+1367,kaj somporke rafi theke mail hoy,email_query,email_query,0.8547
+1368,amar kache dhakar pach tarka hotel er talika thakte pare,qa_factoid,lists_createoradd,0.8519
+1369,ekti kaftan ki,qa_definition,cooking_recipe,0.155
+1370,dinajpur koto ghonta egiye,datetime_query,transport_query,0.4702
+1371,amake kichu labhendar tonod alo din,iot_hue_lightchange,iot_hue_lightup,0.5837
+1372,ami ki amar kajer talika dekhte pari,lists_query,lists_query,0.916
+1373,prithibir sorboccho porbotoshreni ki,qa_factoid,qa_factoid,0.4162
+1374,amar bonke ekti email pathate mone koran,calendar_set,email_sendemail,0.9464
+1375,klasikal songiter playlist bajan,play_music,play_music,0.7767
+1376,khichuri ki ponir,qa_definition,qa_factoid,0.3398
+1377,pachosh ekushke tin diye bhag korle baki koto,qa_maths,qa_maths,0.5612
+1378,ami ei soptahe kotota mukto achi,calendar_query,qa_definition,0.1879
+1379,ei soptaher jonno ki ache,calendar_query,calendar_query,0.1422
+1380,amar talika theke item muchun,lists_remove,lists_remove,0.9534
+1381,jarinke ekti email pathan,email_sendemail,email_sendemail,0.9853
+1382,calendar er jonno alarm onusmarok toiri korun,calendar_set,alarm_set,0.7232
+1383,charpashe ki,recommendation_locations,qa_definition,0.2488
+1384,facebook e theke sorboshesh songbad fid,social_query,social_query,0.3173
+1385,shyut del ekti email protikriya take soikte gol somporke sotork kore,email_sendemail,email_query,0.5405
+1386,notun poristhitir somoy ba calendar notun talikay,lists_createoradd,calendar_query,0.429
+1387,apni ki amader barir traffic porikkha korte paren,transport_traffic,transport_traffic,0.9834
+1388,eyarporte jawar jonno amake ekta taxi niye asun,transport_taxi,transport_taxi,0.9963
+1389,alexa alor ujjolota briddhi korun ekhane niche dekha kothin,iot_hue_lightup,iot_hue_lightup,0.9164
+1390,agamikal ki hocche,news_query,qa_factoid,0.1973
+1391,christmas jonno amar somoysuchir jonno onusmarok punrabritti,calendar_set,calendar_set,0.6628
+1392,choutha july nirdharit trip muche felun,calendar_remove,calendar_remove,0.5353
+1393,bachchader jonno kichu gan chalao,play_radio,play_game,0.2507
+1394,niumarket kokhon khole,recommendation_events,general_quirky,0.1109
+1395,bartati email korun hi bhai aj rate dinner er jonno niche asun,email_sendemail,email_sendemail,0.8022
+1396,dhaka somoy ki,datetime_query,datetime_query,0.685
+1397,ekushe august shokal n-tar ekti event jukto korun,calendar_set,calendar_set,0.9507
+1398,apni ki doya kore amake chottogramer poroborti charti nirdharit train janate paren,transport_query,transport_query,0.4793
+1399,ami aj ki talika korechi,lists_query,lists_query,0.794
+1400,jini ei ganer songit porichalok,music_query,music_query,0.5031
+1401,amar ekhon ekta taxi ride dorkar,transport_taxi,transport_taxi,0.9974
+1402,ekti google plekso ki,qa_definition,qa_factoid,0.3342
+1403,apni ki agamikal ekti pathao book korte paren,transport_taxi,transport_taxi,0.4339
+1404,amar korniyo talika porun,lists_query,lists_createoradd,0.5024
+1405,ei bochrer satashe june amar jonmodin kon din pore,datetime_query,datetime_query,0.671
+1406,ekti bhalo romantic dinner ki hobe,general_quirky,cooking_recipe,0.4584
+1407,onugroh kore shastriyo gan bajan,play_music,play_music,0.5115
+1408,apni ki amar calendar e ekti event likhte paren,calendar_set,calendar_set,0.727
+1409,amar ki aj kon kaj ache,calendar_query,calendar_query,0.3693
+1410,takar ek rupee r dam koto,qa_currency,qa_currency,0.8927
+1411,amar sob pochonder fok gan chalan,play_music,music_likeness,0.574
+1412,apni ki alo nibhiye dite paren,iot_hue_lightoff,iot_hue_lightdim,0.4258
+1413,amake rangamati theke kumillar relgari er ticket pete hobe,transport_ticket,transport_ticket,0.6893
+1414,rupee er biprite takar mullo koto,qa_currency,qa_currency,0.9102
+1415,amar patisapta banate shahajyo dorkar,cooking_recipe,cooking_recipe,0.1673
+1416,apni amake somoy bolte paren,datetime_query,general_joke,0.1601
+1417,notun gajet,general_quirky,calendar_query,0.318
+1418,asonno ghotnabli,calendar_query,calendar_remove,0.1412
+1419,bortoman somoy ist theke e. s. t. te poriborton korun,datetime_convert,datetime_convert,0.4632
+1420,kriketar mashrafi thakar jayga ki,qa_factoid,qa_factoid,0.1809
+1421,er recipe ti amake bolun,cooking_recipe,cooking_recipe,0.8747
+1422,amake kanij fatema somporke bolun,qa_factoid,music_query,0.4285
+1423,kritrim buddhimottar ki chetna ache,general_quirky,recommendation_events,0.2767
+1424,ami guruttopurn music file e eta korechi,music_likeness,music_settings,0.3966
+1425,kanner camera guli kothay kinte pawa jabe,recommendation_locations,general_quirky,0.0972
+1426,chole jay bosonter din chalu kor,play_audiobook,play_audiobook,0.255
+1427,amake bolun jete sobcheye sundor jayga ki,recommendation_locations,recommendation_locations,0.3863
+1428,aj ami bikele jawar age ki janala bondho kore deb,weather_query,datetime_query,0.1757
+1429,amar calendar e somosto event muche felun,calendar_remove,calendar_remove,0.9795
+1430,baire bortoman tapmatra koto,weather_query,qa_factoid,0.2451
+1431,bangladesh betar,play_radio,qa_factoid,0.2321
+1432,doya kore amar gan chalan,play_music,play_music,0.2077
+1433,tribhiyake proshno jigyasa korun,general_quirky,calendar_set,0.2522
+1434,apnar ki,general_quirky,email_querycontact,0.2489
+1435,ekhon theke dui ghontar jonno ekti alarm set korun,alarm_set,alarm_set,0.9962
+1436,ei beili rod janojot poristhiti ki,transport_traffic,qa_factoid,0.4253
+1437,moshladar rannar udahoron ki,cooking_recipe,qa_factoid,0.4456
+1438,apni ki amar calendar khali korte paren,calendar_remove,calendar_query,0.6142
+1439,moyomonsingh gitika audiobook ti resume kor,play_audiobook,play_audiobook,0.935
+1440,adam gilokrister jonmodin ki,qa_factoid,qa_factoid,0.4095
+1441,dhaka rajdhani ki,qa_factoid,qa_factoid,0.342
+1442,amar bortomane ki talika ache amake bolun,lists_query,lists_query,0.9196
+1443,komlalebute koto kalori ache,qa_factoid,qa_maths,0.3469
+1444,amake ekta random gan bajao,play_music,play_music,0.4747
+1445,doya kore amar alarm batil korun,alarm_remove,alarm_remove,0.9954
+1446,demra ei soptahante kono ghotna,recommendation_events,recommendation_events,0.6531
+1447,doya kore jazz music chalan,play_music,music_settings,0.5559
+1448,sobcheye bhalo morich ki,cooking_recipe,qa_factoid,0.3476
+1449,apni ki chihnit korben je agamikal tintay pabeler sathe amar ekti meeting ache,calendar_set,calendar_set,0.5449
+1450,ami ki dhakay somoy jante pari,datetime_query,qa_factoid,0.3827
+1451,thakumake ekti email pathan je amra shonibarer moddhe drop korchi taropor dekha hobe,email_sendemail,email_query,0.5508
+1452,kamal hosen koleje kothay giyechil,qa_factoid,qa_factoid,0.2458
+1453,starbucks er jonno obhijoger oyebsait tanun,social_post,takeaway_query,0.4716
+1454,kokhon prithibi shesh hobe,general_quirky,music_settings,0.2156
+1455,apni ki amake bolte paren haiparotrofi mane ki,qa_definition,qa_definition,0.2848
+1456,sompurnobhabe amar mudi talika muche din,lists_remove,lists_remove,0.9342
+1457,apni ki proti soptaher dine tin p. m. somye coffee toirir jonno coffee machine set korte paren,iot_coffee,iot_coffee,0.9976
+1458,ganer bortoman album elomelo korun,music_settings,play_music,0.6014
+1459,amar calendar e aj kon ghotna ache,calendar_query,calendar_query,0.8863
+1460,ami tomake shunte pacchi na,audio_volume_up,audio_volume_mute,0.2705
+1461,ponchom may amar calendar e mayer fashon dinner jog korun,calendar_set,calendar_set,0.9332
+1462,maloddip kothay obosthit,qa_factoid,qa_factoid,0.2207
+1463,kosbar jonno sorboshesh traffic report ki,transport_traffic,transport_traffic,0.9713
+1464,rohonke likhun ekti barta likhun je amar deri hobe,email_sendemail,social_post,0.3585
+1465,amar purano bondhu ali kache ajke ami doure gelam,general_quirky,general_quirky,0.1653
+1466,taka ebong rupee r poriborton har koto,qa_currency,qa_currency,0.851
+1467,amar instagram account e sorboshesh fotoguli ki ki,social_query,social_query,0.9556
+1468,jokhon show shuru hoy ta check koro,calendar_query,recommendation_movies,0.3692
+1469,amader rashtropti nirbachner khobor din,news_query,news_query,0.9798
+1470,ami tinta porjonto meeting chai,calendar_set,calendar_set,0.8455
+1471,amar alarm ti kokhner jonno set kora hoyeche,alarm_query,alarm_query,0.9314
+1472,ranna ghorer alo ek shotangshe chalu korun,iot_hue_lightchange,iot_hue_lightdim,0.2848
+1473,aj ekti klantikor din chil,general_quirky,takeaway_order,0.2421
+1474,are din sheshe ghotna somporke tothyo prodan korun,calendar_query,recommendation_events,0.2799
+1475,ekti karkhana ki,qa_definition,qa_definition,0.3372
+1476,amake update korun,news_query,social_query,0.2136
+1477,pacific somye ekhon kotota baje,datetime_query,datetime_query,0.7338
+1478,facebook e chobi post korun,social_post,social_post,0.9125
+1479,amar jonno online e kichu order korun,general_quirky,takeaway_order,0.8727
+1480,talika theke prothme amake ki sompurn korte hobe,lists_query,lists_createoradd,0.5507
+1481,kkhudhart chokhe chalu kora,play_music,iot_cleaning,0.1396
+1482,rel shteshon kothay,transport_query,qa_factoid,0.1834
+1483,fok ganer reting char tarar upre lokganer sera podcast dekhan ebong i play korun,play_podcasts,play_podcasts,0.8262
+1484,agami mongolbar shokal attar ekti alarm set korun,alarm_set,alarm_set,0.9936
+1485,agamikal shokal doshtar age amake dhaka jawar train er ticket book korun,transport_ticket,transport_ticket,0.9705
+1486,doya kore amar jonno bostutir bornona korun,qa_definition,qa_definition,0.4263
+1487,riki martin,play_music,music_query,0.4525
+1488,songrokkhit tothyoer jonno irctc saite ajker jonno ekti ticket book korun,transport_ticket,transport_ticket,0.9556
+1489,ajker email inbox theke bishoy line ebong prerok ki,email_query,email_query,0.9077
+1490,somosto alarm porjalochna korun,alarm_query,alarm_remove,0.8968
+1491,amake tahsaner ekti gan bajan,play_music,play_music,0.4958
+1492,pochish januyarir jonno meeting set korun,calendar_set,calendar_set,0.9708
+1493,ami ei soptahonto onushthit ei elaka jonno somosto sthaniyo event proyojon,recommendation_events,calendar_set,0.8173
+1494,amake ekhon dhakate somoy dao,datetime_query,datetime_convert,0.3891
+1495,amar ki but juta porte hobe,weather_query,qa_factoid,0.2572
+1496,rock metal bajabe na,music_dislikeness,music_dislikeness,0.4754
+1497,kon notun opthit yahoo email ache ki,email_query,email_query,0.9669
+1498,shobder mane ki,qa_definition,qa_definition,0.2645
+1499,taka dam koto,qa_currency,qa_currency,0.5768
+1500,barite ki alarm set kora hoy,alarm_query,alarm_query,0.9764
+1501,jodi eti chottogramer rat doshta tobe chittagonge somoy koto,datetime_convert,datetime_convert,0.386
+1502,amar talika prodorshon korun,lists_query,lists_createoradd,0.8687
+1503,baki diner jonno amar calendar saf korun,calendar_remove,calendar_remove,0.8842
+1504,instagram e paribarik phone rakhun,social_post,email_addcontact,0.3253
+1505,ekti dhaka ki,qa_factoid,qa_factoid,0.2176
+1506,mohatma gandhike ken guli korechil godse,qa_factoid,qa_factoid,0.2911
+1507,aj tintar por amar somosto appointment batil korun ebong amake bistarit janan,calendar_remove,calendar_remove,0.9586
+1508,kenakata,general_quirky,qa_definition,0.231
+1509,khobor ki,news_query,news_query,0.9575
+1510,porer event er siliul kon somoy,calendar_query,calendar_query,0.7077
+1511,aj sondha sattay coffee hause rater khabarer jonno jaforke ekta mail pathao,email_sendemail,email_sendemail,0.7411
+1512,sokriyo alarm talikabhukto korun,alarm_query,alarm_set,0.981
+1513,jokhon baish sekendo,datetime_query,general_quirky,0.1843
+1514,amar asonno ghotna talika out,calendar_query,lists_createoradd,0.9393
+1515,amar calendar e somosto appointment batil korun,calendar_remove,calendar_remove,0.9767
+1516,ami khabar order korte chai,takeaway_order,takeaway_order,0.8625
+1517,notun email guli somporke amake bolun,email_query,email_query,0.6276
+1518,brihospotibar dupur poune duitay amake mr. forman er sathe dekha korte hobe onugroh kore calendar chihnit korun,calendar_set,calendar_set,0.6457
+1519,stock mulloer jonno bishod biboron,qa_stock,qa_stock,0.9752
+1520,ami jante chai je amar kache sojib khaner sabjekto line budget soh kono email ache kina,email_query,email_query,0.9307
+1521,obilomme nihshobdo,audio_volume_mute,qa_definition,0.2603
+1522,apni amake jaman somporke bistarit dite paren,email_querycontact,audio_volume_up,0.1785
+1523,agami mongolbarer tarikh ki,datetime_query,datetime_query,0.7452
+1524,ekhane theke daraz koto dure,transport_query,qa_currency,0.3508
+1525,artoseler jekon gan chalao,play_music,play_audiobook,0.3275
+1526,je bishye notun jinis onusondhan korun,news_query,qa_definition,0.3961
+1527,apni ki volume komiye dite paren ebong ei ganer shironam ki amake bolun,music_query,audio_volume_down,0.5646
+1528,sony ke janan je ami taderke ghrina kori,social_post,music_query,0.1491
+1529,amar ki ajker jonno ekta chata lagbe,weather_query,datetime_query,0.6305
+1530,ekti home ran shongga ki,qa_definition,qa_factoid,0.2476
+1531,prothom alo theke ki ki khobor ache,news_query,news_query,0.9554
+1532,ek british pound er sathe binimoy har koto,qa_currency,qa_currency,0.9045
+1533,shesh ghontar jonno amar email check korun,email_query,email_query,0.9831
+1534,dhaka oyarioros ebong chittagong bhaikingser khelata chalao,play_radio,play_game,0.8627
+1535,ami robibar shokal egarotay charche jawar jonno alarm ti muche felte chai,alarm_remove,alarm_remove,0.9842
+1536,shobdoti google korun,qa_definition,general_quirky,0.1036
+1537,saptahik abohawa report ki,weather_query,weather_query,0.995
+1538,tumi ki amake porashonay bhalo korte shahajyo korboe,general_quirky,general_quirky,0.3281
+1539,ekti playlist toiri korun,lists_createoradd,play_music,0.3651
+1540,amake ekhon dhaka somoy dekhan,datetime_query,datetime_query,0.4155
+1541,shonibarer purbabhas ki,weather_query,qa_factoid,0.3184
+1542,ei lokeder sathe ghotna jog korun,calendar_set,calendar_set,0.5715
+1543,shokal egarotay e budhbarer jonno ekti bikroy meeting nirdharon korun,calendar_set,calendar_set,0.972
+1544,ei deshe binimoy har ki,qa_currency,qa_currency,0.4346
+1545,orthohiner amar proticchobi bajano shuru koro,play_music,play_audiobook,0.4653
+1546,olly google customer service e tweet korun je tader prodaktoguli kharap,social_post,social_post,0.9799
+1547,ei soptahe prekkhagrihe kon notun cinema dekha jabe,recommendation_movies,recommendation_movies,0.7845
+1548,kibhabe loha toiri kora hoy,qa_factoid,qa_factoid,0.1138
+1549,maikel jakosner audio book theke ganti resume korun,play_audiobook,play_audiobook,0.8553
+1550,amar ghotna somporke amake aro bolun,general_quirky,general_quirky,0.5157
+1551,rajnitite je kono notun bishye amake sotork korun,news_query,general_quirky,0.1524
+1552,songit playlist khela,play_music,play_music,0.5884
+1553,light guli poriborton korun,iot_hue_lightchange,iot_hue_lightchange,0.4976
+1554,audio book porte thako jan,play_audiobook,play_audiobook,0.916
+1555,kibhabe ami amar shesh duti email,email_query,email_query,0.4763
+1556,amar mayer email er ekti uttor likhun,email_sendemail,email_sendemail,0.9421
+1557,golapi fita ki somorthon kore,qa_factoid,qa_definition,0.2273
+1558,ami handir sathe osontushto doya kore amake shahajyo korun,social_post,qa_definition,0.1145
+1559,amake agamikal doshtay uthte hobe,alarm_set,recommendation_events,0.1351
+1560,asonno mitingyer jonno onusmarok set korun,calendar_set,calendar_set,0.9247
+1561,amake bolun amar ki kaj newa uchit,general_quirky,general_quirky,0.326
+1562,daraz er klojing prais ki,qa_stock,general_quirky,0.3917
+1563,daraz er thanda pizza somporke tweet,social_post,social_post,0.8622
+1564,amar bhaiyer jonmodiner kauntodaun,calendar_query,email_querycontact,0.3041
+1565,dhakar bortoman somoy ki,datetime_query,datetime_query,0.6307
+1566,ei sirijer poroborti porbo chalan,play_podcasts,play_audiobook,0.1467
+1567,kajer jonno kon traffic ache,transport_traffic,transport_traffic,0.987
+1568,shukrobarer rohmaner party ki batil hoyeche,calendar_query,calendar_remove,0.395
+1569,amake mone koriye din agamikal sondha satta bish petkote aro kukurer khabar nao mi,calendar_set,takeaway_order,0.389
+1570,ami ekhono porini emon konoo email guli ache ki,email_query,email_query,0.9633
+1571,amar shudhu ei manushder songe ekti event toiri kora proyojon,calendar_set,calendar_set,0.9046
+1572,ami ki amar talika check korte pari,lists_query,lists_query,0.8364
+1573,amake kolkata er ticket kine dao,transport_ticket,transport_ticket,0.8148
+1574,porer shukrobar sakib sathe amar sakkhater ekti onusmarok pathan,calendar_set,calendar_set,0.548
+1575,shanto thakun,audio_volume_mute,email_querycontact,0.1053
+1576,poshu bishoyok podcast khoj,play_podcasts,play_podcasts,0.9607
+1577,protidin dupure amake oshudh newar jonno ekti rimaindoyar set korun,calendar_set,alarm_set,0.4901
+1578,ei bochor amar jonmodin kon din pore,datetime_query,datetime_query,0.6405
+1579,ekti chot klaber akar koto,qa_factoid,transport_query,0.5479
+1580,calendar e punrabritti ghotna set kora,calendar_set,calendar_set,0.8632
+1581,kotokkhon ami cake ti thanda korbo,cooking_recipe,cooking_recipe,0.7586
+1582,amar ki aj ekti jaketer dorkar hobe,weather_query,weather_query,0.3484
+1583,ajker jonno somoysuchi ki,lists_query,calendar_query,0.3668
+1584,ami kibhabe chinabadam makhon kukij korte pari,cooking_recipe,qa_factoid,0.1985
+1585,uttor rochna korun,email_sendemail,email_sendemail,0.4232
+1586,biniyog ba songrokkhon konti bhalo,qa_factoid,music_likeness,0.4516
+1587,tiub aj supar byosto chil,general_quirky,audio_volume_up,0.2048
+1588,olly alo ujjol,iot_hue_lightup,iot_hue_lightup,0.4409
+1589,are food panda r dokan theke biriyanir sathe gosot order korun,takeaway_order,takeaway_order,0.6524
+1590,sakib shilpi er sob ganguli odolobodol korun ebong play korun,play_music,play_music,0.5265
+1591,olly ami jante chai amar ki kono notun mone koranor moto bishoy ache,calendar_query,general_quirky,0.2669
+1592,onugroh kore sara din,email_sendemail,alarm_remove,0.1728
+1593,takar ebong takar moddhe binimoy har ki,qa_currency,qa_maths,0.7023
+1594,olly ekhon ki cinema cholche,recommendation_movies,recommendation_movies,0.9722
+1595,sorboshesh golpo kothon podcast ti khoj,play_podcasts,play_podcasts,0.9555
+1596,fur fur furtir shesh dui porbo chalu koro,play_podcasts,play_audiobook,0.3156
+1597,jante chai kotota baje,datetime_query,datetime_query,0.6395
+1598,dhaka theke chottogram porjonto dui joner train er ticket,transport_ticket,transport_query,0.5675
+1599,agamikal amar calendar e ki ache,calendar_query,calendar_query,0.9685
+1600,bortomane ki brishti hocche,weather_query,weather_query,0.9461
+1601,shukrobar mitingyer jonno ekti onusmarok set korun bikel tintay,calendar_set,calendar_set,0.9372
+1602,amar calendar e ekti event jog korun,calendar_set,calendar_set,0.9254
+1603,atomobailguli,news_query,qa_maths,0.1443
+1604,dhakay badminton match er bishye dosra januyari set korun,calendar_set,calendar_set,0.1781
+1605,doya kore february maser prottek brihospotibar dupur barotay kajer meeting set korun,calendar_set,calendar_set,0.9665
+1606,pasta ranna korar sobcheye sohoj upay ki,cooking_recipe,cooking_recipe,0.7537
+1607,ki notun boiguli ajke upolobdho,recommendation_movies,general_quirky,0.2423
+1608,calendar e ekti punrabrittimulok ghotna rakhun,calendar_set,calendar_set,0.8598
+1609,amar jodi janko food ebong alkohol thake tahle ki hobe,general_quirky,takeaway_query,0.6694
+1610,dhaka sie-te agami soptahe abohawa kemon thakbe,weather_query,weather_query,0.9649
+1611,brishti hole ami chakrite jab na,weather_query,alarm_remove,0.3047
+1612,apni bangladesh somporke shunle amake janan,news_query,qa_factoid,0.2414
+1613,playlist theke gan bajao,play_music,play_music,0.4645
+1614,histori off rom audiobook ti resume kor,play_audiobook,play_audiobook,0.9851
+1615,eta khub alada,general_quirky,iot_hue_lightup,0.5274
+1616,humayon ahmeder rupa chalao,play_audiobook,play_audiobook,0.3012
+1617,amake mone koriye din je agamikal ekti morning alarm er jonno asifer sathe amar ekti prejenteshon ache,calendar_set,alarm_set,0.8805
+1618,amar calendar e ei ghotnati ontorbhukto korun,calendar_set,calendar_set,0.7677
+1619,rakibake ekti email pathan,email_sendemail,email_sendemail,0.9908
+1620,ki ghotna shighroi ghotche,recommendation_events,recommendation_events,0.5895
+1621,amar christmas chutir talika muche din,lists_remove,lists_remove,0.9506
+1622,ajke amake je jinisopotro kinte hobe tar list ki,lists_query,lists_createoradd,0.6045
+1623,amake kichu notun premer somporke shunte din,play_music,general_quirky,0.1234
+1624,bharter sorboccho porbot ki,qa_factoid,qa_factoid,0.253
+1625,tarikh,datetime_query,datetime_query,0.9454
+1626,gan er bakkha,music_query,play_audiobook,0.141
+1627,channel i bissher khobor,news_query,news_query,0.99
+1628,agamikal amar mayer jonmodin,calendar_set,general_quirky,0.1828
+1629,ek takar somtullo taka ki,qa_currency,qa_currency,0.8458
+1630,olly mishti ebong tok dhorner soya,iot_coffee,qa_factoid,0.1247
+1631,daraz stock kholar mullo nirdesh korun,qa_stock,qa_stock,0.7922
+1632,apni ki sottii bharot theke bangladeshi dekhte paren,qa_factoid,datetime_convert,0.3125
+1633,eastern standard time e bortoman somoy koto,datetime_query,datetime_convert,0.931
+1634,dosh sekender moddhe bosar ghorer alo bondho korun,iot_hue_lightoff,iot_hue_lightoff,0.7222
+1635,amar sobcheye bajano gan ki,music_query,music_query,0.3684
+1636,contact onusondhan korun,email_querycontact,email_querycontact,0.6513
+1637,doya kore amake dhaka train er ticket book korun,transport_ticket,transport_ticket,0.9869
+1638,kanner bornonay koto mega pikseler talika dewa ache,qa_factoid,lists_query,0.5356
+1639,motamot songrokkhon korun,music_likeness,music_settings,0.2097
+1640,klayentoder sathe aj meeting dekhan doya kore,calendar_query,calendar_query,0.6921
+1641,spotify chalao,play_music,play_music,0.3583
+1642,apnar speaker er maddhome amake ekti profullo gan bajan,play_music,play_audiobook,0.4287
+1643,chottogramer abohawa kemon,weather_query,weather_query,0.9721
+1644,doya kore agamikal meetinger jonno shokal sattar ekti alarm set kore din,alarm_set,alarm_set,0.9745
+1645,sumon aj facebook e log in koreche,social_query,social_query,0.8718
+1646,calendar app theke nomuna meeting soran,calendar_remove,calendar_remove,0.8602
+1647,sera bangladeshi restaurant r nam ki,general_quirky,recommendation_locations,0.6312
+1648,google apni ki amake agamikaler jonno train e ekti ticket book korte paren,transport_ticket,transport_ticket,0.9007
+1649,eta ki sotto je jhulonto gachti sottii keu jhuliye rekhechilo,general_quirky,qa_factoid,0.2184
+1650,amar gmail account theke sokol anrid message gulo dekhan,email_query,email_query,0.9127
+1651,olly amar kachakachi kichu restaurant ache ki,recommendation_locations,recommendation_locations,0.6643
+1652,sakibke ekti onurodh pathan,email_sendemail,email_sendemail,0.3997
+1653,google er jonno ajker shesh mul,qa_stock,general_joke,0.1351
+1654,feni ki ghotna ghotche,recommendation_events,recommendation_events,0.4981
+1655,calendar theke notun bochor soran,calendar_remove,calendar_remove,0.8389
+1656,agamikal ki hobe bolun,calendar_query,general_greet,0.2556
+1657,kuri-i march dui hajar sotero saler abohawa kemon hobe,weather_query,weather_query,0.9852
+1658,aj rate amader porikolpona somporke amar bondhuke email korun,email_sendemail,email_sendemail,0.8205
+1659,rongpur nogre ki kon selun ache,recommendation_locations,qa_factoid,0.3453
+1660,apni doya kore alo ujjol korte paren,iot_hue_lightup,iot_hue_lightup,0.6219
+1661,ei ganti koto sale record kora hoyechilo,music_query,music_settings,0.1716
+1662,amar porjalochna,music_likeness,qa_definition,0.1495
+1663,amar ghum theke uthte hobe amake sobtheke kora coffee baniye dao,iot_coffee,iot_coffee,0.9939
+1664,punrabritti gan,music_settings,music_settings,0.4051
+1665,sob sorboshesh nacher ganagulir ekti playlist khujun ebong toiri korun,play_music,play_music,0.6225
+1666,amake notun nirbachon somporke jante din,news_query,qa_factoid,0.4165
+1667,poroborti podcast khelun,play_podcasts,play_podcasts,0.7863
+1668,porer shonibar shokal doshtay ekti khali calendar event toiri korun,calendar_set,calendar_set,0.8996
+1669,kotokkhon dim seddho korte hobe,cooking_recipe,transport_query,0.1446
+1670,baroi july adrer jonmodin ebong ei tarikher sathe amar calendar update kora hobe,calendar_set,calendar_query,0.8215
+1671,bortoman tapmatra koto,weather_query,qa_factoid,0.3189
+1672,kompanite ekti tweet pathan,social_post,social_post,0.9537
+1673,apni ki amake bolte paren ekti gabhir pakostholi koyti,qa_factoid,qa_definition,0.2335
+1674,ke ei ganti geyechen sei shilpi,music_query,music_settings,0.2968
+1675,dhaka er somosto march event amar calendar e jog korte hobe,calendar_set,calendar_set,0.6192
+1676,noysho niranobboi f. m. e ekhon ki gan bajche,music_query,music_query,0.5224
+1677,amar elakay ki ghotche,recommendation_events,recommendation_events,0.5949
+1678,ajke chottogram relooye station er jonno relgarir ticket khujun,transport_query,transport_ticket,0.6575
+1679,kauke dekha,qa_factoid,qa_factoid,0.2261
+1680,ekhoni amar kache ekti uber pathan,transport_taxi,transport_taxi,0.9797
+1681,ashik ke tar sorboshesh projukti bishye upolobdho pathan,email_sendemail,general_quirky,0.227
+1682,nogorbaul bajao,play_music,play_audiobook,0.6223
+1683,amake sorboshesh projuktir khobor anun,news_query,news_query,0.9545
+1684,ei muhurte bisshe ki ghotche,news_query,calendar_query,0.1516
+1685,proshosto ba songkirn kon nirdishto elakay rasta,transport_traffic,recommendation_events,0.3654
+1686,sjobs at apple dot com e ekti email pathan,email_sendemail,email_query,0.5954
+1687,kenakatar talikay ekti hat ghori jog korun,lists_createoradd,lists_createoradd,0.9497
+1688,amar ki aj rate kon det ache,calendar_query,qa_stock,0.1941
+1689,poroborti sat diner abohawa ki,weather_query,weather_query,0.9952
+1690,sileter pach diner purbabhas ki,weather_query,calendar_query,0.2706
+1691,doya kore email ta amar make pathan,email_sendemail,email_sendemail,0.9965
+1692,alexa ami ekti biriyani khete chai apni ki amake dupurer khabarer order dite paren,takeaway_order,takeaway_order,0.7373
+1693,agami mongolbar shokal egarota theke bikel tinta er moddhe ki ki onushthan hobe,calendar_query,qa_factoid,0.2274
+1694,ei bochor trish tarikh shukrobar kon din,datetime_query,datetime_query,0.7471
+1695,shironamhiner iccheghuri bajao,play_music,play_audiobook,0.3747
+1696,amake khobor bol,news_query,news_query,0.972
+1697,moddhahno-2 punray resume korun,play_audiobook,play_audiobook,0.3063
+1698,amar imotoil check korun ebong kon notun email biddoman thakle amake obhit korun,email_query,email_query,0.8971
+1699,channel noysho ekanno chalu korun,play_radio,play_audiobook,0.3195
+1700,proti robibarer jonno ekti punrabritto mudikhanar dokane trip set up korun,calendar_set,calendar_set,0.686
+1701,poker fes ledi gaga,play_music,general_quirky,0.1668
+1702,karento playlist ti bajao,play_music,play_music,0.8198
+1703,budhbar bikel pachta er rajshahi jawar ki kon relgari ache,transport_query,transport_query,0.9146
+1704,dhakar somoy koto,datetime_query,datetime_query,0.6784
+1705,amader breaking news somporke update amake saboskraib korun,news_query,news_query,0.9802
+1706,er orth,qa_definition,qa_definition,0.4332
+1707,ami kibhabe mudi dokane jete pari,transport_query,recommendation_locations,0.3816
+1708,rajib er shesh mail dekhan,email_query,email_query,0.9291
+1709,bangladesh jatrar ager din amake janan,calendar_set,datetime_query,0.7203
+1710,amar poroborti ghotna kharij,calendar_remove,recommendation_events,0.3027
+1711,amake robibar shokal egarotay girjar porishebar bishye obhit korte hobe,calendar_set,general_quirky,0.3203
+1712,aj ki brishti hocche,weather_query,weather_query,0.9595
+1713,agamikal bhor chartar somoy ekti alarm toiri korun,alarm_set,alarm_set,0.9857
+1714,ekta taxi dhor,transport_taxi,transport_taxi,0.993
+1715,amar march er calendar e somosto event guli talika korun,calendar_query,calendar_remove,0.6534
+1716,gotkal koto ran korechen shahin,news_query,qa_factoid,0.3779
+1717,ami amar posha prani thik kothay pete pari,general_quirky,qa_factoid,0.3322
+1718,kanadiyan dollar er sathe takar binimoy har ki,qa_currency,qa_currency,0.9284
+1719,amar somosto nirdharit ghotna poritran pete,calendar_remove,recommendation_events,0.4247
+1720,olly amar jonno amar email check korun doya kore,email_query,email_query,0.9826
+1721,jekhane nachim thaken,email_querycontact,transport_query,0.2645
+1722,joli theke asa email porun,email_query,email_query,0.7514
+1723,agami din bhalobasar manusher sathe det,calendar_set,general_quirky,0.2053
+1724,amar jana bishoy somporke amake sohoj proshno jigyasa korun ebong jokhon ami bhul kori tokhon amake bolun,general_quirky,general_quirky,0.337
+1725,ami ekti talika toiri korte chai ebong eti shironam talikar sathe ekti pattho file hisabe soyongkriybhabe songrokkhon kora uchit,lists_createoradd,lists_createoradd,0.9793
+1726,ekti am ki,qa_definition,qa_definition,0.1833
+1727,dhaka sentare tweet korun je tader jinisguli khub dami,social_post,social_post,0.9226
+1728,amake sorboshesh ke email korechilo,email_query,email_query,0.9479
+1729,amar ki pool coat pora uchit,weather_query,general_quirky,0.2981
+1730,bangladesh jonoshonkha koto,qa_factoid,qa_factoid,0.3015
+1731,computer hard disk somporke bornona kor,qa_definition,general_quirky,0.1314
+1732,porer train kokhon chottogram uddesshe charbe,transport_query,transport_query,0.8225
+1733,tini kibhabe nikhutbhabe kaj kore,general_quirky,general_quirky,0.1475
+1734,puro pizza bhajar jonno sothik tapmatra khujun,cooking_recipe,cooking_recipe,0.3489
+1735,amar priyo talikay ganti rakhun,music_likeness,lists_createoradd,0.8233
+1736,apni kibhabe ispat banaben,general_quirky,qa_definition,0.452
+1737,mongolbar sakib sathe dekha korar jonno ekti event reminder toiri korun,calendar_set,calendar_set,0.9065
+1738,amar oti samprotik email khulun ebong uttor din,email_sendemail,email_sendemail,0.9751
+1739,shubhjit nondike ekti email pathan,email_sendemail,email_sendemail,0.9884
+1740,amar calendar porishkar korun,calendar_remove,calendar_remove,0.6402
+1741,tara kibhabe korche ta jante amar poribarke ekti email pathan,email_sendemail,email_sendemail,0.9582
+1742,apni ki amar bandhobike pochondo koren,general_quirky,general_quirky,0.2394
+1743,sakib khaner sathe dekha korar jonno event jog korun,calendar_set,calendar_set,0.9267
+1744,olly ma amake kon email pathiyechen ki,email_query,email_query,0.9137
+1745,olly koto kris helomosooyarth koto bencho pres korte paren,qa_factoid,datetime_convert,0.5874
+1746,olly alo sate koman,iot_hue_lightdim,audio_volume_mute,0.2514
+1747,agami brihospotibar bank e call korar jonno amake mone koran,calendar_set,email_querycontact,0.7649
+1748,ajker diner meeting gulo dekhan,calendar_query,calendar_query,0.6924
+1749,apni amake bolte paren eta kon tarikh,datetime_query,datetime_query,0.6013
+1750,olly channel i,news_query,general_quirky,0.1346
+1751,shombar chadpur station theke hanif train er somoy porikkha korun,transport_query,transport_query,0.5872
+1752,ajkal prithibite ki hocche,news_query,calendar_query,0.4329
+1753,ami agamikal ki korte hobe,calendar_query,qa_definition,0.2945
+1754,amar calendar e poroborti ki,calendar_query,calendar_query,0.951
+1755,apni kotokkhon asto murgi share tinshote ranna koren,cooking_recipe,qa_stock,0.6078
+1756,ki ghotna amar elakay ei soptahante jonno nirdharit hoy,recommendation_events,recommendation_events,0.5344
+1757,apni kibhabe robot vacuum cleaner sokriyo korben,iot_cleaning,iot_cleaning,0.996
+1758,bhuya khobor domon korte bitorkit tag chalu koreche facebook,news_query,social_query,0.4504
+1759,amar ki rakib theke kon email ache,email_query,email_query,0.9741
+1760,bortoman gan bajche eta ki,music_query,music_query,0.6231
+1761,amar relgari kokhon asche,transport_query,transport_traffic,0.311
+1762,aj dao jonser ki hoyeche,qa_stock,datetime_query,0.6991
+1763,shighroi ki ushno hocche,weather_query,weather_query,0.1717
+1764,soptaher kon din baishe march,datetime_query,calendar_query,0.2944
+1765,aj ki sanoskriner din,weather_query,datetime_query,0.5923
+1766,onugroh kore chilokse tweet korun ami ekhon amar delivery r jonno opekkha korchilam number ti khushi noy,social_post,takeaway_order,0.6904
+1767,takar bonam taka binimoy har check korun,qa_currency,qa_currency,0.669
+1768,ajke kotota thanda,weather_query,transport_traffic,0.2149
+1769,echarao ekti poritosh,general_quirky,general_quirky,0.1869
+1770,eti ki roudrojjol poribesh,weather_query,transport_query,0.6785
+1771,ei soptahante amar kachakachi kon bishesh ghotna ache,recommendation_events,transport_query,0.3213
+1772,eta ki unotrishotom,datetime_query,qa_factoid,0.13
+1773,ami sadiyar upolobdho tarikhguli porikkha korte chai tai apni ki take mail pathaben ebong eti somporke jigyasa korben,email_sendemail,email_query,0.5411
+1774,ami chai je amar robot amar kukurke khawate ebong poshak jokhon ami barite thaki na,general_quirky,general_quirky,0.2318
+1775,ekti notun kenakatar talika toiri korun,lists_createoradd,lists_createoradd,0.896
+1776,brihospotibar dupur dutoy forman babur sathe ekti meeting set korun,calendar_set,calendar_set,0.9871
+1777,olly abohawa kemon,weather_query,weather_query,0.9868
+1778,jib shobder orth ki bolun,qa_definition,general_joke,0.3099
+1779,chadpur jete soptahante ebong chutir din gulite prothom train guli sondhan korun,transport_query,transport_ticket,0.5102
+1780,ami brokli ebong murgir sathe ki ranna korte pari,cooking_recipe,cooking_recipe,0.388
+1781,bish november ki ache,calendar_query,datetime_query,0.5997
+1782,amar asonno event guli somporke amake bolo,calendar_query,calendar_query,0.3875
+1783,porer bochor amake mongol grohe ekti flight book korun,qa_factoid,transport_ticket,0.969
+1784,olly amar priyo jazz shilpi er ekti bhalo track bajan,play_music,music_likeness,0.5125
+1785,amake kichu pop songit ba ekti gan shunte din,play_music,music_likeness,0.4821
+1786,shukrobar ki brishti hobe,weather_query,weather_query,0.9665
+1787,sompurnorupe amar calendar porishkar korun,calendar_remove,calendar_remove,0.5016
+1788,asun kanamachi kheli,play_game,play_game,0.887
+1789,anich rohman kon hi school e giyechilen,qa_factoid,qa_factoid,0.2849
+1790,aj apnar mejaj ki,general_quirky,email_querycontact,0.3616
+1791,ponchom tolar meeting e doshom tarikhe shantonu shubho amar sathe jog din,calendar_set,calendar_set,0.8002
+1792,tareker stri kemon achen,qa_factoid,general_quirky,0.2006
+1793,menute sobkichu muchun,lists_remove,lists_remove,0.2475
+1794,komla shobder mane ki,qa_definition,qa_factoid,0.2849
+1795,amar jonno james er dara songit bajan,play_music,play_music,0.3938
+1796,amar puro calendar theke somosto event guli muche felun,calendar_remove,calendar_remove,0.9771
+1797,dhakay ekhon ki somoy hobe,datetime_query,datetime_query,0.5184
+1798,porer mase lon keyar appointment muche felun,calendar_remove,calendar_remove,0.948
+1799,ajker porikolpona ki ache,calendar_query,calendar_query,0.1227
+1800,event er din giye muche felun,calendar_remove,calendar_remove,0.8713
+1801,asma amar khabar khuje dao,takeaway_query,recommendation_locations,0.5328
+1802,shekh hasina somporke sorboshesh update din,news_query,news_query,0.6516
+1803,amake kroy adesh bistarit din,lists_query,qa_maths,0.1221
+1804,satar katte jawa ki khub thanda,weather_query,transport_traffic,0.3168
+1805,train er somoysuchi doshtay,transport_query,transport_query,0.7481
+1806,rumer alo bondho korun rumer,iot_hue_lightoff,iot_hue_lightoff,0.8269
+1807,event er sob tothyo muche felun,calendar_remove,calendar_remove,0.9099
+1808,ei soptahe laibrerite ki kon ghotna ghotche,recommendation_events,recommendation_events,0.6988
+1809,food panda r takeaway ache,takeaway_query,takeaway_query,0.5997
+1810,ekattorer chithi podcast chalao,play_podcasts,play_podcasts,0.8773
+1811,amake amar talika shunte din,lists_query,lists_query,0.5496
+1812,amar jonne arker eto koshto ken bhalbasay ganti bajao,play_music,play_music,0.2894
+1813,bochre koto mas,qa_factoid,datetime_query,0.2451
+1814,shesh email ti ami kake peyechi ta amake bolun,email_query,email_query,0.9488
+1815,ajke kaje ki ami ekti soyetar othba kot niye jab,weather_query,general_quirky,0.3596
+1816,eta foroyard kor,play_podcasts,qa_maths,0.2229
+1817,ei maser shesh shukrobar kon dine obotoron kore,datetime_query,qa_maths,0.1628
+1818,kothay bilaichri,qa_factoid,play_audiobook,0.1866
+1819,agamikal shombar shokal attar jonno ekti alarm set korun,alarm_set,alarm_set,0.9949
+1820,amake channel i sobcheye update howa khobor porun,news_query,news_query,0.9566
+1821,amar jonno ekti notun talika toiri korun,lists_createoradd,lists_createoradd,0.9902
+1822,amar kajer pothe kon traffic ache,transport_traffic,transport_traffic,0.9508
+1823,sabbirke email pathan ami porer din file pathate jacchi,email_sendemail,email_sendemail,0.7896
+1824,ajker jonno sob item kotha bolun,lists_query,general_joke,0.231
+1825,kichu nogor baul bajan,play_music,play_audiobook,0.3865
+1826,ekhon theke tero miniter moddhe amake park e gari chalanor jonno mone koraben,calendar_set,transport_query,0.3551
+1827,amake kibhabe ekti alu seddho korbo,cooking_recipe,cooking_recipe,0.149
+1828,amar jonmodiner porikolponar jonno ekti notun talika toiri korun,lists_createoradd,lists_createoradd,0.9909
+1829,rannaghor vaccum korun,iot_cleaning,iot_cleaning,0.9142
+1830,ami radio today rash limbagh shunte chai,play_radio,play_radio,0.974
+1831,amar ditiyo playlist bajan,play_music,play_music,0.7535
+1832,google calender,calendar_set,calendar_query,0.92
+1833,ei soptaher abohawa kemon,weather_query,weather_query,0.9868
+1834,ami ki porer soptahante nirdharit kono meeting ache,calendar_query,calendar_query,0.8645
+1835,apni ki amar jonno radio today play korte paren,play_radio,play_radio,0.9062
+1836,prothom alo taimos app ti khulun,news_query,play_game,0.4256
+1837,muche felun,calendar_remove,audio_volume_up,0.1929
+1838,ekshoo choy doshmik noy channel e jan,play_radio,play_podcasts,0.2233
+1839,rajur jonno email toiri korun,email_sendemail,email_addcontact,0.9174
+1840,amar radio purano playlist chalu korun,play_radio,play_radio,0.7337
+1841,apni e m. radio chalu korun,play_radio,play_radio,0.93
+1842,amar poroborti ghotna ki,calendar_query,recommendation_events,0.6688
+1843,shokale prothom city service kokhon pouchay,transport_query,qa_factoid,0.295
+1844,bangladesh o bharter moddhe somyer parthokko,datetime_convert,transport_query,0.3557
+1845,olly amar khabar kothay,takeaway_query,takeaway_query,0.6102
+1846,etite moshla thaka uchit,cooking_recipe,qa_definition,0.1967
+1847,ami amar premiker sathe agami soptahe lilir biyete jog deb doya kore eti amar calendar e jog korun,calendar_set,calendar_set,0.817
+1848,ager gan chalao,play_music,play_audiobook,0.452
+1849,antorjatik nari dibser shirsh songbad,news_query,play_music,0.2891
+1850,sabrinar sathe ei sondhay boithker jonno event jog korun,calendar_set,calendar_set,0.9316
+1851,agamikal dupur duitay meeting somporke amake mone koriye din,calendar_set,calendar_set,0.9519
+1852,proti dollar er jonno koto taka,qa_currency,qa_currency,0.9245
+1853,budhbarer jonno shokal choytar alarm bondho korun,alarm_remove,alarm_remove,0.9542
+1854,oyaplelistotirk out chalao,play_music,play_audiobook,0.4236
+1855,amake notun sourojogter notun nibondhoti porun,news_query,general_quirky,0.1791
+1856,dhakar kon ongsh dhaka ontorgot,qa_factoid,qa_factoid,0.2451
+1857,alo bondho,iot_hue_lightoff,iot_hue_lightoff,0.708
+1858,amake egarotar por dhaka theke dinajpur porjonto train bolun mi,transport_query,transport_query,0.8501
+1859,amar jonno ekti email pathan,email_sendemail,email_sendemail,0.9885
+1860,dekhan channel i obhibasner khobor,news_query,news_query,0.9829
+1861,doya kore ekhon gan chalan,play_music,play_game,0.2059
+1862,google ke shesh rashtropti jini ekti kukurer malik chilen na,qa_factoid,qa_factoid,0.3093
+1863,ekhon nagpurer abohawa kemon,weather_query,weather_query,0.9712
+1864,james er ei bochre mukti pawa ganguli chalao,play_music,play_audiobook,0.4855
+1865,kon din meeting hobe,calendar_query,calendar_query,0.4867
+1866,ghumate jao,audio_volume_mute,transport_query,0.083
+1867,ami sondha chota theke sattar moddhe ki fri achi,calendar_query,general_quirky,0.2266
+1868,dollar e koto taka hoy,qa_currency,qa_currency,0.9564
+1869,ek fut koto inchi kore,qa_maths,qa_maths,0.3149
+1870,google onugroh kore otirikto shanto hon shishuti ghumacche,audio_volume_mute,general_quirky,0.1439
+1871,doya kore ei robibar mone koriye din konsarte jete,calendar_set,calendar_set,0.1553
+1872,amar jonno amar kantri fabhoritos playlist khelun,play_podcasts,play_music,0.5079
+1873,bikash er stock mullo ki,qa_stock,qa_stock,0.9886
+1874,somyer jonno alarm set,alarm_set,alarm_set,0.9869
+1875,abdur roshid somporke amake bolun,qa_factoid,qa_factoid,0.2743
+1876,talikar somoysuchi abritti korun,lists_query,lists_createoradd,0.9641
+1877,amar shuru kora shesh chaptar theke amar audiobook ti abar chalao,play_audiobook,play_audiobook,0.9814
+1878,ei je poroborti relgari kokhon prosthan korboe,transport_query,transport_query,0.744
+1879,prithibir ushnotom sthan kothay,qa_factoid,qa_factoid,0.3943
+1880,music er volume nobboi theke shuru korun,audio_volume_up,audio_volume_down,0.5203
+1881,markin taka ebong taka binimoy har ki,qa_currency,qa_currency,0.7393
+1882,aj sinemay ki ki cinema dekhano hocche,recommendation_movies,recommendation_movies,0.9815
+1883,are tomar ki home sorobrah ache,takeaway_query,qa_factoid,0.2462
+1884,doya kore ronir notun email ronyrony at gmail dot com e ekti email pathan,email_sendemail,email_sendemail,0.9733
+1885,doya kore bairer sob alo bondho korun,iot_hue_lightoff,iot_hue_lightoff,0.7126
+1886,kokhon meeting shuru hobe,calendar_query,calendar_set,0.5968
+1887,tumi ki asol,general_quirky,datetime_query,0.5565
+1888,doya kore amake dosh miniter moddhe chula theke coffee khule felte mone koriye din,calendar_set,iot_coffee,0.9963
+1889,olly amake mone korao aj theke ek soptah pachtay laibrerite thakte hobe,calendar_set,calendar_set,0.3395
+1890,amar playlist e ki ache,lists_query,lists_query,0.3061
+1891,amake ekti laptop sarkiter bornona din,qa_definition,general_quirky,0.1674
+1892,amake burger sera recipe dekhan,cooking_recipe,cooking_recipe,0.9179
+1893,amake sorboshesh update din,news_query,news_query,0.6337
+1894,talikay item jog korun,lists_createoradd,lists_createoradd,0.9879
+1895,robibar bikele ami ki korchi ta amake mone koriye din,calendar_set,general_quirky,0.2141
+1896,aj dupur duitar jonno amar meeting muche din,calendar_remove,calendar_remove,0.6403
+1897,amake ekti pizza ranna korun,cooking_recipe,takeaway_order,0.9163
+1898,ami ki shesh ghontay kon mail peye,email_query,email_query,0.8239
+1899,ami je radio station ti chalate chai tar nam bolun,play_radio,play_radio,0.9352
+1900,ei mase amar calendar e ki ache,calendar_query,calendar_query,0.9626
+1901,event er pore ki korte hobe,calendar_query,calendar_query,0.3543
+1902,burger king ki tek out dey,takeaway_query,takeaway_query,0.4839
+1903,apni ki amake shombarer abohawa bolte paren,weather_query,weather_query,0.9892
+1904,ok google doya kore spikarguli awaj bondho korun,audio_volume_mute,iot_wemo_off,0.4599
+1905,ei muhurte amar priyo songit ki,music_query,music_likeness,0.7276
+1906,kokhon amar sei porikkha ache,calendar_query,calendar_query,0.1839
+1907,jamal bhuiya ekhon kothay thaken,qa_factoid,qa_factoid,0.1689
+1908,jolbayu,weather_query,general_joke,0.1981
+1909,ami amar biyer jonno toiri kora playlist ti shunte chai,play_music,play_music,0.6785
+1910,ki alarm agamikal amake jagiye tulbe,alarm_query,alarm_remove,0.6837
+1911,olly amar telibhishne ekti bhalo mubhi chalao,play_radio,general_quirky,0.1615
+1912,amake alarm somoy jante din,alarm_query,alarm_query,0.9581
+1913,amake brihospotibar shokal choyta jagiye tulun jate ami mitingyer jonno somoy pai,calendar_set,calendar_set,0.5076
+1914,ami kibhabe pasta ranna korte pari,cooking_recipe,cooking_recipe,0.7971
+1915,amar phone boiye ke sorbadhik ghon ghon daka byokti,email_querycontact,transport_query,0.4308
+1916,dhakate somoy ki,datetime_query,datetime_query,0.7688
+1917,kotoguli alarm talikabhukto kora hoyeche,alarm_query,alarm_query,0.7726
+1918,olly ei soptahonte dhakar ekti mela bolun,recommendation_events,recommendation_locations,0.4755
+1919,onugroh kore amake robot vacuum cleaner chalu korte shahajyo korun,iot_cleaning,iot_cleaning,0.997
+1920,amar calendar e ekti punrabritti patarn ei ghotna rakhun,calendar_set,calendar_set,0.9074
+1921,amar bishoy somporkit jogajog theke email sob jante hobe,email_query,email_query,0.8876
+1922,ahsan monjil drutotom upay ki,transport_query,general_quirky,0.1779
+1923,ami pandora shune birokto doya kore radio chalao,play_radio,play_radio,0.9014
+1924,choy biyog char ki,qa_maths,qa_factoid,0.4351
+1925,shokaler jonno ekti alarm toiri korun,alarm_set,alarm_set,0.9875
+1926,amar bosar ghore alo bondho korun,iot_hue_lightoff,iot_hue_lightoff,0.8186
+1927,artosel bajao,play_music,play_music,0.4439
+1928,amar agamikal koto meeting ache,calendar_query,calendar_query,0.709
+1929,apni ki amar jonno dinner korte paren,general_quirky,cooking_recipe,0.3519
+1930,odhinostho er shongga ki,qa_definition,qa_definition,0.5202
+1931,apni ki ei notun email thikanay ekti email pathaben,email_sendemail,email_query,0.8797
+1932,ami jete chai radio amar radio te,play_radio,play_radio,0.9454
+1933,amar ki kono notun email ache,email_query,email_query,0.9735
+1934,agamikal shokal pachtay artoseler chile kothar sepai bajabe jate asle ami ghum theke uthte pari,play_music,play_audiobook,0.5505
+1935,amar calendar e baroi july ruhi er jonmodin jog kora hobe,calendar_set,calendar_query,0.719
+1936,onek sadhnar pore ami gantir shironam dara gayok ki bojhate cheyechilen,music_query,qa_factoid,0.2791
+1937,ami ki jante pari talikay ki ache,lists_query,lists_query,0.9369
+1938,amake ki aj kichu korte hobe,calendar_query,calendar_query,0.3356
+1939,roikhik somikoron ki,qa_maths,qa_factoid,0.266
+1940,amar rat noyta alarm er jaygay shokal pachta alarm jog korun,alarm_set,alarm_set,0.962
+1941,amar aro bhalo fokas thaka dorkar olly ami ekti ekok kaje mononibesh korte parini,general_quirky,general_quirky,0.1151
+1942,amake ajker khelar khobrer shironam bolun,news_query,news_query,0.9814
+1943,konar gan shuru kor,play_music,play_music,0.2288
+1944,samogrik din,general_quirky,datetime_query,0.3642
+1945,chihnit koro ei gan tike pachti star diye,music_likeness,music_likeness,0.2928
+1946,onugroh kore drawing holer alo nibhiye din,iot_hue_lightoff,iot_hue_lightdim,0.5085
+1947,aj rate ki amake hat-mojaguli porte hobe,weather_query,qa_currency,0.3027
+1948,norom ponir shokto theke bhalo,cooking_recipe,audio_volume_mute,0.2083
+1949,tumi ki podcast er ekti porbo pichne jete paro,play_podcasts,play_podcasts,0.9289
+1950,poroborti podcast porbo shuru korun,play_podcasts,play_podcasts,0.9522
+1951,ami kichu rap music shunte chai,play_music,play_music,0.4957
+1952,prottek shukrobar punrabritti lunch er event poriborton,calendar_set,calendar_set,0.6639
+1953,eti sussadu hobe,cooking_recipe,general_quirky,0.2142
+1954,amar ekti kharap din chil,general_quirky,general_quirky,0.2292
+1955,ami ei asonno event er jonno dhaka hote hobe apni eti jog korte paren,calendar_set,calendar_set,0.6531
+1956,sabjekto jukto kono email ache,email_query,email_query,0.9779
+1957,asbabopotro theke tebil soran,lists_remove,lists_remove,0.6484
+1958,shukrobarer pore jekono shokaler alarm bondho korun,alarm_remove,alarm_set,0.5115
+1959,bishei april amar bhaiyer jonmodiner kotha mone koriye dite bhulben na,calendar_set,calendar_remove,0.2259
+1960,dhakar abohawa ki dosh degree r kom hobe,weather_query,weather_query,0.9885
+1961,dhaka shohor chere poroborti train er charar somoy koyta,transport_query,transport_query,0.8447
+1962,shakib theke kono notun mail,email_query,email_query,0.8258
+1963,alexa amake kaji harun somporke kioyard bolun,qa_factoid,general_quirky,0.2636
+1964,sob ghotna ebong ibhentos muche felun,calendar_remove,calendar_remove,0.3446
+1965,calendar khulun ebong ekti notun event toiri korun,calendar_set,calendar_set,0.9007
+1966,prothom alo post oyebsaite jan,news_query,social_post,0.9433
+1967,rofiul ki amake ekti email pathiyeche,email_query,email_query,0.9401
+1968,ami asonno komonooyeloth gemos somporke aro jante chai,general_quirky,qa_factoid,0.4114
+1969,ami ki amader somoy theke breaking news jante pari,news_query,news_query,0.9895
+1970,charte theke choyta porjonto kokhon amar ekti binamulle birti ache,calendar_query,qa_factoid,0.1138
+1971,baire gorom naki thanda,weather_query,audio_volume_mute,0.1066
+1972,bangladesher mohan prachir koto dirgh,qa_factoid,transport_query,0.6241
+1973,calendar theke somosto ghotna saf korun,calendar_remove,calendar_remove,0.7737
+1974,amake dhaka somporke ekti bhouglik tothyo din,qa_factoid,qa_factoid,0.1796
+1975,speaker er volume poyoshotti parsento poriborton korun,audio_volume_up,audio_volume_down,0.4962
+1976,volume baran,audio_volume_up,audio_volume_up,0.9325
+1977,ja bortomane breaking news,news_query,news_query,0.9939
+1978,sakib al hasaner jonmodiner tarikh koto,qa_factoid,datetime_query,0.8076
+1979,gachpala,general_quirky,qa_definition,0.1186
+1980,apnar rong sobuje poriborton korun,iot_hue_lightchange,iot_hue_lightchange,0.9349
+1981,train e rajshahi shohrer ticket kinun,transport_ticket,transport_query,0.6148
+1982,taropre ok tipun,alarm_query,general_quirky,0.0982
+1983,apni ki phone number janen jeniya suitir,qa_factoid,email_querycontact,0.968
+1984,eksho dui doshmik sat station e jan,play_radio,play_radio,0.6485
+1985,ami ki ekhon amar reinkot sathe niye jab,weather_query,calendar_query,0.1996
+1986,amar inbox opthit email ache ki,email_query,email_query,0.98
+1987,amar facebook grupke bolun je ami esechi,social_post,social_query,0.9145
+1988,food panda r theke duti majhari ponir ebong ekti majhari pizza biriyani order korun,takeaway_order,takeaway_order,0.9268
+1989,ami ki jante pari gon maddhom ki probonta cholche,social_query,qa_factoid,0.3386
+1990,calendar e asonno ghotna,calendar_set,calendar_query,0.6209
+1991,olly bagan park e event ebong meeting ki ache dekhun,recommendation_events,calendar_query,0.6522
+1992,manush kibhabe emonbhabe chinta kore je tara isshorer kach theke sobkichu lukate pare,general_quirky,qa_factoid,0.3083
+1993,agamikal nojrul islamer sathe ekti meeting korar jonno amake ekti somoy ber korun,calendar_set,calendar_set,0.9828
+1994,agamikal ei somporke amake mone koriye din,calendar_set,calendar_set,0.5201
+1995,amar talika theke ponir soran,lists_remove,lists_remove,0.9444
+1996,choturth bisshojuddho hobe,general_quirky,qa_definition,0.2037
+1997,doya kore amake dhakar abohawa bolun,weather_query,weather_query,0.9942
+1998,aj ja ghoteche ta record korun,general_quirky,play_music,0.2322

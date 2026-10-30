@@ -1,0 +1,2001 @@
+﻿utt,intent,pred,conf
+ekhon theke dui ghontar jonno ekti alarm set korun,alarm_set,general_quirky,0.09672339246252372
+ghorti vaccum korun,iot_cleaning,general_quirky,0.09672339246252372
+dhulobali kharap jinis porishkar kore rakha bhalo tai amar karpetti porishkar kore felun,iot_cleaning,general_quirky,0.09672339246252372
+jokhon show shuru hoy ta check koro,calendar_query,general_quirky,0.09672339246252372
+ami bappa mojumdarer gan abar shune chai,play_music,general_quirky,0.09672339246252372
+ami amar pordar ujjoltay status chai,general_quirky,general_quirky,0.09672339246252372
+amar upolobdho smritite amake status din,general_quirky,general_quirky,0.09672339246252372
+sokriyo alarm talikabhukto korun,alarm_query,general_quirky,0.09672339246252372
+amake amar alarm gulo somporke bolun,alarm_query,general_quirky,0.09672339246252372
+artoseler olos onubhutir deyal shunte chai,play_music,general_quirky,0.09672339246252372
+alo aro ujjol korun,iot_hue_lightup,general_quirky,0.09672339246252372
+ei soptaher abohawa kemon,weather_query,general_quirky,0.09672339246252372
+ei soptaher abohawa somporke bolun,weather_query,general_quirky,0.09672339246252372
+amake food panda r theke ekti biriyani order korun,takeaway_order,general_quirky,0.09672339246252372
+amar priyo playlist bajan,play_music,general_quirky,0.09672339246252372
+eta abar bajan,play_music,general_quirky,0.09672339246252372
+sabina amake ekta coffee baniye dao,iot_coffee,general_quirky,0.09672339246252372
+tara ki barite bitoron dey,takeaway_query,general_quirky,0.09672339246252372
+amake bolun somoy,datetime_query,general_quirky,0.09672339246252372
+ami ki pizza jayga theke sorobrah order korte pari,takeaway_order,general_quirky,0.09672339246252372
+baire ki brishti porche,weather_query,general_quirky,0.09672339246252372
+dhakar baire ki brishti hocche,weather_query,general_quirky,0.09672339246252372
+amar febhariter talikay ei ganti jog koro,music_likeness,general_quirky,0.09672339246252372
+alo bondho,iot_hue_lightoff,general_quirky,0.09672339246252372
+olly channel i,news_query,general_quirky,0.09672339246252372
+olly amar priyo jazz shilpi er ekti bhalo track bajan,play_music,general_quirky,0.09672339246252372
+ami tomake shunte pacchi na,audio_volume_up,general_quirky,0.09672339246252372
+ami khub komoi apnake shunte pacchi,audio_volume_up,general_quirky,0.09672339246252372
+onek sadhnar pore ami gantir shironam dara gayok ki bojhate cheyechilen,music_query,general_quirky,0.09672339246252372
+agamikal ki abohawa jhoro thakbe,weather_query,general_quirky,0.09672339246252372
+rannaghrer uprer alo jalan,iot_hue_lighton,general_quirky,0.09672339246252372
+boguray bortoman somoy koto,datetime_query,general_quirky,0.09672339246252372
+rannaghor vaccum korun,iot_cleaning,general_quirky,0.09672339246252372
+amake khobor bol,news_query,general_quirky,0.09672339246252372
+ajker purbabhas ki,weather_query,general_quirky,0.09672339246252372
+abohawa kemon,weather_query,general_quirky,0.09672339246252372
+alexa ami ekti biriyani khete chai apni ki amake dupurer khabarer order dite paren,takeaway_order,general_quirky,0.09672339246252372
+purn kkhomtay light set korun,iot_hue_lightup,general_quirky,0.09672339246252372
+ami ki agamikal ekta chata pab,weather_query,general_quirky,0.09672339246252372
+nomniyo,audio_volume_down,general_quirky,0.09672339246252372
+olly ami aj ekojon doridro obhabike shahajyo korechi,iot_coffee,general_quirky,0.09672339246252372
+soptaher kon din baishe march,datetime_query,general_quirky,0.09672339246252372
+aj shombar,datetime_query,general_quirky,0.09672339246252372
+chottogramer abohawa kemon,weather_query,general_quirky,0.09672339246252372
+bogura ki ekhon rod ache,weather_query,general_quirky,0.09672339246252372
+smart plug bondho korun,iot_wemo_off,general_quirky,0.09672339246252372
+amar playlist er ekta retro gan shonao,play_music,general_quirky,0.09672339246252372
+plug socket ek shokti up,iot_wemo_on,general_quirky,0.09672339246252372
+miles er foldar khulun,play_music,general_quirky,0.09672339246252372
+purano diner christmas gan bajao,play_music,general_quirky,0.09672339246252372
+ki jinis apni korte parben na,general_quirky,general_quirky,0.09672339246252372
+amake dhakar somoy dao,datetime_query,general_quirky,0.09672339246252372
+ganer nam ki,music_query,general_quirky,0.09672339246252372
+baire tapmatra koto,weather_query,general_quirky,0.09672339246252372
+order prostut korte koto somoy lagbe,takeaway_query,general_quirky,0.09672339246252372
+tahsan er sathe album er nam onusondhan korun,music_query,general_quirky,0.09672339246252372
+are olly playlist chalao,play_music,general_quirky,0.09672339246252372
+kotoguli alarm talikabhukto kora hoyeche,alarm_query,general_quirky,0.09672339246252372
+halka rong poriborton korun,iot_hue_lightchange,general_quirky,0.09672339246252372
+light guli poriborton korun,iot_hue_lightchange,general_quirky,0.09672339246252372
+eastern onchole somoy ki,datetime_query,general_quirky,0.09672339246252372
+mongolbar abohawa kemon thakar kotha,weather_query,general_quirky,0.09672339246252372
+sat number play list bajan,play_music,general_quirky,0.09672339246252372
+amake tahsaner ekti gan bajan,play_music,general_quirky,0.09672339246252372
+ei soptahe sorboccho tapmatra koto hobe,weather_query,general_quirky,0.09672339246252372
+niyontron aloguli ghorer alo bondho kore dao,iot_hue_lightoff,general_quirky,0.09672339246252372
+ami kichu gospel gan shunte chai,play_music,general_quirky,0.09672339246252372
+apni amake bolte paren eta kon tarikh,datetime_query,general_quirky,0.09672339246252372
+volume barate ami shunte pacchi na,audio_volume_up,general_quirky,0.09672339246252372
+apni doya kore alo ujjol korte paren,iot_hue_lightup,general_quirky,0.09672339246252372
+hi apni ki alo kom korte paren,iot_hue_lightdim,general_quirky,0.09672339246252372
+amake ekta songbadopotro dao,news_query,general_quirky,0.09672339246252372
+ami ki amader somoy theke breaking news jante pari,news_query,general_quirky,0.09672339246252372
+agamikal bhor chartar somoy ekti alarm toiri korun,alarm_set,general_quirky,0.09672339246252372
+pach ghonta por amake jaganor jonno ekti alarm korun,alarm_set,general_quirky,0.09672339246252372
+etar pore alo alo gan bajan,play_music,general_quirky,0.09672339246252372
+apni konthossor kom korte paren,audio_volume_down,general_quirky,0.09672339246252372
+shirsh hedlainguli din,news_query,general_quirky,0.09672339246252372
+amar transo list theke kichu gan bajao,play_music,general_quirky,0.09672339246252372
+ami onnotha na bola porjonto nijeke nihshobdo,audio_volume_mute,general_quirky,0.09672339246252372
+ei soptahe abohawa kemon dekhacche,weather_query,general_quirky,0.09672339246252372
+apni ki onugroh kore amake emon ekti utso theke sorboshesh khobor pete paren jekhane ami sadharonot jai na,news_query,general_quirky,0.09672339246252372
+sorboshesh khelar khobor somporke amake bolun,news_query,general_quirky,0.09672339246252372
+hasina jokhon khobre achen tokhon amake obhit korun,news_query,general_quirky,0.09672339246252372
+ok google doya kore spikarguli awaj bondho korun,audio_volume_mute,general_quirky,0.09672339246252372
+notun gaga playlist bajan,play_music,general_quirky,0.09672339246252372
+prothom alo taimos app ti khulun,news_query,general_quirky,0.09672339246252372
+volume baran,audio_volume_up,general_quirky,0.09672339246252372
+ornober playlist bajao,play_music,general_quirky,0.09672339246252372
+ore google are baire khub gorom aj bikeler tapmatra koto,weather_query,general_quirky,0.09672339246252372
+holiuder sorboshesh gosip ki cholche,news_query,general_quirky,0.09672339246252372
+ki alarm agamikal amake jagiye tulbe,alarm_query,general_quirky,0.09672339246252372
+amar set alarm,alarm_query,general_quirky,0.09672339246252372
+motamot songrokkhon korun,music_likeness,general_quirky,0.09672339246252372
+amar jonne arker eto koshto ken bhalbasay ganti bajao,play_music,general_quirky,0.09672339246252372
+amar jonne kori miles khela,play_music,general_quirky,0.09672339246252372
+shokal attar jonno alarm set korun,alarm_set,general_quirky,0.09672339246252372
+agamikal shokaler jonno alarm bondho korun,alarm_remove,general_quirky,0.09672339246252372
+budhbarer jonno shokal choytar alarm bondho korun,alarm_remove,general_quirky,0.09672339246252372
+shukrobarer pore jekono shokaler alarm bondho korun,alarm_remove,general_quirky,0.09672339246252372
+amake kichu labhendar tonod alo din,iot_hue_lightchange,general_quirky,0.09672339246252372
+agami soptahe abohawa kemon hobe,weather_query,general_quirky,0.09672339246252372
+doya kore amar alarm batil korun,alarm_remove,general_quirky,0.09672339246252372
+amar joging playlist ti open kor ebong gan bajao,play_music,general_quirky,0.09672339246252372
+agamikal ki hocche,news_query,general_quirky,0.09672339246252372
+bortoman bissher khobor,news_query,general_quirky,0.09672339246252372
+channel i bissher khobor,news_query,general_quirky,0.09672339246252372
+ei ganti shesh howar pore ami poroborti uddessho nei shunte chai,play_music,general_quirky,0.09672339246252372
+ranna ghorer alo nibhiye dao,iot_hue_lightdim,general_quirky,0.09672339246252372
+agamikaler jonno amar kajer alarm ta ki set kora hoye geche,alarm_query,general_quirky,0.09672339246252372
+robot vacuum cleaner ki plug in korte hobe,iot_cleaning,general_quirky,0.09672339246252372
+apni kibhabe robot vacuum cleaner sokriyo korben,iot_cleaning,general_quirky,0.09672339246252372
+rock metal bajabe na,music_dislikeness,general_quirky,0.09672339246252372
+upbhog,play_music,general_quirky,0.09672339246252372
+amake agamikaler abohawar talika dekhan,weather_query,general_quirky,0.09672339246252372
+prothom alo post oyebsaite jan,news_query,general_quirky,0.09672339246252372
+amar shokaler playlist chalao,play_music,general_quirky,0.09672339246252372
+amar aiyub bachchu er sob ganguli ekotrit korun,play_music,general_quirky,0.09672339246252372
+poroborti natok imran mahmuduler bolob toke aj,play_music,general_quirky,0.09672339246252372
+amake tarikh bolun,datetime_query,general_quirky,0.09672339246252372
+amar pochonder sob gangulo bajan,play_music,general_quirky,0.09672339246252372
+eta ki unotrishotom,datetime_query,general_quirky,0.09672339246252372
+dhakate bortoman somoy ki,datetime_query,general_quirky,0.09672339246252372
+antorjatik nari dibser shirsh songbad,news_query,general_quirky,0.09672339246252372
+ekti long black train somporke ke gan geyechil,music_query,general_quirky,0.09672339246252372
+hasina somporke ajker prothom alo nibondhoguli khujun,news_query,general_quirky,0.09672339246252372
+jodi eti chottogramer rat doshta tobe chittagonge somoy koto,datetime_convert,general_quirky,0.09672339246252372
+olly amar to ekhon shrikanto achariyar amar sarata din shunte hobe,play_music,general_quirky,0.09672339246252372
+agamikal shokal pachtay artoseler chile kothar sepai bajabe jate asle ami ghum theke uthte pari,play_music,general_quirky,0.09672339246252372
+nogorbaul bajao,play_music,general_quirky,0.09672339246252372
+amake notun sourojogter notun nibondhoti porun,news_query,general_quirky,0.09672339246252372
+spotifai,play_music,general_quirky,0.09672339246252372
+food panda r pizza ki khabarguli eriye jan,takeaway_query,general_quirky,0.09672339246252372
+amar jana dorkar jodi food panda bitoron,takeaway_query,general_quirky,0.09672339246252372
+amader rashtropti nirbachner khobor din,news_query,general_quirky,0.09672339246252372
+ei soptaher shombar abohawa kemon thakbe,weather_query,general_quirky,0.09672339246252372
+ei muhurte bisshe ki ghotche,news_query,general_quirky,0.09672339246252372
+khobor ki,news_query,general_quirky,0.09672339246252372
+he,general_greet,general_quirky,0.09672339246252372
+dhakay ekhon ki somoy hobe,datetime_query,general_quirky,0.09672339246252372
+aj khub gorom tai na,weather_query,general_quirky,0.09672339246252372
+oi ganti amar priyo,music_likeness,general_quirky,0.09672339246252372
+ei muhurte amar jonno prothom alo er khobor bolun,news_query,general_quirky,0.09672339246252372
+apni apnar volume chalu korte paren,audio_volume_up,general_quirky,0.09672339246252372
+konar gan bajao,play_music,general_quirky,0.09672339246252372
+momtajer gan bajao,play_music,general_quirky,0.09672339246252372
+amake notun nirbachon somporke jante din,news_query,general_quirky,0.09672339246252372
+apni bangladesh somporke shunle amake janan,news_query,general_quirky,0.09672339246252372
+bangladesher khobor update er sathe amake obhit korun,news_query,general_quirky,0.09672339246252372
+shukrobar ki brishti hobe,weather_query,general_quirky,0.09672339246252372
+gan chalu,play_music,general_quirky,0.09672339246252372
+amake ajker khelar khobrer shironam bolun,news_query,general_quirky,0.09672339246252372
+notun jokos onusondhan korun,general_joke,general_quirky,0.09672339246252372
+artoseler jekon gan chalao,play_music,general_quirky,0.09672339246252372
+ami shafin ahmed kotha shunte chai,play_music,general_quirky,0.09672339246252372
+rannar ghorer alo bondho korun,iot_hue_lightoff,general_quirky,0.09672339246252372
+amake mone koriye din je ami sei ganti pochondo kori,music_likeness,general_quirky,0.09672339246252372
+james er gan somuh bajan,play_music,general_quirky,0.09672339246252372
+ami chata niye jete chai na aj ki brishti hobe,weather_query,general_quirky,0.09672339246252372
+amake kichu pop bajao,play_music,general_quirky,0.09672339246252372
+playlist theke gan bajao,play_music,general_quirky,0.09672339246252372
+playlist ti shona jak,play_music,general_quirky,0.09672339246252372
+ebhatarer ganer playlist ti bajao,play_music,general_quirky,0.09672339246252372
+rajnitite je kono notun bishye amake sotork korun,news_query,general_quirky,0.09672339246252372
+gan er bakkha,music_query,general_quirky,0.09672339246252372
+restaurant nirbachon,takeaway_order,general_quirky,0.09672339246252372
+bhuya khobor domon korte bitorkit tag chalu koreche facebook,news_query,general_quirky,0.09672339246252372
+noy hajar niranobboi f. m. ekhon ki songit bajacche,music_query,qa_maths,0.06139145178485754
+noysho niranobboi f. m. e ekhon ki gan bajche,music_query,qa_maths,0.06139145178485754
+music er volume nobboi theke shuru korun,audio_volume_up,general_quirky,0.09672339246252372
+cholti soptaher abohawa songkranto purbabhas ki,weather_query,general_quirky,0.09672339246252372
+protidin doshta theke egarotar moddhe amar robot vacuum cleaner chalu korun,iot_cleaning,general_quirky,0.09672339246252372
+amar vacuum cleaner protidin doshta theke egarotar moddhe shuru kora uchit,iot_cleaning,general_quirky,0.09672339246252372
+apni amake somoy bolte paren,datetime_query,general_quirky,0.09672339246252372
+speaker er volume poyoshotti parsento poriborton korun,audio_volume_up,general_quirky,0.09672339246252372
+ami bosar ghorer alo bondho korte chai,iot_hue_lightoff,general_quirky,0.09672339246252372
+ke ei ganti geyechen sei shilpi,music_query,general_quirky,0.09672339246252372
+ey olly doya kore amake bolun ei gantir nam ja bortomane cholche,music_query,general_quirky,0.09672339246252372
+dan dike alo sob alo bondho korun,iot_hue_lightoff,general_quirky,0.09672339246252372
+ei muhurte bangladesher orthoniti ki ebong kibhabe,news_query,general_quirky,0.09672339246252372
+shekh hasina somporke sorboshesh update din,news_query,general_quirky,0.09672339246252372
+bangladeshe ekhon somoy koto,datetime_query,general_quirky,0.09672339246252372
+doya kore bissher anonder gan chalan,play_music,general_quirky,0.09672339246252372
+ajker tarikh ebong somoy,datetime_query,general_quirky,0.09672339246252372
+amar priyo gayika james,music_likeness,general_quirky,0.09672339246252372
+ami kichu biriyani jinis khete chai,takeaway_order,general_quirky,0.09672339246252372
+food panda theke ekti biriyani order korun,takeaway_order,general_quirky,0.09672339246252372
+ghonta purn hote koto sekendo baki ache,datetime_query,general_quirky,0.09672339246252372
+upre,audio_volume_up,general_quirky,0.09672339246252372
+amake sorboshesh projuktir khobor anun,news_query,general_quirky,0.09672339246252372
+ekhonkar abohawar protibedon,weather_query,general_quirky,0.09672339246252372
+amar priyo dosh pochonder talikay sei ganti jog korun,music_likeness,general_quirky,0.09672339246252372
+cholman talikay gan jog korun,music_likeness,general_quirky,0.09672339246252372
+samner ghore ushno abha dekha jak,iot_hue_lightchange,general_quirky,0.09672339246252372
+se ei muhurte ki gan geyeche,music_query,general_quirky,0.09672339246252372
+pachtay alarm din,alarm_set,general_quirky,0.09672339246252372
+notun obhibason niti somporke bishleshokra ki bolchen,news_query,general_quirky,0.09672339246252372
+poroborti sat diner abohawa ki,weather_query,general_quirky,0.09672339246252372
+kon sorboshesh khobor ache,news_query,general_quirky,0.09672339246252372
+dhakar somoy koto,datetime_query,general_quirky,0.09672339246252372
+hi google amar khepate playlist bajan,play_music,general_quirky,0.09672339246252372
+james er ei bochre mukti pawa ganguli chalao,play_music,general_quirky,0.09672339246252372
+nihshobde volume poriborton korun,audio_volume_mute,general_quirky,0.09672339246252372
+apni ki amake shombarer abohawa bolte paren,weather_query,general_quirky,0.09672339246252372
+shekh hasinar golpo tanun,news_query,general_quirky,0.09672339246252372
+lal tone alo syuich korun,iot_hue_lightchange,general_quirky,0.09672339246252372
+aloguli nil theke holud theke sobuje poriborton korte thakun,iot_hue_lightchange,general_quirky,0.09672339246252372
+bortoman gan bajche eta ki,music_query,general_quirky,0.09672339246252372
+amar khabar koi,takeaway_query,general_quirky,0.09672339246252372
+olly amar khabar kothay,takeaway_query,general_quirky,0.09672339246252372
+ki ekti roudrojjol din,weather_query,general_quirky,0.09672339246252372
+speaker gulo bondho korun,audio_volume_mute,general_quirky,0.09672339246252372
+amar priyo talikay ganti rakhun,music_likeness,general_quirky,0.09672339246252372
+doya kore jazz music chalan,play_music,general_quirky,0.09672339246252372
+amake ei bochrer sera dosh khelun ke pop,play_music,general_quirky,0.09672339246252372
+amar chinese khabar kokhon asbe,takeaway_query,general_quirky,0.09672339246252372
+ajkal prithibite ki hocche,news_query,general_quirky,0.09672339246252372
+notun pop songit play korun,play_music,general_quirky,0.09672339246252372
+modti set korun,iot_hue_lightchange,general_quirky,0.09672339246252372
+mongolbarer abohawa,weather_query,general_quirky,0.09672339246252372
+ami ekhon ghumate jacchi,iot_hue_lightoff,general_quirky,0.09672339246252372
+punrabritti gan,music_settings,general_quirky,0.09672339246252372
+adh ghontar moddhe amake uthao,alarm_set,general_quirky,0.09672339246252372
+amake nirbachner sorboshesh khobor dekhan,news_query,general_quirky,0.09672339246252372
+ekti alarm toiri korun,alarm_set,general_quirky,0.09672339246252372
+are amake khushi korte kichu koutuk share korun,general_joke,general_quirky,0.09672339246252372
+kkhudhart chokhe chalu kora,play_music,general_quirky,0.09672339246252372
+chottogramer abohawa,weather_query,general_quirky,0.09672339246252372
+feelings er khelo baba koto din dekhi ni tomai,play_music,general_quirky,0.09672339246252372
+channel i theke shironam,news_query,general_quirky,0.09672339246252372
+budhbareo ki thanda ba badla thakbe,weather_query,general_quirky,0.09672339246252372
+protibad somporke songbad nibondher linko amake pathan,news_query,general_quirky,0.09672339246252372
+ei bochor trish tarikh shukrobar kon din,datetime_query,general_quirky,0.09672339246252372
+amar ek cup cha ekhon bhaloi hobe,iot_coffee,general_quirky,0.09672339246252372
+olly alo sate koman,iot_hue_lightdim,general_quirky,0.09672339246252372
+speaker er volume nicher shesh store,audio_volume_mute,general_quirky,0.09672339246252372
+eta ki tapmatra,weather_query,general_quirky,0.09672339246252372
+amake ekhon dhakate somoy dao,datetime_query,general_quirky,0.09672339246252372
+ekhon ki brishti hocche,weather_query,general_quirky,0.09672339246252372
+alarm din ebong agamikal shokal choytay amake jagiye din,alarm_set,general_quirky,0.09672339246252372
+nudolos guli ek pak eti newa hisabe toiri korun,takeaway_order,general_quirky,0.09672339246252372
+olly ghore halka ronger poriborte garh rong rakhun,iot_hue_lightchange,general_quirky,0.09672339246252372
+ei bissher sorboshesh notun somporke porun,news_query,general_quirky,0.09672339246252372
+bissho jure ki ghotche,news_query,general_quirky,0.09672339246252372
+konar gan shuru kor,play_music,general_quirky,0.09672339246252372
+ajker tarikh ki,datetime_query,general_quirky,0.09672339246252372
+ami ki dhakay somoy jante pari,datetime_query,general_quirky,0.09672339246252372
+burger king chinese restoray call korun,takeaway_order,general_quirky,0.09672339246252372
+ganer bortoman album elomelo korun,music_settings,general_quirky,0.09672339246252372
+amake bangladeshe somoy bolun,datetime_query,general_quirky,0.09672339246252372
+chalar alo bondho kor,iot_hue_lightoff,general_quirky,0.09672339246252372
+food panda restaurant theke moddhahnobhoj e jonno biriyani khab,takeaway_order,general_quirky,0.09672339246252372
+aj bisshe ja ghotche,news_query,general_quirky,0.09672339246252372
+ajker shironam ki,news_query,general_quirky,0.09672339246252372
+g. m. t. somoy,datetime_query,qa_maths,0.06143242923907753
+shastriyo songit er jonno amar somosto songit khujun,play_music,general_quirky,0.09672339246252372
+somyer jonno alarm set,alarm_set,general_quirky,0.09672339246252372
+onugroh kore amake robot vacuum cleaner chalu korte shahajyo korun,iot_cleaning,general_quirky,0.09672339246252372
+skup ki,news_query,general_quirky,0.09672339246252372
+ami ki order korte pari,takeaway_order,general_quirky,0.09672339246252372
+ami kichu modarn rokgan shunte chai,play_music,general_quirky,0.09672339246252372
+ektar por ekta rap ebong rock gan chalao,play_music,general_quirky,0.09672339246252372
+ei gan er por metallica chalao,play_music,general_quirky,0.09672339246252372
+amar sorboshesh order er status ki,takeaway_query,general_quirky,0.09672339246252372
+amar kachakachi abohawa ki,weather_query,general_quirky,0.09672339246252372
+james er dara songit bajan,play_music,general_quirky,0.09672339246252372
+elomelo songit bajan,play_music,general_quirky,0.09672339246252372
+ekhon alo bondho korun,iot_hue_lightoff,general_quirky,0.09672339246252372
+bosar ghorer alo jaliye din,iot_hue_lightdim,general_quirky,0.09672339246252372
+ujjolota chalu korun,iot_hue_lightup,general_quirky,0.09672339246252372
+norendrer sorboshesh khobor somporke amake obhit korun,news_query,general_quirky,0.09672339246252372
+antorjatik songbader sathe ki ghotche,news_query,general_quirky,0.09672339246252372
+amake hasina khobor dekhan,news_query,general_quirky,0.09672339246252372
+artosel bajao,play_music,general_quirky,0.09672339246252372
+shighroi ki ushno hocche,weather_query,general_quirky,0.09672339246252372
+kichu nogor baul bajan,play_music,general_quirky,0.09672339246252372
+laptop kena nishchit korun,general_quirky,general_quirky,0.09672339246252372
+food panda r theke duti majhari ponir ebong ekti majhari pizza biriyani order korun,takeaway_order,general_quirky,0.09672339246252372
+olly amar aj kichu duhkher gan shunte hobe,play_music,general_quirky,0.09672339246252372
+onugroh kore rong poriborton korun,iot_hue_lightchange,general_quirky,0.09672339246252372
+prothom alo theke ki ki khobor ache,news_query,general_quirky,0.09672339246252372
+bortomane ki brishti hocche,weather_query,general_quirky,0.09672339246252372
+ami guruttopurn music file e eta korechi,music_likeness,general_quirky,0.09672339246252372
+ami eta korte monostho korechi,general_quirky,general_quirky,0.09672339246252372
+samprotik dhaka khobor,news_query,general_quirky,0.09672339246252372
+jazz gan bajete shuru kor,play_music,general_quirky,0.09672339246252372
+ei maser shesh shukrobar kon dine obotoron kore,datetime_query,general_quirky,0.09672339246252372
+echarao ekti poritosh,general_quirky,general_quirky,0.09672339246252372
+tumi ki arker sobcheye notun ganti khujte paro,play_music,general_quirky,0.09672339246252372
+got rate ki iyankira jiteche,news_query,general_quirky,0.09672339246252372
+sileter pach diner purbabhas ki,weather_query,general_quirky,0.09672339246252372
+dhakate somoy ki,datetime_query,general_quirky,0.09672339246252372
+ranna ghorer alo ek shotangshe chalu korun,iot_hue_lightchange,general_quirky,0.09672339246252372
+teroi december kon din,datetime_query,general_quirky,0.09672339246252372
+poroborti bhalbasa dibos kon dine obotoron korboe,datetime_query,general_quirky,0.09672339246252372
+ei gan shunte,music_query,general_quirky,0.09672339246252372
+food panda r takeaway ache,takeaway_query,general_quirky,0.09672339246252372
+aj ki brishti hocche,weather_query,general_quirky,0.09672339246252372
+ei shohre ekhon koyta baje,datetime_query,general_quirky,0.09672339246252372
+halka light rongke nile poriborton korun,iot_hue_lightchange,general_quirky,0.09672339246252372
+ami ki ajker jonno alarm set korechi,alarm_query,general_quirky,0.09672339246252372
+onugroh kore prothom alo nibondhoti tanun,news_query,general_quirky,0.09672339246252372
+prothom alo abohawa somporkit kono nibondho amake dekhan,news_query,general_quirky,0.09672339246252372
+biriyani order dao,takeaway_order,general_quirky,0.09672339246252372
+omuk dine abohawa kemon hoy,weather_query,general_quirky,0.09672339246252372
+apni ki volume komiye dite paren ebong ei ganer shironam ki amake bolun,music_query,general_quirky,0.09672339246252372
+amar lokosongit playlist bajan,play_music,general_quirky,0.09672339246252372
+amar ditiyo playlist bajan,play_music,general_quirky,0.09672339246252372
+bortoman gan priyte songrokkhon korun,music_likeness,general_quirky,0.09672339246252372
+amar pochondo moto gan bajan,play_music,general_quirky,0.09672339246252372
+doya kore tahsan ekti gan bajan,play_music,general_quirky,0.09672339246252372
+asif akobor kore o priya tumi kothay bajan,play_music,general_quirky,0.09672339246252372
+onugroh kore coffee shuru korun,iot_coffee,general_quirky,0.09672339246252372
+coffee toiri kora shuru korun,iot_coffee,general_quirky,0.09672339246252372
+apnar rong sobuje poriborton korun,iot_hue_lightchange,general_quirky,0.09672339246252372
+aj bissher ghotnaguli khujun ebong porun,news_query,general_quirky,0.09672339246252372
+amake antorjatik khobor din,news_query,general_quirky,0.09672339246252372
+olly alarm batil korun,alarm_remove,general_quirky,0.09672339246252372
+notun songbad projukti,news_query,general_quirky,0.09672339246252372
+samprotik projuktir shironam,news_query,general_quirky,0.09672339246252372
+barir sathe chottogramer abohawa tulna korun,weather_query,general_quirky,0.09672339246252372
+sob miles bajao,play_music,general_quirky,0.09672339246252372
+apni ki amar jonno alo barate paren,iot_hue_lightup,general_quirky,0.09672339246252372
+asma amar khabar khuje dao,takeaway_query,general_quirky,0.09672339246252372
+burger king ki tek out dey,takeaway_query,general_quirky,0.09672339246252372
+ami abar ganti shunte chai,play_music,general_quirky,0.09672339246252372
+olly bortoman abohawa kemon,weather_query,general_quirky,0.09672339246252372
+amake ekta random gan bajao,play_music,general_quirky,0.09672339246252372
+amar got bochrer pochonder ganti bajao,play_music,general_quirky,0.09672339246252372
+eastern standard time e bortoman somoy koto,datetime_query,general_quirky,0.09672339246252372
+amar playlist theke amake ekti elomelo gan bajao,play_music,general_quirky,0.09672339246252372
+olly ami ekti krim ebong tinti chini soh ek cup coffee chai,iot_coffee,general_quirky,0.09672339246252372
+onek sadhnar pore ami tarka gan,music_likeness,general_quirky,0.09672339246252372
+klasikkal gan bajan,play_music,general_quirky,0.09672339246252372
+klasikal songiter playlist bajan,play_music,general_quirky,0.09672339246252372
+amar bosar ghore alo bondho korun,iot_hue_lightoff,general_quirky,0.09672339246252372
+songit playlist khela,play_music,general_quirky,0.09672339246252372
+ei bander prodhan gayker nam ki,music_query,general_quirky,0.09672339246252372
+ei ganti koto sale prokashit hoyechilo,music_query,general_quirky,0.09672339246252372
+agami mongolbar shokal attar ekti alarm set korun,alarm_set,general_quirky,0.09672339246252372
+amar ghum theke uthte hobe amake sobtheke kora coffee baniye dao,iot_coffee,general_quirky,0.09672339246252372
+poker fes ledi gaga,play_music,general_quirky,0.09672339246252372
+ami ledi gaga poker fes shunte chai,play_music,general_quirky,0.09672339246252372
+je bishye notun jinis onusondhan korun,news_query,general_quirky,0.09672339246252372
+bharter sathe hasinar somporker bishye sorboshesh update ki,news_query,general_quirky,0.09672339246252372
+ami kom alo chai,iot_hue_lightdim,general_quirky,0.09672339246252372
+kom alo doya kore,iot_hue_lightdim,general_quirky,0.09672339246252372
+ami ekta gan shunte chai,play_music,general_quirky,0.09672339246252372
+ei bochor amar jonmodin kon din pore,datetime_query,general_quirky,0.09672339246252372
+ajker abohawar protibedon ki chil,weather_query,general_quirky,0.09672339246252372
+olly khuje ber korun jodi food panda bitoron kore,takeaway_query,general_quirky,0.09672339246252372
+shilong abohawa ki,weather_query,general_quirky,0.09672339246252372
+prothom alo e khaleda jiya somporke sorboshesh nibondhoti khujun,news_query,general_quirky,0.09672339246252372
+amar jonno amar coffee patro sokriyo korun,iot_coffee,general_quirky,0.09672339246252372
+tetrish hajar tinoshot chuyattorer abohawar protibedon,weather_query,general_quirky,0.09672339246252372
+amar alarm ti kokhner jonno set kora hoyeche,alarm_query,general_quirky,0.09672339246252372
+amake kichu james dao,music_query,general_quirky,0.09672339246252372
+agami mongolbarer tarikh ki,datetime_query,general_quirky,0.09672339246252372
+uikende ki teish tarikh,datetime_query,general_quirky,0.09672339246252372
+ponchash shotangsh porjonto alo briddhi korun,iot_hue_lightchange,general_quirky,0.09672339246252372
+ekhane eta lal kore dao,iot_hue_lightchange,general_quirky,0.09672339246252372
+amar wemo plug socket chalu korun,iot_wemo_on,general_quirky,0.09672339246252372
+rat noytar jonno amar ekti alarm dorkar,alarm_set,general_quirky,0.09672339246252372
+ei soptahante abohawa ki sundor hobe,weather_query,general_quirky,0.09672339246252372
+apni ki amar coffee machine set korte paren amake shokal sattay coffee bananor jonno,iot_coffee,general_quirky,0.09672339246252372
+apni ki proti soptaher dine tin p. m. somye coffee toirir jonno coffee machine set korte paren,iot_coffee,qa_maths,0.06125799478773673
+sorboshesh alarm ti soran,alarm_remove,general_quirky,0.09672339246252372
+shonibar brishti hobe,weather_query,general_quirky,0.09672339246252372
+ghumate jao,audio_volume_mute,general_quirky,0.09672339246252372
+pacific somye ekhon kotota baje,datetime_query,general_quirky,0.09672339246252372
+doya kore ekhon gan chalan,play_music,general_quirky,0.09672339246252372
+amar ekhon ek cup coffee chai,iot_coffee,general_quirky,0.09672339246252372
+purbabhase tusharpat ache ki,weather_query,general_quirky,0.09672339246252372
+doya kore bairer sob alo bondho korun,iot_hue_lightoff,general_quirky,0.09672339246252372
+eta ki rod hobe,weather_query,general_quirky,0.09672339246252372
+onugroh kore shastriyo gan bajan,play_music,general_quirky,0.09672339246252372
+shukrobar somudro soikte eti ki sundor hobe,weather_query,general_quirky,0.09672339246252372
+oyaplelistotirk out chalao,play_music,general_quirky,0.09672339246252372
+pachti coffee toiri korun coffee machine ke bolun,iot_coffee,general_quirky,0.09672339246252372
+dhakay abohawa kemon,weather_query,general_quirky,0.09672339246252372
+amar jonno ekti coffee toiri korun,iot_coffee,general_quirky,0.09672339246252372
+ajke ekti rod jholomle din tai na,weather_query,general_quirky,0.09672339246252372
+agamikal roudromoy din tai na,weather_query,general_quirky,0.09672339246252372
+ekhane ashepashe kon tek oye ache,takeaway_query,general_quirky,0.09672339246252372
+ekhon nagpurer abohawa kemon,weather_query,general_quirky,0.09672339246252372
+amar ekhon kichu coffee chai,iot_coffee,general_quirky,0.09672339246252372
+orthohiner odbhut sei cheleti chalu kor,play_music,general_quirky,0.09672339246252372
+amake channel i theke khobor dekhao,news_query,general_quirky,0.09672339246252372
+google onugroh kore otirikto shanto hon shishuti ghumacche,audio_volume_mute,general_quirky,0.09672339246252372
+shokaler jonno ekti alarm toiri korun,alarm_set,general_quirky,0.09672339246252372
+apni ki amake shonibar rater tapmatra bolte paren,weather_query,general_quirky,0.09672339246252372
+ami ajke tintar ekti alarm chai,alarm_set,general_quirky,0.09672339246252372
+kichu shobdo kor,play_music,general_quirky,0.09672339246252372
+james er baba ganti shunte chai,play_music,general_quirky,0.09672339246252372
+olly lal ronger alote bondho kor,iot_hue_lightchange,general_quirky,0.09672339246252372
+olly jodi bonna somporke notun kon khobor ase tahle amake ekkhuni janate paren,news_query,general_quirky,0.09672339246252372
+amake kichu pop bajan,play_music,general_quirky,0.09672339246252372
+ami to ekhon smart socket bondho korte chai,iot_wemo_off,general_quirky,0.09672339246252372
+alo lale poriborton korun,iot_hue_lightchange,general_quirky,0.09672339246252372
+ami amar biyer jonno toiri kora playlist ti shunte chai,play_music,general_quirky,0.09672339246252372
+doya kore smart plug socket bondho korun,iot_wemo_off,general_quirky,0.09672339246252372
+ami robibar shokal egarotay charche jawar jonno alarm ti muche felte chai,alarm_remove,general_quirky,0.09672339246252372
+ami kichu rap shunte chai,play_music,general_quirky,0.09672339246252372
+niche alo bondho korun,iot_hue_lightdim,general_quirky,0.09672339246252372
+audio nihshobdo korun,audio_volume_mute,general_quirky,0.09672339246252372
+amar sob pochonder fok gan chalan,play_music,general_quirky,0.09672339246252372
+ami ei muhurte je ganti shunchi tar gayok ke,music_query,general_quirky,0.09672339246252372
+ami ki somoy pete pari,datetime_query,general_quirky,0.09672339246252372
+obilomme nihshobdo,audio_volume_mute,general_quirky,0.09672339246252372
+ami kichu fok shunte pochondo korbo,play_music,general_quirky,0.09672339246252372
+eti ekti bhalo tune onugroh kore sei onujayi file notet korun,music_likeness,general_quirky,0.09672339246252372
+presidento shekh hasinar sathe ki ghotche,news_query,general_quirky,0.09672339246252372
+feelings ebong khelar jonno somosto shironam onusondhan korun,play_music,general_quirky,0.09672339246252372
+ami ki jolpai bagane jete order dite pari,takeaway_query,general_quirky,0.09672339246252372
+poroborti tithi dasher tor premete ondho holam ganti chalan,play_music,general_quirky,0.09672339246252372
+tin ghontar moddhe amake sotork korun,alarm_set,general_quirky,0.09672339246252372
+dinajpur koto ghonta egiye,datetime_query,general_quirky,0.09672339246252372
+abohawar ep-ti khulun,weather_query,calendar_set,0.05892950296458671
+amake alarm er talika dekhao,alarm_query,general_quirky,0.09672339246252372
+apni ki onugroh kore choytay alarm set korte paren,alarm_set,general_quirky,0.09672339246252372
+apni ki alo nibhiye dite paren,iot_hue_lightoff,general_quirky,0.09672339246252372
+porer chuti kokhon,datetime_query,general_quirky,0.09672339246252372
+pizza khawar jonno poroborti soptahe sobcheye bhalo din konti,datetime_query,general_quirky,0.09672339246252372
+tumi ki imo music bajate paro,play_music,general_quirky,0.09672339246252372
+ami kichu rap music shunte chai,play_music,general_quirky,0.09672339246252372
+apni ki amake dhaka somoy bolte paren,datetime_query,general_quirky,0.09672339246252372
+doya kore matra baran,audio_volume_up,general_quirky,0.09672339246252372
+amar shokal attar jonno ekta alarm set dorkar,alarm_set,general_quirky,0.09672339246252372
+sorboshesh shironam ki,news_query,general_quirky,0.09672339246252372
+bortoman somoy ist theke e. s. t. te poriborton korun,datetime_convert,qa_maths,0.061456053631791595
+amader breaking news somporke update amake saboskraib korun,news_query,general_quirky,0.09672339246252372
+amake alarm somoy jante din,alarm_query,general_quirky,0.09672339246252372
+kothay ami biriyani ebong kichu bangladeshi khabarer shot pete pari,takeaway_query,general_quirky,0.09672339246252372
+amake bolun aj silet shohre koto inchi borof poreche,weather_query,general_quirky,0.09672339246252372
+spotify chalao,play_music,general_quirky,0.09672339246252372
+ekhon somoy koto ta amake dekhan,datetime_query,general_quirky,0.09672339246252372
+sorboccho volume er stor poriborton korun,audio_volume_other,general_quirky,0.09672339246252372
+bortoman somoy dhaka,datetime_query,general_quirky,0.09672339246252372
+dhakar bortoman somoy ki,datetime_query,general_quirky,0.09672339246252372
+bhor chartar alarm ti rimubh korun,alarm_remove,general_quirky,0.09672339246252372
+amake sobcheye mojar koutuk bolun ja kokhonoo bola hoyechilo,general_joke,general_quirky,0.09672339246252372
+ami ki ajke hatmojaguli porbo,weather_query,general_quirky,0.09672339246252372
+onugroh kore kotha bola bondho korun,audio_volume_mute,general_quirky,0.09672339246252372
+sob aloke nile poriborton korun,iot_hue_lightchange,general_quirky,0.09672339246252372
+eta ki khub beshi gorom hobe jodi ami ajke poshmi soyetar pori,weather_query,general_quirky,0.09672339246252372
+amake channel i sobcheye update howa khobor porun,news_query,general_quirky,0.09672339246252372
+apni ki amar desko bati bondho korte paren,iot_hue_lightoff,general_quirky,0.09672339246252372
+desko bati ek bondho,iot_hue_lightoff,general_quirky,0.09672339246252372
+tara ei bishye khaleda jiya somporke ki bolche,news_query,general_quirky,0.09672339246252372
+dhakar abohawa ki dosh degree r kom hobe,weather_query,general_quirky,0.09672339246252372
+amake agamikal doshtay uthte hobe,alarm_set,general_quirky,0.09672339246252372
+satar katte jawa ki khub thanda,weather_query,general_quirky,0.09672339246252372
+amake p. s. t. somoy din,datetime_query,qa_maths,0.06145552053478656
+dinajpur bortoman abohawa ki,weather_query,general_quirky,0.09672339246252372
+dhakay kotota baje,datetime_query,general_quirky,0.09672339246252372
+somosto alarm porjalochna korun,alarm_query,general_quirky,0.09672339246252372
+dhaka sie-te agami soptahe abohawa kemon thakbe,weather_query,datetime_query,0.06308936021046346
+doya kore amake ekhoni food panda r kach theke biriyani ebong wings order korun,takeaway_order,general_quirky,0.09672339246252372
+album chalan,play_music,general_quirky,0.09672339246252372
+onek sadhnar pore ami bajano shuru korun,play_music,general_quirky,0.09672339246252372
+darjiling ki tusharpat hocche,weather_query,general_quirky,0.09672339246252372
+dhaka somoy ki,datetime_query,general_quirky,0.09672339246252372
+amar kon jacket pora uchit,weather_query,general_quirky,0.09672339246252372
+olly tomake amar durutto jawar bikolpo poth khuje ber korte hobe,transport_query,general_quirky,0.09672339246252372
+amar ki aj ekti jaketer dorkar hobe,weather_query,general_quirky,0.09672339246252372
+er pore ekti gan bajano,play_music,general_quirky,0.09672339246252372
+shokal share sattar ekta alarm set korun,alarm_set,general_quirky,0.09672339246252372
+amar elakar jonno sorboshesh opradher porisongkkhan ki,news_query,general_quirky,0.09672339246252372
+amar aloguli bibhinno ronge jalan,iot_hue_lightchange,general_quirky,0.09672339246252372
+saptahik abohawa report ki,weather_query,general_quirky,0.09672339246252372
+eti ki roudrojjol poribesh,weather_query,general_quirky,0.09672339246252372
+jante chai kotota baje,datetime_query,general_quirky,0.09672339246252372
+jolbayu somporkit kichu ghoteche,news_query,general_quirky,0.09672339246252372
+kon prottahar khobor ache,news_query,general_quirky,0.09672339246252372
+kokhon amar poroborti nirdharit alarm,alarm_query,general_quirky,0.09672339246252372
+shokal egorota alarm er bornona ki,alarm_query,general_quirky,0.09672339246252372
+amra kobe brishtir howar asha rakhte pari,weather_query,general_quirky,0.09672339246252372
+amake nytimescom theke sorboshesh shironam porun,news_query,general_quirky,0.09672339246252372
+ami kichu tek-out khabar newa korte chai,takeaway_order,datetime_query,0.06308936021046346
+amake bangladesh somoy bolun,datetime_query,general_quirky,0.09672339246252372
+ajker stock tothyo khujun,news_query,general_quirky,0.09672339246252372
+dosh sekender moddhe bosar ghorer alo bondho korun,iot_hue_lightoff,general_quirky,0.09672339246252372
+ajker bortoman khobor ki,news_query,general_quirky,0.09672339246252372
+aj sobcheye alochit bishoy ki,news_query,general_quirky,0.09672339246252372
+kokhon food panda r bel aste choleche,takeaway_query,general_quirky,0.09672339246252372
+share choytar jonno ekti alarm set korun,alarm_set,general_quirky,0.09672339246252372
+apni ki pingk floyed er gan chalate parben,play_music,general_quirky,0.09672339246252372
+ekushe may soptaher kon din,datetime_query,general_quirky,0.09672339246252372
+agamikal shokal attar jonno alarm set korun,alarm_set,general_quirky,0.09672339246252372
+agamikal shombar shokal attar jonno ekti alarm set korun,alarm_set,general_quirky,0.09672339246252372
+budhbar tapmatra ki himanker upre thakbe,weather_query,general_quirky,0.09672339246252372
+amar alarm ki,alarm_query,general_quirky,0.09672339246252372
+share bajar khobrer jonno notification set korun,qa_stock,general_quirky,0.09672339246252372
+share bajarer somosto khobrer jonno bigyopti chalu korun,qa_stock,general_quirky,0.09672339246252372
+amar download kora gangulo bajao,play_music,general_quirky,0.09672339246252372
+eta ki meghla hote choleche,weather_query,general_quirky,0.09672339246252372
+er pore miles er jala jala rakhun,play_music,general_quirky,0.09672339246252372
+ei time jon onusare somoy bolun,datetime_query,general_quirky,0.09672339246252372
+ei bochrer satashe june amar jonmodin kon din pore,datetime_query,general_quirky,0.09672339246252372
+amar sobcheye bajano gan ki,music_query,general_quirky,0.09672339246252372
+baire bortoman tapmatra koto,weather_query,general_quirky,0.09672339246252372
+bhinno ronge alo poriborton korun,iot_hue_lightchange,general_quirky,0.09672339246252372
+somoy onchol rupantor korun,datetime_convert,general_quirky,0.09672339246252372
+jokhon baish sekendo,datetime_query,general_quirky,0.09672339246252372
+onno shohre somoy ki,datetime_query,general_quirky,0.09672339246252372
+amake ekhon dhaka somoy dekhan,datetime_query,general_quirky,0.09672339246252372
+ei muhurte rajshahi abohawa kemon,weather_query,general_quirky,0.09672339246252372
+mohisher biriyani offer kore emon nikototom food panda call korun,takeaway_order,general_quirky,0.09672339246252372
+amake biriyani order korte food panda call korun,takeaway_order,general_quirky,0.09672339246252372
+bortoman tapmatra koto,weather_query,general_quirky,0.09672339246252372
+amar porjalochna,music_likeness,general_quirky,0.09672339246252372
+amar rat noyta alarm er jaygay shokal pachta alarm jog korun,alarm_set,general_quirky,0.09672339246252372
+sobhaptitto songkranto bitork kibhabe jacche doya kore tab rakhun,news_query,general_quirky,0.09672339246252372
+apni ki ei koutuk janen,general_joke,general_quirky,0.09672339246252372
+somosto alarm bondho korun,alarm_remove,general_quirky,0.09672339246252372
+ei ganti koto sale record kora hoyechilo,music_query,general_quirky,0.09672339246252372
+ekhon ki brishti hobe,weather_query,general_quirky,0.09672339246252372
+onugroh kore amake ekti koutuk bolun ja ami mojar mone korbo,general_joke,general_quirky,0.09672339246252372
+got rate bijyi pawarobol songkhya ki chil,news_query,general_quirky,0.09672339246252372
+o priya tumi kothay bajao,play_music,general_quirky,0.09672339246252372
+ami apnar volume jore proyojon,audio_volume_up,general_quirky,0.09672339246252372
+amar jonno ek cup coffee prostut korun,iot_coffee,general_quirky,0.09672339246252372
+amar speaker nihshobdo korun,audio_volume_mute,general_quirky,0.09672339246252372
+eastern somoy oncholer jonno somoy ki,datetime_query,general_quirky,0.09672339246252372
+ami jodi eastern time jone thaktam tahle ki somoy hobe,datetime_convert,general_quirky,0.09672339246252372
+alo ektu ujjol korun,iot_hue_lightup,general_quirky,0.09672339246252372
+ajke kotota thanda,weather_query,general_quirky,0.09672339246252372
+abohawar obostha,weather_query,general_quirky,0.09672339246252372
+alexa onugroh kore bosar ghore alo nibhiye dao,iot_hue_lightdim,general_quirky,0.09672339246252372
+alexa onugroh kore ghorer alo nibhiye din,iot_hue_lightdim,general_quirky,0.09672339246252372
+fashion jonno sorboshesh khobor ki,news_query,general_quirky,0.09672339246252372
+amake bissher sorboshesh khobor bolun,news_query,general_quirky,0.09672339246252372
+khaleda jiya somporke notun khobor kokhon asbe amake bolun,news_query,general_quirky,0.09672339246252372
+obamakeyar somporke sorboshesh khobor ki,news_query,general_quirky,0.09672339246252372
+thanda mone hocche,weather_query,general_quirky,0.09672339246252372
+shonibarer purbabhas ki,weather_query,general_quirky,0.09672339246252372
+olly aj khobor ki hoyeche,news_query,general_quirky,0.09672339246252372
+feelings amar sonar bangla,play_music,general_quirky,0.09672339246252372
+baire gorom naki thanda,weather_query,general_quirky,0.09672339246252372
+somproti jog kora gan chalan,play_music,general_quirky,0.09672339246252372
+ajke nirbachner folafol ki hoyeche bolun,news_query,general_quirky,0.09672339246252372
+eta ekhane khub ujjol apni ekti alo bondho korte paren,iot_hue_lightoff,general_quirky,0.09672339246252372
+apni shilpi mila gan play korte paren,play_music,general_quirky,0.09672339246252372
+ei soptahe ami kemon dhorner abohawa asha korte pari,weather_query,general_quirky,0.09672339246252372
+chihnit koro ei gan tike pachti star diye,music_likeness,general_quirky,0.09672339246252372
+onugroh kore drawing holer alo nibhiye din,iot_hue_lightoff,general_quirky,0.09672339246252372
+ami bangla gan shunte pochondo korbo,play_music,general_quirky,0.09672339246252372
+amake sobcheye samprotik khobor pete,news_query,general_quirky,0.09672339246252372
+gotkal koto ran korechen shahin,news_query,general_quirky,0.09672339246252372
+apni ki pachtar jonno alarm set korechen,alarm_query,general_quirky,0.09672339246252372
+amar baire jawar jonno ki chata proyojon,weather_query,general_quirky,0.09672339246252372
+orthohiner amar proticchobi bajano shuru koro,play_music,general_quirky,0.09672339246252372
+ja bortomane breaking news,news_query,general_quirky,0.09672339246252372
+onugroh kore music player e volume baran,audio_volume_up,general_quirky,0.09672339246252372
+onugroh kore shudhumatro pop mikser music chalan,play_music,general_quirky,0.09672339246252372
+music player e shudhu duhkher gan bajao,play_music,general_quirky,0.09672339246252372
+dekhan channel i obhibasner khobor,news_query,general_quirky,0.09672339246252372
+kuri-i march dui hajar sotero saler abohawa kemon hobe,weather_query,datetime_query,0.0651202085296758
+somproti bangladeshe ki ghotche,news_query,general_quirky,0.09672339246252372
+pachtar jonno alarm set korun,alarm_set,general_quirky,0.09672339246252372
+doya kore amake dhakar abohawa bolun,weather_query,general_quirky,0.09672339246252372
+are tomar ki home sorobrah ache,takeaway_query,general_quirky,0.09672339246252372
+vaccum shuru korun ebong ekhon shobar ghor porishkar korun,iot_cleaning,general_quirky,0.09672339246252372
+bangladesh o bharter moddhe somyer parthokko,datetime_convert,general_quirky,0.09672339246252372
+khaleda jiya bitork ki,news_query,general_quirky,0.09672339246252372
+amake sataishe march dui hajar sotero abohawa dekhan,weather_query,general_quirky,0.09672339246252372
+restaurant ki bitoron debe,takeaway_query,general_quirky,0.09672339246252372
+ekhon bangladesh somoy ullekh korun,datetime_query,general_quirky,0.09672339246252372
+pore ki brishti hobe,weather_query,general_quirky,0.09672339246252372
+bhartiyo lok gan chalan,play_music,general_quirky,0.09672339246252372
+baire ki rod ache,weather_query,general_quirky,0.09672339246252372
+porishkar,music_query,general_quirky,0.09672339246252372
+amar ki panto lagbe,weather_query,general_quirky,0.09672339246252372
+sanoglas proyojon ache ki,weather_query,general_quirky,0.09672339246252372
+olly alo ujjol,iot_hue_lightup,general_quirky,0.09672339246252372
+amake shokal ch-tay tule dao,alarm_set,datetime_query,0.060209243772541075
+ei abohawata ki panto porar jonno khub gorom,weather_query,general_quirky,0.09672339246252372
+presidento tramper jonsadharner drishtibhongi niye sorboshesh jorip ki,news_query,general_quirky,0.09672339246252372
+barite ki alarm set kora hoy,alarm_query,general_quirky,0.09672339246252372
+amar alarm shokaler jonno set kora ache kina ta amake bolun,alarm_query,general_quirky,0.09672339246252372
+shobdo chalu,audio_volume_up,general_quirky,0.09672339246252372
+kon somye ami ekti haik korte jete hobe,weather_query,general_quirky,0.09672339246252372
+bakograunder gan ti durdanto,music_likeness,general_quirky,0.09672339246252372
+gan ti amake kichu smriti mone koriye dey,music_likeness,general_quirky,0.09672339246252372
+abohawa meghla,weather_query,general_quirky,0.09672339246252372
+brishti hole ami chakrite jab na,weather_query,general_quirky,0.09672339246252372
+jini ei ganer songit porichalok,music_query,general_quirky,0.09672339246252372
+shanto thakun,audio_volume_mute,general_quirky,0.09672339246252372
+kichu adhunik bangla school rap chalu korun,play_music,general_quirky,0.09672339246252372
+khobor shironam ki,news_query,general_quirky,0.09672339246252372
+rohim ebong korim eksathe fire esechen,news_query,general_quirky,0.09672339246252372
+porer robibar shokal noytay alarm set korun,alarm_set,general_quirky,0.09672339246252372
+aj ki sanoskriner din,weather_query,general_quirky,0.09672339246252372
+abohawa khulun,weather_query,general_quirky,0.09672339246252372
+vacuum bot shuru korun,iot_cleaning,general_quirky,0.09672339246252372
+ager gan chalao,play_music,general_quirky,0.09672339246252372
+sakib shilpi er sob ganguli odolobodol korun ebong play korun,play_music,general_quirky,0.09672339246252372
+amar ki ei soptahante sanoblok lagbe,weather_query,general_quirky,0.09672339246252372
+sodeshi sob gan chalan,play_music,general_quirky,0.09672339246252372
+amar jonno james er dara songit bajan,play_music,general_quirky,0.09672339246252372
+ami ki ekhon amar reinkot sathe niye jab,weather_query,general_quirky,0.09672339246252372
+taropre ok tipun,alarm_query,general_quirky,0.09672339246252372
+amar playlist party song chalan,play_music,general_quirky,0.09672339246252372
+amake khobrer shironam bolun,news_query,general_quirky,0.09672339246252372
+riki martin,play_music,general_quirky,0.09672339246252372
+amar ganer talika chalu korun,play_music,general_quirky,0.09672339246252372
+doya kore amar uddessho nei playlist bajan,play_music,general_quirky,0.09672339246252372
+tarikh,datetime_query,general_quirky,0.09672339246252372
+rumer alo bondho korun rumer,iot_hue_lightoff,general_quirky,0.09672339246252372
+beder meye josna cinema r beder meye josna amay kotha diyeche ganti bajan,play_music,general_quirky,0.09672339246252372
+music system mute korun,audio_volume_mute,general_quirky,0.09672339246252372
+amake abar madona gan bajan doya kore,play_music,general_quirky,0.09672339246252372
+jolbayu,weather_query,general_quirky,0.09672339246252372
+amar ki ajker jonno ekta chata lagbe,weather_query,general_quirky,0.09672339246252372
+ami jokhon baire jai tokhon ki amake jaket porte hobe,weather_query,general_quirky,0.09672339246252372
+ei somoy sondhay pachtar jonno ekti alarm set korun lebeljukto taxi,alarm_set,general_quirky,0.09672339246252372
+ber howar age reinkot porte hobe,weather_query,general_quirky,0.09672339246252372
+alo jog korun,iot_hue_lightup,general_quirky,0.09672339246252372
+olly mishti ebong tok dhorner soya,iot_coffee,general_quirky,0.09672339246252372
+shohrer abohawa kemon,weather_query,general_quirky,0.09672339246252372
+nirbe sokriyo korun,audio_volume_mute,general_quirky,0.09672339246252372
+alexa r aj ekta chata dorkar,weather_query,general_quirky,0.09672339246252372
+ami ekti kapuchino chai,iot_coffee,general_quirky,0.09672339246252372
+aj dhaka abohawar report ki,weather_query,general_quirky,0.09672339246252372
+amar ki pool coat pora uchit,weather_query,general_quirky,0.09672339246252372
+irobot chalu korun,iot_cleaning,general_quirky,0.09672339246252372
+cnn app khulun,news_query,general_quirky,0.09672339246252372
+sob set alarm talika,alarm_query,general_quirky,0.09672339246252372
+amake ei ganer muktir tarikh din,music_query,general_quirky,0.09672339246252372
+amake kichu notun premer somporke shunte din,play_music,general_quirky,0.09672339246252372
+amar bondhuke agamikal esainmento pete mone koriye din,calendar_set,general_quirky,0.09672339246252372
+ei muhurte amar jonno ekti bhalo koutuk bolun,general_joke,general_quirky,0.09672339246252372
+ami khabar order korte chai,takeaway_order,general_quirky,0.09672339246252372
+pach miniter moddhe poroborti ganti din,play_music,general_quirky,0.09672339246252372
+ei muhurte amar priyo songit ki,music_query,general_quirky,0.09672339246252372
+kendriyo time jone kotota baje,datetime_query,general_quirky,0.09672339246252372
+aj ami bikele jawar age ki janala bondho kore deb,weather_query,general_quirky,0.09672339246252372
+ami kokhon amar bangladeshi khabar nite pari,takeaway_query,general_quirky,0.09672339246252372
+ajke kaje ki ami ekti soyetar othba kot niye jab,weather_query,general_quirky,0.09672339246252372
+bachai kora ganti jog kor,play_music,general_quirky,0.09672339246252372
+aj rate ki amake hat-mojaguli porte hobe,weather_query,datetime_query,0.06308936021046346
+alexa alor ujjolota briddhi korun ekhane niche dekha kothin,iot_hue_lightup,general_quirky,0.09672339246252372
+ponchash sekender jonno sara deben na,audio_volume_mute,general_quirky,0.09672339246252372
+jala jala gan sariboddhobhabe bajan,play_music,general_quirky,0.09672339246252372
+he olly mirpur dhaka ajker abohawa kemon hobe,weather_query,general_quirky,0.09672339246252372
+hey olly notun dhakar abohooya kemon,weather_query,general_quirky,0.09672339246252372
+shironamhiner iccheghuri bajao,play_music,general_quirky,0.09672339246252372
+gan somporke motamot songrokkhon korun,music_likeness,general_quirky,0.09672339246252372
+are food panda r dokan theke biriyanir sathe gosot order korun,takeaway_order,general_quirky,0.09672339246252372
+he olly uttora dhakay kota baje,datetime_query,general_quirky,0.09672339246252372
+bissher khobrer sathe amake up to det rakhun,news_query,general_quirky,0.09672339246252372
+amar ki but juta porte hobe,weather_query,general_quirky,0.09672339246252372
+bangladesher onno shohrer somoy bolun,datetime_query,general_quirky,0.09672339246252372
+hassokor koutuk khujun,general_joke,general_quirky,0.09672339246252372
+tiub aj supar byosto chil,general_quirky,general_quirky,0.09672339246252372
+tomar din kemon chil,general_quirky,general_quirky,0.09672339246252372
+apni kibhabe apnar somporke jani,general_quirky,general_quirky,0.09672339246252372
+are ami apnar suchna somporke jante chai,general_quirky,general_quirky,0.09672339246252372
+ami jani na kibhabe ei proshner uttor deb apni ekti ba duti shobdo rekhe gechen,general_quirky,general_quirky,0.09672339246252372
+amar din chap chil,general_quirky,general_quirky,0.09672339246252372
+amar ekti kharap din chil,general_quirky,general_quirky,0.09672339246252372
+ami aj ekojon gorib obhabike shahajyo korechi,general_quirky,general_quirky,0.09672339246252372
+apnar boyosh koto,general_quirky,general_quirky,0.09672339246252372
+aj ami,general_quirky,general_quirky,0.09672339246252372
+amar jana bishoy somporke amake sohoj proshno jigyasa korun ebong jokhon ami bhul kori tokhon amake bolun,general_quirky,general_quirky,0.09672339246252372
+ami aj koto kilomitar hetechi,general_quirky,general_quirky,0.09672339246252372
+ami eta somporke kotha bolte chai,general_quirky,general_quirky,0.09672339246252372
+apni amake ajker somporke bolte paren,calendar_query,general_quirky,0.09672339246252372
+ami traffic jam pete dirgh ghrina,general_quirky,general_quirky,0.09672339246252372
+amar ekta ghum dorkar,general_quirky,general_quirky,0.09672339246252372
+tumi ajke ki korte chao,general_quirky,general_quirky,0.09672339246252372
+ami shokaler nasta attay khai,general_quirky,general_quirky,0.09672339246252372
+ami pachtar por ar kono call korte chai na mi,general_quirky,general_quirky,0.09672339246252372
+ami protidin choytar jonno ekti alarm chai,alarm_set,general_quirky,0.09672339246252372
+olly abohawa kemon,weather_query,general_quirky,0.09672339246252372
+apni ki mone koren amar ekti cinema dekha uchit ba dinner jawa uchit,general_quirky,general_quirky,0.09672339246252372
+amar aro bhalo fokas thaka dorkar olly ami ekti ekok kaje mononibesh korte parini,general_quirky,general_quirky,0.09672339246252372
+ami dokan giyechilam,general_quirky,general_quirky,0.09672339246252372
+idaning apni kemon onubhob korchen,general_quirky,general_quirky,0.09672339246252372
+ei je idaning kheladhulay ki akorshoniyo ghotna ghotche,general_quirky,general_quirky,0.09672339246252372
+apni ki bigyapondatader kache amar kon tothyo bikri koren,general_quirky,general_quirky,0.09672339246252372
+amar purano bondhu ali kache ajke ami doure gelam,general_quirky,general_quirky,0.09672339246252372
+keu apnake jigyasa kora sobcheye boka proshno ki,general_quirky,general_quirky,0.09672339246252372
+dhadha,general_quirky,general_quirky,0.09672339246252372
+apni ki idaning kon bhalo gan shunechen,general_quirky,general_quirky,0.09672339246252372
+aj ja ghoteche ta record korun,general_quirky,general_quirky,0.09672339246252372
+biralder jonno shohre ki ekojon grumar achen,general_quirky,general_quirky,0.09672339246252372
+eta koto shobdo jane,general_quirky,general_quirky,0.09672339246252372
+tumi ki adhunik,general_quirky,general_quirky,0.09672339246252372
+ami ganer bishoy chai,music_query,general_quirky,0.09672339246252372
+ami ajke dhaka geyechilam,general_quirky,general_quirky,0.09672339246252372
+notun gajet,general_quirky,general_quirky,0.09672339246252372
+tribhiyake proshno jigyasa korun,general_quirky,general_quirky,0.09672339246252372
+eta ki ekti byosto din hoyeche,general_quirky,general_quirky,0.09672339246252372
+itihas,general_quirky,general_quirky,0.09672339246252372
+kenakata,general_quirky,general_quirky,0.09672339246252372
+kibhabe sasthyokor khabar khete hoy,general_quirky,general_quirky,0.09672339246252372
+aj apnar mejaj ki,general_quirky,general_quirky,0.09672339246252372
+norom ponir shokto theke bhalo,cooking_recipe,general_quirky,0.09672339246252372
+aj ekti klantikor din chil,general_quirky,general_quirky,0.09672339246252372
+pop shilpe ki ghotche,news_query,general_quirky,0.09672339246252372
+video chalan,general_quirky,general_quirky,0.09672339246252372
+apni ki amar bandhobike pochondo koren,general_quirky,general_quirky,0.09672339246252372
+ekti bhalo romantic dinner ki hobe,general_quirky,general_quirky,0.09672339246252372
+banan,general_quirky,general_quirky,0.09672339246252372
+ekti bandhobir jonno ekti bhalo uphar ki,general_quirky,general_quirky,0.09672339246252372
+gachpala,general_quirky,general_quirky,0.09672339246252372
+ke se jonmodin prokriti,general_quirky,general_quirky,0.09672339246252372
+tomar boyosh koto,general_quirky,general_quirky,0.09672339246252372
+akorshoniyo khobor bolun,news_query,general_quirky,0.09672339246252372
+purbabhaser har,general_quirky,general_quirky,0.09672339246252372
+sera bangladeshi restaurant r nam ki,general_quirky,general_quirky,0.09672339246252372
+abohawa mot,weather_query,general_quirky,0.09672339246252372
+samprotik miles,general_quirky,general_quirky,0.09672339246252372
+hi aj sattay amar coffee toiri korte hobe,general_quirky,general_quirky,0.09672339246252372
+samogrik din,general_quirky,general_quirky,0.09672339246252372
+atomobailguli,news_query,general_quirky,0.09672339246252372
+tomar din kemon katlo,general_quirky,general_quirky,0.09672339246252372
+general health tips sadharon sasthyo tipos,general_quirky,general_quirky,0.09672339246252372
+kritrim buddhimottar ki chetna ache,general_quirky,general_quirky,0.09672339246252372
+tumi ki asol,general_quirky,general_quirky,0.09672339246252372
+olly budhbar byobsayik meeting batil koreche,calendar_remove,general_quirky,0.09672339246252372
+shukrobare shokal doshtay stand-up muche felun,calendar_remove,datetime_query,0.06179214558071062
+soptaher baki dingulir jonno amar ejenda ki,calendar_query,general_quirky,0.09672339246252372
+meeting guli theke amar din porishkar korun,calendar_remove,general_quirky,0.09672339246252372
+poroborti dui din moddhe sob event batil korun,calendar_remove,general_quirky,0.09672339246252372
+amar calendar e protidin bikale pachtay call jog korun,calendar_set,general_quirky,0.09672339246252372
+amar poroborti shidiule ki ache,calendar_query,general_quirky,0.09672339246252372
+amar calendar porishkar korun,calendar_remove,general_quirky,0.09672339246252372
+pore sei email pathate amake mone koriye din,calendar_set,general_quirky,0.09672339246252372
+janala dhute amake mone koriye din,calendar_set,general_quirky,0.09672339246252372
+amar poroborti ghotna kharij,calendar_remove,general_quirky,0.09672339246252372
+shantonu rohman shubho sathe ekti meeting set korun,calendar_set,general_quirky,0.09672339246252372
+amar calendar e ekti event jog korun,calendar_set,general_quirky,0.09672339246252372
+amar ki aj kon onushthan ache,calendar_query,general_quirky,0.09672339246252372
+sabrinar sathe ei sondhay boithker jonno event jog korun,calendar_set,general_quirky,0.09672339246252372
+amar calendar e poroborti ki,calendar_query,general_quirky,0.09672339246252372
+amar calendar e aj kon ghotna ache,calendar_query,general_quirky,0.09672339246252372
+ei budhbar shokale amar meeting gulo amake bolo,calendar_query,general_quirky,0.09672339246252372
+amar calendar e somosto event muche felun,calendar_remove,general_quirky,0.09672339246252372
+ami amar premiker sathe agami soptahe lilir biyete jog deb doya kore eti amar calendar e jog korun,calendar_set,general_quirky,0.09672339246252372
+olly apni ki amake du-ghontar moddhe gym class er jonno mone koriye dite parben,calendar_set,datetime_query,0.06842990907761376
+amar bonke ekti email pathate mone koran,calendar_set,general_quirky,0.09672339246252372
+nimnolikhit byoktider sathe calendar e nimnolikhit event set up korun,calendar_set,general_quirky,0.09672339246252372
+kon asonno ghotna ache,calendar_query,general_quirky,0.09672339246252372
+shukrobar dupur duita trishe hisab bibhager sathe ekti meeting nirdharon korun,calendar_set,general_quirky,0.09672339246252372
+agamikal dupur duitay jonmodiner party muche felun,calendar_remove,general_quirky,0.09672339246252372
+sekhane ki shokaler show-guli pawa jay,calendar_query,datetime_query,0.06179214558071062
+apni ki amake mubhir somoysuchiti dite paren,calendar_query,general_quirky,0.09672339246252372
+khelar jonno amake rat attay ekti reminder din,calendar_set,general_quirky,0.09672339246252372
+porer mase lon keyar appointment muche felun,calendar_remove,general_quirky,0.09672339246252372
+eta khub alada,general_quirky,general_quirky,0.09672339246252372
+ami aj meeting e ke hote asha kora uchit,calendar_query,general_quirky,0.09672339246252372
+protidin calendar e event set korun,calendar_set,general_quirky,0.09672339246252372
+shombar dosh tay kaderer sathe amar meeting er kotha mone koriye dio,calendar_set,general_quirky,0.09672339246252372
+agamikal sondhar jonno kon program ache,calendar_query,general_quirky,0.09672339246252372
+sob ghotna ebong ibhentos muche felun,calendar_remove,general_quirky,0.09672339246252372
+amar agamikal koto meeting ache,calendar_query,general_quirky,0.09672339246252372
+calendar theke sob soran,calendar_remove,general_quirky,0.09672339246252372
+amar boithker ek ghonta age amake obhit korun,calendar_set,general_quirky,0.09672339246252372
+calendar klin kor,calendar_remove,general_quirky,0.09672339246252372
+amar calendar e kon event nei ta nishchit korun,calendar_remove,general_quirky,0.09672339246252372
+reminder guli dekhao,calendar_query,general_quirky,0.09672339246252372
+proti bochor ei tarikhe amake mone koriye din,calendar_set,general_quirky,0.09672339246252372
+agamikal nojrul islamer sathe ekti meeting korar jonno amake ekti somoy ber korun,calendar_set,general_quirky,0.09672339246252372
+agami soptahe jonno amar calendar kemon dekhacche,calendar_query,general_quirky,0.09672339246252372
+calendar theke notun bochor soran,calendar_remove,general_quirky,0.09672339246252372
+hello google doya kore amake google calendar e niye jan,calendar_set,general_quirky,0.09672339246252372
+agami mongolbar shokal egarota theke bikel tinta er moddhe ki ki onushthan hobe,calendar_query,general_quirky,0.09672339246252372
+baki dingulir jonno amar somosto event guli muche felun,calendar_remove,general_quirky,0.09672339246252372
+aj amar onusmarok ki,calendar_query,general_quirky,0.09672339246252372
+google calender,calendar_set,general_quirky,0.09672339246252372
+ponchodsher jonno amar daktarer appointment jog korun,calendar_set,general_quirky,0.09672339246252372
+robibar party r jonno mudikhanar jinis kenakatay jete amake mone koriye deben,calendar_set,general_quirky,0.09672339246252372
+brihospotibar bikel tintey rohman ebong runake meetinger jonno nimontron din,calendar_set,general_quirky,0.09672339246252372
+event er pore ki korte hobe,calendar_query,general_quirky,0.09672339246252372
+bord meeting opsaron korun ebong poroborti budhbarer jonno punohnirdharon korun,calendar_remove,general_quirky,0.09672339246252372
+shokal choyta,calendar_set,general_quirky,0.09672339246252372
+ami asonno komonooyeloth gemos somporke aro jante chai,general_quirky,general_quirky,0.09672339246252372
+muche felun,calendar_remove,general_quirky,0.09672339246252372
+amake brihospotibar shokal choyta jagiye tulun jate ami mitingyer jonno somoy pai,calendar_set,general_quirky,0.09672339246252372
+amar ki agamikaler jonno nirdharit kichu ache,calendar_query,general_quirky,0.09672339246252372
+ei bochor amar jonmodin soptaher kon din,calendar_query,general_quirky,0.09672339246252372
+amar poroborti ghotna ki,calendar_query,general_quirky,0.09672339246252372
+amake pochish tom adrer poshuchikitsok niyog bhule jete deben na,calendar_set,general_quirky,0.09672339246252372
+apni ki amar sathe ekti meeting set up korte paren,calendar_set,general_quirky,0.09672339246252372
+ei soptaher guruttopurn ghotna note korun,calendar_set,general_quirky,0.09672339246252372
+shukrobarer rohmaner party ki batil hoyeche,calendar_query,general_quirky,0.09672339246252372
+aj ki shombar,datetime_query,general_quirky,0.09672339246252372
+ditiyo aprile amar somoysuchi theke majik show soriye din,calendar_remove,general_quirky,0.09672339246252372
+match kokhon shuru hobe,calendar_query,general_quirky,0.09672339246252372
+amar barshiki kokhon,calendar_query,general_quirky,0.09672339246252372
+doya kore amake dosh miniter moddhe chula theke coffee khule felte mone koriye din,calendar_set,general_quirky,0.09672339246252372
+amar barshiki onushthaner jonno amake age theke mone koran,calendar_set,general_quirky,0.09672339246252372
+ajke amar appointment guli koto somye ache,calendar_query,general_quirky,0.09672339246252372
+aj amar prothom appointment ki,calendar_query,general_quirky,0.09672339246252372
+ajker jonno ki,calendar_query,general_quirky,0.09672339246252372
+ami ki kichur jonno book korechi,calendar_query,general_quirky,0.09672339246252372
+ami ei asonno event er jonno dhaka hote hobe apni eti jog korte paren,calendar_set,general_quirky,0.09672339246252372
+duita chollish p. m. theke aj ki hocche,calendar_query,qa_maths,0.06140860636687924
+ami porer soptahe ki shidiul korechi,calendar_query,general_quirky,0.09672339246252372
+agamikal amar calendar e ki ache,calendar_query,general_quirky,0.09672339246252372
+amar calendar theke sobkichu muche felun,calendar_remove,general_quirky,0.09672339246252372
+amar calendar e baroi july ruhi er jonmodin jog kora hobe,calendar_set,general_quirky,0.09672339246252372
+baroi july adrer jonmodin ebong ei tarikher sathe amar calendar update kora hobe,calendar_set,general_quirky,0.09672339246252372
+dhaka er somosto march event amar calendar e jog korte hobe,calendar_set,general_quirky,0.09672339246252372
+amar calendar march mase somosto saint joseph catholic church event er sathe update kora hobe,calendar_set,general_quirky,0.09672339246252372
+ekhon theke tero miniter moddhe amake park e gari chalanor jonno mone koraben,calendar_set,general_quirky,0.09672339246252372
+amar march er calendar e somosto event guli talika korun,calendar_query,general_quirky,0.09672339246252372
+march e ki ki meeting guli ache,calendar_query,general_quirky,0.09672339246252372
+klayentoder sathe aj meeting dekhan doya kore,calendar_query,general_quirky,0.09672339246252372
+bingsh october doshta trish a. m. ekti meeting set korun,calendar_set,qa_maths,0.061374066919451666
+ami amar protiti multubi onusmarok dekhte chai,calendar_query,general_quirky,0.09672339246252372
+ami agamikal ki korte hobe,calendar_query,general_quirky,0.09672339246252372
+ei maser somoysuchite ki event ache,calendar_query,general_quirky,0.09672339246252372
+calendar e jon er jonmodiner punrabrittimulok event toiri korun,calendar_set,general_quirky,0.09672339246252372
+christmas jonno amar somoysuchir jonno onusmarok punrabritti,calendar_set,general_quirky,0.09672339246252372
+doya kore ei robibar mone koriye din konsarte jete,calendar_set,general_quirky,0.09672339246252372
+bondhur sathe meeting korun,calendar_set,general_quirky,0.09672339246252372
+ami ki apnake amar calendar theke poroborti event muche felte bolte pari,calendar_remove,general_quirky,0.09672339246252372
+amar shudhu ei manushder songe ekti event toiri kora proyojon,calendar_set,general_quirky,0.09672339246252372
+calendar event e lokeder amontron janan,calendar_set,general_quirky,0.09672339246252372
+agami din bhalobasar manusher sathe det,calendar_set,general_quirky,0.09672339246252372
+amake event dekhan ja ekhon cholche,calendar_query,general_quirky,0.09672339246252372
+agamikal sondha sattay amar sathe kheloyarder ekti meeting sthir korun,calendar_set,general_quirky,0.09672339246252372
+olly doya kore amar jonno ekti protidiner reminder set korun,calendar_set,general_quirky,0.09672339246252372
+amar ki aj appointment ache,calendar_query,general_quirky,0.09672339246252372
+shukrobar dupur ektay rampura er kothay sei meeting,calendar_query,general_quirky,0.09672339246252372
+asonno ghotnabli,calendar_query,general_quirky,0.09672339246252372
+satarer pather por mongolbar amar calendar e ar ki ache,calendar_query,general_quirky,0.09672339246252372
+aj ki karo jonmodin ba barshiki,calendar_query,general_quirky,0.09672339246252372
+punrabritto upor event set,calendar_set,general_quirky,0.09672339246252372
+amake protidin shokal egarotay boser sathe meeting korar kotha mone koriye dio,calendar_set,general_quirky,0.09672339246252372
+dhakay badminton match er bishye dosra januyari set korun,calendar_set,general_quirky,0.09672339246252372
+ei soptaher jonno ki ache,calendar_query,general_quirky,0.09672339246252372
+ami ei soptahe kotota mukto achi,calendar_query,general_quirky,0.09672339246252372
+agamikal ei somporke amake mone koriye din,calendar_set,general_quirky,0.09672339246252372
+ponchom may amar calendar e mayer fashon dinner jog korun,calendar_set,general_quirky,0.09672339246252372
+ami tinta porjonto meeting chai,calendar_set,general_quirky,0.09672339246252372
+prottek shukrobar amake mudisamogri kenar kotha mone koriye dite amar calendar set korun,calendar_set,general_quirky,0.09672339246252372
+calendar e obosthaner ekti onusmarok toiri korun,calendar_set,general_quirky,0.09672339246252372
+meeting somporke sorboshesh onusmarok,calendar_set,general_quirky,0.09672339246252372
+nijukto howar din,calendar_set,general_quirky,0.09672339246252372
+agamikaler jonno porikolpona,calendar_query,general_quirky,0.09672339246252372
+ponchom tolar meeting e doshom tarikhe shantonu shubho amar sathe jog din,calendar_set,general_quirky,0.09672339246252372
+ami kichu korechi apnar calendar check korun,calendar_query,general_quirky,0.09672339246252372
+charte theke choyta porjonto kokhon amar ekti binamulle birti ache,calendar_query,general_quirky,0.09672339246252372
+mongolbar rohmaner sathe meetinger jonno ekti reminder set korun,calendar_set,general_quirky,0.09672339246252372
+mongolbarer jonno meetinger reminder guli muche felun,calendar_remove,general_quirky,0.09672339246252372
+ami apnar jonno proti shukrobarer dupur barota er namaj nirdharon korte chai,calendar_set,general_quirky,0.09672339246252372
+calendar theke somosto ghotna saf korun,calendar_remove,general_quirky,0.09672339246252372
+bishei april amar bhaiyer jonmodiner kotha mone koriye dite bhulben na,calendar_set,general_quirky,0.09672339246252372
+aj tintar por amar somosto appointment batil korun ebong amake bistarit janan,calendar_remove,general_quirky,0.09672339246252372
+apni ki chihnit korben je agamikal tintay pabeler sathe amar ekti meeting ache,calendar_set,general_quirky,0.09672339246252372
+amar asonno ghotna ki,calendar_query,general_quirky,0.09672339246252372
+amar asonno ghotna talika out,calendar_query,general_quirky,0.09672339246252372
+asonno mitingyer jonno onusmarok set korun,calendar_set,general_quirky,0.09672339246252372
+asonno meeting-gulir talika ber korun,calendar_set,datetime_query,0.060209243772541075
+utsob calendar e shubho ebong rohman jog kora uchit,calendar_set,general_quirky,0.09672339246252372
+ei jonno ekti onusmarok set korun,calendar_set,general_quirky,0.09672339246252372
+amake mone koriye din je agamikal ekti morning alarm er jonno asifer sathe amar ekti prejenteshon ache,calendar_set,general_quirky,0.09672339246252372
+doya kore agamikal meetinger jonno shokal sattar ekti alarm set kore din,alarm_set,general_quirky,0.09672339246252372
+ami agamikal byosto tai sob calendar event muche din,calendar_remove,general_quirky,0.09672339246252372
+joybangla stet feyarer thikana khuje ber korun,calendar_query,general_quirky,0.09672339246252372
+ami protidin mojar jinis korte chai doya kore ekti reminder jog korun,calendar_set,general_quirky,0.09672339246252372
+amake shubhmaner sathe ekti meeting er byobostha korte hobe,calendar_set,general_quirky,0.09672339246252372
+proti robibarer jonno ekti punrabritto mudikhanar dokane trip set up korun,calendar_set,general_quirky,0.09672339246252372
+mirpur park e choutha february dupur dutoy calendar e onushilon jog korun,calendar_set,general_quirky,0.09672339246252372
+agamikaler jonno amar calendar e kenakata jog korun,calendar_set,general_quirky,0.09672339246252372
+robibar bikele ami ki korchi ta amake mone koriye din,calendar_set,general_quirky,0.09672339246252372
+onugroh kore amake mone koriye din shokal egarotar byobsayik sommelon,calendar_set,general_quirky,0.09672339246252372
+protidin shokal atta amar kajer jonno ekti punrabritti reminder set toiri korun,calendar_set,general_quirky,0.09672339246252372
+doya kore shonibar dupur ektay ekti chul katar appointment shidiul korun,calendar_set,general_quirky,0.09672339246252372
+ami ki porer soptahante nirdharit kono meeting ache,calendar_query,general_quirky,0.09672339246252372
+amake mone koriye din agamikal sondha satta bish petkote aro kukurer khabar nao mi,calendar_set,general_quirky,0.09672339246252372
+amake mone koriye din je amake agami mongolbar amader gonit prokolpo somporke asma sathe dekha korte hobe rat doshtay,calendar_set,general_quirky,0.09672339246252372
+ami ki onusmarok set korechi,calendar_query,general_quirky,0.09672339246252372
+bangladesh jatrar ager din amake janan,calendar_set,general_quirky,0.09672339246252372
+event jog korun besobol onushilon aj rate bikal pachtay,calendar_set,general_quirky,0.09672339246252372
+calendar theke event muchun,calendar_remove,general_quirky,0.09672339246252372
+doya kore ajke dupur ektay school e jonke nite mone korao,calendar_set,general_quirky,0.09672339246252372
+sondha sattay meeting set korun,calendar_set,general_quirky,0.09672339246252372
+amake mone koriye din sondha sattay amar ekti meeting ache,calendar_set,general_quirky,0.09672339246252372
+amake ki aj kichu korte hobe,calendar_query,general_quirky,0.09672339246252372
+shombar theke event soran,calendar_remove,general_quirky,0.09672339246252372
+calendar khule amar somosto event guli muche felun,calendar_remove,general_quirky,0.09672339246252372
+agamikal ki hobe bolun,calendar_query,general_quirky,0.09672339246252372
+bish november ki ache,calendar_query,general_quirky,0.09672339246252372
+apni ki onugroh kore amar calendar e ei soptahante je party te jacchi setike upekkha korte paren,calendar_remove,general_quirky,0.09672339246252372
+amar calendar e ekti punrabritti patarn ei ghotna rakhun,calendar_set,general_quirky,0.09672339246252372
+menute sobkichu muchun,lists_remove,general_quirky,0.09672339246252372
+olly ami jante chai amar ki kono notun mone koranor moto bishoy ache,calendar_query,general_quirky,0.09672339246252372
+porer soptahe mitingyer jonno mone koriye din,calendar_set,general_quirky,0.09672339246252372
+amar calendar theke ei event dilit korun,calendar_remove,general_quirky,0.09672339246252372
+amake maser jonno amar ghotna dekhan,calendar_query,general_quirky,0.09672339246252372
+amar ki aj rate kon det ache,calendar_query,general_quirky,0.09672339246252372
+amar tarikher jonno ei bikel songrokkhon korun,calendar_set,general_quirky,0.09672339246252372
+ei soptahante ki ghotche,calendar_query,general_quirky,0.09672339246252372
+amar calendar e agamikaler jonno ekti meeting set korun,calendar_set,general_quirky,0.09672339246252372
+ami ajke ki ki event guli nirdharon korechi,calendar_query,general_quirky,0.09672339246252372
+boro din kon din pore,datetime_query,general_quirky,0.09672339246252372
+aj rate kokhon dinner party ache,calendar_query,general_quirky,0.09672339246252372
+amar bondhoki kokhon,calendar_query,general_quirky,0.09672339246252372
+agamikal dupure amar bangla reshturento moddhahnobhojer somoy nirdharon korun,calendar_set,general_quirky,0.09672339246252372
+shokal egarotay e budhbarer jonno ekti bikroy meeting nirdharon korun,calendar_set,general_quirky,0.09672339246252372
+ajke jokhon amar pepar shesh,calendar_query,general_quirky,0.09672339246252372
+meeting shuru howar somoy,calendar_query,general_quirky,0.09672339246252372
+event bishoyobostu ki,calendar_query,general_quirky,0.09672339246252372
+ami ei soptaher jonno ekti tarikh set korte chai,calendar_set,general_quirky,0.09672339246252372
+kokhon amar sei porikkha ache,calendar_query,general_quirky,0.09672339246252372
+kokhon meeting shuru hobe,calendar_query,general_quirky,0.09672339246252372
+prottek shukrobar punrabritti lunch er event poriborton,calendar_set,general_quirky,0.09672339246252372
+amar ki kon appointment asche samne,calendar_query,general_quirky,0.09672339246252372
+amar calendar e ekti meeting event toiri korun,calendar_set,general_quirky,0.09672339246252372
+aj rate purnima,calendar_query,general_quirky,0.09672339246252372
+agamikal kokhon amar appointment ache,calendar_query,general_quirky,0.09672339246252372
+agamikaler jonno amar calendar saf korun,calendar_remove,general_quirky,0.09672339246252372
+agamikal moddhahnobhojer jonno ki amar appointment ache,calendar_query,general_quirky,0.09672339246252372
+kon din meeting hobe,calendar_query,general_quirky,0.09672339246252372
+amar kajer projekto meetinger thikana kothay,calendar_query,general_quirky,0.09672339246252372
+amake robibar shokal egarotay girjar porishebar bishye obhit korte hobe,calendar_set,general_quirky,0.09672339246252372
+amar poroborti ghotna muche felun,calendar_remove,general_quirky,0.09672339246252372
+somosto asonno ghotna opsaron korun,calendar_remove,general_quirky,0.09672339246252372
+parodorshi chele ki paroform korche,calendar_query,general_quirky,0.09672339246252372
+agamikal bikeler meeting somporke mone koriye dite bhulben na,calendar_set,general_quirky,0.09672339246252372
+mongolbar mitingye trish miniter onusmarok,calendar_set,general_quirky,0.09672339246252372
+sompurnorupe amar calendar porishkar korun,calendar_remove,general_quirky,0.09672339246252372
+apni ki amar calendar khali korte paren,calendar_remove,general_quirky,0.09672339246252372
+ami ki ei soptahante ekti party r porikolpona korechi,calendar_query,general_quirky,0.09672339246252372
+brihospotibar dupur dutoy forman babur sathe ekti meeting set korun,calendar_set,general_quirky,0.09672339246252372
+brihospotibar dupur poune duitay amake mr. forman er sathe dekha korte hobe onugroh kore calendar chihnit korun,calendar_set,qa_maths,0.05975820494468475
+amar calendar e aj rate mayer sathe dinner er kotha mone koriye din,calendar_set,general_quirky,0.09672339246252372
+agamikal dupur duitay meeting somporke amake mone koriye din,calendar_set,general_quirky,0.09672339246252372
+shukrobar mitingyer jonno ekti onusmarok set korun bikel tintay,calendar_set,general_quirky,0.09672339246252372
+aj theke amar oyarkoaut muche din,calendar_remove,general_quirky,0.09672339246252372
+proti shukrobar duitay amar joybangla niche chihnit korun,calendar_set,general_quirky,0.09672339246252372
+amar ki agamikal dupur theke tinta porjonto kichu nirdharit ache,calendar_query,general_quirky,0.09672339246252372
+protidin dupur duitay amar make kheyal rakhar jonno amar ekti reminder dorkar,calendar_set,general_quirky,0.09672339246252372
+hei sar ajker jonno amar somosto calendar appointment saf korun,calendar_remove,general_quirky,0.09672339246252372
+dui ghontar moddhe mitingyer jonno notun bigyopti,calendar_set,general_quirky,0.09672339246252372
+calendar er jonno alarm onusmarok toiri korun,calendar_set,general_quirky,0.09672339246252372
+amake calendar somporke smoron koriye din,calendar_set,general_quirky,0.09672339246252372
+protidin dupure amake oshudh newar jonno ekti rimaindoyar set korun,calendar_set,general_quirky,0.09672339246252372
+agamikal bikel tintay amar meeting somporke amake mone koran,calendar_set,general_quirky,0.09672339246252372
+choutha april bikel pachtay dayomondo plaja nalejholete rajesher sathe dekha jog korun,calendar_set,general_quirky,0.09672339246252372
+agamikal bikel tintay bob sathe amar dekha hobe,calendar_query,general_quirky,0.09672339246252372
+amar ghotna somporke amake aro bolun,general_quirky,general_quirky,0.09672339246252372
+shukrobar shubho mojumdar sathe ekti meeting korte kormosthole amake mone koriye din,calendar_set,general_quirky,0.09672339246252372
+amar calendar e somosto appointment batil korun,calendar_remove,general_quirky,0.09672339246252372
+sabrina sathe lunch appointment jog korun january sekende dupur share baro tay,calendar_set,general_quirky,0.09672339246252372
+amar somosto nirdharit ghotna poritran pete,calendar_remove,general_quirky,0.09672339246252372
+march er unish dupur ektar meeting muche din,calendar_remove,general_quirky,0.09672339246252372
+doya kore february maser prottek brihospotibar dupur barotay kajer meeting set korun,calendar_set,general_quirky,0.09672339246252372
+amar calendar e ei ghotnati ontorbhukto korun,calendar_set,general_quirky,0.09672339246252372
+amar calendar e kichu ache,calendar_query,general_quirky,0.09672339246252372
+olly amake mone korao aj theke ek soptah pachtay laibrerite thakte hobe,calendar_set,general_quirky,0.09672339246252372
+ajker jonno amar calendar e jog korun muhammod rayhan rat ek tay,calendar_set,general_quirky,0.09672339246252372
+amar asonno event guli somporke amake bolo,calendar_query,general_quirky,0.09672339246252372
+ei ghotna muche din,calendar_remove,general_quirky,0.09672339246252372
+apni ei event muche dite paren,calendar_remove,general_quirky,0.09672339246252372
+shukrobare akme meeting kokhon shuru hoy,calendar_query,general_quirky,0.09672339246252372
+amar ajker somoysuchi kemon,calendar_query,general_quirky,0.09672339246252372
+sob baki thaka onusmarok dekhan,calendar_query,general_quirky,0.09672339246252372
+garir dilarshipe amar dupur du tay appointment er ek ghonta age amake obhit korun,calendar_set,general_quirky,0.09672339246252372
+amar koto reminder guli baki ache,calendar_query,general_quirky,0.09672339246252372
+ei mase amar calendar e ki ache,calendar_query,general_quirky,0.09672339246252372
+ei soptahonte amar ki kora uchit,calendar_query,general_quirky,0.09672339246252372
+nimnolikhit ghotna amake mone koriye din,calendar_set,general_quirky,0.09672339246252372
+calendar app theke nomuna meeting soran,calendar_remove,general_quirky,0.09672339246252372
+rat ekta theke tintar moddhe amar ki appointment ache,calendar_query,general_quirky,0.09672339246252372
+sthaniyo ghotna pan,recommendation_events,general_quirky,0.09672339246252372
+amar asonno event gulo ki ki,calendar_query,general_quirky,0.09672339246252372
+budhbar bikal pachtay filer sathe sorboda ekti meeting amar calendar e byobostha korun,calendar_set,general_quirky,0.09672339246252372
+aj dupur duitar jonno amar meeting muche din,calendar_remove,general_quirky,0.09672339246252372
+ami sondha chota theke sattar moddhe ki fri achi,calendar_query,general_quirky,0.09672339246252372
+ami chai apni agamikal shokal noytay nithor ronjon modhu ebong sudipto rohman jesi ebong karler sathe ekti meeting shidiul korun,calendar_set,general_quirky,0.09672339246252372
+apni ki amar calendar e ekti event likhte paren,calendar_set,general_quirky,0.09672339246252372
+calendar khulun ebong ekti notun event toiri korun,calendar_set,general_quirky,0.09672339246252372
+ajker jonno amar meeting er obosthan amake bolun,calendar_query,general_quirky,0.09672339246252372
+ajker diner meeting gulo dekhan,calendar_query,general_quirky,0.09672339246252372
+prothom april shokal doshtay sneha er sathe ekti meeting nirdharon korun,calendar_set,general_quirky,0.09672339246252372
+agamikal dupur duitay amake mone koriye deben,calendar_set,general_quirky,0.09672339246252372
+ami laibrerite agamikaler event er jonno amar calendar e ekti note korte chai,calendar_set,general_quirky,0.09672339246252372
+ei brihospotibar shokal satta selos meeting er kotha mone koriye din ebong calendar e jog korun,calendar_set,general_quirky,0.09672339246252372
+aj brihospotibar sattay amar ekti bikroy meeting ache doya kore amake obhit korun ebong calendar e jog korun,calendar_set,general_quirky,0.09672339246252372
+amar calendar theke sobkichu muche din,calendar_remove,general_quirky,0.09672339246252372
+shokal noytay amar meeting kothay,calendar_query,general_quirky,0.09672339246252372
+meeting muche fela,calendar_remove,general_quirky,0.09672339246252372
+amar meetinger jonno prostut howa dorkar,calendar_query,general_quirky,0.09672339246252372
+meeting somporke amake obhit korun,calendar_query,general_quirky,0.09672339246252372
+ei byoktir sathe tarikh ebong somyer jonno calendar set korun,calendar_set,general_quirky,0.09672339246252372
+pochish januyarir jonno meeting set korun,calendar_set,general_quirky,0.09672339246252372
+ei bochor ekti shukrobar haloin hoy,calendar_query,general_quirky,0.09672339246252372
+amar calendar e bibah jog korun,calendar_set,general_quirky,0.09672339246252372
+facebook event er jonno ekti punrabritti onusmarok alarm set korun amake soptom aprile uposthit hote hobe,alarm_set,general_quirky,0.09672339246252372
+dupur duita jonno ekti sotorkota set mi,alarm_set,general_quirky,0.09672339246252372
+mongolbar dupure meeting,calendar_set,general_quirky,0.09672339246252372
+apni ki amar calendar e amar dinner rijarbheshon jog korte paren,calendar_set,general_quirky,0.09672339246252372
+matri dibos ki robibar,calendar_query,general_quirky,0.09672339246252372
+choutha july nirdharit trip muche felun,calendar_remove,general_quirky,0.09672339246252372
+amar obosthane chutir din onusondhan,recommendation_events,general_quirky,0.09672339246252372
+event shuru howar age mitingyer jonno prostut hon,calendar_set,general_quirky,0.09672339246252372
+amake ki shombar kon meeting mone koriye dite hobe,calendar_set,general_quirky,0.09672339246252372
+ei shombar bikele omit bosu sathe ekti meeting nirdharon korun,calendar_set,general_quirky,0.09672339246252372
+tin ghonta otikranto hole amake janaben,calendar_set,general_quirky,0.09672339246252372
+event er din giye muche felun,calendar_remove,general_quirky,0.09672339246252372
+event bochre jan ebong muche felun,calendar_remove,general_quirky,0.09672339246252372
+porer shukrobar sakib sathe amar sakkhater ekti onusmarok pathan,calendar_set,general_quirky,0.09672339246252372
+agami brihospotibar bank e call korar jonno amake mone koran,calendar_set,general_quirky,0.09672339246252372
+baki diner jonno amar calendar saf korun,calendar_remove,general_quirky,0.09672339246252372
+porer event er siliul kon somoy,calendar_query,general_quirky,0.09672339246252372
+ami chai apni amake mone korben je amar rein kot nao karon brishti hote pare,calendar_set,general_quirky,0.09672339246252372
+calendar er somosto event muchun,calendar_remove,general_quirky,0.09672339246252372
+brihospotibar arsalane dinner er jonno mone koran,calendar_set,general_quirky,0.09672339246252372
+agami soptahe budhbar amar daktarer appointment er ekti note korun,calendar_set,general_quirky,0.09672339246252372
+aj sattay rafit sathe mitingyer jonno ekti alarm toiri korun,alarm_set,general_quirky,0.09672339246252372
+mondira er name calendar e notun event jog kor,calendar_set,general_quirky,0.09672339246252372
+ei lokeder sathe ghotna jog korun,calendar_set,general_quirky,0.09672339246252372
+dupur barota theke bikal chartay amar ki sidiul kora ache,calendar_query,general_quirky,0.09672339246252372
+dupur barota ebong bikel charte majhe amar ki event ache,calendar_query,general_quirky,0.09672339246252372
+oi maser jonno amar calendar porun,calendar_query,general_quirky,0.09672339246252372
+amar puro calendar theke somosto event guli muche felun,calendar_remove,general_quirky,0.09672339246252372
+agami ek soptaher moddhe somosto event er sathe amake obhit korun,calendar_set,general_quirky,0.09672339246252372
+sakib khaner sathe dekha korar jonno event jog korun,calendar_set,general_quirky,0.09672339246252372
+mongolbar meetinger jonno amake obhit korun,calendar_set,general_quirky,0.09672339246252372
+ajker jonno ki meeting nirdharit hoy,calendar_query,general_quirky,0.09672339246252372
+baki thaka bil porishodh somporke amake onusmarok set korun,calendar_set,general_quirky,0.09672339246252372
+soptah jure amar boser sathe guruttopurn meeting somporke amake janan,calendar_set,general_quirky,0.09672339246252372
+ghurnon ghotna set,calendar_set,general_quirky,0.09672339246252372
+calendar e punrabritti ghotna set kora,calendar_set,general_quirky,0.09672339246252372
+baishe march khelar mathe badminton match ti jog korun,calendar_set,general_quirky,0.09672339246252372
+march er prothom soptaher meeting guli,calendar_query,general_quirky,0.09672339246252372
+ei brihospotibar bhisa abedner jonno ekti onusmarok toiri korun,calendar_set,general_quirky,0.09672339246252372
+poroborti tin diner jonno ekti office meeting calendar e jog korun,calendar_set,general_quirky,0.09672339246252372
+calendar e asonno ghotna,calendar_set,general_quirky,0.09672339246252372
+onushthaner smarok ador mongolbar,calendar_set,general_quirky,0.09672339246252372
+mongolbar sakib sathe dekha korar jonno ekti event reminder toiri korun,calendar_set,general_quirky,0.09672339246252372
+baishe june sakiber jonmodinti calendar e nijukto korun,calendar_set,general_quirky,0.09672339246252372
+calendar e ekti punrabrittimulok ghotna rakhun,calendar_set,general_quirky,0.09672339246252372
+ami ki ei soptahante byosto,calendar_query,general_quirky,0.09672339246252372
+onugroh kore sei ghotnati soran,calendar_remove,general_quirky,0.09672339246252372
+agamikal amar mayer jonmodin,calendar_set,general_quirky,0.09672339246252372
+porer mase amar bhaider jonmodin,calendar_set,general_quirky,0.09672339246252372
+event er pore dinti muche felun,calendar_remove,general_quirky,0.09672339246252372
+event er sob tothyo muche felun,calendar_remove,general_quirky,0.09672339246252372
+egarotay office e ekti meeting jog korun,calendar_set,general_quirky,0.09672339246252372
+doya kore baroi february shokal n-tay daktarer appointment ti amar calendar theke muche felun,calendar_remove,datetime_query,0.06842990907761376
+ekushe august shokal n-tar ekti event jukto korun,calendar_set,datetime_query,0.06418157974343787
+bongobondhu goldo cup anushthanikbhabe kokhon shuru hoy,qa_factoid,general_quirky,0.09672339246252372
+are din sheshe ghotna somporke tothyo prodan korun,calendar_query,general_quirky,0.09672339246252372
+ei soptahe moddhahnobhojner jonno amar kokhon barbarar sathe dekha korar kotha,calendar_query,general_quirky,0.09672339246252372
+shombar er jonno amar dupurer khabarer tarikh somporke amake mone koriye din,calendar_set,general_quirky,0.09672339246252372
+amar chuler appointment somporke brihospotibar amake pray ek ghonta age bolun,calendar_set,general_quirky,0.09672339246252372
+calendar khulun ebong ekti event onusmarok korun,calendar_set,general_quirky,0.09672339246252372
+porer shonibar shokal doshtay ekti khali calendar event toiri korun,calendar_set,general_quirky,0.09672339246252372
+amake baishe januyari boithker kotha mone koriye din,calendar_set,general_quirky,0.09672339246252372
+pandoray amar rock station bajao,play_radio,general_quirky,0.09672339246252372
+apni radio chalu korte paren,play_radio,general_quirky,0.09672339246252372
+amar jonne transo ganer radio channel bajao,play_radio,general_quirky,0.09672339246252372
+betra torongo jonno ekti radio channel tune korun,play_radio,general_quirky,0.09672339246252372
+station e ghurun radio furti ally,play_radio,general_quirky,0.09672339246252372
+ekshoo choy doshmik noy channel e jan,play_radio,general_quirky,0.09672339246252372
+radio te dhaka radio tune korun,play_radio,general_quirky,0.09672339246252372
+ami radio ti chalu kore shunte chai doya kore,play_radio,general_quirky,0.09672339246252372
+radio shudhumatro unonobboi doshmik dui fm e bajano uchit,play_radio,general_quirky,0.09672339246252372
+ekhon radio shuru korun,play_radio,general_quirky,0.09672339246252372
+apni e m. radio chalu korun,play_radio,qa_maths,0.06075427594117176
+ami pandora shune birokto doya kore radio chalao,play_radio,general_quirky,0.09672339246252372
+apni ki amar jonno radio today play korte paren,play_radio,general_quirky,0.09672339246252372
+channel noysho ekanno chalu korun,play_radio,general_quirky,0.09672339246252372
+onugroh kore radio bajan,play_radio,general_quirky,0.09672339246252372
+amar jonne ei radio channel ti chalao,play_radio,general_quirky,0.09672339246252372
+ami je radio station ti chalate chai tar nam bolun,play_radio,general_quirky,0.09672339246252372
+notun radio channel play koro,play_radio,general_quirky,0.09672339246252372
+radio channel radio amar shuru korun,play_radio,general_quirky,0.09672339246252372
+radio shunun,play_radio,general_quirky,0.09672339246252372
+bachchader jonno kichu gan chalao,play_radio,general_quirky,0.09672339246252372
+amar pochonder radio channel ti chalao,play_radio,general_quirky,0.09672339246252372
+ami jete chai radio amar radio te,play_radio,general_quirky,0.09672339246252372
+amar f. m. radio ebong radio amar,play_radio,qa_maths,0.061425110275940276
+online somikkha somporke amake sorboshesh podcast bhut f m chaliye dekhan,play_podcasts,general_quirky,0.09672339246252372
+dhaka oyarioros ebong chittagong bhaikingser khelata chalao,play_radio,general_quirky,0.09672339246252372
+radio te gan chalan,play_radio,general_quirky,0.09672339246252372
+amar radio purano playlist chalu korun,play_radio,general_quirky,0.09672339246252372
+radio bhumi biranobboi doshmik at chalu koro,play_radio,general_quirky,0.09672339246252372
+amar silekted station chalu kor,play_radio,general_quirky,0.09672339246252372
+karento playlist ti bajao,play_music,general_quirky,0.09672339246252372
+radio today er f. m. radio station ki amar jonno bajate parben,play_radio,qa_maths,0.06133949479480758
+radio today chalu korun,play_radio,general_quirky,0.09672339246252372
+kichu en pi ar ebong amar spikar theke tader bajan,play_radio,general_quirky,0.09672339246252372
+kichu sofot rock bajan,play_radio,general_quirky,0.09672339246252372
+radio khoj,play_radio,general_quirky,0.09672339246252372
+bosar ghor er radio te rayan sikresto chalu korun,play_radio,general_quirky,0.09672339246252372
+ami bhut f m prodorshon shunte chai,play_radio,general_quirky,0.09672339246252372
+radio onushthan chalan,play_radio,general_quirky,0.09672339246252372
+eksho dui doshmik sat station e jan,play_radio,general_quirky,0.09672339246252372
+station poriborton kore birashi poyento char,play_radio,general_quirky,0.09672339246252372
+pop radio station shuru korun,play_radio,general_quirky,0.09672339246252372
+abc radio unonobboi doshmik dui fm e bhuli bisri iyadin onushthan chalan,play_radio,general_quirky,0.09672339246252372
+bangladesh betar,play_radio,general_quirky,0.09672339246252372
+ei shokal e kon station e bhalo gan bajche,play_radio,general_quirky,0.09672339246252372
+lokosongiter station play korun,play_radio,general_quirky,0.09672339246252372
+garir radio preiri home songi bajan,play_radio,general_quirky,0.09672339246252372
+mahtam sakib je gane surarop korechen set album ti bajan,play_music,general_quirky,0.09672339246252372
+radio today playlist bajan,play_radio,general_quirky,0.09672339246252372
+ami radio today rash limbagh shunte chai,play_radio,general_quirky,0.09672339246252372
+abc radio 89.2 fm chalan,play_radio,general_quirky,0.06151079495128388
+olly amar telibhishne ekti bhalo mubhi chalao,play_radio,general_quirky,0.09672339246252372
+apnar speaker er maddhome amake ekti profullo gan bajan,play_music,general_quirky,0.09672339246252372
+ei program byabohar korun,play_radio,general_quirky,0.09672339246252372
+ami ekattorer dinguli jekhane bondho korechilam sekhan theke chalano shuru kor,play_audiobook,general_quirky,0.09672339246252372
+apni ki amar priyo alakriti audio boi chalate paren,play_audiobook,general_quirky,0.09672339246252372
+histori off rom audiobook ti resume kor,play_audiobook,general_quirky,0.09672339246252372
+moddhahno-2 punray resume korun,play_audiobook,datetime_query,0.05820398167079809
+doya kore amar gan chalan,play_music,general_quirky,0.09672339246252372
+da bhinchi kod jekhane jekhane shesh korechilam sekhan theke chalu kor,play_audiobook,general_quirky,0.09672339246252372
+ami aro audiobook shunte chai,play_audiobook,general_quirky,0.09672339246252372
+rakha,play_audiobook,general_quirky,0.09672339246252372
+humayon ahmeder rupa chalao,play_audiobook,general_quirky,0.09672339246252372
+audio book porte thako jan,play_audiobook,general_quirky,0.09672339246252372
+amar shuru kora shesh chaptar theke amar audiobook ti abar chalao,play_audiobook,general_quirky,0.09672339246252372
+chole jay bosonter din chalu kor,play_audiobook,general_quirky,0.09672339246252372
+shesh shona audiobook ti abar chalu kor,play_audiobook,general_quirky,0.09672339246252372
+smarok gan abar shuru,play_music,general_quirky,0.09672339246252372
+golpokothon audio book shuru korun,play_audiobook,general_quirky,0.09672339246252372
+audiobook theke amar jonno runa layla gan chalan,play_audiobook,general_quirky,0.09672339246252372
+bappa mojumdarer album bajao,play_music,general_quirky,0.09672339246252372
+shuru theke misir alir choshma audiobook ti bajao,play_audiobook,general_quirky,0.09672339246252372
+amar jonne audiobook e ei plebbakti khoj ebong chalao,play_audiobook,general_quirky,0.09672339246252372
+ei audiobook ti resume kor,play_audiobook,general_quirky,0.09672339246252372
+ei maser besto selar audiobook ti resume kor,play_audiobook,general_quirky,0.09672339246252372
+maikel jakosner audio book theke ganti resume korun,play_audiobook,general_quirky,0.09672339246252372
+moyomonsingh gitika audiobook ti resume kor,play_audiobook,general_quirky,0.09672339246252372
+amar pochonder boiti bajao,play_audiobook,general_quirky,0.09672339246252372
+amar audiobook punray shuru korun,play_audiobook,general_quirky,0.09672339246252372
+amake kichu pop songit ba ekti gan shunte din,play_music,general_quirky,0.09672339246252372
+amar shesher kobita bajiye jao jan,play_audiobook,general_quirky,0.09672339246252372
+sami ken asami chalu koro,play_audiobook,general_quirky,0.09672339246252372
+jekhane ami cherechilam sekhan theke juddho ebong shanti shuru korte chai,play_audiobook,general_quirky,0.09672339246252372
+kotokkhon dim seddho korte hobe,cooking_recipe,general_quirky,0.09672339246252372
+er recipe ti amake bolun,cooking_recipe,general_quirky,0.09672339246252372
+olly ami kibhabe pasta ranna korbo,cooking_recipe,general_quirky,0.09672339246252372
+ami brokli ebong murgir sathe ki ranna korte pari,cooking_recipe,general_quirky,0.09672339246252372
+ami kibhabe makhon chiken ranna korbo,cooking_recipe,general_quirky,0.09672339246252372
+ami kibhabe pasta ranna korte pari,cooking_recipe,general_quirky,0.09672339246252372
+pasta ranna korar sobcheye sohoj upay ki,cooking_recipe,general_quirky,0.09672339246252372
+olly ami kibhabe biriyani bisko toiri shuru korbo,cooking_recipe,general_quirky,0.09672339246252372
+amake pizza recipe din,cooking_recipe,general_quirky,0.09672339246252372
+jome jawa,cooking_recipe,general_quirky,0.09672339246252372
+khabarer jonno recipe,cooking_recipe,general_quirky,0.09672339246252372
+amake recipe din,cooking_recipe,general_quirky,0.09672339246252372
+pizza banate amar ki dorkar,cooking_recipe,general_quirky,0.09672339246252372
+ami kibhabe tarki banabo,cooking_recipe,general_quirky,0.09672339246252372
+amake kibhabe ekti alu seddho korbo,cooking_recipe,general_quirky,0.09672339246252372
+apni kotokkhon asto murgi share tinshote ranna koren,cooking_recipe,general_quirky,0.09672339246252372
+amake kofta ekti recipe din,cooking_recipe,general_quirky,0.09672339246252372
+amake ekti pizza ranna korun,cooking_recipe,general_quirky,0.09672339246252372
+amar patisapta banate shahajyo dorkar,cooking_recipe,general_quirky,0.09672339246252372
+olly ami kibhabe mangshoer lof banabo,cooking_recipe,general_quirky,0.09672339246252372
+olly apni kibhabe murgir kabab chiken korben,cooking_recipe,general_quirky,0.09672339246252372
+sobcheye bhalo morich ki,cooking_recipe,general_quirky,0.09672339246252372
+ami kibhabe chinabadam makhon kukij korte pari,cooking_recipe,general_quirky,0.09672339246252372
+amake biskuter ekti recipe din,cooking_recipe,general_quirky,0.09672339246252372
+puro pizza bhajar jonno sothik tapmatra khujun,cooking_recipe,general_quirky,0.09672339246252372
+kotokkhon ami cake ti thanda korbo,cooking_recipe,general_quirky,0.09672339246252372
+apni pizza jonno ekti recipe tan up korte paren,cooking_recipe,general_quirky,0.09672339246252372
+apni kibhabe roudrojjol said up dim korben,cooking_recipe,general_quirky,0.09672339246252372
+biriyani ki,cooking_recipe,general_quirky,0.09672339246252372
+amake burger sera recipe dekhan,cooking_recipe,general_quirky,0.09672339246252372
+amake bol kibhabe biriyani banate hoy,cooking_recipe,general_quirky,0.09672339246252372
+bhalo khabar,cooking_recipe,general_quirky,0.09672339246252372
+dim tosto toiri korte amar ki dorkar,cooking_recipe,general_quirky,0.09672339246252372
+eti sussadu hobe,cooking_recipe,general_quirky,0.09672339246252372
+etite moshla thaka uchit,cooking_recipe,general_quirky,0.09672339246252372
+moshladar rannar udahoron ki,cooking_recipe,general_quirky,0.09672339246252372
+olly gorur mangshoer sera sader kat ki,cooking_recipe,general_quirky,0.09672339246252372
+ami football khelte chai cholo kheli,play_game,general_quirky,0.09672339246252372
+asun kanamachi kheli,play_game,general_quirky,0.09672339246252372
+mukti kampo khela shuru korun,play_game,general_quirky,0.09672339246252372
+game chalu korun,play_game,general_quirky,0.09672339246252372
+game khoj,play_game,general_quirky,0.09672339246252372
+amake football khelar jonno ekti kompani din,play_game,general_quirky,0.09672339246252372
+mukti kampo somadhan kora jak,play_game,general_quirky,0.09672339246252372
+amar jonno game star wars khelun,play_game,general_quirky,0.09672339246252372
+amar sathe amar skil onujayi nain bol khela jak jate ami jitte pari,play_game,general_quirky,0.09672339246252372
+dour khela,play_game,general_quirky,0.09672339246252372
+papa pear saga kholo,play_game,general_quirky,0.09672339246252372
+game khela,play_game,general_quirky,0.09672339246252372
+amader jonno ekti protijogitamulok ora egar jon shuru korun,play_game,general_quirky,0.09672339246252372
+sorboshesh game khelun,play_game,general_quirky,0.09672339246252372
+amar jonne football match chalao,play_game,general_quirky,0.09672339246252372
+tomar ebong amar jonno football khela chalu kor,play_game,general_quirky,0.09672339246252372
+tik tak kanamachi khelte din,play_game,general_quirky,0.09672339246252372
+ei game ti chalao,play_game,general_quirky,0.09672339246252372
+dayerite ar ki nei,lists_query,general_quirky,0.09672339246252372
+amar talikay jinisguli talikabhukto korun,lists_query,general_quirky,0.09672339246252372
+ami agami soptahe koksobajar trip batil korte chai,lists_remove,general_quirky,0.09672339246252372
+kenakatar talika theke ruti kros out,lists_remove,general_quirky,0.09672339246252372
+talika muche din,lists_remove,general_quirky,0.09672339246252372
+ajker jonno sob item kotha bolun,lists_query,general_quirky,0.09672339246252372
+solaiman sukhon upolobdho somosto poshak porisrer ekti talika toiri korun,lists_query,general_quirky,0.09672339246252372
+list porishkar koro,lists_remove,general_quirky,0.09672339246252372
+asbabopotro theke tebil soran,lists_remove,general_quirky,0.09672339246252372
+amar kache dhakar pach tarka hotel er talika thakte pare,qa_factoid,general_quirky,0.09672339246252372
+talika theke apple soran,lists_remove,general_quirky,0.09672339246252372
+talikay item jog korun,lists_createoradd,general_quirky,0.09672339246252372
+ami toiri shesh pachti talika ki chil,lists_query,general_quirky,0.09672339246252372
+amar jonmodiner porikolponar jonno ekti notun talika toiri korun,lists_createoradd,general_quirky,0.09672339246252372
+ami ki jante pari talikay ki ache,lists_query,general_quirky,0.09672339246252372
+amar jonno ekti notun talika toiri korun,lists_createoradd,general_quirky,0.09672339246252372
+amar ki aj kon kaj ache,calendar_query,general_quirky,0.09672339246252372
+porichiti talika theke osim bosu soran,lists_remove,general_quirky,0.09672339246252372
+item nirbachon korun,lists_createoradd,general_quirky,0.09672339246252372
+talika theke item soran,lists_remove,general_quirky,0.09672339246252372
+ami prokrit mulloe bikroyer jonno pawar soronjamgulir ekti notun talika shuru korte chai,lists_createoradd,general_quirky,0.09672339246252372
+menu card e paobhaji jog korun,lists_createoradd,general_quirky,0.09672339246252372
+ajke amake je jinisopotro kinte hobe tar list ki,lists_query,general_quirky,0.09672339246252372
+amar talika theke ponir soran,lists_remove,general_quirky,0.09672339246252372
+talikay mudi jog korun,lists_createoradd,general_quirky,0.09672339246252372
+amake talikar ekti talika din,lists_query,general_quirky,0.09672339246252372
+amar christmas chutir talika muche din,lists_remove,general_quirky,0.09672339246252372
+aj amar talikay ki ache,lists_query,general_quirky,0.09672339246252372
+talikar somoysuchi abritti korun,lists_query,general_quirky,0.09672339246252372
+talika somporke amake bolun,lists_query,general_quirky,0.09672339246252372
+barta talikay amake kichu akorshoniyo bolun,lists_remove,general_quirky,0.09672339246252372
+alexa ekti notun talika toiri korun,lists_createoradd,general_quirky,0.09672339246252372
+sompurnobhabe amar mudi talika muche din,lists_remove,general_quirky,0.09672339246252372
+ami jante chai amar mudir talikay ekti otirikto item jog kora jete pare,lists_createoradd,general_quirky,0.09672339246252372
+ei soptaher jonno amar korniyo talikay ami ki rekhechi ta porun,lists_query,general_quirky,0.09672339246252372
+ei talika bhule jan,lists_remove,general_quirky,0.09672339246252372
+amar korniyo talika porun,lists_query,general_quirky,0.09672339246252372
+ajker jonno amar karjoklap talika saf korun,lists_remove,general_quirky,0.09672339246252372
+ajker jonno somoysuchi ki,lists_query,general_quirky,0.09672339246252372
+amar ache je talika amake dekhan doya kore,lists_query,general_quirky,0.09672339246252372
+ekti playlist toiri korun,lists_createoradd,general_quirky,0.09672339246252372
+olly ami porer jonno ki plan korechi,calendar_query,general_quirky,0.09672339246252372
+ekhon ki,general_quirky,general_quirky,0.09672339246252372
+onnoder theke ei talika soran,lists_remove,general_quirky,0.09672339246252372
+onugroh kore amake bolun ami ki toiri korechi,lists_query,general_quirky,0.09672339246252372
+sekhane eta tule nao,lists_remove,general_quirky,0.09672339246252372
+talika theke je ghotna soran,lists_remove,general_quirky,0.09672339246252372
+ekti notun kenakata talika shuru korun,lists_createoradd,general_quirky,0.09672339246252372
+ami ekti talika toiri korte chai ebong eti shironam talikar sathe ekti pattho file hisabe soyongkriybhabe songrokkhon kora uchit,lists_createoradd,general_quirky,0.09672339246252372
+ami aj ki talika korechi,lists_query,general_quirky,0.09672339246252372
+ami ki amar talika check korte pari,lists_query,general_quirky,0.09672339246252372
+amar talika theke item muchun,lists_remove,general_quirky,0.09672339246252372
+amake ekti talika set korte shahajyo korun,lists_createoradd,general_quirky,0.09672339246252372
+amar list kore amay din,lists_query,general_quirky,0.09672339246252372
+amar bortomane ki talika ache amake bolun,lists_query,general_quirky,0.09672339246252372
+olly amake bolun amar bortomane ki talika ache,lists_query,general_quirky,0.09672339246252372
+talika theke prothme amake ki sompurn korte hobe,lists_query,general_quirky,0.09672339246252372
+amake amar talika shunte din,lists_query,general_quirky,0.09672339246252372
+amar playlist e ki ache,lists_query,general_quirky,0.09672339246252372
+ekti notun kenakatar talika toiri korun,lists_createoradd,general_quirky,0.09672339246252372
+shesh line muche din,lists_remove,general_quirky,0.09672339246252372
+school sorobrah talikay pensil jog korun,lists_createoradd,general_quirky,0.09672339246252372
+amake talikar nam bolun,lists_query,general_quirky,0.09672339246252372
+amar chutir talika theke call songbadopotro muchun,lists_remove,general_quirky,0.09672339246252372
+amar kenakatar talikay syup jog korun,lists_createoradd,general_quirky,0.09672339246252372
+talikay item rakhun,lists_createoradd,general_quirky,0.09672339246252372
+ajker jonno amar korniyo talika,lists_query,general_quirky,0.09672339246252372
+kenakatar talika soran,lists_remove,general_quirky,0.09672339246252372
+ma ke call korte amake mone koriye diben,calendar_set,general_quirky,0.09672339246252372
+apni amake amar talika porte paren,lists_query,general_quirky,0.09672339246252372
+bil talika theke gari bima soran,lists_remove,general_quirky,0.09672339246252372
+korniyo talika theke amanot check soran,lists_remove,general_quirky,0.09672339246252372
+amar koto talika ache,lists_query,general_quirky,0.09672339246252372
+amar talikay ki ache bolun,lists_query,general_quirky,0.09672339246252372
+kenakatar talikay dudh rakhun,lists_createoradd,general_quirky,0.09672339246252372
+eti ontorbhukto koro,lists_createoradd,general_quirky,0.09672339246252372
+notun poristhitir somoy ba calendar notun talikay,lists_createoradd,general_quirky,0.09672339246252372
+ami ki amar kajer talika dekhte pari,lists_query,general_quirky,0.09672339246252372
+amar kenakatar talika theke apple muchun,lists_remove,general_quirky,0.09672339246252372
+amake kroy adesh bistarit din,lists_query,general_quirky,0.09672339246252372
+amar korniyo talikay tel poriborton jog korun,lists_createoradd,general_quirky,0.09672339246252372
+notun talika doya kore,lists_createoradd,general_quirky,0.09672339246252372
+ami dim chai na,lists_remove,general_quirky,0.09672339246252372
+talika theke dure,lists_remove,general_quirky,0.09672339246252372
+kenakatar talikay ekti tab jog korun,lists_createoradd,general_quirky,0.09672339246252372
+kenakatar talikay ekti hat ghori jog korun,lists_createoradd,general_quirky,0.09672339246252372
+order kora boigulir ekti talika toiri korun,lists_createoradd,general_quirky,0.09672339246252372
+doya kore amar oyarkoaut talika theke traisep pul daun soriye din,lists_remove,general_quirky,0.09672339246252372
+christmas talikay pastri jog korun,lists_createoradd,general_quirky,0.09672339246252372
+talika,lists_query,general_quirky,0.09672339246252372
+amar talika prodorshon korun,lists_query,general_quirky,0.09672339246252372
+ajker porikolpona ki ache,calendar_query,general_quirky,0.09672339246252372
+amar kenakata talika theke kola muche din,lists_remove,general_quirky,0.09672339246252372
+olly amar mudikhanar talika amake abar porun,lists_query,general_quirky,0.09672339246252372
+ekushe podok bishoyok ekti intaresting podcast khoj ebong chalao,play_podcasts,general_quirky,0.09672339246252372
+himu poroborti porbo bajan humayon ahmed,play_audiobook,general_quirky,0.09672339246252372
+tumi ki podcast er ekti porbo pichne jete paro,play_podcasts,general_quirky,0.09672339246252372
+porer porbo,play_podcasts,general_quirky,0.09672339246252372
+radio today er sadhin music ki,play_podcasts,general_quirky,0.09672339246252372
+podcast er sheshe jan,play_podcasts,general_quirky,0.09672339246252372
+ekattorer chithi podcast chalao,play_podcasts,general_quirky,0.09672339246252372
+en pi ar er amake notun podcast bajao,play_podcasts,general_quirky,0.09672339246252372
+ami ei podcast er poroborti porbo ti khelte chai,play_podcasts,general_quirky,0.09672339246252372
+nirber podcast ti chalao,play_podcasts,general_quirky,0.09672339246252372
+sob sorboshesh nacher ganagulir ekti playlist khujun ebong toiri korun,play_music,general_quirky,0.09672339246252372
+fok ganer reting char tarar upre lokganer sera podcast dekhan ebong i play korun,play_podcasts,general_quirky,0.09672339246252372
+amar sebh kora podcast ti shuru kor,play_podcasts,general_quirky,0.09672339246252372
+sorboshesh golpo kothon podcast ti khoj,play_podcasts,general_quirky,0.09672339246252372
+bibisi janala er porer porbe jao,play_podcasts,general_quirky,0.09672339246252372
+amake podcast dekhan,play_podcasts,general_quirky,0.09672339246252372
+porer podcast e skip kor,play_podcasts,general_quirky,0.09672339246252372
+eta foroyard kor,play_podcasts,general_quirky,0.09672339246252372
+bangla kasto podcast chalu,play_podcasts,general_quirky,0.09672339246252372
+poshu bishoyok podcast khoj,play_podcasts,general_quirky,0.09672339246252372
+doya kore poroborti podcast porbe jan,play_podcasts,general_quirky,0.09672339246252372
+fur fur furtir shesh dui porbo chalu koro,play_podcasts,general_quirky,0.09672339246252372
+aj farhaner radio amar podcast khuje dao,play_podcasts,general_quirky,0.09672339246252372
+porer ongshe chole jao,play_podcasts,general_quirky,0.09672339246252372
+podcast subscriptions theke notun kichu bajan,play_podcasts,general_quirky,0.09672339246252372
+poroborti podcast porbo shuru korun,play_podcasts,general_quirky,0.09672339246252372
+poroborti podcast khelun,play_podcasts,general_quirky,0.09672339246252372
+ei sirijer poroborti porbo chalan,play_podcasts,general_quirky,0.09672339246252372
+ager porbo ti chalao,play_podcasts,general_quirky,0.09672339246252372
+amar jonno amar kantri fabhoritos playlist khelun,play_podcasts,general_quirky,0.09672339246252372
+amar desher pochonder playlist lod korun ebong eta play korun,play_podcasts,general_quirky,0.09672339246252372
+ar je raseler podcast chalao,play_podcasts,general_quirky,0.09672339246252372
+himu podcast bajao,play_podcasts,general_quirky,0.09672339246252372
+dhaka post podcast shonao,play_podcasts,general_quirky,0.09672339246252372
+radio amar podcast er poroborti porbo,play_podcasts,general_quirky,0.09672339246252372
+bhut f m podcast ti chalao,play_podcasts,general_quirky,0.09672339246252372
+kachakachi ghotna khujun,recommendation_events,general_quirky,0.09672339246252372
+ei soptahe prekkhagrihe kon notun cinema dekha jabe,recommendation_movies,general_quirky,0.09672339246252372
+chottogramer kono sangskritik event hocche ki,recommendation_events,general_quirky,0.09672339246252372
+onugroh kore amar janan je kukur prodorshoni amar nij shohor cholche emon ghotna dekhay,recommendation_events,general_quirky,0.09672339246252372
+apni ki amake bolte paren ami aj rate rongpur ki dhorner boi korte pari,recommendation_events,general_quirky,0.09672339246252372
+chottogram sera mistri kothay,recommendation_locations,general_quirky,0.09672339246252372
+aj sinemay ki ki cinema dekhano hocche,recommendation_movies,general_quirky,0.09672339246252372
+ki cinema gulo amar charpashe jacche,recommendation_movies,general_quirky,0.09672339246252372
+ki ghotna shighroi ghotche,recommendation_events,general_quirky,0.09672339246252372
+amader jaygay ajke kon mela ache,recommendation_events,general_quirky,0.09672339246252372
+charpashe ki,recommendation_locations,general_quirky,0.09672339246252372
+elakay bhiyetnami restaurant ache,recommendation_locations,general_quirky,0.09672339246252372
+alexa ami ei sthaniyo elakar sera supar market jante chai,recommendation_locations,general_quirky,0.09672339246252372
+apni amake amader elakay ghotche emon ghotnaguli update dile ami khushi hobo,recommendation_events,general_quirky,0.09672339246252372
+nikotostho restaurant kothay amake dekhan,recommendation_locations,general_quirky,0.09672339246252372
+ki notun boiguli ajke upolobdho,recommendation_movies,general_quirky,0.09672339246252372
+amake amar nikter sthan obosthaner restaurant ribhiu dekhan,recommendation_locations,general_quirky,0.09672339246252372
+amake upsagriyo onchole chitro prodorshoni dekhan,recommendation_events,general_quirky,0.09672339246252372
+ki dokan ache ekhane,recommendation_locations,general_quirky,0.09672339246252372
+sthaniyo elakar sera bar,recommendation_locations,general_quirky,0.09672339246252372
+amar charpashe ki ghotche,recommendation_events,general_quirky,0.09672339246252372
+dosh mile er moddhe ki dokanguli ache,recommendation_locations,general_quirky,0.09672339246252372
+olly ei soptahonte dhakar ekti mela bolun,recommendation_events,general_quirky,0.09672339246252372
+feni ki ghotna ghotche,recommendation_events,general_quirky,0.09672339246252372
+demra ei soptahante kono ghotna,recommendation_events,general_quirky,0.09672339246252372
+olly ekhon ki cinema cholche,recommendation_movies,general_quirky,0.09672339246252372
+oskarer jonno mononit boi khujun,recommendation_movies,general_quirky,0.09672339246252372
+ei soptahante amar kachakachi kon bishesh ghotna ache,recommendation_events,general_quirky,0.09672339246252372
+jini mirpur sobcheye sosta netbuk bikri koren,recommendation_locations,general_quirky,0.09672339246252372
+ei soptahe laibrerite ki kon ghotna ghotche,recommendation_events,general_quirky,0.09672339246252372
+ei elakay ami kothay kenakata korte pari bolun,recommendation_locations,general_quirky,0.09672339246252372
+apni ei elakay bhalo dokan suparish korte paren,recommendation_locations,general_quirky,0.09672339246252372
+kachakachi ki boiguli cholche,recommendation_movies,general_quirky,0.09672339246252372
+olly amake bolun sthaniyo shopping jela kothay,recommendation_locations,general_quirky,0.09672339246252372
+amar elakay ki karjokrom cholche,recommendation_events,general_quirky,0.09672339246252372
+ajke rater dinner er jonno amar chitagongyer kothay jawa uchit,recommendation_events,general_quirky,0.09672339246252372
+aj rat shohor ki hocche,recommendation_events,general_quirky,0.09672339246252372
+sthoniyo dokan khujun,recommendation_locations,general_quirky,0.09672339246252372
+sabina amar ekta paniyo dorkar,iot_coffee,general_quirky,0.09672339246252372
+amar kache ei soptahante kichu moja korte hobe apni ki amake dharna dite paren,recommendation_events,general_quirky,0.09672339246252372
+ami koksobajar juktisongot mulloer tapos khujchi,recommendation_locations,general_quirky,0.09672339246252372
+amar kachakachi kichu restaurant ki ki,recommendation_locations,general_quirky,0.09672339246252372
+olly amar kachakachi kichu restaurant ache ki,recommendation_locations,general_quirky,0.09672339246252372
+sobcheye kache bar kothay,recommendation_locations,general_quirky,0.09672339246252372
+elakay ki ki ghotna ghotche,recommendation_events,general_quirky,0.09672339246252372
+amar shohre kon bishesh ghotna ache,recommendation_events,general_quirky,0.09672339246252372
+olly borishale kon kon notun mubhi cholche,recommendation_movies,general_quirky,0.09672339246252372
+sabhar aj kon mojar ghotna ache,recommendation_events,general_quirky,0.09672339246252372
+amar elakay ki ghotche,recommendation_events,general_quirky,0.09672339246252372
+onugroh kore amake amar barir sobcheye kacher subidhar dokanti bolun,recommendation_locations,general_quirky,0.09672339246252372
+ki ghotna amar elakay ei soptahante jonno nirdharit hoy,recommendation_events,general_quirky,0.09672339246252372
+amar kachakachi dokan talika,recommendation_locations,general_quirky,0.09672339246252372
+onugroh kore amake ekti dokan bolun jekhane ami boi kinte pab,recommendation_locations,general_quirky,0.09672339246252372
+amake bonani ekti restaurant poramorsh din,recommendation_locations,general_quirky,0.09672339246252372
+ekhane theke daraz koto dure,transport_query,general_quirky,0.09672339246252372
+niumarket kokhon khole,recommendation_events,general_quirky,0.09672339246252372
+sthaniyo bortoman ghotna ullekh korun,recommendation_events,general_quirky,0.09672339246252372
+kumilla chitro prodorshoni,recommendation_events,general_quirky,0.09672339246252372
+rongpur nogre ki kon selun ache,recommendation_locations,general_quirky,0.09672339246252372
+apni ki rishikesh dash rod kon pub suparish korte paren,recommendation_locations,general_quirky,0.09672339246252372
+olly bagan park e event ebong meeting ki ache dekhun,recommendation_events,general_quirky,0.09672339246252372
+ami ei soptahonto onushthit ei elaka jonno somosto sthaniyo event proyojon,recommendation_events,general_quirky,0.09672339246252372
+amar barir kachakachi egrol kothay pawa jay khujun,recommendation_locations,general_quirky,0.09672339246252372
+adha ghontar moddhe amake dhakar ekti taxi book korun,transport_taxi,general_quirky,0.09672339246252372
+ami adha ghontar moddhe dhaka jacchi amar jonno ekti uber book korun,transport_taxi,general_quirky,0.09672339246252372
+shonibar nila jawar train dhorar jonno sobcheye subidhajonok somoy konti,transport_query,general_quirky,0.09672339246252372
+apni ki agamikal ekti pathao book korte paren,transport_taxi,general_quirky,0.09672339246252372
+apni ki relgarir ticket book korte paren,transport_ticket,general_quirky,0.09672339246252372
+kachpur rastay ki beshi janojot ache,transport_traffic,general_quirky,0.09672339246252372
+ekhoni amar kache ekti uber pathan,transport_taxi,general_quirky,0.09672339246252372
+rel shteshon kothay,transport_query,general_quirky,0.09672339246252372
+doya kore amake bimanobondore niye jawar jonno amar ekti taxi dorkar,transport_taxi,general_quirky,0.09672339246252372
+amar kajer pothe kon traffic ache,transport_traffic,general_quirky,0.09672339246252372
+olly traffic ki m,transport_traffic,general_quirky,0.09672339246252372
+kajer jonno kon traffic ache,transport_traffic,general_quirky,0.09672339246252372
+apni ki doya kore amake chottogramer poroborti charti nirdharit train janate paren,transport_query,general_quirky,0.09672339246252372
+agamikaler jonno kumilla jawar jekono train e amake ekti train er ticket book korun,transport_ticket,general_quirky,0.09672339246252372
+ajke chottogram relooye station er jonno relgarir ticket khujun,transport_query,general_quirky,0.09672339246252372
+ami train er ticket book korte chai,transport_ticket,general_quirky,0.09672339246252372
+kormosthol theke barite janojter obostha ki,transport_traffic,general_quirky,0.09672339246252372
+tritiyo tarikhe amake dhaka er relgari er ticket book korun kon somoy ami patta dii na,transport_ticket,general_quirky,0.09672339246252372
+ei mongolbar shokal noytay turna nishitar relgarir ticket book korun,transport_ticket,general_quirky,0.09672339246252372
+shombar chadpur station theke hanif train er somoy porikkha korun,transport_query,general_quirky,0.09672339246252372
+bonosri kothay,recommendation_locations,general_quirky,0.09672339246252372
+amake egarotar por dhaka theke dinajpur porjonto train bolun mi,transport_query,general_quirky,0.09672339246252372
+ajke dhaka relgarir ticket kinun,transport_ticket,general_quirky,0.09672339246252372
+kolkata jawar porer train koyta baje,transport_query,general_quirky,0.09672339246252372
+amake dhaka shohre jawar jonno ekti train er ticket book korun ja shokal noytar por chere jay,transport_ticket,general_quirky,0.09672339246252372
+apni ki amake amar obosthaner bortoman traffic obostha bolte paren,transport_traffic,general_quirky,0.09672339246252372
+amar ekhon ekta taxi ride dorkar,transport_taxi,general_quirky,0.09672339246252372
+amake dhakar relgari asar somoy bolun,transport_query,general_quirky,0.09672339246252372
+jokhon dhaka relgari asbe,transport_query,general_quirky,0.09672339246252372
+ami kibhabe dhaka shohor theke chottogram jete pari,transport_query,general_quirky,0.09672339246252372
+ei beili rod janojot poristhiti ki,transport_traffic,general_quirky,0.09672339246252372
+ekta taxi dhor,transport_taxi,general_quirky,0.09672339246252372
+ami kibhabe mudi dokane jete pari,transport_query,general_quirky,0.09672339246252372
+amake pulish bibhage nirdesh pathan,transport_query,general_quirky,0.09672339246252372
+train e rajshahi shohrer ticket kinun,transport_ticket,general_quirky,0.09672339246252372
+tumi ki amake ekta taxi bari dite parbe,transport_taxi,general_quirky,0.09672339246252372
+aj rat doshtar pore ekojon uber draibhar pawa jay kina dekhun,transport_taxi,general_quirky,0.09672339246252372
+amar jonno ekti taxi khujun,transport_taxi,general_quirky,0.09672339246252372
+relgari aj kokhon asbe,transport_query,general_quirky,0.09672339246252372
+amar jonno ekti gari dakun,transport_taxi,general_quirky,0.09672339246252372
+apni ki onugroh kore agami shonibar silet train er ticket book korte paren,transport_ticket,general_quirky,0.09672339246252372
+alexa aj ashi route e traffic bhari,transport_traffic,general_quirky,0.09672339246252372
+dhaka jawar shesh train ti koto somye,transport_query,general_quirky,0.09672339246252372
+doya kore amake dhaka train er ticket book korun,transport_ticket,general_quirky,0.09672339246252372
+dauntaun dhaka theke dinajpur barbarar uddesshe train ti kokhon charbe,transport_query,general_quirky,0.09672339246252372
+uttora theke train asar somoy ki,transport_query,general_quirky,0.09672339246252372
+amar basay ride dorkar,transport_taxi,general_quirky,0.09672339246252372
+jomuna fiuchar park diknirdesh,transport_query,general_quirky,0.09672339246252372
+train er somoysuchi doshtay,transport_query,general_quirky,0.09672339246252372
+shokale prothom city service kokhon pouchay,transport_query,general_quirky,0.09672339246252372
+dhaka theke dhaka porjonto train er somoy ki,transport_query,general_quirky,0.09672339246252372
+dhaka jawar relgari er somoysuchi ki,transport_query,general_quirky,0.09672339246252372
+google apni ki amake agamikaler jonno train e ekti ticket book korte paren,transport_ticket,general_quirky,0.09672339246252372
+amake bolun kothay jete hobe,transport_ticket,general_quirky,0.09672339246252372
+amake rangamati theke kumillar relgari er ticket pete hobe,transport_ticket,general_quirky,0.09672339246252372
+kosbar jonno sorboshesh traffic report ki,transport_traffic,general_quirky,0.09672339246252372
+apni ki amake bandorban train er somoy dite paren,transport_query,general_quirky,0.09672339246252372
+agamikal shokal doshtar age amake dhaka jawar train er ticket book korun,transport_ticket,general_quirky,0.09672339246252372
+eyarporte jawar jonno amake ekta taxi niye asun,transport_taxi,general_quirky,0.09672339246252372
+porer train kokhon chottogram uddesshe charbe,transport_query,general_quirky,0.09672339246252372
+fenir dike jawar traffic dekhte kemon,transport_traffic,general_quirky,0.09672339246252372
+budhbar bikel pachta er rajshahi jawar ki kon relgari ache,transport_query,general_quirky,0.09672339246252372
+ajker mot traffic ki,transport_traffic,general_quirky,0.09672339246252372
+amake ekti train e jatra book korun,transport_ticket,general_quirky,0.09672339246252372
+dhaka theke chottogram porjonto dui joner train er ticket,transport_ticket,general_quirky,0.09672339246252372
+barite traffic check korun,transport_traffic,general_quirky,0.09672339246252372
+apni ki amader barir traffic porikkha korte paren,transport_traffic,general_quirky,0.09672339246252372
+shohre janojot kemon,transport_traffic,general_quirky,0.09672339246252372
+dhakay relgarite jawar jonno amake ekti ticket kinun,transport_ticket,general_quirky,0.09672339246252372
+dhaka shohor chere poroborti train er charar somoy koyta,transport_query,general_quirky,0.09672339246252372
+amar ekhan theke dhaka jawar train er ticket dorkar,transport_ticket,general_quirky,0.09672339246252372
+amake kolkata er ticket kine dao,transport_ticket,general_quirky,0.09672339246252372
+amar kacher train kothay,transport_query,general_quirky,0.09672339246252372
+apni ki soptahanter smarok dibos e dhaka jawar relgari er ticket khuje pete paren,transport_query,general_quirky,0.09672339246252372
+doya kore amake ekti uber ride order korun,transport_taxi,general_quirky,0.09672339246252372
+train er somoysuchir,transport_query,general_quirky,0.09672339246252372
+amar relgari kokhon asche,transport_query,general_quirky,0.09672339246252372
+train kokhon ase,transport_query,general_quirky,0.09672339246252372
+ami dhaka jete chai,transport_query,general_quirky,0.09672339246252372
+apni ki train e grando rapidser ticket rijarbh korte paren,transport_query,general_quirky,0.09672339246252372
+ahsan monjil drutotom upay ki,transport_query,general_quirky,0.09672339246252372
+amar jonno rangamati jawar jonno ekti uber taxi book korun,transport_taxi,general_quirky,0.09672339246252372
+songrokkhit tothyoer jonno irctc saite ajker jonno ekti ticket book korun,transport_ticket,general_quirky,0.09672339246252372
+chadpur jete soptahante ebong chutir din gulite prothom train guli sondhan korun,transport_query,general_quirky,0.09672339246252372
+proshosto ba songkirn kon nirdishto elakay rasta,transport_traffic,general_quirky,0.09672339246252372
+train er somoy bol,transport_query,general_quirky,0.09672339246252372
+ei je poroborti relgari kokhon prosthan korboe,transport_query,general_quirky,0.09672339246252372
+dhaka jawar train e bhromner anumanik somoy koto,transport_query,general_quirky,0.09672339246252372
+eta bakkha kor,general_quirky,general_quirky,0.09672339246252372
+jini abdul hamid,qa_factoid,general_quirky,0.09672339246252372
+amerika er samajik morjada ekhon ebong otite juktorajjo er theke kibhabe alada ta bakkha korun,general_quirky,general_quirky,0.09672339246252372
+amar sathe nachun,general_quirky,general_quirky,0.09672339246252372
+sobcheye samprotik abdul hi cinema r plot ki,qa_factoid,general_quirky,0.09672339246252372
+tumi ki amake porashonay bhalo korte shahajyo korboe,general_quirky,general_quirky,0.09672339246252372
+ei bochrer notun mobile loncho somporke amake ekti video dekhan,general_quirky,general_quirky,0.09672339246252372
+protiti osooyaldo chemmar boiyer bishoy ki ta amar jonno khuje ber korun,qa_factoid,general_quirky,0.09672339246252372
+dui shotke dosh dara bhag kora ki,qa_maths,general_quirky,0.09672339246252372
+roikhik somikoron ki,qa_maths,general_quirky,0.09672339246252372
+shudhumatro apnar ebong amar jonno ekti tarikh sthapon korun,general_quirky,general_quirky,0.09672339246252372
+komla shobder mane ki,qa_definition,general_quirky,0.09672339246252372
+komlar shongga ki,qa_definition,general_quirky,0.09672339246252372
+sento patrik dibos kokhon,qa_factoid,general_quirky,0.09672339246252372
+porer bochor amake mongol grohe ekti flight book korun,qa_factoid,general_quirky,0.09672339246252372
+ek jog ek ki hoy,qa_maths,general_quirky,0.09672339246252372
+kriketar mashrafi thakar jayga ki,qa_factoid,general_quirky,0.09672339246252372
+bangladesh rajdhani ki,qa_factoid,general_quirky,0.09672339246252372
+kichu noy,qa_factoid,general_quirky,0.09672339246252372
+apnar ki,general_quirky,general_quirky,0.09672339246252372
+shanto er protishobdo ki,qa_definition,general_quirky,0.09672339246252372
+narira et rohossomoy ken,general_quirky,general_quirky,0.09672339246252372
+apni ki phone number janen jeniya suitir,qa_factoid,general_quirky,0.09672339246252372
+shobdoti google korun,qa_definition,general_quirky,0.09672339246252372
+dodulloman mane ki,qa_definition,general_quirky,0.09672339246252372
+oscillate banan ebong shonggayito korun,qa_definition,general_quirky,0.09672339246252372
+ekhan theke ponchash mile er moddhe probesh korar jonno sobcheye sosta marathon ki,general_quirky,general_quirky,0.09672339246252372
+salokosongshleshon bakkha kor,qa_definition,general_quirky,0.09672339246252372
+binamulle shipingyer sathe somosto oyebsait theke ekti audio dibhaiser mullo tulna korun,general_quirky,general_quirky,0.09672339246252372
+obosthan,qa_definition,general_quirky,0.09672339246252372
+ami kibhabe protiti dollar er niche supar bauler ticket pete pari,general_quirky,general_quirky,0.09672339246252372
+modhupur kon somoy onchole,qa_factoid,general_quirky,0.09672339246252372
+sumon ahmed kothay jonmogrohon koren,qa_factoid,general_quirky,0.09672339246252372
+kanner camera guli kothay kinte pawa jabe,recommendation_locations,general_quirky,0.09672339246252372
+chul ki diye toiri,qa_factoid,general_quirky,0.09672339246252372
+amader nokher gothon ki,qa_factoid,general_quirky,0.09672339246252372
+sakib al hasaner jonmodiner tarikh koto,qa_factoid,general_quirky,0.09672339246252372
+amake er shotangsh khuje ber korte hobe,qa_maths,general_quirky,0.09672339246252372
+apni ki amar jonno dinner korte paren,general_quirky,general_quirky,0.09672339246252372
+alexa ami maser jonno dollar peyechi ei mase ami protidin koto khoroch korte pari,qa_maths,general_quirky,0.09672339246252372
+golapi fita ki somorthon kore,qa_factoid,general_quirky,0.09672339246252372
+kanij fatema partoner tothyo,general_quirky,general_quirky,0.09672339246252372
+shudhu olos chit chat,general_quirky,general_quirky,0.09672339246252372
+ei proshner uttor din supar mario bradars er prothom bos ki,general_quirky,general_quirky,0.09672339246252372
+kokhon prithibi shesh hobe,general_quirky,general_quirky,0.09672339246252372
+olly duiti songkhya char ebong choyer jogofol koto,qa_maths,general_quirky,0.09672339246252372
+sumon ahmed kokhon jonmogrohon koren,qa_factoid,general_quirky,0.09672339246252372
+ami jokhon bari firob apni ki doya kore pizza order korte parben,takeaway_order,general_quirky,0.09672339246252372
+amar elakay kebol ebong internet prodankarir khoroch gonna korun jekhane ami sobcheye beshi sonchoy korte pari,general_quirky,general_quirky,0.09672339246252372
+ki dokan agamikal bikri hocche,general_quirky,general_quirky,0.09672339246252372
+ami jodi bissher kothao jete pari tahle amar kothay bhromon kora uchit,general_quirky,general_quirky,0.09672339246252372
+jini bortoman markin trejari sekretari,qa_factoid,general_quirky,0.09672339246252372
+amake bolun jete sobcheye sundor jayga ki,recommendation_locations,general_quirky,0.09672339246252372
+prithibir poridhi koto,qa_factoid,general_quirky,0.09672339246252372
+fij up jonno sera recipe ki,cooking_recipe,general_quirky,0.09672339246252372
+humayun ahmeder boyosh koto,qa_factoid,general_quirky,0.09672339246252372
+amar ki shombar class ache,calendar_query,general_quirky,0.09672339246252372
+ami chai je amar robot amar kukurke khawate ebong poshak jokhon ami barite thaki na,general_quirky,general_quirky,0.09672339246252372
+amar bhaiyer jonmodiner kauntodaun,calendar_query,general_quirky,0.09672339246252372
+apni ki amake amar sokol samprotik nirdeshnar ekti talika dekhate paren,general_quirky,general_quirky,0.09672339246252372
+utsahi er orth,qa_definition,general_quirky,0.09672339246252372
+faka mane ki,qa_definition,general_quirky,0.09672339246252372
+google ke shesh rashtropti jini ekti kukurer malik chilen na,qa_factoid,general_quirky,0.09672339246252372
+ke shesh pachti en si e e purushder basketobol turnamento jitechen,qa_factoid,general_quirky,0.09672339246252372
+akash keno nil,qa_factoid,general_quirky,0.09672339246252372
+bochre koto mas,qa_factoid,general_quirky,0.09672339246252372
+nisan kokhon amar shohre asbe,qa_factoid,general_quirky,0.09672339246252372
+biniyog ba songrokkhon konti bhalo,qa_factoid,general_quirky,0.09672339246252372
+bandorbanor rajdhani ki,qa_factoid,general_quirky,0.09672339246252372
+amar garl frendo ekhon kothay,general_quirky,general_quirky,0.09672339246252372
+onek kath ekti woodchuck chok pare jodi ekti woodchuck kath chok korte pare,general_quirky,general_quirky,0.09672339246252372
+jelo shot kalori mukto,qa_factoid,general_quirky,0.09672339246252372
+taka ebong rupee r poriborton har koto,qa_currency,general_quirky,0.09672339246252372
+porer sofor kokhon,general_quirky,general_quirky,0.09672339246252372
+shekh mujibur rohman koto lomma chilen,qa_factoid,general_quirky,0.09672339246252372
+ek cup makhner jonno koto gram ache,qa_factoid,general_quirky,0.09672339246252372
+ek mile e koto kilomitar,qa_factoid,general_quirky,0.09672339246252372
+amar stock mullo bereche,qa_stock,general_quirky,0.09672339246252372
+anich rohman kon hi school e giyechilen,qa_factoid,general_quirky,0.09672339246252372
+kotbar adel geche hira,qa_factoid,general_quirky,0.09672339246252372
+amar elakay ajke kon binamulle ayojon ache ki,recommendation_events,general_quirky,0.09672339246252372
+ei muhurte notun khobor ki,news_query,general_quirky,0.09672339246252372
+obayed hasan iyakiner jonmodin k,qa_factoid,general_quirky,0.09672339246252372
+disney got soptahe stock mullo briddhi ki,qa_stock,general_quirky,0.09672339246252372
+takar ebong takar moddhe binimoy har ki,qa_currency,general_quirky,0.09672339246252372
+prithibir sorboccho porbot ki,qa_factoid,general_quirky,0.09672339246252372
+bharter sorboccho porbot ki,qa_factoid,general_quirky,0.09672339246252372
+apni ki amake bolte paren ekti gabhir pakostholi koyti,qa_factoid,general_quirky,0.09672339246252372
+amar dara apnar jibon kibhabe poribortit hoyeche,general_quirky,general_quirky,0.09672339246252372
+ekti am ki,qa_definition,general_quirky,0.09672339246252372
+apni ki sottii bharot theke bangladeshi dekhte paren,qa_factoid,general_quirky,0.09672339246252372
+kanadiyan dollar er sathe takar binimoy har ki,qa_currency,general_quirky,0.09672339246252372
+bangladesher durotto koto,qa_factoid,general_quirky,0.09672339246252372
+apple shesh dam koto,qa_stock,general_quirky,0.09672339246252372
+daraz er klojing prais ki,qa_stock,general_quirky,0.09672339246252372
+koto kath ekti woodchuck chok pare jodi ekti woodchuck kath chok korte pare,general_quirky,general_quirky,0.09672339246252372
+ekti matir moyna ki ta bornona korun,qa_definition,general_quirky,0.09672339246252372
+ekti monitor ki,qa_definition,general_quirky,0.09672339246252372
+prithibir sorboccho porbotoshreni ki,qa_factoid,general_quirky,0.09672339246252372
+taka ebong takar moddhe binimoy har ki,qa_currency,general_quirky,0.09672339246252372
+odhinostho er shongga ki,qa_definition,general_quirky,0.09672339246252372
+eta ki sotto je jhulonto gachti sottii keu jhuliye rekhechilo,general_quirky,general_quirky,0.09672339246252372
+aj dao jonser ki hoyeche,qa_stock,general_quirky,0.09672339246252372
+amake bolun amar ki kaj newa uchit,general_quirky,general_quirky,0.09672339246252372
+dollar e koto taka hoy,qa_currency,general_quirky,0.09672339246252372
+doya kore amake taka ebong rupee r moddhe binimoy har dekhan,qa_currency,general_quirky,0.09672339246252372
+ekti home ran shongga ki,qa_definition,general_quirky,0.09672339246252372
+apni kibhabe ekti shubho jonmodin bornona korben,qa_definition,general_quirky,0.09672339246252372
+afran shubho kon choritre obhinoy koren,qa_factoid,general_quirky,0.09672339246252372
+apni ekti baster shonggayito korte paren,qa_definition,general_quirky,0.09672339246252372
+jomir ogbhir ongsh ki,qa_factoid,general_quirky,0.09672339246252372
+dhaka rajdhani ki,qa_factoid,general_quirky,0.09672339246252372
+apni amake bolte paren kibhabe mohakorsh kaj kore,general_quirky,general_quirky,0.09672339246252372
+hotbak shonggayito korun,qa_definition,general_quirky,0.09672339246252372
+kibhabe meriyam oyebostar oti shonggayito kore,qa_definition,general_quirky,0.09672339246252372
+jamal bhuiya ekhon kothay thaken,qa_factoid,general_quirky,0.09672339246252372
+komlalebute koto kalori ache,qa_factoid,general_quirky,0.09672339246252372
+amake ekhon borof pore emon ekti jayga bolun,general_quirky,general_quirky,0.09672339246252372
+amazon er stock mullo koto,qa_stock,general_quirky,0.09672339246252372
+sadharonbhabe stock kemon cholche,qa_stock,general_quirky,0.09672339246252372
+shobder mane ki,qa_definition,general_quirky,0.09672339246252372
+riyaj kothay thaken,qa_factoid,general_quirky,0.09672339246252372
+maloddip kothay obosthit,qa_factoid,general_quirky,0.09672339246252372
+dhaka obosthan ki,qa_factoid,general_quirky,0.09672339246252372
+proti dollar er jonno koto taka,qa_currency,general_quirky,0.09672339246252372
+ek takar somtullo taka ki,qa_currency,general_quirky,0.09672339246252372
+amake taka ebong onnanno mudrar moddhe bortoman binimoy har dekhan,qa_currency,general_quirky,0.09672339246252372
+ekti dhaka ki,qa_factoid,general_quirky,0.09672339246252372
+amake karioner shongga din,qa_definition,general_quirky,0.09672339246252372
+ami amar posha prani thik kothay pete pari,general_quirky,general_quirky,0.09672339246252372
+jannat bornona korun,qa_definition,general_quirky,0.09672339246252372
+markin taka ebong taka binimoy har ki,qa_currency,general_quirky,0.09672339246252372
+shekh mujib kokhon jonmogrohon korechilen ta amake bolun,qa_factoid,general_quirky,0.09672339246252372
+moldobhar obosthan ki,qa_factoid,general_quirky,0.09672339246252372
+ei deshe binimoy har ki,qa_currency,general_quirky,0.09672339246252372
+amake ei bostur bornona khujun,qa_definition,general_quirky,0.09672339246252372
+sumon kothay,qa_factoid,general_quirky,0.09672339246252372
+jahanara kotha theke,qa_factoid,general_quirky,0.09672339246252372
+siri badha mane ki,qa_definition,general_quirky,0.09672339246252372
+kothay bilaichri,qa_factoid,general_quirky,0.09672339246252372
+amar jodi janko food ebong alkohol thake tahle ki hobe,general_quirky,general_quirky,0.09672339246252372
+siri ekti rongdhnu bornona kore,qa_definition,general_quirky,0.09672339246252372
+shila balir biboron din,qa_definition,general_quirky,0.09672339246252372
+sileter bhouglik biboron dekhan,qa_factoid,general_quirky,0.09672339246252372
+jiber shongga dao,qa_definition,general_quirky,0.09672339246252372
+jib shobder orth ki bolun,qa_definition,general_quirky,0.09672339246252372
+moddhoponthi,general_quirky,general_quirky,0.09672339246252372
+amake bangladesh somporkit oitihasik tothyo bolun,qa_factoid,general_quirky,0.09672339246252372
+eshiya tothyo,qa_factoid,general_quirky,0.09672339246252372
+uikipidiyay cheshta kore dekhun,qa_definition,general_quirky,0.09672339246252372
+amake dhaka somporke ekti bhouglik tothyo din,qa_factoid,general_quirky,0.09672339246252372
+kamal hosen koleje kothay giyechil,qa_factoid,general_quirky,0.09672339246252372
+apni amake ekti bike bornona korte paren,qa_definition,general_quirky,0.09672339246252372
+amake oyaltoner jonno ajker bajarer probonta din,qa_stock,general_quirky,0.09672339246252372
+dhakar sera obkasher jayga kothay,qa_factoid,general_quirky,0.09672339246252372
+apni ki amake dau nifti fiucharer jonno sothik har dite paren,qa_stock,general_quirky,0.09672339246252372
+abdur roshid somporke amake bolun,qa_factoid,general_quirky,0.09672339246252372
+doya kore amake bolun ami jodi ajke dau stock e biniyog kori tahle ami kokhon dhoni hote parob ebong pach bochor por ritarn ki hobe,qa_stock,general_quirky,0.09672339246252372
+ami chai apni amar jonno lotarir ticket kenar patarn bishleshon korun kon number ti prothom puroskar pabe,general_quirky,general_quirky,0.09672339246252372
+ekoi jonno bhromner upay khujun,transport_query,general_quirky,0.09672339246252372
+ek fut koto inchi kore,qa_maths,general_quirky,0.09672339246252372
+taka bonam rupee r koto,qa_currency,general_quirky,0.09672339246252372
+kibhabe loha toiri kora hoy,qa_factoid,general_quirky,0.09672339246252372
+ekti google plekso ki,qa_definition,general_quirky,0.09672339246252372
+ei mudrar moddhe har,qa_currency,general_quirky,0.09672339246252372
+rupee er biprite takar mullo koto,qa_currency,general_quirky,0.09672339246252372
+apni kibhabe ispat banaben,general_quirky,general_quirky,0.09672339246252372
+choy biyog char ki,qa_maths,general_quirky,0.09672339246252372
+sad alom kothay thaken,qa_factoid,general_quirky,0.09672339246252372
+bharter bhouglik obosthan bakkha kor,qa_factoid,general_quirky,0.09672339246252372
+khichuri ki ponir,qa_definition,general_quirky,0.09672339246252372
+tareker stri kemon achen,qa_factoid,general_quirky,0.09672339246252372
+shakib khan mara geche,qa_factoid,general_quirky,0.09672339246252372
+google er jonno ajker shesh mul,qa_stock,general_quirky,0.09672339246252372
+hdfc er stock mullo ullekh korun,qa_stock,general_quirky,0.09672339246252372
+ekti haipothisis ki,qa_definition,general_quirky,0.09672339246252372
+ekti chot klaber akar koto,qa_factoid,general_quirky,0.09672339246252372
+ami mone kori ami ekdine puro bissho bhromon korte pari,general_quirky,general_quirky,0.09672339246252372
+got tin din dhore amajne sportos katagrite sobcheye beshi bikri howa ponno ki,general_quirky,general_quirky,0.09672339246252372
+choturth bisshojuddho hobe,general_quirky,general_quirky,0.09672339246252372
+eta ki sotto je gym ti sat mile dure,qa_factoid,general_quirky,0.09672339246252372
+manna de kibhabe mara gel,qa_factoid,general_quirky,0.09672339246252372
+apnar moddhe binimoy har ki dollar ebong taka,qa_currency,general_quirky,0.09672339246252372
+imran kokhon jonmogrohon koren,qa_factoid,general_quirky,0.09672339246252372
+amar jonno online e kichu order korun,general_quirky,general_quirky,0.09672339246252372
+oyaltoner stock mulloer biboron din,qa_stock,general_quirky,0.09672339246252372
+notun football khelar niyom bornona korun,general_quirky,general_quirky,0.09672339246252372
+computer hard disk somporke bornona kor,qa_definition,general_quirky,0.09672339246252372
+podda setu bastob,qa_factoid,general_quirky,0.09672339246252372
+abrar tar doinondin jibne ki koren,general_quirky,general_quirky,0.09672339246252372
+ekti kaftan ki,qa_definition,general_quirky,0.09672339246252372
+aj american dollar er poriborte yen koto,qa_currency,general_quirky,0.09672339246252372
+bostur namer shongga,qa_definition,general_quirky,0.09672339246252372
+ei somye upolobdho nikotostho restaurant,recommendation_locations,general_quirky,0.09672339246252372
+stock mulloer jonno bishod biboron,qa_stock,general_quirky,0.09672339246252372
+pachosh ekushke tin diye bhag korle baki koto,qa_maths,general_quirky,0.09672339246252372
+amake rode jawar goti bolun,general_quirky,general_quirky,0.09672339246252372
+joypurhater home city ki,qa_factoid,general_quirky,0.09672339246252372
+onugroh kore sorboshesh jorj ar er songkkhipto biboron din r martin ais ebong fayar boi,qa_factoid,general_quirky,0.09672339246252372
+takar ek rupee r dam koto,qa_currency,general_quirky,0.09672339246252372
+amake fondle shobder shongga din,qa_definition,general_quirky,0.09672339246252372
+taka dam koto,qa_currency,general_quirky,0.09672339246252372
+binimoy har ami boideshik mudrar sathe pab,qa_currency,general_quirky,0.09672339246252372
+adam gilokrister jonmodin ki,qa_factoid,general_quirky,0.09672339246252372
+mohatma gandhike ken guli korechil godse,qa_factoid,general_quirky,0.09672339246252372
+shila ki,qa_definition,general_quirky,0.09672339246252372
+ei sthaner bhouglik biboron khujun,qa_factoid,general_quirky,0.09672339246252372
+daraz stock kholar mullo nirdesh korun,qa_stock,general_quirky,0.09672339246252372
+amake ei kompanir stock er stock mulloer upre ebong nicher bishye janan,qa_stock,general_quirky,0.09672339246252372
+ekojon mohilake kon jinisguli khushi kore,general_quirky,general_quirky,0.09672339246252372
+amake ekti laptop sarkiter bornona din,qa_definition,general_quirky,0.09672339246252372
+thik ache google asif ikbaler ki hoyeche,general_quirky,general_quirky,0.09672339246252372
+ridoyanul korimer boyosh koto,qa_factoid,general_quirky,0.09672339246252372
+amake oyaltoner stock er dam din,qa_stock,general_quirky,0.09672339246252372
+dhakar sottba ki,qa_factoid,general_quirky,0.09672339246252372
+apni ki amake bolte paren haiparotrofi mane ki,qa_definition,general_quirky,0.09672339246252372
+bangladesher mot diper songkhya koto,qa_factoid,general_quirky,0.09672339246252372
+kibhabe ranna korte hoy,cooking_recipe,general_quirky,0.09672339246252372
+bangladesh jonoshonkha koto,qa_factoid,general_quirky,0.09672339246252372
+amake smartofon sofotooyyarer bornona din,qa_definition,general_quirky,0.09672339246252372
+kon desh amader hajar dollar er moddhe sobcheye beshi orth rupantor korboe,qa_factoid,general_quirky,0.09672339246252372
+amake sonir uddodhni stock mullo din,qa_stock,general_quirky,0.09672339246252372
+jonmodin dara byokti,qa_factoid,general_quirky,0.09672339246252372
+ajad chiddiki shokh ki,qa_factoid,general_quirky,0.09672339246252372
+intel kompanir stock mullo,qa_stock,general_quirky,0.09672339246252372
+prithibir ushnotom sthan kothay,qa_factoid,general_quirky,0.09672339246252372
+soikot,qa_factoid,general_quirky,0.09672339246252372
+bangladesher mohan prachir koto dirgh,qa_factoid,general_quirky,0.09672339246252372
+riyaj ki ekhono jibit,qa_factoid,general_quirky,0.09672339246252372
+pound e bishti arjentiniyo pesor mullo koto,qa_currency,general_quirky,0.09672339246252372
+bhumikomper purbabhas,general_quirky,general_quirky,0.09672339246252372
+microsoft share er bortoman mullo talikabhukto korun,qa_stock,general_quirky,0.09672339246252372
+mijanur rohman kotbar biye korechilen,qa_factoid,general_quirky,0.09672339246252372
+bandorobon koto lomma,qa_factoid,general_quirky,0.09672339246252372
+bangladesh kon time jone,qa_factoid,general_quirky,0.09672339246252372
+choutrisher borgomul koto,qa_maths,general_quirky,0.09672339246252372
+amake pontificate shobder shongga din,qa_definition,general_quirky,0.09672339246252372
+bissher brihottom mohasagor proshanto mohasagor,qa_factoid,general_quirky,0.09672339246252372
+rakib hasan somporke apni ja janen ta amake din,qa_factoid,general_quirky,0.09672339246252372
+eshiyor elaka,qa_factoid,general_quirky,0.09672339246252372
+bikash er stock mullo ki,qa_stock,general_quirky,0.09672339246252372
+ekti karkhana ki,qa_definition,general_quirky,0.09672339246252372
+opurb sorkar er twitter boro chele khujun,qa_factoid,general_quirky,0.09672339246252372
+deta bostur kono somossa pochondo kore,general_quirky,general_quirky,0.09672339246252372
+tini kibhabe nikhutbhabe kaj kore,general_quirky,general_quirky,0.09672339246252372
+bangladeshe takar mullo koto,qa_currency,general_quirky,0.09672339246252372
+takar bonam taka binimoy har check korun,qa_currency,general_quirky,0.09672339246252372
+kanner bornonay koto mega pikseler talika dewa ache,qa_factoid,general_quirky,0.09672339246252372
+arefin shubhor boyosh khujun,qa_factoid,general_quirky,0.09672339246252372
+dhakar kon ongsh dhaka ontorgot,qa_factoid,general_quirky,0.09672339246252372
+ek british pound er sathe binimoy har koto,qa_currency,general_quirky,0.09672339246252372
+amake mokor rashir kichu selibriti khuje din,qa_factoid,general_quirky,0.09672339246252372
+er orth,qa_definition,general_quirky,0.09672339246252372
+mane ki,qa_definition,general_quirky,0.09672339246252372
+bangladeshi takar mulloer onupat koto ebong kuyeti dirham,qa_currency,general_quirky,0.09672339246252372
+doya kore amar jonno bostutir bornona korun,qa_definition,general_quirky,0.09672339246252372
+ami chai je kichu jolte shuru koreche ebong chula chula ba maikrooyebh bondho korche kina ta bolte sokkhom hobe,general_quirky,general_quirky,0.09672339246252372
+manush kibhabe emonbhabe chinta kore je tara isshorer kach theke sobkichu lukate pare,general_quirky,general_quirky,0.09672339246252372
+alexa telibhishon shonggayito kore,qa_definition,general_quirky,0.09672339246252372
+alexa amake kaji harun somporke kioyard bolun,qa_factoid,general_quirky,0.09672339246252372
+rubikso kiuber porimap ki,qa_factoid,general_quirky,0.09672339246252372
+rana plaja bornona korun,qa_definition,general_quirky,0.09672339246252372
+abdul hoker boyosh koto,qa_factoid,general_quirky,0.09672339246252372
+apple er mullo koto,qa_stock,general_quirky,0.09672339246252372
+amake kanij fatema somporke bolun,qa_factoid,general_quirky,0.09672339246252372
+chini toiri korar jonno proyojniyo rasaynik jougguli dijain korun ja dayabetis ba ojon baray na kintu rasaynik sad prodan kore na,qa_factoid,general_quirky,0.09672339246252372
+olly koto kris helomosooyarth koto bencho pres korte paren,qa_factoid,general_quirky,0.09672339246252372
+bishal shobder shongga ki bolun,qa_definition,general_quirky,0.09672339246252372
+ami poroborti kon video game khelte pari,qa_factoid,general_quirky,0.09672339246252372
+siri binimoy har check korun,qa_currency,general_quirky,0.09672339246252372
+kauke dekha,qa_factoid,general_quirky,0.09672339246252372
+ei jinisti ki,qa_definition,general_quirky,0.09672339246252372
+post korun je ami bajar jacchi burger khete,social_post,general_quirky,0.09672339246252372
+ami ki jante pari gon maddhom ki probonta cholche,social_query,general_quirky,0.09672339246252372
+instagram e amar bortoman obosthan post korun,social_post,general_quirky,0.09672339246252372
+prothom alor cholman chuit guli ki ki,social_query,general_quirky,0.09672339246252372
+amar facebook bigyopti check korun,social_query,general_quirky,0.09672339246252372
+oniket bangladesh prantor twitter e post korun,social_post,general_quirky,0.09672339246252372
+twitter e ki cholman,social_query,general_quirky,0.09672339246252372
+notun update,social_query,general_quirky,0.09672339246252372
+eta feisbuke din,social_post,general_quirky,0.09672339246252372
+youtube e amar dimhin cake post e koto like peyechi,social_query,general_quirky,0.09672339246252372
+hello google twitter e amar bortoman status post korun jate bondhu ebong poribarer sathe dhakay ekti durdanto bhromner kotha ullekh kora hoy,social_post,general_quirky,0.09672339246252372
+facebook e status joma din,social_post,general_quirky,0.09672339246252372
+facebook e theke sorboshesh songbad fid,social_query,general_quirky,0.09672339246252372
+amar notoppade toiri sorboshesh note byabohar kore ekti status post korun,social_post,general_quirky,0.09672339246252372
+amar social media skan korun ebong amake bolun ki ghotche,social_query,general_quirky,0.09672339246252372
+facebook e ekti notun status post korun je ami chomotkar abohawa upbhog korchi,social_post,general_quirky,0.09672339246252372
+facebook,social_query,general_quirky,0.09672339246252372
+sumon aj facebook e log in koreche,social_query,general_quirky,0.09672339246252372
+doya kore amar facebook peije ei bartati post korun,social_post,general_quirky,0.09672339246252372
+ekti facebook status update post korun,social_post,general_quirky,0.09672339246252372
+keu ki amake aj twitter e onusoron korechen,social_query,general_quirky,0.09672339246252372
+instagram e paribarik phone rakhun,social_post,general_quirky,0.09672339246252372
+ei chobiti amar instagram e rakhun,social_post,general_quirky,0.09672339246252372
+facebook kon notun niramish khobor ache ki,social_query,general_quirky,0.09672339246252372
+jini ekhon facebook laibh korchen,social_query,general_quirky,0.09672339246252372
+ami handir sathe osontushto doya kore amake shahajyo korun,social_post,general_quirky,0.09672339246252372
+onugroh kore sumonke bolun tara bhul item pathiyeche,social_post,general_quirky,0.09672339246252372
+apni ki ekti tweet tweet pathate paren je tader daraz er krash hoyeche,social_post,general_quirky,0.09672339246252372
+bhuter bari barta tara amar order noshto koreche ebong amake otirikto ek ghonta opekkha korte hoyechilo,social_post,general_quirky,0.09672339246252372
+facebook e chobi post korun,social_post,general_quirky,0.09672339246252372
+ibhelite tweet korun ebong janan je amar app kharap hoye geche,social_post,general_quirky,0.09672339246252372
+ami eimatro twitter e tola chobi post korun,social_post,general_quirky,0.09672339246252372
+amar facebook grupke bolun je ami esechi,social_post,general_quirky,0.09672339246252372
+rajmistrike tweet koro,social_post,general_quirky,0.09672339246252372
+hei olly twitter e maikrosofte amar obhijog post korun,social_post,general_quirky,0.09672339246252372
+amar facebook list e sobai ki khela dekhche,social_query,general_quirky,0.09672339246252372
+facebook aleksay amar phone e chobi post korun,social_post,general_quirky,0.09672339246252372
+sony ke tweet korun tader porishebar obhijog jante,social_post,general_quirky,0.09672339246252372
+daraz er aleksay porishebar bishye ekti grahker obhijog tweet korun,social_post,general_quirky,0.09672339246252372
+ami apple phone somossa niye ekti obhijog tweet korte chai,social_post,general_quirky,0.09672339246252372
+apni ki somadhan korechen,general_quirky,general_quirky,0.09672339246252372
+ami barite achi ekti facebook post korun,social_post,general_quirky,0.09672339246252372
+onugroh kore chilokse tweet korun ami ekhon amar delivery r jonno opekkha korchilam number ti khushi noy,social_post,general_quirky,0.09672339246252372
+twitter e kompanite ebong tweet e grahok porishebar kache obhijog korun,social_post,general_quirky,0.09672339246252372
+tweet bi ar bi kabolos grahok porisheba ebong tader bolun ami trish minit dhore opekkha korchi,social_post,general_quirky,0.09672339246252372
+daraz er grahok sebay obhijog tweet korun,social_post,general_quirky,0.09672339246252372
+tweet bhokta porisheba,social_post,general_quirky,0.09672339246252372
+olly google customer service e tweet korun je tader prodaktoguli kharap,social_post,general_quirky,0.09672339246252372
+grahok seba obhijog nimnolikhit tweet,social_post,general_quirky,0.09672339246252372
+kharap delivery somporke chiloksoke ekti tweet pathan,social_post,general_quirky,0.09672339246252372
+daraz er thanda pizza somporke tweet,social_post,general_quirky,0.09672339246252372
+oyaltonke mobile er obhijog tweet korun,social_post,general_quirky,0.09672339246252372
+tweet kore oyaltoner obhijog janan,social_post,general_quirky,0.09672339246252372
+ami moja korchi tumblr post,social_post,general_quirky,0.09672339246252372
+sony ke janan je ami taderke ghrina kori,social_post,general_quirky,0.09672339246252372
+kompanite ekti tweet pathan,social_post,general_quirky,0.09672339246252372
+amar aifon sebhen somporke apple kache ekti obhijog tweet korun,social_post,general_quirky,0.09672339246252372
+galari kholo ebong video r nam post koro,social_post,general_quirky,0.09672339246252372
+kompanir nam khulun ebong form khujun,social_post,general_quirky,0.09672339246252372
+walmart customer service ke tweet korun,social_post,general_quirky,0.09672339246252372
+tweet er maddhome obhijoger sathe daraz er gragok seba sathe jogajog korun,social_post,general_quirky,0.09672339246252372
+rastay gort somporke ekti obhijog tweet,social_post,general_quirky,0.09672339246252372
+amar twitter theke sony ke ekti tweet post korun je ami sontushto noy,social_post,general_quirky,0.09672339246252372
+amar jonno drenej kaj somporke obhijog tweet,social_post,general_quirky,0.09672339246252372
+tweet grahok obhijog,social_post,general_quirky,0.09672339246252372
+amar instagram account e sorboshesh fotoguli ki ki,social_query,general_quirky,0.09672339246252372
+samajik tothyo,social_query,general_quirky,0.09672339246252372
+facebook er jonno likhun je notun manejar podonnoti koreche,social_post,general_quirky,0.09672339246252372
+dhaka sentare tweet korun je tader jinisguli khub dami,social_post,general_quirky,0.09672339246252372
+starbucks er jonno obhijoger oyebsait tanun,social_post,general_quirky,0.09672339246252372
+daraz er twitter pathan je tader chine khelna toiri bondho korte hobe,social_post,general_quirky,0.09672339246252372
+sthaniyo haskel chilokso somporkit kharap porisheba tweet korun,social_post,general_quirky,0.09672339246252372
+facebook e khushir status din,social_post,general_quirky,0.09672339246252372
+doya kore ekti obhijog likhun,social_post,general_quirky,0.09672339246252372
+rohonke likhun ekti barta likhun je amar deri hobe,email_sendemail,general_quirky,0.09672339246252372
+dibakor dibakartoday dot com ekti email toiri korun,email_sendemail,general_quirky,0.09672339246252372
+notun email guli somporke amake bolun,email_query,general_quirky,0.09672339246252372
+aj ami kar sathe meeting korchi,calendar_query,general_quirky,0.09672339246252372
+jekhane nachim thaken,email_querycontact,general_quirky,0.09672339246252372
+snehar pokkho theke onushthan somporke kono barta pele olly amake janan,email_query,general_quirky,0.09672339246252372
+jerin theke je kono khobor,email_query,general_quirky,0.09672339246252372
+amake update korun,news_query,general_quirky,0.09672339246252372
+amar inbox opthit email ache ki,email_query,general_quirky,0.09672339246252372
+amar oti samprotik email khulun ebong uttor din,email_sendemail,general_quirky,0.09672339246252372
+sjobs at apple dot com e ekti email pathan,email_sendemail,general_quirky,0.09672339246252372
+joli theke asa email porun,email_query,general_quirky,0.09672339246252372
+shesh email ti ami kake peyechi ta amake bolun,email_query,general_quirky,0.09672339246252372
+porichitite sufal at gmail dot com e jon jog korun,email_addcontact,general_quirky,0.09672339246252372
+protiuttor dewar jonno dhonnobad taijul,email_sendemail,general_quirky,0.09672339246252372
+got dui ghontar jonno email check korun,email_query,general_quirky,0.09672339246252372
+ajker jonno sakib theke email talika korun,email_query,general_quirky,0.09672339246252372
+apni ki doya kore amar contact e kichu rahul at hotmail dot com rakhben,email_addcontact,general_quirky,0.09672339246252372
+proshasokke mail korun,email_sendemail,general_quirky,0.09672339246252372
+parmita ekti email rochna korun,email_sendemail,general_quirky,0.09672339246252372
+keu ajke amake email korechen,email_query,general_quirky,0.09672339246252372
+ami aj ekti notun email pete hole amake janan,email_query,general_quirky,0.09672339246252372
+rased khan budget onurodh somporke ekti email pathiyechen kina ta khuje ber korun,email_query,general_quirky,0.09672339246252372
+ami jante chai je amar kache sojib khaner sabjekto line budget soh kono email ache kina,email_query,general_quirky,0.09672339246252372
+jogajoger sathe ei notun email jog korun,email_addcontact,general_quirky,0.09672339246252372
+ashik ke tar sorboshesh projukti bishye upolobdho pathan,email_sendemail,general_quirky,0.09672339246252372
+olly amar jonno amar email check korun doya kore,email_query,general_quirky,0.09672339246252372
+ami ekhono porini emon konoo email guli ache ki,email_query,general_quirky,0.09672339246252372
+jarinke ekti email pathan,email_sendemail,general_quirky,0.09672339246252372
+onugroh kore sumonke ekti email shuru korun,email_sendemail,general_quirky,0.09672339246252372
+apni ki amar bondhu rajibke email pathate paren bolben je ami agamikal byosto achi,email_sendemail,general_quirky,0.09672339246252372
+hei sohokormike ekti email shuru korun,email_sendemail,general_quirky,0.09672339246252372
+onugroh kore agamikaler meeting somporkit sakibke ekti email pathan,email_sendemail,general_quirky,0.09672339246252372
+sumon er jonno sima theke mail pathan,email_sendemail,general_quirky,0.09672339246252372
+potrokke ekti email text je tini ekhon kothay achen ebong jodi tini bajare thaken tobe take kichu oyain ante text korun,email_sendemail,general_quirky,0.09672339246252372
+sunit theke samprotik email prodorshon korun,email_query,general_quirky,0.09672339246252372
+raju theke sorboshesh email dekhan,email_query,general_quirky,0.09672339246252372
+amar make email din,email_sendemail,general_quirky,0.09672339246252372
+amar manejarke ekti email pathan,email_sendemail,general_quirky,0.09672339246252372
+email diponkor bosu,email_sendemail,general_quirky,0.09672339246252372
+shubhjit nondike ekti email pathan,email_sendemail,general_quirky,0.09672339246252372
+imon theke opthit email check korun,email_query,general_quirky,0.09672339246252372
+email check korun kajer talika ache,email_query,general_quirky,0.09672339246252372
+ashik theke asa email check korun,email_query,general_quirky,0.09672339246252372
+contact onusondhan korun,email_querycontact,general_quirky,0.09672339246252372
+hyan ami check korte chai,email_query,general_quirky,0.09672339246252372
+ei soptaher somoysuchi oyak timke email korun,email_sendemail,general_quirky,0.09672339246252372
+ami party te jacchi make email pathan,email_sendemail,general_quirky,0.09672339246252372
+sabbirke email pathan ami porer din file pathate jacchi,email_sendemail,general_quirky,0.09672339246252372
+time stampo soh notun prapto somosto email guli dekhan,email_query,general_quirky,0.09672339246252372
+amake sorboshesh update din,news_query,general_quirky,0.09672339246252372
+shakib theke kono notun mail,email_query,general_quirky,0.09672339246252372
+bortomane rahul kothay kaj kore,email_querycontact,general_quirky,0.09672339246252372
+uttor pathan,email_sendemail,general_quirky,0.09672339246252372
+uttor rochna korun,email_sendemail,general_quirky,0.09672339246252372
+aj sondha sattay coffee hause rater khabarer jonno jaforke ekta mail pathao,email_sendemail,general_quirky,0.09672339246252372
+amake amar bhai jogajoger thikana bolun,email_querycontact,general_quirky,0.09672339246252372
+doya kore ronir notun email ronyrony at gmail dot com e ekti email pathan,email_sendemail,general_quirky,0.09672339246252372
+amar ki kon notun inbox barta ache,email_query,general_quirky,0.09672339246252372
+sohokormi grupe ei bartati likhun,email_sendemail,general_quirky,0.09672339246252372
+shyut del ekti email protikriya take soikte gol somporke sotork kore,email_sendemail,general_quirky,0.09672339246252372
+amar mail check korun,email_query,general_quirky,0.09672339246252372
+phone book theke babluke jogajog number porun,email_querycontact,general_quirky,0.09672339246252372
+agami soptaher abohawa somporke amar strike email korun,email_sendemail,general_quirky,0.09672339246252372
+diliper notun email er jonno amar inbox konoo skan korun,email_query,general_quirky,0.09672339246252372
+sarah kibhabe dayal korbo,email_querycontact,general_quirky,0.09672339246252372
+email inbox sotej korun,email_query,general_quirky,0.09672339246252372
+bartati email korun hi bhai aj rate dinner er jonno niche asun,email_sendemail,general_quirky,0.09672339246252372
+nouka bikri kora loktike ekti email pathan jate take bola hoy je amar kache taka ache,email_sendemail,general_quirky,0.09672339246252372
+amar jonno ekti email pathan,email_sendemail,general_quirky,0.09672339246252372
+onugroh kore sara din,email_sendemail,general_quirky,0.09672339246252372
+rakibake ekti email pathan,email_sendemail,general_quirky,0.09672339246252372
+ami to prottush mojumdarer email er uttor dite chai,email_sendemail,general_quirky,0.09672339246252372
+osmita ki amake kon email pathan,email_query,general_quirky,0.09672339246252372
+amar phone boiye ke sorbadhik ghon ghon daka byokti,email_querycontact,general_quirky,0.09672339246252372
+rajuke amar shesh email er bishoy ki chil,email_query,general_quirky,0.09672339246252372
+are email check korun,email_query,general_quirky,0.09672339246252372
+onugroh kore jenike email ti pathan,email_sendemail,general_quirky,0.09672339246252372
+aleksa email likhun,email_sendemail,general_quirky,0.09672339246252372
+amar bondhu munir husenor theke somosto email tanun,email_query,general_quirky,0.09672339246252372
+onugroh kore make ekti email pathan jate bola hoy je ami porer soptahe eti toiri korte parob,email_sendemail,general_quirky,0.09672339246252372
+amar bos hote email check korun,email_query,general_quirky,0.09672339246252372
+ijara amar bondhuke ei email ti pathiyeche,email_sendemail,general_quirky,0.09672339246252372
+apni ki amake ei byoktir jonno nirdharit jogajoger tothyo dite paren,email_querycontact,general_quirky,0.09672339246252372
+koto samprotik email ei prerok ba bishoy line ache,email_query,general_quirky,0.09672339246252372
+ma amake text korechen,email_querycontact,general_quirky,0.09672339246252372
+aj rate amader porikolpona somporke amar bondhuke email korun,email_sendemail,general_quirky,0.09672339246252372
+amar boske ekti email pathan je amar deri hobe,email_sendemail,general_quirky,0.09672339246252372
+amar message e inbox ache amar doya kore,email_query,general_quirky,0.09672339246252372
+riple email pathan,email_sendemail,general_quirky,0.09672339246252372
+sakibke ekti onurodh pathan,email_sendemail,general_quirky,0.09672339246252372
+komolke ekti email pathan bolun je aj rate apnar ki rater khabare jawar porikolpona ache,email_sendemail,general_quirky,0.09672339246252372
+make email pathan agamikal kenakata korte jete chan,email_sendemail,general_quirky,0.09672339246252372
+amar ki rakib theke kon email ache,email_query,general_quirky,0.09672339246252372
+apni amake imran er jogajoger tothyo bolte paren,email_querycontact,general_quirky,0.09672339246252372
+ekhon amar sohokormike ekti email likhte hobe,email_sendemail,general_quirky,0.09672339246252372
+olly ma amake kon email pathiyechen ki,email_query,general_quirky,0.09672339246252372
+olly ami idaning ma kach theke kono email peyechi,email_query,general_quirky,0.09672339246252372
+amar kache notun email ache ta dekhte check korun,email_query,general_quirky,0.09672339246252372
+namer uttor,email_sendemail,general_quirky,0.09672339246252372
+dupurer khabar somporke make email korun,email_sendemail,general_quirky,0.09672339246252372
+amake obhror sorboshesh email dekhan,email_query,general_quirky,0.09672339246252372
+ami ki rakibuler kach theke kon kajer email peyechi,email_query,general_quirky,0.09672339246252372
+onugroh kore amake bolun jodi snehar amake kono email pathiye thake,email_query,general_quirky,0.09672339246252372
+oti samprotik email guli check korun,email_query,general_quirky,0.09672339246252372
+apni ki ei notun email thikanay ekti email pathaben,email_sendemail,general_quirky,0.09672339246252372
+ram theke je konoo kichur jonno mail porikkha korun,email_query,general_quirky,0.09672339246252372
+protimake ekti text pathan,email_querycontact,general_quirky,0.09672339246252372
+ei soptahe abohawa kemon hobe ta jante rajibke ekti email pathan,email_sendemail,general_quirky,0.09672339246252372
+amake sorboshesh ke email korechilo,email_query,general_quirky,0.09672339246252372
+ekti notun thikanay email rochna korun,email_sendemail,general_quirky,0.09672339246252372
+chondon er email er uttor din,email_sendemail,general_quirky,0.09672339246252372
+amar mayer email er ekti uttor likhun,email_sendemail,general_quirky,0.09672339246252372
+got dui ghontay ami kon notun email peyechi ki,email_query,general_quirky,0.09672339246252372
+amar ki kono notun email ache,email_query,general_quirky,0.09672339246252372
+amar imotoil check korun ebong kon notun email biddoman thakle amake obhit korun,email_query,general_quirky,0.09672339246252372
+amar email inbox check korun ebong amake notun mail somporke bolun,email_query,general_quirky,0.09672339246252372
+ami ki got dui dine amajon theke kon email peyechi,email_query,general_quirky,0.09672339246252372
+shesh ghontar jonno amar email check korun,email_query,general_quirky,0.09672339246252372
+doya kore email ta amar make pathan,email_sendemail,general_quirky,0.09672339246252372
+rofiul ki amake ekti email pathiyeche,email_query,general_quirky,0.09672339246252372
+amar email dekhun,email_query,general_quirky,0.09672339246252372
+kon notun email prapto hoyeche ki,email_query,general_quirky,0.09672339246252372
+notun email likhun,email_sendemail,general_quirky,0.09672339246252372
+bortoman email gulor report,email_query,general_quirky,0.09672339246252372
+amar bishoy somporkit jogajog theke email sob jante hobe,email_query,general_quirky,0.09672339246252372
+apni ki amar make saptahik abohawa somporke ekti email pathate paren,email_sendemail,general_quirky,0.09672339246252372
+ami ki shesh ghontay kon mail peye,email_query,general_quirky,0.09672339246252372
+apni amake jaman somporke bistarit dite paren,email_querycontact,general_quirky,0.09672339246252372
+ajker email inbox theke bishoy line ebong prerok ki,email_query,general_quirky,0.09672339246252372
+sumi ki amake tomal somporke kon email pathiyeche,email_query,general_quirky,0.09672339246252372
+amar gmail account theke sokol anrid message gulo dekhan,email_query,general_quirky,0.09672339246252372
+shesh pach ghontar moddhe amar jonno kono email eseche,email_query,general_quirky,0.09672339246252372
+amar contact list khulun,email_querycontact,general_quirky,0.09672339246252372
+titas theke pawa sokol email check korun,email_query,general_quirky,0.09672339246252372
+amar ami kon notun email pete pari,email_query,general_quirky,0.09672339246252372
+aleksa ei notun email thikanay email pathan,email_sendemail,general_quirky,0.09672339246252372
+amar kache ki pranto theke kono notun email ache,email_query,general_quirky,0.09672339246252372
+amake sneha ebong rajibke email korte hobe,email_sendemail,general_quirky,0.09672339246252372
+priyankake tar jonmodiner jonno email korun,email_sendemail,general_quirky,0.09672339246252372
+meeting somporke roshnike email pathan,email_sendemail,general_quirky,0.09672339246252372
+ei mail er uttor din,email_sendemail,general_quirky,0.09672339246252372
+kibhabe ami amar shesh duti email,email_query,general_quirky,0.09672339246252372
+tara kibhabe korche ta jante amar poribarke ekti email pathan,email_sendemail,general_quirky,0.09672339246252372
+sabjekto jukto kono email ache,email_query,general_quirky,0.09672339246252372
+kon notun opthit yahoo email ache ki,email_query,general_quirky,0.09672339246252372
+notun mail er jonno amar gmail check korun,email_query,general_quirky,0.09672339246252372
+mina theke notun email dekhan,email_query,general_quirky,0.09672339246252372
+rajib er shesh mail dekhan,email_query,general_quirky,0.09672339246252372
+thakumake ekti email pathan je amra shonibarer moddhe drop korchi taropor dekha hobe,email_sendemail,general_quirky,0.09672339246252372
+ami email ti amar notun email thikana a. b. c. at gmail dot com e preron korte chai,email_sendemail,qa_maths,0.06141821882110686
+doya kore rahul daser konotrakto number khujun,email_querycontact,general_quirky,0.09672339246252372
+kauke mail pathan,email_sendemail,general_quirky,0.09672339246252372
+amader ki korimer office er number ache,email_querycontact,general_quirky,0.09672339246252372
+ami sourobh theke ekti email peyechi kina apni ki check korte paren,email_query,general_quirky,0.09672339246252372
+kaj somporke rafi theke mail hoy,email_query,general_quirky,0.09672339246252372
+amar contact theke kono email ache ki,email_query,general_quirky,0.09672339246252372
+amar prapto shesh email konti,email_query,general_quirky,0.09672339246252372
+amar contact email songrokkhon korun,email_addcontact,general_quirky,0.09672339246252372
+rajur jonno email toiri korun,email_sendemail,general_quirky,0.09672339246252372
+onugroh kore amake sakib er notun email guli janan,email_query,general_quirky,0.09672339246252372
+email rifresh korun,email_query,general_quirky,0.09672339246252372
+amake notun email guli porun pore shonan,email_query,general_quirky,0.09672339246252372
+bos theke kono notun uttor hole alarm din,email_query,general_quirky,0.09672339246252372
+ami bikel pachta theke kon email peyechi,email_query,general_quirky,0.09672339246252372
+sakibke email pathan apnar kkhotir jonno duhkhit,email_sendemail,general_quirky,0.09672339246252372
+asun ei email er uttor dii,email_sendemail,general_quirky,0.09672339246252372
+amar jonno sonali theke prapto notun email check korun,email_query,general_quirky,0.09672339246252372
+raju phone book,email_querycontact,general_quirky,0.09672339246252372
+sthaniyo ofisar er jonno email form,email_sendemail,general_quirky,0.09672339246252372
+kono hi payriti email ache,email_query,general_quirky,0.09672339246252372
+sheshbar dekhar por theke amar inbox ki ache,email_query,general_quirky,0.09672339246252372
+are borhan email pathan,email_sendemail,general_quirky,0.09672339246252372
+ami sadiyar upolobdho tarikhguli porikkha korte chai tai apni ki take mail pathaben ebong eti somporke jigyasa korben,email_sendemail,general_quirky,0.09672339246252372
+ajke amake likhlen sohan,email_query,general_quirky,0.09672339246252372
+sanike sotorkota mail pathan,email_sendemail,general_quirky,0.09672339246252372
+alir thikana ki,email_querycontact,general_quirky,0.09672339246252372
+amar bos rayhaner theke email guli onusondhan korun,email_query,general_quirky,0.09672339246252372
+mijanke whatsapp e hi pathan,email_querycontact,general_quirky,0.09672339246252372

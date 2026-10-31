@@ -20,7 +20,7 @@ Accuracy on 2,000 test utterances per form. CM is the code-mixed test set, which
 | Joint | Joint model (all four) | **.853** | **.793** | **.669** | .966 |
 | Baselines | Qwen3.5-0.8B (base model, untrained head) | .066 | .064 | .034 | .100 |
 | Baselines | TF-IDF model (all four) | .760 | .744 | .728 | .972 |
-| Baselines | XLM-R (full fine-tuning, all four) | pending | pending | pending | pending |
+| Baselines | XLM-R (full fine-tuning, all four) | .697 | .634 | .281 | .648 |
 
 - Joint training beats the final sequential model on every form, and all differences are significant under exact McNemar tests with Holm correction.
 - English and Bangla script transfer well to each other. Romanized Bengali gets almost nothing from either and needs its own training data.
@@ -29,7 +29,9 @@ Accuracy on 2,000 test utterances per form. CM is the code-mixed test set, which
 - The 13-intent code-mixed stage biases the sequential model's head toward those intents (62% of Bengali predictions vs. a true share of 44%). Joint training shows no such bias.
 - The joint model gives the same intent to the English, Bangla-script and Romanized versions of an utterance only 64.9% of the time.
 - Answering only the 80% most confident inputs raises joint-model accuracy to 93.6% (En), 88.7% (Bn) and 78.2% (Rom).
-- The fully fine-tuned XLM-R results will be added with their prediction files.
+- The joint decision model also beats a fully fine-tuned XLM-R on every form (+15.6 points on English, +15.9 on Bengali, +38.8 on Romanized, +31.8 on code-mixed).
+
+The XLM-R baseline was trained and evaluated by a collaborating researcher on the same joint training data and test sets. Its prediction files are not included in this repository.
 
 ## Repository layout
 

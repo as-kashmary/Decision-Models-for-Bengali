@@ -1,29 +1,31 @@
 # Decision Models for Bengali Virtual Assistant Intent Detection
 
-Code, data and model outputs for the paper **"Decision Models for Bengali Virtual Assistant Intent Detection: An Analysis of Cross-Script Transfer and Fine-Tuning Strategies."**
+Code, data and model outputs for the paper **"Decision Models for Bengali Virtual Assistant Intent Detection: An Analysis of Cross-Script Transfer."**
 
-We fine-tune Qwen3.5-0.8B as a Clef-style decision model. The model reads a user request together with a list of candidate intents and returns a probability for each intent in one forward pass, without generating text. We test it on four written forms of the same requests (English, Bengali in Bangla script, Romanized Bengali and code-mixed Bengali-English) and compare three fine-tuning strategies: direct, sequential and joint.
+We fine-tune Qwen3.5-0.8B as a decision model in the style of Cloudflare's Clef. The model reads a user request together with a list of candidate intents and returns a probability for each intent in one forward pass, without generating text. We test it on four written forms of the same requests (English, Bengali in Bangla script, Romanized Bengali and code-mixed Bengali-English), compare three fine-tuning strategies (direct, sequential and joint) and compare the result with baselines.
 
 ## Main results
 
-Accuracy on 2,000 test utterances per form. CM (13) is the code-mixed test set, which covers 13 of the 60 intents.
+Accuracy on 2,000 test utterances per form. CM is the code-mixed test set, which covers 13 of the 60 intents.
 
-| Training | Data | English | Bengali | Romanized | CM (13) |
+| Strategy | Model | En | Bn | Rom | CM |
 |---|---|---|---|---|---|
-| None | Base model, untrained head | .066 | .064 | .034 | .100 |
-| Direct | English | .827 | .686 | .333 | .771 |
-| Direct | Bengali | .799 | .773 | .314 | .790 |
-| Direct | Romanized | .717 | .651 | .598 | .695 |
-| Direct | Code-mixed | .669 | .536 | .301 | .962 |
-| Sequential | + Bengali | .836 | .775 | .318 | .809 |
-| Sequential | + Code-mixed | .791 | .696 | .310 | **.978** |
-| Sequential | + Romanized (final) | .826 | .758 | .640 | .954 |
-| Joint | All four | **.853** | **.793** | **.669** | .966 |
-| TF-IDF baseline | All four (joint) | .760 | .744 | .728 | .972 |
+| Direct | English model | .827 | .686 | .333 | .771 |
+| Direct | Bengali model | .799 | .773 | .314 | .790 |
+| Direct | Romanized model | .717 | .651 | .598 | .695 |
+| Direct | CM model | .669 | .536 | .301 | .962 |
+| Sequential | En→Bn model | .836 | .775 | .318 | .809 |
+| Sequential | En→Bn→CM model | .791 | .696 | .310 | **.978** |
+| Sequential | En→Bn→CM→Rom model | .826 | .758 | .640 | .954 |
+| Joint | Joint model (all four) | **.853** | **.793** | **.669** | .966 |
+| Baselines | Qwen3.5-0.8B (base model, untrained head) | .066 | .064 | .034 | .100 |
+| Baselines | TF-IDF model (all four) | .760 | .744 | .728 | .972 |
+| Baselines | XLM-R (full fine-tuning, all four) | pending | pending | pending | pending |
 
 - Joint training beats the final sequential model on every form, and all differences are significant under exact McNemar tests with Holm correction.
 - English and Bangla script transfer well to each other. Romanized Bengali gets almost nothing from either and needs its own training data.
-- The decision model beats a character n-gram TF-IDF baseline on English (+9.3 points) and Bengali (+4.9), loses on Romanized (-5.9) and ties on code-mixed text.
+- The decision model beats the character n-gram TF-IDF baseline on English (+9.3 points) and Bengali (+4.9), loses on Romanized (-5.9) and ties on code-mixed text.
+- The fully fine-tuned XLM-R results will be added with their prediction files.
 
 ## Repository layout
 
@@ -163,7 +165,7 @@ python analysis/paper_figures.py
 
 ```bibtex
 @inproceedings{TODO,
-  title     = {Decision Models for Bengali Virtual Assistant Intent Detection: An Analysis of Cross-Script Transfer and Fine-Tuning Strategies},
+  title     = {Decision Models for Bengali Virtual Assistant Intent Detection: An Analysis of Cross-Script Transfer},
   author    = {TODO},
   booktitle = {TODO},
   year      = {2026}
